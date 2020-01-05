@@ -2,7 +2,7 @@
 
 * [Space Technologies and Rocketry](README.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
-* [Join Us!](join-1.md)
+* [Join Us!](join-2.md)
 * [Member Info](join/README.md)
   * [Membership Requirements](join/membership-requirements.md)
   * [Elections](join/elections.md)
