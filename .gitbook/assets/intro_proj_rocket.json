@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Rocket",
+    "weight": 1.7,
+    "drag_area": 0.04,
+    "leds": {},
+    "motors": {
+      "motor": {
+        "file": "config/motors/aerotech_j800t.json",
+        "fuse": 10
+      }
+    },
+    "separators": {},
+    "chutes": {
+      "drogue": {
+        "drag_area": 5,
+        "pin": "flight_computer:10"
+      },
+      "main": {
+        "drag_area": 30,
+        "pin": "flight_computer:11"
+      }
+    },
+    "microcontrollers": {
+      "flight_computer": {
+        "id": 0
+      }
+    },
+    "communications": [
+      [
+        "flight_computer:6",
+        "SIL_OUTPUT"
+      ]
+    ]
+  }
+]

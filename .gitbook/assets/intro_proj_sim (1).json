@@ -1,0 +1,29 @@
+{
+  "rocket": "config/rockets/intro_proj_rocket.json",
+  "wind": {
+    "type": "fixed",
+    "x": 1,
+    "y": 0,
+    "z": 0
+  },
+  "ground_height": 10,
+  "ground_height_far": 20,
+  "timeout": 3,
+  "output": [
+    {
+      "type": "pos",
+      "file": "pos_data.csv",
+      "frequency": 10000
+    }
+  ],
+  "tests": [
+    {
+      "name": "normal",
+      "assertions": [
+        "max_altitude > 5000",
+        "landing_speed < 10"
+      ],
+      "failures": []
+    }
+  ]
+}

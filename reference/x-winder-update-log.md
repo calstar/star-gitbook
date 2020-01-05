@@ -1,0 +1,36 @@
+---
+description: >-
+  A brief synopsis of X-winder related bugs, issues, fixes, triumphs, defeats,
+  etc. Essentially a log of what has been going on with the ol' winder.
+---
+
+# X-Winder Update Log
+
+| Date | Update |
+| :--- | :--- |
+| 9/15/18 | Ran first tests of x-winder since being moved to the RFS. |
+| 9/22/18 | Installed new 1/2 in shaft  to hold mandrels: the old one was not straight and somewhat bendy. |
+| 9/22/18 | Installed washers to the head of the arm to keep the tow line from slipping off and/or becoming cut/frayed. |
+| 9/29/18 | Added grooves to a belt securing mechanism to stop belt slipping. |
+| 9/29/18 | Removed large ~50 lb fiberglass tow spool and created a new smaller fiberglass spool to reduce stress/bending of the x-winder. |
+| 9/29/18 | Discovered the physical effect of changing one of the dimensions in the software for a tube with rounded edges. |
+| 9/29/18 | Purchased composite shrink tape for use in first epoxy+tow tube manufacture. |
+| 10/13/18 | Essentially successful dry wind of first layer. For 2-axis winding the software was much easier to deal with and things like changing wind angle for each layer and doing a final pass are now known. |
+| 10/13/18 | Terrible issues with the fiberglass filament spool becoming tangled, fraying, and ripping and stressing the x-winder. Tried to make a new spool of fiberglass but it kept failing. Switched to the carbon fiber spool and after a few test layers got it feeding filament nicely and at a consistent width. |
+| 10/13/18 | Sweep head motor seems to have broken. Does not properly work and makes a terrible noise and overheats very quickly when in use. A new motor is needed to continue with the x-winder. A second possibility is the use of a circular sweep head similar to what the 2-axis winder uses. |
+| 10/27/18 | Metal end-caps installed, friction fit with mandrel could be a little tighter but was functional. 3D-printed sweep head installed with no issues. |
+| 10/27/18 | New sweep head motor ordered, tested, and installed. Attempted dry wind with carbon fiber, but motor was still becoming very hot to the touch. Lowered amperage, resulting in a slower process but motor did not overheat. Wind spacing was still too far apart. |
+| 10/27/18 | Recommend replacing motor controller, as the sweep head motor itself is likely not the issue with respect to the overheating. Spaces between filament lines on the mandrel are still too large. |
+| 11/10/2018 | Installed new axis controller. After a few dry winds everything seemed to be functioning properly - none of the motors were overheating. |
+| 11/10/2018 | Completed first wet wind with 3 layers: 45-60-45 degrees, respectively. Both ends of the wind showed problems in the way that wind passes were done, however this can likely be fixed in the future. The 60 degree wind angle seemed to work better than the 45 degree. A release agent was applied to the mandrel before winding and shrink tape was added afterward, and was then hit with a heat gun for several minutes. The surface finish seemed to be quite good near the center of the tube where winding was done properly. |
+
+{% embed url="https://www.youtube.com/watch?v=BKhyEtMxwUg&t=38s" %}
+
+{% embed url="https://youtu.be/nJFsq5l2SY4" %}
+
+{% embed url="https://www.youtube.com/watch?v=r5R-aGEwBHI&t=11s" %}
+
+{% embed url="https://www.youtube.com/watch?v=a9YWhQoAAvU" %}
+
+{% embed url="https://www.youtube.com/watch?v=5huvtAFa93Y" %}
+
