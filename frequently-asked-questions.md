@@ -59,7 +59,7 @@ You can check out which of the subteams interest you and attend their meetings o
 
 You'll find all the practical info you need on the New Members page:
 
-{% page-ref page="join-2.md" %}
+{% page-ref page="join.md" %}
 
 #### How often do you meet? 
 

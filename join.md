@@ -10,10 +10,10 @@ A suggested order of steps to follow. See sections below for details.
 
 1. Join Discord
 2. Look at Intro Projects
-3. Download GrabCAD+SolidWorks if needed
+3. Download GrabCAD+SolidWorks/KiCad if needed
 4. Complete an Intro Project
 5. Join GitBook
-6. Follow [Membership Requirements](join/membership-requirements.md)
+6. Follow [Membership Requirements](member-info/membership-requirements.md)
 
 ## Discord
 
@@ -31,13 +31,15 @@ You can mute specific channels \(suppress unread indicators\) in the desktop app
 
 To join a subteam \(Airframe, Avionics, Operations, Payload, Propulsion, Marketing & Outreach, Recovery, Media, or Safety\) you must complete the respective intro project. Intro projects vary significantly in length and difficulty, but they should all be manageable with the necessary time investment. Don't be afraid to ask for help! The easiest way to do this is to send a message on Discord \(see below\) in the relevant channel.
 
-### CAD / ECAD Software
+### Computer-Aided Design \(CAD\) Software
 
-* Most technical subteam members \(Airframe, Payload, etc.\) must install SolidWorks **2019-2020**. Talk to subteam leads if you don't know whether you'll need it.
+* Most technical subteam members \(at least Airframe, Payload, Propulsion, Recovery\) must install SolidWorks **2019-2020**. Talk to subteam leads if you don't know whether you'll need it.
   * Instructions here: [SolidWorks](tutorials/software/solidworks.md)
-* All technical subteam members \(except currently Avionics\) must join GrabCAD for CAD file sharing.
+* Avionics members must install KiCad and join GitHub.
+  * Instructions here: [KiCad](https://kicad-pcb.org/), [GitHub](https://github.com/)
+  * While not required for the intro project, you will likely eventually want to install the [Mbed CLI tools](tutorials/avionics/mbed-command-line-interface-cli-tools.md). You may need to ask questions during the install process, so don't worry if you can't do it right now.
+* All technical subteam members must join GrabCAD for CAD file sharing.
   * Instructions here: [Getting Started With GrabCAD Workbench](tutorials/software/getting-started-with-grabcad.md)
-* Avionics is switching to a new ECAD solution for PCB design this year; stay tuned!
 
 ## GitBook
 
@@ -51,10 +53,10 @@ To become a member, you should have done the following things:
 * Joined Discord
 * Joined GitBook
 * Completed an Intro Project
-* Installed SolidWorks \(if relevant\)
+* Installed SolidWorks / KiCad \(if relevant\)
 * Joined GrabCAD \(if relevant\)
 
 To remain a member, you must also keep up with the Membership Requirements:
 
-{% page-ref page="join/membership-requirements.md" %}
+{% page-ref page="member-info/membership-requirements.md" %}
 

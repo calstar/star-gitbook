@@ -14,7 +14,7 @@ If you're interested in joining, we recommend starting with the FAQ and the Memb
 
 {% page-ref page="frequently-asked-questions.md" %}
 
-{% page-ref page="join/" %}
+{% page-ref page="member-info/" %}
 
 {% page-ref page="intro-projects/" %}
 
