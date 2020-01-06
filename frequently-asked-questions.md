@@ -40,7 +40,7 @@ We are UC Berkeley's competitive rocketry team. We build rockets! Our mission is
 
 **AirBears:** our 4" diameter test rocket, launched in Fall 2019
 
-IREC20: unnamed 2020 launch vehicle, intended for IREC 2020
+IREC20: yet-to-be-named 2020 launch vehicle, intended for IREC 2020
 
 Check the website for more details, as well as our[ Launch History](history-of-the-team/launch-history/).
 
