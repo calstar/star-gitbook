@@ -59,26 +59,6 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 ![](../.gitbook/assets/img_5739%20%281%29.jpg)
 
-The returning member project for Airframe will be the design of a 4in diameter rocket. Specs will be updated as decided by Systems.
-
-                                        URSA Minor        URSA Major        Sub-ARKTOS        ARKTOS      
-
-#### **Main Tasks**
-
-1. Diagnose problems \(missing or broken components, issues in flight, things that can be improved without changing the design drastically, etc.\)
-2. Come up with a plan to solve the issues
-3. Implement the plan and get airframe flight ready
-4. Work with other teams to see what parachutes, motors we would need so we can fly these rockets on a quick turnaround if needed
-5. Update OpenRocket and CAD models to reflect the final rocket as accurately as possible for use as references and in simulations.
-
-#### **Project Deliverables**
-
-1. Small write-up on the issue \(for documentation and review\)
-2. Document listing rebuild procedures and plan
-3. BOM and Line-Item budget required for the solution
-4. OpenRocket, CAD models, and CAD drawings completed and located appropriately on PDM and Drive
-5. PowerPoint summary at the end
-
-This will serve as a great review and will get everyone involved on all parts of the process immediately. Plus, this is something that needs to be done and will be useful to the club. Evaluation will be subjective due to the nature of the project and the differences in the rockets, however all project deliverables are expected to be completed. Nobody will likely be removed as a member of the club due to mediocre performance, but this will at minimum serve as a wake-up call and a learning opportunity.  
+The returning member project for Airframe will be the design of a 4 in. diameter rocket. Specs will be updated as decided by Systems.  
 
 
