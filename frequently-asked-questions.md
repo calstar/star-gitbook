@@ -15,23 +15,22 @@ We are UC Berkeley's competitive rocketry team. We build rockets! Our mission is
 
 ### What are the subteams? 
 
-#### **Technical Subteams** 
+#### **Hardware Subteams** 
 
 * Airframe
 * Avionics
-* Operations
 * Payload
 * Propulsion
 * Recovery
-* Safety 
-* Simulations
-* Systems
 
-#### **Business Division**
+#### **Non-Hardware Subteams**
 
 * Finance
-* Marketing & Outreach
 * Media
+* Operations
+* Outreach
+* Simulations
+* Systems
 
 ### Our projects 
 
@@ -39,9 +38,11 @@ We are UC Berkeley's competitive rocketry team. We build rockets! Our mission is
 
 **Arktos:** our entry in ****NASA Student Launch 2018
 
-**Spectre:** our upcoming entry for IREC \(the Intercollegiate Rocketry Engineering Competition\) in June 2019
+**AirBears:** our 4" diameter test rocket, launched in Fall 2019
 
-Check the website for more details on Ursa and Arktos, and talk to us for info on Spectre!
+IREC20: unnamed 2020 launch vehicle, intended for IREC 2020
+
+Check the website for more details, as well as our[ Launch History](history-of-the-team/launch-history/).
 
 ### Joining STAR
 
@@ -51,7 +52,7 @@ No! A large majority of our members joined with little to no prior experience in
 
 #### Do I need to be an engineering major to join? 
 
-No! In addition to the nontechnical teams mentioned above, one of our primary goals is member development and education. Last year we had a large number of members in nontechnical majors do design, engineering, building, manufacturing, and testing of all different systems. Furthermore, this year with workshops and a mentorship program, we hope to teach all the tools you’ll need so that anyone who wants to is able to contribute.
+No! In addition to some of the non-technical teams mentioned above, one of our primary goals is member development and education. We have had a large number of members in non-technical majors do design, engineering, building, manufacturing, and testing of all different systems. With workshops and a mentorship program, we hope to teach all the tools you’ll need so that anyone who wants to is able to contribute.
 
 #### Now that I'm interested, how do I join? 
 
@@ -75,11 +76,13 @@ Usually once or twice per week. General Meetings \("GMs"\) and subteam meetings 
   * Includes the structure, materials, aerodynamics, and stability of the rocket
 * Help integrate the systems of other subteams 
 * 3-D model using SolidWorks and OpenRocket
-* Utilize the new X-Winder to manufacture tubes and other airframe components
+* Perform composite lay-ups to create [airframe components](reference/airframe-components.md).
+* Use a CNC tube winder to manufacture tubes and other airframe components
+* Mechanical design, systems engineering as needed
 
 #### What is Airframe doing this year? 
 
-We are designing and building the airframe for our 6-inch diameter IREC rocket with a target apogee of 10,000 feet; this includes composite tubes, fins, the motor mount, couplers, brackets, fasteners, and more.
+We are designing and building the airframe for our 6-inch diameter IREC rocket with a target apogee of 10,000 feet; this includes tubes, fins, the motor mount, couplers, brackets, fasteners, and more.
 
 #### Want to learn more about Airframe? 
 
@@ -92,6 +95,7 @@ Contact our Airframe lead, Christina Liveretou \(ChristinaLiveretou\#5880\) on D
 * Make flight electronics systems and corresponding ground systems
 * Design custom circuit boards, flight software, ground station software for telemetry and analysis
 * Antennas, wiring, and interfacing with other elements of the vehicle
+* Electrical and software design, mechanical as needed
 
 #### What is Avionics doing this semester?
 
@@ -101,30 +105,35 @@ We are designing and assembling the entire system architecture for Spectre. This
 
 #### What does Payload do? 
 
-* Develops the experiment concept
-* Designs the payload and collaborate on interfaces with other teams including Airframe, Avionics, and Recovery
-* Builds the payload! These are mostly all custom parts made in Jacobs and the Etch machine shop 
-* Runs through tests to ensure the payload meets all specs
+* Develops experiment concepts for payload challenges
+* Designs payloads and collaborates on interfaces with other teams including Airframe, Avionics, and Recovery
+* Manufactures the payload! Payloads are primarily composed of custom parts made in Jacobs and the Etcheverry Hall machine shop
+* Runs through tests to ensure the payload suite meets all specs
+* Science, mechanical and electrical design, software as needed
 
 #### What is a payload? 
 
 The payload is what the rocket is carrying, typically a satellite, scientific experiment, or even humans \(for larger rockets\).
 
-#### What are some of the previous payloads? 
+#### What are some of the previously flown payloads? 
 
 * Upright landing and target detection \(SAGITTA-VL ... no one knows what this stands for\)
 * Autonomous rover including mechanisms to separate the airframe \(black powder charge\) and push out the rover \(scissor lift\). Rover's mission was to drive 5 feet and deploy a set of folding solar panels.
+* Cosmic ray \(muon\) detector
+* Sensor package \(pressure, acceleration, orientation, angular velocity, temperature, humidity, etc.\)
 
 #### What is payload doing this year?
 
-We are designing and building a whole suite of science experiments and sensors to ride in Spectre to a height of 10,000 feet.
+We are designing and building a whole suite of science experiments and sensors to fly to a height of 10,000 feet.
 
 ### Propulsion 
 
 #### What does propulsion do? 
 
 * Responsible for putting the rocket in the air
-* Building the engine for the rocket 
+* Building the engine for the rocket
+* Combustion, fluids, cryogens, mechanical and some electrical design
+* Specifications for software
 
 #### What is propulsion doing this year? 
 
@@ -141,17 +150,7 @@ We are building a prototype liquid bi-propellant engine. Design work in progress
 
 #### What is Recovery doing this year? 
 
-We are developing a novel stage separation mechanism for Spectre, as well as managing the recovery of two independent stages via parachute.
-
-### Safety 
-
-#### What does Safety do? 
-
-* Makes sure that people are constructing the rocket in a safe manner with the right protective equipment and materials handling procedures
-* Ensures launches go as smoothly as possible - no one is expose to undue risk
-* Monitor design decisions to make sure our rockets are created and flown with minimal risk to people and property
-* Look into regulations and law surrounding rocketry
-* Partially responsible for Failure Modes and Effects Analysis \(FMEA\)
+We are developing a novel stage separation mechanism, as well as managing the recovery of all launch vehicles in development.
 
 ### Simulations
 
@@ -176,6 +175,7 @@ We are developing a novel stage separation mechanism for Spectre, as well as man
 * Manage project-wide testing and verification of parts and systems
 * Make sure the inventory is up-to-date and usable
 * Manage CAD data
+* Look into [regulations and law surrounding rocketry](reference/legal.md)
 
 #### Why should you join Operations?
 
