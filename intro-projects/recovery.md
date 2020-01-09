@@ -1,88 +1,82 @@
 ---
-description: Welcome to the recovery team. We want you.
+description: >-
+  This page is currently under construction and will undergo multiple changes.
+  The finalized version will be noted as such.
 ---
 
 # Recovery
 
 ## **Introduction**
 
-Welcome to the Recovery team's intro/returning project page! Glad you're here.
+Welcome to the Recovery sub-team's intro/returning project page! Glad you're here.
 
-The recovery team is tasked with safely landing the launch vehicle. This responsibility entails understanding the constraints provided by others/the specifications of the launch vehicle itself and producing creative and efficient solutions. Tasks include but are not limited to: parachute size/material/geometry selection, parachute deployment altitude selection, ejection/separation mechanisms, and a general understanding of mechanics, electronics, simulations, physics, and more.
+The recovery team is tasked with safely landing the launch vehicle. This responsibility requires working with constraints set by other sub-teams, attention to detail, and producing creative and efficient solutions. We work on numerous different components that  are essential to the safe landing of the rocket including but not limited to: parachute size and geometry selection, parachute deployment altitude selection, ejection and separation mechanics, and avionics sled design. We require a general understanding of mechanics, electronics, simulations, physics, and more.
 
-For any questions/help, feel free to reach out to the recovery team lead, Allen, and deputy, Evan at office hours or online through Discord/email. Office Hour times/locations for both are listed below. OH are highly encouraged if you need help!
+For any questions/help please feel free to reach out to recovery sub-team lead Cheljea at officer hours or online through Discord or email. We also have Evan Borzilleri on as an advisor this year so feel free to contact him with any questions. Office Hour times/locations for both are listed below. OH are highly encouraged if you need help!
 
-* Allen Ruan \| Recovery Team Lead
-  * OH: Thurs 3-5PM, Kresge Engineering Library or Etcheverry CAD Lab\(check discord for exact location\)
-  * Email: [allenruan@berkeley.edu](mailto:allenruan@berkeley.edu)
-* Evan Borzilleri \| Recovery Team Deputy
-  * OH: Monday 10AM-12PM, Kresge Engineering Library \(check discord for exact location\)
-  * Email: [evanjborzilleri@berkeley.edu](mailto:evanjborzilleri@berkeley.edu)
+* Cheljea Jang \| Recovery Team Lead
+  * OH: Monday 5 - 6:30 pm, 7:30 - 9 pm \(Kresge or tba each day\) 
+  * Email:  cheljea.jang@berkeley.edu
+* Evan Borzilleri \| Advisor
+  * Email: evanjborzilleri@berkeley.edu
 
 {% hint style="info" %}
 **\[Workshop\]** = indicates that a workshop will be provided for the fundamentals of this task. Workshops are mandatory, and will make accomplishing the tasks much more simple. Workshop times are listed below:
 
 * **\[OpenRocket\]** \| \[When\] \[Where\]
-* **\[PDM\]** \| \[When\] \[Where\]
-* **\[Recovery\]** \| Thursday 6-7PM \(09/13\) in Etcheverry 3rd Floor \(check discord for room \#\)
-* **\[Solidworks\]** \| Saturday 2-4PM \(09/15\) CAD Lab \(Etcheverry 1171\)
+* **\[Solidworks\]** \| TBA
 {% endhint %}
 
-## **New Member Project** _**\(8 hrs\)**_
+## **New Member Project** _**\(14 hrs\)**_
 
-The new member project for the recovery subteam is intended to:
+The new member project for the recovery sub-team is intended to:
 
 1. Introduce a **strong technical foundation** for the critical components of the recovery subsystem to new members
 2. Learn to work with constraints, similar to **industry**
 3. Encourage **collaboration/asking for help** to accomplish these tasks
 
-The deliverables of the project should be presented at the recovery subteam meeting **\(Sept. 27th\)** in the form of a .ppt slide deck containing snapshots of the various projects. Remember! This project is meant to be challenging, but attainable, especially if you ask for help. So please ask questions, come to workshops, and come to office hours!  
-****
+The deliverables of the project should be presented at the recovery subteam meeting **\(TBA\)** in the form of a .ppt slide deck containing snapshots of the various project pieces. Remember! This project is meant to be challenging, but attainable, especially if you ask for help. So please ask questions, come to workshops, and come to office hours!
 
-### **Task 1 \| Knot Tying** _**\(0.5 hrs\)**_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Workshops \| **\[Recovery\]**
+### **Task 1 \| Jacob's Trainings** _**\(3 hrs\)**_
 
-Objective \| Become familiar with and learn to tie all the knots necessary for parachute deployment systems \(All knots will be demoed in the workshop\). The following knots must be perfected:
+**Due: October 7**
 
-* Eight knot
-* Square knot
-* Bowline knot
-* Alpine Butterfly knot
-* Double hitch
+**Deliverable:** Screenshots of completed trainings from Bcourses.
 
-Deliverable \| The student must demonstrate tying all the knots above to either Evan or Allen
+The majority of our manufacturing will be done in the Jacob's Hall Makers space. It is a great space to work on a variety of projects with numerous tools and super helpful staff. We would like you to complete laser cutter training and electronics lab training as we will be using those the most often. After this introduction to the Jacobs makerspace, you will no doubt use your pass for projects outside of CalSTAR including personal projects and also some classwork.
 
+**We would like you to complete Jacob's Hall general training, laser cutter training, and electronics lab training.** Screenshot the completed trainings from bcourses and include it into your final presentation.
 
-
-### **Task 2 \| Recovery Sequence** _**\(0.5 hrs\)**_
-
-Workshops \| **\[Recovery\]**
-
-Objective \| Create a flowchart detailing the sequence of recovery events starting from when the launch vehicle is at apogee to when it is fully recovered. Images/Drawings are encouraged.
-
-{% hint style="info" %}
-**Hint:** There's at least around 4 events starting from apogee and ending with landing. The more detailed the events are described, the better.
+{% hint style="warning" %}
+**Note:** A maker's pass costs $100 for the semester. CalSTAR does offer club maker's passes if you sign up early enough. If you have any concerns, please contact Evan or Cheljea and we be more than happy will work something out. 
 {% endhint %}
 
-Deliverable \| Flowchart \(can use draw.io or any other diagram sites\)
+{% hint style="info" %}
+**Link:** [http://jacobsinstitute.berkeley.edu/our-space/makerpass/get-maker-pass/](http://jacobsinstitute.berkeley.edu/our-space/makerpass/get-maker-pass/)
+{% endhint %}
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+### **Task**  2 **\| Parachute Selection** _**\(3 hrs\)**_
 
-### **Task 3 \| Parachute Selection** _**\(3 hrs\)**_
+**Due: September 30**
 
-Workshops \| **\[Recovery\] \[OpenRocket\]**
+**Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice.
 
-Objective \| Select the best combination of parachutes that satisfies the constraints below:
+**Workshops:  \[Recovery\] \[OpenRocket\]**
 
-Constraints:
+Select the best combination of parachutes that satisfies the constraints below:
 
 * Drogue is deployed at apogee \(maximum altitude\)
-* Main is deployed at 600ft above ground level \(AGL\)
+* Main is deployed at 600 ft above ground level \(AGL\)
 * Drogue Cd \(Coefficient of Drag\): 1.5
 * Main Cd: 2.2
-* Each component must not land with greater than 75 ftlb-f
-* Drift radius must be less than 2500ft in 20mph wind
+* Each component must not land with greater than 75 ftlb of Force
+* Drift radius must be less than 2500 ft in 20 mph wind
+
+Fill out the chart below with all of the calculations and relevant information obtained from open rocket.
 
 | **Parachute Options** | Drogue Deployment Velocity \(ft/s\) | Drogue Terminal Velocity \(ft/s\) | Main Deployment Velocity \(ft/s\) | Main Terminal Velocity \(ft/s\) | KE of Upper Section before Landing \(ft-lbf\) | KE of Avionics Bay before Landing \(ft-lbf\) | KE of Lower Section before Landing \(ft-lbf\) | Drift in 20mph wind \(ft\) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -96,114 +90,47 @@ Constraints:
 
 {% file src="../.gitbook/assets/sl-full-scale-v6.ork" caption="OpenRocket File for Arktos" %}
 
-Deliverable \| Modified table with filled out fields in .ppt and correct option with explanation of why this is the best option out of the three. .ppt must show work/calculations. Cheating is not tolerated.
 
-{% hint style="info" %}
+
+{% hint style="success" %}
 **BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above.
 {% endhint %}
 
-\*\*\*\*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 4 \| Bulkhead Design** _**\(4 hrs\)**_
+### **Task 3 \|  Avionics Bay Assembly** _**\(6 hrs\)**_
 
-Workshops \| **\[PDM\] \[Recovery\] \[Solidworks\]**
+**Due: October 7**
 
-Objective \| Create a CAD assembly of a rocket bulkhead using Solidworks. Once complete, check-in to CalSTAR’s Solidworks Workgroup PDM. The CAD Assembly shall consist of the following parts/components:
+**Deliverable**: A brief write up presenting your design \(include pictures of the full assembly\) and explaining your design methodology and decisions.
 
-* Outer Bulkhead
-* Inner Bulkhead
-* U-Bolt
-  * 1/4" Bolt
-  * 1/4" Flat Washers \(x4\)
-  * 1/4" - 20 Nuts \(x4\)
+**Workshops: \[PDM\] \[Recovery\] \[Solidworks\]**
 
-Drawings of the necessary parts are provided below:
+Creating CAD models is a skill every engineer should have down and recovery is no exception. It is important to model things before manufacturing to avoid wasted materials due to poor design. Recovery designs and manufactures the avionics bays for all the rockets so proper documentation is needed. The avionics bay houses the altimeters and other necessary hardware that enables proper parachute deployment which is often mounted to an accessible sled. A typical avionics bay \(av-bay\) consists of the following:
 
-{% file src="../.gitbook/assets/assembled-bulkhead.PDF" caption="Assembled Bulkhead" %}
+* Altimeters
+* Altimeter Sled  
+* Bulkheads
+* Alignment Rods
+* Access Hatch 
+* Batteries
 
-{% file src="../.gitbook/assets/bulkhead-1.PDF" caption="Bulkhead \#1 Drawing" %}
+**You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries**. We have provided the appropriate airframe and altimeter models that we frequently use below. You should create models for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above models, make an assembly of the entire avionics bay with all the components inside and properly constrained. 
 
-{% file src="../.gitbook/assets/bulkhead-2.PDF" caption="Bulkhead \#2 Drawing" %}
-
-For bonus points:
-
-* Include material properties for each component
-* Etch text on both sides of the combined bulkhead
-
-Deliverable \| Snapshots of the full assembly \(two different views\), and screenshot of assembly uploaded to the PDM
-
-\*\*\*\*
-
-### **Task 5 \| Creative Section** _**\(X hrs\)**_
-
-Workshops \| **\[Recovery\] \[Solidworks\]** 
-
-Objective \| CAD and mockup a functional electronics sled for the avionics bay. The sled must meet the following requirements:
-
-* Designed in 3D modeling software \(preferably Solidworks\)
-* Must be able to mount Stratologger CF altimeters and 9V Duracell batteries
-* Fit within a 4in diameter tube
+* **Outter**
+  * **Inner Diameter:** 3.900" \(9.91 cm\)
+  * **Outer Diameter:** 4.014" \(10.2 cm\)
+* **Coupler**
+  * **Inner Diameter:** 3.786" \(9.80 cm\)
+  * **Outer Diameter:** 3.900" \(9.91 cm\)
 
 {% hint style="info" %}
-**NOTE:** This is meant to be an open-ended project; there is no "correct" way to complete it. We just want to see what new and innovative designs you can come up with. Manufacturing methods are also open-ended  \(some suggestions might include 3D printing, lasercutting, etc.\).
+**Link for File Download:** [https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv](https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv)
 {% endhint %}
 
-Deliverable \| Manufactured sled and its assembly file uploaded to the PDM. Add photos to the .ppt and describe the design
+{% hint style="warning" %}
+**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is certainly one of the more difficult parts of the intro project, especially if you do not have prior CAD experience. Please see Evan or Cheljea if you have any questions; we want to help! 
+{% endhint %}
 
-\*\*\*\*
-
-## **Returning Member Project** _**\(10.5 hrs\)**_
-
-Similar to the new member project, the returning member project is intended on refreshing everyone’s mind on performing the pertinent tasks for the recovery team, in addition to educating members on a deeper level focused on manufacturing and big-picture understanding. It is **due on 09/20.**  
-
-
-### **Task 0 \| Intro Project**  _**\(7.5 hrs\)**_
-
-Workshops \| **\[OpenRocket\] \[PDM\] \[Recovery\] \[Solidworks\]**
-
-Objective \| Complete tasks 1, 3, and 4 the intro project
-
-Deliverable \| Document all work on a .ppt as outlined above
-
-
-
-### **Task 6 \| Wiring Diagram** _**\(1 hr\)**_
-
-Workshops \| **\[Recovery\]**
-
-Objective \| Create a wiring diagram of all the electronics/wiring included in the avionics system for a dual deployment recovery system using a flowchart software \(eg. draw.io\). Include + and -. This might require looking into an altimeter datasheet \(look up perfectflite stratologger CF\). Components that shall be included:
-
-* 1 Altimeter
-* 1 9V Battery
-* 1 External Switch
-* 1 Main Charge
-* 1 Drogue Charge
-
-Below is a snapshot of a diagram with the altimeter and batter to get you started.
-
-![](../.gitbook/assets/wiring-diagram.JPG)
-
-Deliverable \| Snapshot of wiring diagram in .ppt
-
-\*\*\*\*
-
-### **Task 7 \| Launch Day Checklist Quiz**  _**\(0.5 hrs\)**_
-
-Workshops \| None
-
-Objective \| Complete the following quiz about the sequence of events that we, as a recovery team, complete during a launch day. Unlimited attempts, but must get a perfect score.
-
-Link: [https://goo.gl/forms/MhCX3EOcK8SDAHts1](https://goo.gl/forms/MhCX3EOcK8SDAHts1)
-
-Deliverable \| Screenshot of perfect score  
-****
-
-### **Task 8 \| Technical Writing** _\(1.5 hr\)_
-
-Workshops \| None
-
-Objective \| Given the importance of technical reports/documentation in what we do, write a paragraph detailing the specs and function of the bulkhead you have just created. Include an image of the CAD and the actual manufactured bulkhead. Include a reference for the figure and a caption. Format is up to you, but please check for typos and grammatical errors. If you have any questions, there exists a lot of good documentation on LaTeX online, and/or come to OH.
-
-Deliverable \| .pdf of the LaTeX document  
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
