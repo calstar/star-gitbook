@@ -2,3 +2,5 @@
 
 This was the first flight of Ursa Minor. This is a skeleton article.
 
+Ursa Minor flew on a J800 motor.
+
