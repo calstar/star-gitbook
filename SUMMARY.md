@@ -105,7 +105,7 @@
 * [Reference](reference/README.md)
   * [Brand Guidelines](reference/brand-guidelines.md)
   * [Legal](reference/legal.md)
-  * [L1 Certification](reference/l1-certification.md)
+  * [HPR Certification](reference/hpr-certification.md)
   * [Ham Operators](reference/ham-operators.md)
   * [Airframe Components](reference/airframe-components.md)
   * [X-Winder Update Log](reference/x-winder-update-log.md)
