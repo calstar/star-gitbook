@@ -16,14 +16,14 @@ STAR was founded in Spring 2016 by a small group of students who were interested
 | :--- | :--- |
 | President | Jordan Covert |
 
-## NASA Student Launch - 2016 to 2018
+## NASA Student Launch - Fall 2016 to Spring 2017
 
 Initial activities in the 2016-2017 School Year involved recruitment at the College of Engineering Activities Fair during the first week of school. After recruitment, a decision was made by the whole team \(around 25 people at this point\) to 
 
 | Administrative Position | Holder |
 | :--- | :--- |
 | President | Jordan Covert |
-| Vice President | Avyay P |
+| Vice President | Avyay Panchapakesan |
 | Treasurer | Jia Zhang |
 | Outreach | Aaron Togelang |
 
@@ -31,7 +31,7 @@ Initial activities in the 2016-2017 School Year involved recruitment at the Coll
 | :--- | :--- |
 | Airframe | Jordan Covert |
 | Electronics | Jacob Posner |
-| Payload | Avyay P |
+| Payload | Avyay Panchapakesan |
 | Recovery | Adam Huth |
 | Safety | Grant Posner |
 
