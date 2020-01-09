@@ -2,3 +2,5 @@
 
 We flew successfully at Huntsville, AL. This is a skeleton page.
 
+Ursa Major was flown on an L1150 motor, with hardware borrowed from David.
+
