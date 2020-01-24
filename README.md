@@ -32,7 +32,7 @@ Team-specific testing information and test forms can be found in the Testing sec
 
 To contribute to our documentation, see the below page:
 
-{% page-ref page="tutorials/documentation/how-to-use-gitbook.md" %}
+{% page-ref page="tutorials/how-to-use-gitbook.md" %}
 
 Documentation on specific current or past projects can be found at the Projects space, which is restricted to members:
 

@@ -44,7 +44,7 @@ To join a subteam \(Airframe, Avionics, Operations, Payload, Propulsion, Marketi
 ## GitBook
 
 * All team members must join the GitBook to access project-specific documentation. Prospective members only really _need_ to do this after finishing an intro project, but are welcome to at any time.
-  * Instructions here: [How to use GitBook](tutorials/documentation/how-to-use-gitbook.md)
+  * Instructions here: [How to use GitBook](tutorials/how-to-use-gitbook.md)
 
 ## Recap
 

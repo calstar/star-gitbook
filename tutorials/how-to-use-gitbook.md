@@ -16,7 +16,7 @@ All members are encouraged to contribute to our project documentation! After set
 After making a ****change \(new draft\), **you must describe changes** with a short message **by clicking on "Describe this draft"** in the Drafts section in the sidebar **and writing a brief description.**
 {% endhint %}
 
-![See the section below &quot;Creating Drafts&quot; if you don&apos;t have this sidebar visible](../../.gitbook/assets/drafts.PNG)
+![See the section below &quot;Creating Drafts&quot; if you don&apos;t have this sidebar visible](../.gitbook/assets/drafts.PNG)
 
 Now that you've read this section, you can first follow the join link here: [https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3](https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3)  
   
@@ -26,11 +26,11 @@ Then message @rgovindjee\#4641 on Discord requesting editing permissions and mak
 
 To start editing a GitBook page, first go to [https://www.gitbook.com/](https://www.gitbook.com/) and click on "Go to Dashboard"in the upper right-hand corner.
 
-![](../../.gitbook/assets/gitbook1.PNG)
+![](../.gitbook/assets/gitbook1.PNG)
 
 Once at your dashboard, select which space you'd like to edit \(this one is called STAR\) 
 
-![](../../.gitbook/assets/gitbook2.PNG)
+![](../.gitbook/assets/gitbook2.PNG)
 
 You'll now have a sidebar with draft options, and a blue button on the lower right-hand corner of the page to start a new draft editing that page. One draft can contain edits to multiple pages. Remember, always enter a draft description!
 
@@ -58,7 +58,7 @@ Specifically, for basic instructions for editing see: [https://docs.gitbook.com/
 * To rearrange cards: drag the square icon with 9 dots up or down
 * To create **bold**, ****_italic_, ~~strikethrough~~, or `code` text: in paragraph/heading mode, highlight a section of text and mouse over it to see options. **Ctrl+B** and _Ctrl+I_ also work as shortcuts.  
 
-![Basic features](../../.gitbook/assets/formatting.png)
+![Basic features](../.gitbook/assets/formatting.png)
 
 * To insert a math formula $$\left( \Delta v = v_\text{e} \ln \frac {m_0} {m_f} \right)$$ mouse over the cursor and click the '+' button, then click the equation button
 * To create lists, just type "- " or "\* " or "1. " and it should auto-format to a bulleted list. You can also create a dedicated card with a list.
