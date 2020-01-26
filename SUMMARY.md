@@ -67,6 +67,7 @@
     * [Parachute Sizing](tutorials/untitled/parachute-sizing.md)
     * [Avionics Sled](tutorials/untitled/avionics-sled.md)
     * [\[in progress\] Altimeters](tutorials/untitled/recovery-wiring-altimeterts.md)
+    * [Wire Design and Routing](tutorials/untitled/wire-design-and-routing.md)
   * [Safety](tutorials/safety.md)
   * [Manufacturing](tutorials/manufacturing/README.md)
     * [Material Properties and Uses](tutorials/manufacturing/general-material-properties-and-uses.md)
