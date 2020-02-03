@@ -62,8 +62,6 @@
     * [Ignition Devices](tutorials/propulsion/ignition-devices.md)
     * [Pipes, Fittings, and Components](tutorials/propulsion/propulsion-pipes-+-adapters.md)
   * [Recovery](tutorials/recovery/README.md)
-    * [9V Battery Holders](tutorials/recovery/9v-battery-holders.md)
-    * [Black Powder Holders](tutorials/recovery/black-powder-holders.md)
     * [Parachute Sizing](tutorials/recovery/parachute-sizing.md)
     * [Avionics Sled](tutorials/recovery/avionics-sled.md)
     * [\[in progress\] Altimeters](tutorials/recovery/recovery-wiring-altimeterts.md)
