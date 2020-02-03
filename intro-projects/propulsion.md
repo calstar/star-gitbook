@@ -162,7 +162,7 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 
 **Deliverables:**
 
-* A completed Solidworks assembly file of your test stand
+* You must make a visual representation of your test stand in some form. This can be using a CAD software program like Solidworks, Inventor, or Fusion 360. If you have no experience with any of these programs, you can create a clean and understandable hand drawing of your design. 
 * A bill of materials including all part names, order links \(www.mcmaster.com is a great website for ordering pretty much any part you can think of, plus they have CAD’s on the website which is pretty great\), and prices. A template is provided here.
 * A justification of your design. Factor of Safety calculations, while optional, would be nice. This can be just a quick paragraph or two explaining your thinking, possibly improvements, possible failure modes, etc.
 
@@ -174,11 +174,7 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice \(Fusion 360 is recommended as it has a lot of resources online\).
 {% endhint %}
 
-{% hint style="info" %}
-All deliverables should be placed in the GrabCAD "Fall 2019 Intro Projects" project, in a folder with your name:
 
-i.e. Fall 2019 Intro Projects&gt;First Last
-{% endhint %}
 
 ## Resources
 
