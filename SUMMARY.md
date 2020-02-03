@@ -102,6 +102,7 @@
   * [Safety](intro-projects/safety.md)
   * [Simulations](intro-projects/simulations.md)
   * [Old Intro Projects](intro-projects/old-intro-projects/README.md)
+    * [Propulsion Fall 2019](intro-projects/old-intro-projects/propulsion-fall2019.md)
     * [Avionics 2018](intro-projects/old-intro-projects/avionics-2018.md)
     * [Recovery 2018](intro-projects/old-intro-projects/recovery-2018.md)
 * [Reference](reference/README.md)

@@ -1,14 +1,14 @@
 ---
-description: Intro Project 2020 due TBA
+description: Intro Project 2019 due 2019-10-06
 ---
 
-# Propulsion
+# Propulsion Fall 2019
 
-![Ignition Testing for LE-165](../.gitbook/assets/ignitiontesting.PNG)
+
+
+![Ignition Testing for LE-165](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LB423_rlWTQK_KuQzK5%2F-LkPx4YDzKciJwcGz4ST%2F-LkPxM7dOjXfK3GntnL_%2FignitionTesting.PNG?alt=media&token=4fa4e41b-e510-4c4d-bd34-4eaae4a35cf9)
 
 ## Introduction
-
-INTRO PROJECT CURRENTLY BEING UPDATED, PLEASE DONT START ON IT UNTIL THURSDAY 2/6
 
 The purpose of this project is to ensure that new and returning members research various parts of a rocket propulsion system from both theoretical and practical engineering points of view.
 
@@ -22,20 +22,20 @@ If you are interested in contributing to a workshop \(highly encouraged\), pleas
 
 ### Contact
 
-If you have any questions about any part of the question at any time \(even if it's 4AM on a weekend\), do not hesitate to reach out to the propulsion lead \(Trevor\) or the propulsion deputy \(Sam\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
+If you have any questions about any part of the question at any time \(even if it's 4AM on a weekend\), do not hesitate to reach out to the propulsion lead \(Michael\) or the propulsion deputy \(Trevor\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
 
-* Trevor's Discord: zat15 \(accessible through CalSTAR discord\)
-* Sam's Discord: Sam\_Phillips  \(accessible through CalSTAR discord\)
+* Michael's Discord: mvronsky \(accessible through CalSTAR discord\)
+* Trevor's Discord: zat15  \(accessible through CalSTAR discord\)
 * Discord: in the \#propulsion channel
-* Trevor's Email: tzinky@berkeley.edu
-* Sam's Email: 
+* Michael's Email: michaelvronsky@obvious.edu
+* Trevor's Email: tzinky@obvious.edu
 * Office Hours:
 
-  * Trevor's OH: TBA
+  * Michael's OH: Tuesdays 14:10-15:30 in Kresge Engineering Library
 
     \(exact location may vary, will be announced on Discord\)
 
-  * Sam's OH: TBA
+  * Trevor's OH: Wednesdays 16:30-18:00 in Kresge Engineering Library
 
     \(exact location may vary, will be announced on Discord\)
 
@@ -43,22 +43,30 @@ If you have any questions about any part of the question at any time \(even if i
 This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead and propulsion members. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
 {% endhint %}
 
+## 
+
 ## 1. In-Person Component
 
 To satisfy the in-person component, you must attend **one** of the following events:
 
-* Safety Workshop \(Will be 2 dates, TBA\)
+* Safety Workshop \(First one on Friday, Sept. 20 at 19:00\)
+* Michael or Trevor's Office Hours, to review safety \(See above for OH\)
 
 In addition to attending a safety session, you are required to attend **one** of the following events. If you have time to attend more than one, you are encouraged to do so.
 
-* Manufacturing workshop \(TBA\)
-* Quantitative Analysis workshop \(TBA\)
+* A trip to the Richmond Field Station \(RFS\) \(See \#propulsion for updates\)
+  * This is more time consuming, but highly recommended, as it is where we do most of our work
+* Injectors and cooling workshop \(Thursday Sept. 26, 7PM-8PM\)
+* Mechanical design workshop \(Time TBD\)
+* CAD workshop \(Sunday Sept. 22 9AM-11AM\)
+* Solid propellant workshop \(Thursday Sept. 26 6PM-7PM\)
+* Pipes and Fittings workshop \(Wednesday Oct. 2nd, 8PM-9PM\)
 
-Lastly, once you believe you have finished your intro project, you should schedule a time with Trevor during office hours to go over your submission. If you are super busy and can't find a time, then talk to me and we can sort something out.
+Lastly, once you believe you have finished your intro project, you should schedule a time with Michael during office hours to go over your submission. If you are super busy and can't find a time, then talk to me and we can sort something out.
 
 ## 2. Project Component
 
-You may choose any of the two project components to complete. Both are intended to be of about the same difficulty, and should give you insight about the various engineering tasks that we undertake.
+You may choose any of the three project components to complete. All are intended to be of about the same difficulty, and should give you insight about the various engineering tasks that we undertake.
 
 ### 2.1 Fluids
 
@@ -89,40 +97,17 @@ The following Piping and Instrumentation Diagram \(P&ID\) is for a simplified ga
 To get an idea of what some components are used for, consider walking through a cycle of filling the tank from the Fill/Vent, then feeding through either the injector or the vent in R3B2
 {% endhint %}
 
-![A simplified P&amp;ID diagram](../.gitbook/assets/capture.PNG)
+![A simplified P&amp;ID diagram](../../.gitbook/assets/capture.PNG)
 
 In the diagram, all ball valves are "L-port".
 
 The following page will be very useful in interpreting this diagram:
 
-{% page-ref page="../tutorials/propulsion/propulsion-pipes-+-adapters.md" %}
 
-#### 2.1.3 - Testing Procedures
 
-The testing propulsion engages in necessitates the use of detailed procedures to ensure safe and effective testing. Procedures are written to be technically adaquate, but can be hard to read and understand. Here is an example procedure written for the P&ID system above with comments in red to aid in your understanding. 
+{% page-ref page="../../tutorials/propulsion/propulsion-pipes-+-adapters.md" %}
 
-[https://docs.google.com/document/d/1JVZ57ZGFRJqKUsU6c2CBqbC9tXLGUoygCTmqfX7sT-w/edit\#](https://docs.google.com/document/d/1JVZ57ZGFRJqKUsU6c2CBqbC9tXLGUoygCTmqfX7sT-w/edit#)
-
-After each step in this process, think about what lengths of pipe become pressurized or depressurized. What lengths of pipe are still pressurized when this process is completed? \(you dont need to present this at all, just think about it\)
-
-#### 2.1.4 - Testing the Injector 
-
-The following problem is based off work that was done in Fall and Spring 2019. 
-
-The injector design in use in this problem is a pintle injector. The flow rate of fluid through the injector is proportional to the diameter of the manufactured pintle. Using a simulation, a pintle diameter was determined and a pintle manufactured to that diameter. The initial pintle design was tested, and determined to not produce the correct and expected flow rate. 
-
-A new pintle was produced with the aid of improved simulations. This pintle must now be tested to ensure that its flow rate is what is expected based off of the simulation. 
-
-Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. Trevor will review your procedure, and if the procedure is adaquate you will recieve the flow rate results from the test. 
-
-**Deliverables**
-
-* A procedure to test the pintle ****
-* The final diameter of the pintle that produces the correct flow rate 
-
- 
-
-#### 2.1.5 - Flow coefficient
+#### 2.1.3 - Flow coefficient
 
 The flow coefficient of a component, often denoted Cv, is a very useful measure of its behaviour in the feed system.
 
@@ -140,11 +125,7 @@ Then, showing your work, derive the pressure drop across this swagelok check val
 All deliverables should be compiled into a powerpoint/google slides presentation
 {% endhint %}
 
-### 2.2 Thrust Chamber Design and Testing
-
-This project involves design of a thrust chamber for a liuquid rocket engine, and design of a testing setup for a solid rocket motor. 
-
-#### 2.2.1 - Thrust Chamber Design
+### 2.2 Thrust Chamber Design
 
 A thrust chamber is to be designed for a 1000lbf engine using Kerosene and Liquid Oxygen.
 
@@ -167,13 +148,13 @@ A thrust chamber is to be designed for a 1000lbf engine using Kerosene and Liqui
 All deliverables should be compiled into a powerpoint/google slides presentation
 {% endhint %}
 
-#### 2.2.2 - Test Stand Mechanical Design/CAD
+### 2.3 Test Stand Mechanical Design/CAD
 
 Just like any other subteam, our work requires the design and construction of many mechanical systems, often for a very specialized task. In the past, these have included structures to house the propulsion system in the rocket or on the test stands, testing jigs for various components, mounting brackets, and more.
 
 In this task, you will design a test stand for testing small solid motors. Test stands are used to fire the motor while it is static on the ground. Test stands help verify motor design and test key features of any propulsion systems. Common features of test stands include thrust measuring devices, safety features, and, obviously, motor systems. In this project, you will design a small test stand intended to test fire solid model rocket motors up to a “G” class. Your design of this should ideally maximize safety and measurement accuracy, while minimizing costs and complexity.
 
-![A small solid rocket motor of the type to be tested on your stand](../.gitbook/assets/image%20%2853%29.png)
+![A small solid rocket motor of the type to be tested on your stand](../../.gitbook/assets/image%20%2853%29.png)
 
 {% hint style="info" %}
 This is an intentionally open-ended mechanical design task. The purpose is to exercise your ability to think about problems and create mechanical solutions. If you don’t know where to start, try searching online for rocket motor test stands to get some inspiration.
@@ -187,23 +168,31 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 
 **Deliverables:**
 
-* You must make a visual representation of your test stand in some form. This can be using a CAD software program like Solidworks, Inventor, or Fusion 360. If you have no experience with any of these programs, you can create a clean and understandable hand drawing of your design. 
+* A completed Solidworks assembly file of your test stand
 * A bill of materials including all part names, order links \(www.mcmaster.com is a great website for ordering pretty much any part you can think of, plus they have CAD’s on the website which is pretty great\), and prices. A template is provided here.
 * A justification of your design. Factor of Safety calculations, while optional, would be nice. This can be just a quick paragraph or two explaining your thinking, possibly improvements, possible failure modes, etc.
 
 {% hint style="warning" %}
 **SolidWorks is only compatible with Windows!** If you use MacOS or Linux you have three options: 
 
-1. Use the on-campus CAD lab in Etcheverry 1st floor which has SolidWorks pre-installed.
+1. Use the on-campus CAD lab in Etcheverry 1XXX which has SolidWorks pre-installed.
 2. Install Windows and then install SolidWorks.
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice \(Fusion 360 is recommended as it has a lot of resources online\).
 {% endhint %}
 
+{% hint style="info" %}
+All deliverables should be placed in the GrabCAD "Fall 2019 Intro Projects" project, in a folder with your name:
 
+i.e. Fall 2019 Intro Projects&gt;First Last
+{% endhint %}
 
 ## Resources
 
-{% file src="../.gitbook/assets/george-p.-sutton-oscar-biblarz-rocket-propulsion-elements-2016-wiley.pdf" caption="Rocket Propulsion Elements" %}
+{% file src="../../.gitbook/assets/george-p.-sutton-oscar-biblarz-rocket-propulsion-elements-2016-wiley.pdf" caption="Rocket Propulsion Elements" %}
 
 {% embed url="http://www.braeunig.us/space/propuls.htm" %}
+
+
+
+
 
