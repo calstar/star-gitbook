@@ -113,12 +113,13 @@ The injector design in use in this problem is a pintle injector. The flow rate o
 
 A new pintle was produced with the aid of improved simulations. This pintle must now be tested to ensure that its flow rate is what is expected based off of the simulation. 
 
-Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. Trevor will review your procedure, and if the procedure is adaquate you will recieve the flow rate results from the test. 
+Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. This new procedure will reference the piping system presented above. Trevor will review your procedure, and if the procedure is adaquate you will recieve the flow rate results from the test. 
 
 **Deliverables**
 
 * A procedure to test the pintle ****
-* The final diameter of the pintle that produces the correct flow rate 
+* The final diameter of the pintle that produces the correct flow rate
+  * Justification for why this final diameter is correct based on results from the test 
 
  
 
