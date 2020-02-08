@@ -27,7 +27,7 @@ Vagrant warns against using your system package manager to install Vagrant. Inst
 Run: 
 
 ```bash
-$ vagrant box add mtn_narwhal/mbed_cli_tools
+vagrant box add mtn_narwhal/mbed_cli_tools
 ```
 
 A 'box' is the package format Vagrant uses. This command downloads the `mbed_cli_tools` box, which contains tools such as GCC ARM, git, and Mbed CLI.
@@ -35,7 +35,7 @@ A 'box' is the package format Vagrant uses. This command downloads the `mbed_cli
 Then, go to the CalSTAR directory on your file system, and run:
 
 ```text
-$ vagrant init mtn_narwhal/mbed_cli_tools
+vagrant init mtn_narwhal/mbed_cli_tools
 ```
 
  This sets up the box in that directory. Vagrant will automatically sync files in the folder you `init` the box in \(the folder which has the `Vagrantfile`\) on your host system with the folder `/vagrant` in the VM. 
@@ -45,7 +45,7 @@ To start the VM, run `$ vagrant up`.
 You may see the error regarding SSH: `Warning: Authentication failed. Retrying...`. If this happens, hit `Ctrl-C` and then run `$ vagrant ssh`. You should be requested for a password for the user `vagrant`. The password is `vagrant`. Once ssh'd into the VM, run the following command.
 
 ```text
-$ echo "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA6NF8iallvQVp22WDkTkyrtvp9eWW6A8YVr+kz4TjGYe7gHzIw+niNltGEFHzD8+v1I2YJ6oXevct1YeS0o9HZyN1Q9qgCgzUFtdOKLv6IedplqoPkcmF0aYet2PkEDo3MlTBckFXPITAMzF8dJSIFo9D8HfdOV0IAdx4O7PtixWKn5y2hMNG0zQPyUecp4pzC6kivAIhyfHilFR61RGL+GPXQ2MWZWFYbAGjyiYJnAmCP3NOTd0jMZEnDkbUvxhMmBYSdETk1rRgm+R4LOzFUGaHqHDLKLX+FIPKcF96hrucXzcWyLbIbEgE98OHlnVYCzRdK8jlqm8tehUc9c9WhQ== vagrant insecure public key" > .ssh/authorized_keys
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA6NF8iallvQVp22WDkTkyrtvp9eWW6A8YVr+kz4TjGYe7gHzIw+niNltGEFHzD8+v1I2YJ6oXevct1YeS0o9HZyN1Q9qgCgzUFtdOKLv6IedplqoPkcmF0aYet2PkEDo3MlTBckFXPITAMzF8dJSIFo9D8HfdOV0IAdx4O7PtixWKn5y2hMNG0zQPyUecp4pzC6kivAIhyfHilFR61RGL+GPXQ2MWZWFYbAGjyiYJnAmCP3NOTd0jMZEnDkbUvxhMmBYSdETk1rRgm+R4LOzFUGaHqHDLKLX+FIPKcF96hrucXzcWyLbIbEgE98OHlnVYCzRdK8jlqm8tehUc9c9WhQ== vagrant insecure public key" > .ssh/authorized_keys
 ```
 
 Now, run `$ exit` to logout of the VM, followed by `$ vagrant reload` to restart. After this, ssh should succeed.
@@ -111,7 +111,7 @@ For documentation on the Mbed API, look at the official docs [here](https://os.m
 To create a new project called `mbed_project`, run the following:
 
 ```text
-$ mbed new mbed_project
+mbed new mbed_project
 ```
 
 ### Compiling
@@ -119,7 +119,7 @@ $ mbed new mbed_project
 To compile a project, run the following from within the project folder
 
 ```text
-$ mbed compile --target NUCLEO_F401RE --toolchain GCC_ARM
+mbed compile --target NUCLEO_F401RE --toolchain GCC_ARM
 ```
 
 The target, `NUCLEO_F401RE` is a development board that has the `STM32F401RET6` microcontroller on board, the same MCU we use. The toolchain selects which compiler we are using.
