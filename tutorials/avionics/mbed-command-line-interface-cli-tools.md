@@ -66,6 +66,8 @@ By default, Vagrant uses a rather slow method to sync files between the host fil
 
 If on windows, first run `$ vagrant plugin install vagrant-winnfsd` since Windows does not have NFS support in-built.
 
+Linux: if you get an error saying your machine doesn't support NFS try running  `sudo apt install nfs-kernel-server`
+
 Now, on all systems, add the following to the Vagrant file inside the `Vagrant.configure("2") do |config|` block:
 
 ```text
