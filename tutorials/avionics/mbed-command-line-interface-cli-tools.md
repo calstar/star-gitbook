@@ -56,6 +56,8 @@ If you see an error regarding NFS, you will want to change your filesharing meth
 Getting SSH to succeed is crucial as it must work before vagrant will move on to the step where it syncs files in the directory with the `Vagrantfile` in the host system to the `/vagrant` directory in the guest system.
 {% endhint %}
 
+Linux: if after ssh-ing in, you see your `/vagrant` directory is empty, try deleting your Vagrantfile and re-running all the above commands to init, up, and ssh with `sudo` pre-pended. If you get an error saying "The VirtualBox VM was created with a user that doesn't match the current user running the VM, edit  `.vagrant/machines/default/virtualbox/creator_uid` to say 0.
+
 Once this is complete, you can run `$ vagrant up` to start the VM,`$ vagrant ssh` to enter the VM, `$ exit` to logout of the VM, and `$ vagrant halt` to stop the VM. When in the VM, you can `cd` to `/vagrant` and access all your CalSTAR files.
 
 To test the VM environment, `cd` to `~/examples` where there are two folders: `mbed-os-example-blinky` and `test_prg`. Go into either and test if they compile by following the instructions in Mbed CLI &gt; Compiling.
