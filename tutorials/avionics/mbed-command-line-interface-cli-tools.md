@@ -68,7 +68,7 @@ By default, Vagrant uses a rather slow method to sync files between the host fil
 
 If on windows, first run `$ vagrant plugin install vagrant-winnfsd` since Windows does not have NFS support in-built.
 
-Linux: if you get an error saying your machine doesn't support NFS try running  `sudo apt install nfs-kernel-server`
+Linux: if you get an error saying your machine doesn't support NFS try running `sudo apt install nfs-kernel-server` and `sudo apt install nfs-common`
 
 Now, on all systems, add the following to the Vagrant file inside the `Vagrant.configure("2") do |config|` block:
 
@@ -84,9 +84,9 @@ config.vm.network "private_network", type: "dhcp"
 
 Once this is complete, run `$ vagrant reload`. At least on Windows, you may be asked to allow a program through the firewall. Whether you need to may depend on your system. To check, first disconnect from the internet \(turn off wifi and unplug ethernet\), turn off the firewall, and then try running `$ vagrant up` and `$ vagrant ssh`.This should work. Then turn back on the firewall and try again. If this does not work you will have to find which program is trying to get through the firewall and allow it through at least for private networks.
 
-Once all this is done, run `$ vagrant reload` and continue. This should dramatically improve compile times.
+Once all this is done, run `vagrant reload` and continue. This should dramatically improve compile times. Run `VBoxManage dhcpserver remove --netname HostInterfaceNetworking-vboxnet0` and then `vagrant reload`
 
-Linux: if you get an error
+Linux: if you get an error saying "A host only network interface you're attempting to configure via DHCP already has a conflicting host only adapter with DHCP enabled." Run \`
 
 ![An example Vagrantfile on Windows](../../.gitbook/assets/image%20%2861%29.png)
 
