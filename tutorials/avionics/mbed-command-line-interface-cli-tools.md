@@ -50,7 +50,7 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA6NF8iallvQVp22WDkTkyrtvp9eWW6A8YVr+kz4
 
 Now, run `$ exit` to logout of the VM, followed by `$ vagrant reload` to restart. After this, ssh should succeed.
 
-If you see an error regarding NFS, you will want to change your filesharing method to RSync. In the `Vagrantfile` change the `type` of the `config.vm.synced_folder` from `"nfs"` to `"rsync"`. Now run `vagrant reload` again and you shouldn't see the error.
+If you see an error regarding NFS, you will want to change your filesharing method to RSync. In the `Vagrantfile` change the `type` of the `config.vm.synced_folder` from `"nfs"` to `"rsync"`. Now run `vagrant reload` again and you shouldn't see the error. You may run `vagrant rsync-auto` in a terminal to have vagrant automatically sync the changes you make on your local machine to the virtual one.
 
 {% hint style="warning" %}
 Getting SSH to succeed is crucial as it must work before vagrant will move on to the step where it syncs files in the directory with the `Vagrantfile` in the host system to the `/vagrant` directory in the guest system.
@@ -85,6 +85,8 @@ config.vm.network "private_network", type: "dhcp"
 Once this is complete, run `$ vagrant reload`. At least on Windows, you may be asked to allow a program through the firewall. Whether you need to may depend on your system. To check, first disconnect from the internet \(turn off wifi and unplug ethernet\), turn off the firewall, and then try running `$ vagrant up` and `$ vagrant ssh`.This should work. Then turn back on the firewall and try again. If this does not work you will have to find which program is trying to get through the firewall and allow it through at least for private networks.
 
 Once all this is done, run `$ vagrant reload` and continue. This should dramatically improve compile times.
+
+Linux: if you get an error
 
 ![An example Vagrantfile on Windows](../../.gitbook/assets/image%20%2861%29.png)
 
