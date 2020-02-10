@@ -18,7 +18,7 @@ The project consists of two parts: an in-person component and a project componen
 
 If you are a returning member for the 2019-2020 academic year, you are not required to complete the project component, but you _are_ required to satisfy the in-person requirement by participating in any of the offered workshops. Leading or helping plan a workshop will be considered as participation.
 
-If you are interested in contributing to a workshop \(highly encouraged\), please contact Michael via Discord.
+If you are interested in contributing to a workshop \(highly encouraged\), please contact Trevor via Discord.
 
 ### Contact
 
