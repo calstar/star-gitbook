@@ -20,7 +20,7 @@ After making a ****change \(new draft\), **you must describe changes** with a sh
 
 Now that you've read this section, you can first follow the join link here: [https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3](https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3)  
   
-Then message @rgovindjee\#4641 on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
+Then message @rebeccab#5741 on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
 
 ## Creating a draft
 
