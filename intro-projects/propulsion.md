@@ -8,15 +8,13 @@ description: Intro Project 2020 due TBA
 
 ## Introduction
 
-INTRO PROJECT CURRENTLY BEING UPDATED, PLEASE DONT START ON IT UNTIL THURSDAY 2/6
-
 The purpose of this project is to ensure that new and returning members research various parts of a rocket propulsion system from both theoretical and practical engineering points of view.
 
 The project consists of two parts: an in-person component and a project component.
 
 ### Returning Members
 
-If you are a returning member for the 2019-2020 academic year, you are not required to complete the project component, but you _are_ required to satisfy the in-person requirement by participating in any of the offered workshops. Leading or helping plan a workshop will be considered as participation.
+Returning members have no special requirements for Spring 2020. It is highly recomended to attend workshops and the Feed System Presenations hosted by Trevor.
 
 If you are interested in contributing to a workshop \(highly encouraged\), please contact Trevor via Discord.
 
@@ -30,8 +28,7 @@ If you have any questions about any part of the question at any time \(even if i
 * Trevor's Email: tzinky@berkeley.edu
 * Sam's Email: 
 * Office Hours:
-
-  * Trevor's OH: TBA
+  * Trevor's OH: 4:5:30 PM in Kresge Engineering Library
 
     \(exact location may vary, will be announced on Discord\)
 
@@ -62,7 +59,7 @@ You may choose any of the two project components to complete. Both are intended 
 
 ### 2.1 Fluids
 
-This task involves assorted tasks related to fluids design in propulsion systems. 
+This task involves assorted tasks related to fluids design in propulsion systems.
 
 #### 2.1.1 - Injectors
 
@@ -99,29 +96,27 @@ The following page will be very useful in interpreting this diagram:
 
 #### 2.1.3 - Testing Procedures
 
-The testing propulsion engages in necessitates the use of detailed procedures to ensure safe and effective testing. Procedures are written to be technically adaquate, but can be hard to read and understand. Here is an example procedure written for the P&ID system above with comments in red to aid in your understanding. 
+The testing propulsion engages in necessitates the use of detailed procedures to ensure safe and effective testing. Procedures are written to be technically adaquate, but can be hard to read and understand. Here is an example procedure written for the P&ID system above with comments in red to aid in your understanding.
 
 [https://docs.google.com/document/d/1JVZ57ZGFRJqKUsU6c2CBqbC9tXLGUoygCTmqfX7sT-w/edit\#](https://docs.google.com/document/d/1JVZ57ZGFRJqKUsU6c2CBqbC9tXLGUoygCTmqfX7sT-w/edit#)
 
 After each step in this process, think about what lengths of pipe become pressurized or depressurized. What lengths of pipe are still pressurized when this process is completed? \(you dont need to present this at all, just think about it\)
 
-#### 2.1.4 - Testing the Injector 
+#### 2.1.4 - Testing the Injector
 
-The following problem is based off work that was done in Fall and Spring 2019. 
+The following problem is based off work that was done in Fall and Spring 2019.
 
-The injector design in use in this problem is a pintle injector. The flow rate of fluid through the injector is proportional to the diameter of the manufactured pintle. Using a simulation, a pintle diameter was determined and a pintle manufactured to that diameter. The initial pintle design was tested, and determined to not produce the correct and expected flow rate. 
+The injector design in use in this problem is a pintle injector. The flow rate of fluid through the injector is proportional to the diameter of the manufactured pintle. Using a simulation, a pintle diameter was determined and a pintle manufactured to that diameter. The initial pintle design was tested, and determined to not produce the correct and expected flow rate.
 
-A new pintle was produced with the aid of improved simulations. This pintle must now be tested to ensure that its flow rate is what is expected based off of the simulation. 
+A new pintle was produced with the aid of improved simulations. This pintle must now be tested to ensure that its flow rate is what is expected based off of the simulation.
 
-Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. This new procedure will reference the piping system presented above. Trevor will review your procedure, and if the procedure is adaquate you will recieve the flow rate results from the test. 
+Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. This new procedure will reference the piping system presented above. Trevor will review your procedure, and if the procedure is adaquate you will recieve the flow rate results from the test.
 
 **Deliverables**
 
-* A procedure to test the pintle ****
+* A procedure to test the pintle 
 * The final diameter of the pintle that produces the correct flow rate
   * Justification for why this final diameter is correct based on results from the test 
-
- 
 
 #### 2.1.5 - Flow coefficient
 
@@ -143,7 +138,7 @@ All deliverables should be compiled into a powerpoint/google slides presentation
 
 ### 2.2 Thrust Chamber Design and Testing
 
-This project involves design of a thrust chamber for a liuquid rocket engine, and design of a testing setup for a solid rocket motor. 
+This project involves design of a thrust chamber for a liuquid rocket engine, and design of a testing setup for a solid rocket motor.
 
 #### 2.2.1 - Thrust Chamber Design
 
@@ -193,7 +188,7 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 * A justification of your design. Factor of Safety calculations, while optional, would be nice. This can be just a quick paragraph or two explaining your thinking, possibly improvements, possible failure modes, etc.
 
 {% hint style="warning" %}
-**SolidWorks is only compatible with Windows!** If you use MacOS or Linux you have three options: 
+**SolidWorks is only compatible with Windows!** If you use MacOS or Linux you have three options:
 
 1. Use the on-campus CAD lab in Etcheverry 1st floor which has SolidWorks pre-installed.
 2. Install Windows and then install SolidWorks.
@@ -202,13 +197,13 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 
 #### 2.2.3 Engine testing
 
-You now take your engine and put it into a feed system (the feed system supplies fuel and oxidiser to the combustion chamber at the correct flow rates and pressures). A very simplified P&ID (piping and instrumentation) diagram for the feed system is shown below:
+You now take your engine and put it into a feed system \(the feed system supplies fuel and oxidiser to the combustion chamber at the correct flow rates and pressures\). A very simplified P&ID \(piping and instrumentation\) diagram for the feed system is shown below:
 
-%%<<<<<picture>>>>>>>>>
+%%&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
 
-The ball valves essentially act as on off switches - assume they all start in the ‘off’ position. The gauges display the pressure at the location they are in. The igniter produces a spark in the engine when you press a button. 
+The ball valves essentially act as on off switches - assume they all start in the ‘off’ position. The gauges display the pressure at the location they are in. The igniter produces a spark in the engine when you press a button.
 
-Develop a procedure (very precise step by step guide) for how to test the engine and measure it’s thrust output on your test stand. You may assume that no modifications to your test stand are necessary to accommodate the new feed system.
+Develop a procedure \(very precise step by step guide\) for how to test the engine and measure it’s thrust output on your test stand. You may assume that no modifications to your test stand are necessary to accommodate the new feed system.
 
 Some example steps you will need to include are: opening the ball valves, checking the readings on gauges, closing ball valves, sparking the igniter.
 
@@ -216,25 +211,22 @@ Consider the safety aspects of each step, and the order they should be done in. 
 
 Once you have completed the procedure, send it to Trevor or Sam before moving on to the next part of this problem.
 
-Next, you run your test and acquire the thrust curve below. (The thrust curve shows the thrust output of an engine as a function of time). Is the motor suitable to use in a rocket with a total mass of 25kg (assume this mass is constant throughout flight), given you are launching from a 10ft long guide rail,? (Your rocket needs to be travelling at least 50 ft/s by the end of the guide rail, and should have at least a 5:1 thrust to weight ratio). Explain your answer with words and calculations and send it to Trevor or Sam. 
+Next, you run your test and acquire the thrust curve below. \(The thrust curve shows the thrust output of an engine as a function of time\). Is the motor suitable to use in a rocket with a total mass of 25kg \(assume this mass is constant throughout flight\), given you are launching from a 10ft long guide rail,? \(Your rocket needs to be travelling at least 50 ft/s by the end of the guide rail, and should have at least a 5:1 thrust to weight ratio\). Explain your answer with words and calculations and send it to Trevor or Sam.
 
-<<<<<<<<<picture>>>>>>>>>>>>>>>>
+&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
 
 **Helpful equations:**
 
-F=ma (Force = mass * accelaration)
-<<<<picture>>>>>
- 
- 
+F=ma \(Force = mass \* accelaration\) &lt;&lt;&lt;&gt;&gt;&gt;&gt;
+
 **Deliverables:**
 
-- A procedure for testing the engine on the test stand using the provided feed system
-- An explanation on why the thrust curve does or does not work assisted by calculations
-
+* A procedure for testing the engine on the test stand using the provided feed system
+* An explanation on why the thrust curve does or does not work assisted by calculations
 
 ## Resources
 
 {% file src="../.gitbook/assets/george-p.-sutton-oscar-biblarz-rocket-propulsion-elements-2016-wiley.pdf" caption="Rocket Propulsion Elements" %}
 
-{% embed url="http://www.braeunig.us/space/propuls.htm" %}
+{% embed url="http://www.braeunig.us/space/propuls.htm" caption="" %}
 
