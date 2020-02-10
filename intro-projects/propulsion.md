@@ -200,6 +200,36 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice \(Fusion 360 is recommended as it has a lot of resources online\).
 {% endhint %}
 
+#### 2.2.3 Engine testing
+
+You now take your engine and put it into a feed system (the feed system supplies fuel and oxidiser to the combustion chamber at the correct flow rates and pressures). A very simplified P&ID (piping and instrumentation) diagram for the feed system is shown below:
+
+%%<<<<<picture>>>>>>>>>
+
+The ball valves essentially act as on off switches - assume they all start in the ‘off’ position. The gauges display the pressure at the location they are in. The igniter produces a spark in the engine when you press a button. 
+
+Develop a procedure (very precise step by step guide) for how to test the engine and measure it’s thrust output on your test stand. You may assume that no modifications to your test stand are necessary to accommodate the new feed system.
+
+Some example steps you will need to include are: opening the ball valves, checking the readings on gauges, closing ball valves, sparking the igniter.
+
+Consider the safety aspects of each step, and the order they should be done in. Putting on safety glasses, for example, should be included in the procedure. Also consider a basic bit in the procedure for what to do if it goes wrong. We are not expecting this procedure to be perfect, but want to see how you tackle the problem.
+
+Once you have completed the procedure, send it to Trevor or Sam before moving on to the next part of this problem.
+
+Next, you run your test and acquire the thrust curve below. (The thrust curve shows the thrust output of an engine as a function of time). Is the motor suitable to use in a rocket with a total mass of 25kg (assume this mass is constant throughout flight), given you are launching from a 10ft long guide rail,? (Your rocket needs to be travelling at least 50 ft/s by the end of the guide rail, and should have at least a 5:1 thrust to weight ratio). Explain your answer with words and calculations and send it to Trevor or Sam. 
+
+<<<<<<<<<picture>>>>>>>>>>>>>>>>
+
+**Helpful equations:**
+
+F=ma (Force = mass * accelaration)
+<<<<picture>>>>>
+ 
+ 
+**Deliverables:**
+
+- A procedure for testing the engine on the test stand using the provided feed system
+- An explanation on why the thrust curve does or does not work assisted by calculations
 
 
 ## Resources
