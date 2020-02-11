@@ -14,7 +14,7 @@ The project consists of two parts: an in-person component and a project componen
 
 ### Returning Members
 
-Returning members have no special requirements for Spring 2020. It is highly recomended to attend workshops and the Feed System Presenations hosted by Trevor.
+Returning members have no special requirements for Spring 2020. It is highly recommended to attend workshops and the Feed System Presentations hosted by Trevor.
 
 If you are interested in contributing to a workshop \(highly encouraged\), please contact Trevor via Discord.
 
@@ -22,8 +22,8 @@ If you are interested in contributing to a workshop \(highly encouraged\), pleas
 
 If you have any questions about any part of the question at any time \(even if it's 4AM on a weekend\), do not hesitate to reach out to the propulsion lead \(Trevor\) or the propulsion deputy \(Sam\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
 
-* Trevor's Discord: zat15 \(accessible through CalSTAR discord\)
-* Sam's Discord: Sam\_Phillips  \(accessible through CalSTAR discord\)
+* Trevor's Discord: zat15 \(accessible through STAR discord\)
+* Sam's Discord: Sam\_Phillips  \(accessible through STAR discord\)
 * Discord: in the \#propulsion channel
 * Trevor's Email: tzinky@berkeley.edu
 * Sam's Email: 
@@ -96,11 +96,11 @@ The following page will be very useful in interpreting this diagram:
 
 #### 2.1.3 - Testing Procedures
 
-The testing propulsion engages in necessitates the use of detailed procedures to ensure safe and effective testing. Procedures are written to be technically adaquate, but can be hard to read and understand. Here is an example procedure written for the P&ID system above with comments in red to aid in your understanding.
+The testing propulsion engages in necessitates the use of detailed procedures to ensure safe and effective testing. Procedures are written to be technically adequate, but can be hard to read and understand. Here is an example procedure written for the P&ID system above with comments in red to aid in your understanding.
 
 [https://docs.google.com/document/d/1JVZ57ZGFRJqKUsU6c2CBqbC9tXLGUoygCTmqfX7sT-w/edit\#](https://docs.google.com/document/d/1JVZ57ZGFRJqKUsU6c2CBqbC9tXLGUoygCTmqfX7sT-w/edit#)
 
-After each step in this process, think about what lengths of pipe become pressurized or depressurized. What lengths of pipe are still pressurized when this process is completed? \(you dont need to present this at all, just think about it\)
+After each step in this process, think about what lengths of pipe become pressurized or depressurized. What lengths of pipe are still pressurized when this process is completed? \(you don't need to present this at all, just think about it\)
 
 #### 2.1.4 - Testing the Injector
 
@@ -110,7 +110,7 @@ The injector design in use in this problem is a pintle injector. The flow rate o
 
 A new pintle was produced with the aid of improved simulations. This pintle must now be tested to ensure that its flow rate is what is expected based off of the simulation.
 
-Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. This new procedure will reference the piping system presented above. Trevor will review your procedure, and if the procedure is adaquate you will recieve the flow rate results from the test.
+Create a procedure that can be used to test the pintle, and when done send a message to Trevor on Discord that includes your new testing procedure. This new procedure will reference the piping system presented above. Trevor will review your procedure, and if the procedure is adequate you will receive the flow rate results from the test.
 
 **Deliverables**
 
@@ -120,7 +120,7 @@ Create a procedure that can be used to test the pintle, and when done send a mes
 
 #### 2.1.5 - Flow coefficient
 
-The flow coefficient of a component, often denoted Cv, is a very useful measure of its behaviour in the feed system.
+The flow coefficient of a component, often denoted Cv, is a very useful measure of its behavior in the feed system.
 
 Describe what the flow coefficient is, and explain why it is important to look at the flow coefficient of components when selecting them.
 
@@ -138,7 +138,7 @@ All deliverables should be compiled into a powerpoint/google slides presentation
 
 ### 2.2 Thrust Chamber Design and Testing
 
-This project involves design of a thrust chamber for a liuquid rocket engine, and design of a testing setup for a solid rocket motor.
+This project involves design of a thrust chamber for a liquid rocket engine, and design of a testing setup for a solid rocket motor.
 
 #### 2.2.1 - Thrust Chamber Design
 
@@ -197,9 +197,9 @@ This is an intentionally open-ended mechanical design task. The purpose is to ex
 
 #### 2.2.3 Engine testing
 
-You now take your engine and put it into a feed system \(the feed system supplies fuel and oxidiser to the combustion chamber at the correct flow rates and pressures\). A very simplified P&ID \(piping and instrumentation\) diagram for the feed system is shown below:
+You now take your engine and put it into a feed system \(the feed system supplies fuel and oxidizer to the combustion chamber at the correct flow rates and pressures\). A very simplified P&ID \(piping and instrumentation\) diagram for the feed system is shown below:
 
-%%&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+![Simplified P&amp;ID](../.gitbook/assets/slide1.JPG)
 
 The ball valves essentially act as on off switches - assume they all start in the ‘off’ position. The gauges display the pressure at the location they are in. The igniter produces a spark in the engine when you press a button.
 
@@ -213,11 +213,13 @@ Once you have completed the procedure, send it to Trevor or Sam before moving on
 
 Next, you run your test and acquire the thrust curve below. \(The thrust curve shows the thrust output of an engine as a function of time\). Is the motor suitable to use in a rocket with a total mass of 25kg \(assume this mass is constant throughout flight\), given you are launching from a 10ft long guide rail,? \(Your rocket needs to be travelling at least 50 ft/s by the end of the guide rail, and should have at least a 5:1 thrust to weight ratio\). Explain your answer with words and calculations and send it to Trevor or Sam.
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+![Thrust-time Curve](../.gitbook/assets/graphs.jpg)
 
 **Helpful equations:**
 
-F=ma \(Force = mass \* accelaration\) &lt;&lt;&lt;&gt;&gt;&gt;&gt;
+F=ma \(Force = mass \* acceleration\)
+
+![Helpful equations](../.gitbook/assets/suvat-equations.png)
 
 **Deliverables:**
 

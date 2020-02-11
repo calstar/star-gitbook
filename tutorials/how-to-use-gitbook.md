@@ -13,14 +13,14 @@ All members are encouraged to contribute to our project documentation! After set
 ## Draft Descriptions
 
 {% hint style="danger" %}
-After making a ****change \(new draft\), **you must describe changes** with a short message **by clicking on "Describe this draft"** in the Drafts section in the sidebar **and writing a brief description.**
+After making a **\*\*change \(new draft\),** you must describe changes **with a short message** by clicking on "Describe this draft" **in the Drafts section in the sidebar** and writing a brief description.\*\*
 {% endhint %}
 
 ![See the section below &quot;Creating Drafts&quot; if you don&apos;t have this sidebar visible](../.gitbook/assets/drafts.PNG)
 
-Now that you've read this section, you can first follow the join link here: [https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3](https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3)  
-  
-Then message @rebeccab#5741 on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
+Now that you've read this section, you can first follow the join link here: [https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3](https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3)
+
+Then message @rebeccab\#5741 on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
 
 ## Creating a draft
 
@@ -28,7 +28,7 @@ To start editing a GitBook page, first go to [https://www.gitbook.com/](https://
 
 ![](../.gitbook/assets/gitbook1.PNG)
 
-Once at your dashboard, select which space you'd like to edit \(this one is called STAR\) 
+Once at your dashboard, select which space you'd like to edit \(this one is called STAR\)
 
 ![](../.gitbook/assets/gitbook2.PNG)
 
@@ -47,8 +47,8 @@ If you fall into Case 2, you are welcome to simply publish your draft by clickin
 
 ## For any and mostly all questions
 
-Please reference the GitBook documentation here; it should contain complete instructions on everything there is to know about GitBook: [**https://docs.gitbook.com/**](https://docs.gitbook.com/)  
-****  
+Please reference the GitBook documentation here; it should contain complete instructions on everything there is to know about GitBook: [**https://docs.gitbook.com/**](https://docs.gitbook.com/)
+
 Specifically, for basic instructions for editing see: [https://docs.gitbook.com/content-editing/markdown](https://docs.gitbook.com/content-editing/markdown)
 
 ## Summary of the essentials
@@ -56,7 +56,7 @@ Specifically, for basic instructions for editing see: [https://docs.gitbook.com/
 * To add a new page, click "+ Add New Page" on the left sidebar or mouse over an existing section or page and click the " $$\cdots$$ " button to add a new page under an existing section
 * All content is contained in cards; to create a new card: mouse over the empty space below existing content and click the '+' button
 * To rearrange cards: drag the square icon with 9 dots up or down
-* To create **bold**, ****_italic_, ~~strikethrough~~, or `code` text: in paragraph/heading mode, highlight a section of text and mouse over it to see options. **Ctrl+B** and _Ctrl+I_ also work as shortcuts.  
+* To create **bold**, **\*\***_**italic**_**,** ~~**strikethrough**~~**, or `code` text: in paragraph/heading mode, highlight a section of text and mouse over it to see options.** Ctrl+B\*\* and _Ctrl+I_ also work as shortcuts.  
 
 ![Basic features](../.gitbook/assets/formatting.png)
 
