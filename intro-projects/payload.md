@@ -24,7 +24,7 @@ Above all, we hope that the intro project will be a fun and rewarding experience
 
 Checkpoints Schedule:
 
-* By week of 10/01/19 - Design Stage Complete
+* By week of 2020-02-25 - Design Stage Complete
 * By following meeting - Manufacturing files complete
 
 ### Objective Outline
