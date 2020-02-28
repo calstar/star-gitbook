@@ -42,11 +42,11 @@ If there are issues with the above commands regarding permissions, you may have 
 
 If you are compiling for the first time, you will need to first install mbed-os. `vagrant ssh` to connect to Vagrant and then run:
 
-`cd ~ && mkdir mbed && cd mbed && git clone https://github.com/ARMmbed/mbed-os.git`
+`cd ~ && mkdir -p mbed && cd mbed && git clone https://github.com/ARMmbed/mbed-os.git`
 
 `cd mbed-os/ && git checkout mbed-os-5.15 && cd /vagrant && mbed config -G MBED_OS_DIR /home/vagrant/mbed/mbed-os`
 
-Add `--source /home/vagrant/mbed` to the Makefile you are compiling from.
+Add `--source . --source /home/vagrant/mbed` to the Makefile you are compiling from.
 
 Make sure ~/mbed/mbed-os is the only mbed-os folder you have in your projects otherwise you will get this: `[ERROR] Library name 'device_key' is not unique` when trying to compile
 
