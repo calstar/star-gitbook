@@ -33,6 +33,13 @@ Part of this will be guided, showing basic KiCad usage, but other parts of the s
 
 First, download the zip file above. It will contain two folders: `intro_proj` and `lib`. The `intro_proj` folder contains a KiCad project which you will complete. In this section you will complete the schematic. The `lib` folder contains schematic symbols and component footprints you will need.
 
+I highly recommend looking at some of the following schematics to get a feel for how they generally should look. However, don't feel the need to make yours this polished \(in particular comments and bounding boxes\).
+
+* [CalSTAR Groundstation](https://cadlab.io/project/2325/master/circuit/Z3JvdW5kLXN0YXRpb24vZ3JvdW5kLXN0YXRpb24uc2No)
+* [CalSTAR Blackbox](https://cadlab.io/project/2320/master/circuit/YmxhY2tib3gtbmcvYmxhY2tib3gtbmcuc2No)
+
+
+
 #### Setting up libraries
 
 In `intro_proj`, open up `intro_proj.pro`, the KiCad project. We will now make sure that the calstar schematic symbol library in `lib` is included.
@@ -181,6 +188,11 @@ Resources
 
 In this part, you will learn to read datasheets for the reference layout designs, and then complete a two-layer board layout of the schematic from the previous step in KiCad.
 
+Again, I highly recommend looking at the below layouts as a guide:
+
+* [CalSTAR Groundstation](https://cadlab.io/project/2325/master/circuit/Z3JvdW5kLXN0YXRpb24vZ3JvdW5kLXN0YXRpb24ua2ljYWRfcGNi)
+* [CalSTAR Blackbox](https://cadlab.io/project/2320/master/circuit/YmxhY2tib3gtbmcvYmxhY2tib3gtbmcua2ljYWRfcGNi)
+
 #### Setting up libraries
 
 Just as we set up KiCad to include a calstar schematic symbol library, we will now set up kicad to include a calstar component footprint library. This includes a custom footprint for the BMP388 pressure sensor since its exact package did not have an existing footprint in KiCad's own libraries.
@@ -216,6 +228,10 @@ At this point, to understand what is going on in the above picture, read the fol
 Before continuing to actually drawing traces and placing components, you must setup the board and rule checker. Here, you set options such as the number of copper layers in the board, the board thickness, minimum trace thickness, trace clearances, via sizes, etc. These will affect how you can place components and route traces in the board. Many of these values depend on our fabrication house capabilities \([https://bayareacircuits.com/capabilities/](https://bayareacircuits.com/capabilities/), we stick to standard\), while others such as board thickness are derived from considerations of our radio.
 
 Hit the `Board setup` button to input these values. 
+
+{% hint style="warning" %}
+The unit `mil` is one thousandth of an inch!
+{% endhint %}
 
 ![Board Setup](../.gitbook/assets/image%20%2887%29.png)
 
