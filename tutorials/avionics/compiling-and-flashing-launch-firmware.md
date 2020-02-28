@@ -42,7 +42,7 @@ If there are issues with the above commands regarding permissions, you may have 
 
 If you are compiling for the first time, you will need to first install mbed-os. `vagrant ssh` to connect to Vagrant and then run:
 
-`cd ~ && mkdir mbed && cd mbed && git clone git@github.com:ARMmbed/mbed-os.git`
+`cd ~ && mkdir mbed && cd mbed && git clone https://github.com/ARMmbed/mbed-os.git`
 
 `git checkout mbed-os-5.15 && cd /vagrant && mbed config -G MBED_OS_DIR /home/vagrant/mbed/mbed-os`
 
