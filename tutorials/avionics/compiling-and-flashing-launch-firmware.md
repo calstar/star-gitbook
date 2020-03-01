@@ -18,12 +18,6 @@ Or, if you have your ssh keys set up on your laptop and shared to Github, run
 $ git clone git@github.com:/calstar/firmware-launch.git
 ```
 
-### C++ Settings
-
-Our launch firmware uses flatbuffers, which requires the c++14 compile standard. To change these settings, ensure you are in your VM then enter the `/firmware-launch/mbed-os/tools/profiles` directory. Edit the three json files. Under `GCC_ARM` and `cxx,`change the `-std`flag to be `c++14`. When you are done, the three json files should look something like this at the top:
-
-![](../../.gitbook/assets/c++.JPG)
-
 ### Git Submodules
 
 All libraries are stored in a separate repository for ease of updating libraries across different repos. After you clone a repo, you will have to run the following to download the tools. Run these commands from the working directory of the repo \(eg for the repo `firmware-launch`, run from `/vagrant/firmware-launch`\).
@@ -53,6 +47,12 @@ Make sure ~/mbed/mbed-os is the only mbed-os folder you have in your projects ot
 {% hint style="warning" %}
 If `mbed deploy` fails with a message like `could not resolve host: github.com`, try following answers on this stackoverflow post: [https://serverfault.com/questions/453185/vagrant-virtualbox-dns-10-0-2-3-not-working](https://serverfault.com/questions/453185/vagrant-virtualbox-dns-10-0-2-3-not-working). In particular the answers on this post wil resolve DNS issues. If, within the VM, `ping 1.1.1.1` works but not `ping google.com` this may indicate a DNS issue.
 {% endhint %}
+
+### C++ Settings
+
+Our launch firmware uses flatbuffers, which requires the c++14 compile standard. To change these settings, ensure you are in your VM then `cd /home/vagrant/mbed-os/tools/profiles` directory. Edit the three json files. Under `GCC_ARM` and `cxx,`change the `-std`flag to be `c++14`. When you are done, the three json files should look something like this at the top:
+
+![](../../.gitbook/assets/c++.JPG)
 
 ### Compiling
 
