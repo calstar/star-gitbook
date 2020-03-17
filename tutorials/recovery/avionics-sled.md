@@ -25,7 +25,7 @@ The goals of the redesign of the avionics sled for the IREC 2020 rocket were the
 
 The new chosen design was an I-beam model, in which the batteries were placed in a center section of the sled and one altimeter was mounted to each side, as shown below. This design somewhat improved the space usage in the vertical direction, but there was significant unused horizontal space. The Recovery subteam selected this design because they felt it was more important to be able to wire the altimeters efficiently at launch than to use the least possible space. 
 
-![Avionics Sled as viewed from back. Batteries are placed in middle centrals and the second altimeter is in the corresponding position on the other side of the sled.](../../.gitbook/assets/image%20%2857%29.png)
+![Avionics Sled as viewed from back. Batteries are placed in middle centrals and the second altimeter is in the corresponding position on the other side of the sled.](../../.gitbook/assets/image%20%2858%29.png)
 
 ![CAD demonstrating how sled slides into avionics bay](../../.gitbook/assets/image%20%284%29.png)
 

@@ -86,7 +86,7 @@ Once this is complete, run `$ vagrant reload`. At least on Windows, you may be a
 
 Once all this is done, run `vagrant reload` and continue. This should dramatically improve compile times.
 
-![An example Vagrantfile on Windows](../../.gitbook/assets/image%20%2861%29.png)
+![An example Vagrantfile on Windows](../../.gitbook/assets/image%20%2862%29.png)
 
 Linux: if you get an error saying "A host only network interface you're attempting to configure via DHCP already has a conflicting host only adapter with DHCP enabled." Run `VBoxManage dhcpserver remove --netname HostInterfaceNetworking-vboxnet0` and then `vagrant reload`
 
@@ -138,7 +138,7 @@ This should give you something like the following if it compiled successfully.
 
 Find libraries by searching in the search bar on mbed's website. Then, once on a library's page, look at the box titled "Repository toolbox" and select the down arrow on the yellow "Import into Compiler" button.
 
-![Click the down arrow for more options](../../.gitbook/assets/image%20%2843%29.png)
+![Click the down arrow for more options](../../.gitbook/assets/image%20%2844%29.png)
 
 Then select "Import with mbed CLI" and copy the command listed.
 

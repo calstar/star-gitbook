@@ -72,7 +72,7 @@ A check valve is a one-way valve that lets flow in one direction but not in the 
 
 It is **critical** that check valves be inspected to ensure that they are mounted in the right direction.
 
-![P&amp;ID symbol for a check valve \(Flow goes from left to right in this case\)](../../.gitbook/assets/image%20%2880%29.png)
+![P&amp;ID symbol for a check valve \(Flow goes from left to right in this case\)](../../.gitbook/assets/image%20%2881%29.png)
 
 ### Regulator
 
@@ -103,7 +103,7 @@ Some of these have an issue where the knob is very badly fixed with illegitimate
 
 The remote line is the assembly of the UFA with the black flexible tubing.
 
-![A remote line assembly \(note that the right end will look different in our case, since we just use the NPT threading\)](../../.gitbook/assets/image%20%2839%29.png)
+![A remote line assembly \(note that the right end will look different in our case, since we just use the NPT threading\)](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Pressure Gauge
 
@@ -137,7 +137,7 @@ Always make sure Quick Disconnects are are properly connected! They are tricky a
 
 We buy relief valves from Swagelok®. These valves work using a calibrated spring, which under a certain pressure, will allow fluid to flow through the valve. We use these as safety devices, to ensure a safe depressurization in the case of over-pressurization. It is important that the these vents be kept clear of personnel and high-pressure tanks at all times when the system is pressurized.
 
-![This symbol is sometimes used for a relief valve](../../.gitbook/assets/image%20%2858%29.png)
+![This symbol is sometimes used for a relief valve](../../.gitbook/assets/image%20%2859%29.png)
 
 ![A Swagelok&#xAE; relief valve](../../.gitbook/assets/image%20%2824%29.png)
 

@@ -36,7 +36,7 @@ You've now successfully created a GrabCAD account!
 
 CalSTAR parts do not currently have a set naming convention. **However, please follow common sense while naming CAD files; everyone should be able to have a good idea of what a file contains without having to open it.** A part named "Assembly.SLDASM", for example, might be better named as "RecoveryMainBulkhead.SLDASM". It is not necessary to include the project name for every file, and may not be necessary to include the subteam \("ThrustChamber.SLDPRT", for example, is unambiguous\). If you have questions, just ask in \#operations!
 
-**Message the email you used to sign up for GrabCAD to the Operations Lead \(@rebeccab#5741\) along with a copy of the previous paragraph on naming to obtain an invitation to CalSTAR's GrabCAD page.** Let them know which projects you need access to, if possible.
+**Message the email you used to sign up for GrabCAD to the Operations Lead \(@rebeccab\#5741\) along with a copy of the previous paragraph on naming to obtain an invitation to CalSTAR's GrabCAD page.** Let them know which projects you need access to, if possible.
 
 ## 3. Downloading the GrabCAD desktop application
 

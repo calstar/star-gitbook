@@ -169,7 +169,7 @@ Just like any other subteam, our work requires the design and construction of ma
 
 In this task, you will design a test stand for testing small solid motors. Test stands are used to fire the motor while it is static on the ground. Test stands help verify motor design and test key features of any propulsion systems. Common features of test stands include thrust measuring devices, safety features, and, obviously, motor systems. In this project, you will design a small test stand intended to test fire solid model rocket motors up to a “G” class. Your design of this should ideally maximize safety and measurement accuracy, while minimizing costs and complexity.
 
-![A small solid rocket motor of the type to be tested on your stand](../.gitbook/assets/image%20%2853%29.png)
+![A small solid rocket motor of the type to be tested on your stand](../.gitbook/assets/image%20%2854%29.png)
 
 {% hint style="info" %}
 This is an intentionally open-ended mechanical design task. The purpose is to exercise your ability to think about problems and create mechanical solutions. If you don’t know where to start, try searching online for rocket motor test stands to get some inspiration.

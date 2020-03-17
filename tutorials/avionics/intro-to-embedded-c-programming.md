@@ -162,11 +162,11 @@ This produces the mask 0b11111101.
 
 Often, each bit in a register can signify different settings for the microcontroller, and is given a name.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 In the I2C control register \(TWCR\), each bit \(excluding bit 1\) defines a setting of I2C. The datasheet defines the purpose of each bit. Below is the definition of bit 2, TWEN.
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../.gitbook/assets/image%20%2889%29.png)
 
 TWEN defines whether I2C is enabled or not. I can set this bit using the bit shifting, ANDing, ORing, and NOTing operations.
 

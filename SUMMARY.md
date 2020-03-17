@@ -19,6 +19,7 @@
     * [L1 and L2 Certification Tips & Tricks](tutorials/general-tutorials/l1-and-l2-certification-tips-and-tricks.md)
   * [Airframe](tutorials/airframe/README.md)
     * [Assembling a Rocket](tutorials/airframe/assembling-a-rocket.md)
+    * [Tube Attachement](tutorials/airframe/tube-attachement.md)
     * [OpenRocket](tutorials/airframe/airframe-openrocket.md)
     * [Tube Winding](tutorials/airframe/tube-winding-general-procedure.md)
     * [Attaching Fins](tutorials/airframe/attaching-fins.md)
