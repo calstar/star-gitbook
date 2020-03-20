@@ -233,7 +233,7 @@ Hit the `Board setup` button to input these values.
 The unit `mil` is one thousandth of an inch!
 {% endhint %}
 
-![Board Setup](../.gitbook/assets/image%20%2888%29.png)
+![Board Setup](../.gitbook/assets/image%20%2889%29.png)
 
 | Measurement | Value |
 | :--- | :--- |
@@ -252,7 +252,7 @@ First select the `Edge.Cuts` layer where you will draw the boundaries of the boa
 
 Now select `Add graphic lines` from the right toolbar and draw a roughly 1.5 inch by 1.5 inch square around the components. This will be more space than needed for this board, but you can later adjust the edges to different aspect ratios if you wish. Hold `Ctrl` to make the lines go straight, and look in the bottom left to see length of segment.
 
-![Add graphic lines](../.gitbook/assets/image%20%2887%29.png)
+![Add graphic lines](../.gitbook/assets/image%20%2888%29.png)
 
 You should end up with something like the following.
 
@@ -276,7 +276,7 @@ Now go to `B.Cu` \(Back Copper\) and do the same to end up with below, but make 
 
 It can get annoying with the pour always showing, so know that these three buttons on the left toolbar can change the viewing options of pours. Also, hit `B` to update copper pours when you move around components.
 
-![Change pour viewing options](../.gitbook/assets/image%20%2891%29.png)
+![Change pour viewing options](../.gitbook/assets/image%20%2892%29.png)
 
 {% hint style="info" %}
 Remember to think about solderability! How close are you placing components to another? Would you be able to get tweezers and a soldering iron in there? Consider the height of components too.
@@ -288,7 +288,7 @@ Now for the fun part, to move all the components and route traces between them. 
 
 To place vias, to bring traces to the back of the board and route them there if necessary, or connect the front ground plane to the back ground plane, hit the following button that is right below `Route trace`.
 
-![Add vias](../.gitbook/assets/image%20%2890%29.png)
+![Add vias](../.gitbook/assets/image%20%2891%29.png)
 
 Not everything is free-form though. A major guideline is to put the capacitors that go between `VDD` and `VSS` on components right next to the `VDD/VSS` pairs, as in the example below.
 
