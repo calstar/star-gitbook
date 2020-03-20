@@ -33,7 +33,7 @@ You have now successfully installed Galacticraft
 ## Joining the Server
 
 * [ ] Message in the STARcraft discord, including your Minecraft username, in order to be whitelisted.
-* [ ] Start up Minecraft again, click 'Multiplayer Menu' and then 'Direct Connect'. The server address is gw.ld-cd.net
+* [ ] Start up Minecraft again, click 'Multiplayer Menu' and then 'Direct Connect'. Message in Discord for the server address.
 
 {% hint style="success" %}
 You are now on the STARcraft server!
