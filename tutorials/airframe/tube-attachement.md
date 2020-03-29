@@ -60,7 +60,7 @@ It is certainly possible to epoxy an ordinary hex nut \(see: [Fasteners](../manu
 
 Nut plates and weld nuts essentially refer to the same thing: a normal nut, but attached to a wide base that permanently attaches to a surface. Once the weld nut is attached to a surface, it offers female threads for a removable but secure attachment \(similar to a [threaded insert](../manufacturing/general-fasteners.md#threaded-inserts)\). Traditionally in aerospace \(especially planes!\), nut plates are attached to a surface with rivets while weld nuts \(more common in cars\) are literally welded to a surface. "Adhesive-mount nuts" are also sold with the explicit purpose of being attached with an adhesive, although most weld nuts/ nut plates are fine to use with epoxy.
 
-![A selection of weld nuts on McMaster-Carr](../../.gitbook/assets/image%20%2836%29.png)
+![A selection of weld nuts on McMaster-Carr: https://www.mcmaster.com/nut-plates](../../.gitbook/assets/image%20%2836%29.png)
 
 To use a weld nut or nut plate with epoxy for a coupler-body tube interface, follow these rough steps \(also see below for references with pictures\):
 
