@@ -13,9 +13,12 @@ description: Sounds tasty
 | Grant Posner | KM6JLF | General |
 | Celine Veys | KM6JJI | Technician |
 | Dinesh Parimi | KM6QGT | Technician |
-| Neelay Junnarkar | KM6UCS | Technician |
+| Neelay Junnarkar | KM6IGI | General |
 | Aditya Sengupta | KM6YCN | Technician |
 | Leo Adberg | KM6QGP | Technician |
 | Jenya Pryadkin | KG5JXW | Technician |
 | Wendy Yang | KN6CKY | Technician |
+| Jason Xu | KN6IGE | General |
+
+
 
