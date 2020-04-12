@@ -6,7 +6,8 @@ The individual launch pages should contain photos, description of off-nominal pr
 
 | Launch Date | Launch Purpose | Location | Apogee | Motor | Summary & Notable Events |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2019-11-16 | AirBears First Flight | TCC, Del Norte, CA | 4509 ft | K805G | Nominal flight, successful main and drogue deployment. Carried paylaods from the Payload and Avionics sub-teams. |
+| 2020-02-15 | AirBears Second Flight | TCC, Del Norte, CA | 7752 ft | L1150R | Nominal flight, successful main and drogue deployment. Successfully located with GPS data from Avionics payload. |
+| 2019-11-16 | AirBears First Flight | TCC, Del Norte, CA | 4509 ft | K805G | Nominal flight, successful main and drogue deployment. Carried payloads from the Payload and Avionics sub-teams. |
 | 2019-04-20 | Avionics Test Launch | TCC, Del Norte, CA | 4572 ft | J450DM | Successful launch of Sub-Arktos, with custom avionics payload. First launch with TCC. |
 | 2018-03-25 | FRR Re-re-flight, NASA SL 2018 | SARA, Marana, AZ |  | L1030 | Rapid unscheduled disassembly of Arktos, but successful parachute deployment and recovery. |
 | 2018-03-10 | FRR Re-flight, NASA SL 2018 | LUNAR, Farmington, CA |  | L990 | Arktos main parachute failed to deploy. |
