@@ -4,39 +4,11 @@ description: Design tips for High Power Rocketry
 
 # HPR Design
 
-## Kits vs. Custom Design:
-
-* Kits are easier, and come with instructions
-* Kits may also be cheaper
-* If you design your own rocket, you will probably learn more -- but it does take more effort.
-* Use [OpenRocket](http://openrocket.info/) to design and simulate your rocket!
-
-## Where to Get Stuff
-
-* Kits:
-  * [MAC Performance Rocketry](https://macperformancerocketry.com/)
-  * [Madcow Rocketry](https://www.madcowrocketry.com/)
-* Parts:
-  * [Bay Area Rocketry](http://bayarearocketry.com/)
-    * Buy motors here.
-    * They have L1 and L2 specials: a specific motor that they select, along with the motor casing.
-      * Currently the [L1 special](http://bayarearocketry.com/product/bar-cert-l1/) is an Aerotech H128W motor.
-      * Currently the [L2 special](http://bayarearocketry.com/product/bar-cert-l2/) is an Aerotech J350W motor.
-    * We have a 38mm Aerotech casing!  \(RMS-38/240\)
-  * [Apogee Components](https://www.apogeerockets.com/)
-    * Like a Walmart of rocketry. They’ve got pretty much anything you need!
-  * [Public Missiles Ltd.](https://publicmissiles.com/)
-    * Their website sucks \(seriously, was it build in the 50’s?\).
-    * Motor mounts, custom fiberglass fins, and more.
-    * 10% Discount Code: Email them, they give universities a discount
-  * [Fruity Chutes](https://fruitychutes.com/)
-    * High quality parachutes \(will pack lighter and smaller\), but pricey.
-    * 15% Discount Code: BERKELEY-WS-2017-15
-  * [Giant Leap Rocketry](https://giantleaprocketry.com/)
-
 ## Articles to Read:
 
-* TODO
+Search \[topic\] + "apogee newsletter" and you can often find great results
+
+* Specific articles coming soon
 
 ## Design Check:
 
@@ -77,26 +49,4 @@ description: Design tips for High Power Rocketry
 * Motor mount:
   * Usually a phenolic tube; may be fiberglass.
   * Design around the length of the motor\(s\) you plan on using.
-
-## Painting Rockets
-
-Rustoleum 2-in-1 Paint+Primer has worked fine in the past; generally people use spray paint to paint rockets.
-
-{% hint style="danger" %}
-Always wear a P100 respirator when using spray paint! Spray paint can cause serious lung damage, brain damage, cancer, and more.
-{% endhint %}
-
-{% hint style="info" %}
-Environmental conditions matter when it comes to paint. Ideally, paint on a dry day with no wind and a relatively comfortable temperature. If there is wind, paint such that the part is downwind of the can/you. Colder temperatures may mean you will have to wait much longer for paint to dry. Excessive humidity can also affect your finish; try to avoid painting when it is raining or about to rain.
-{% endhint %}
-
-1. Prepare surfaces for painting. For fiberglass parts, this means clean with isopropyl alcohol / water mixture, sand lightly with 100+ grit sandpaper, and then clean off dust with tack cloth or more IPA mixture.
-2. Apply a light coat of "primer" \(may also be paint+primer\). No need to use the same color that your final coat will be, but choose a light primer color if you want a light-colored part.
-3. Apply one to two more light coats of primer, waiting about a minute in between each coat. Do not worry about completely covering all spots, but do your best to apply a thin, even coat. Follow the instructions on the can with respect to distance from the part.
-4. Wait the required amount of time \(usually 24 hours\) for the base coat to dry
-5. Apply 2-3 coats of the final color you want, about one minute apart. Do  your best to avoid spending too long on one spot; it's easy to apply another coat, but it's hard to undo a puddle or run!
-6. Wait 24-48 hours for the outer coat to dry
-7. Apply 2-3 light coats of clear coat, moving _slightly_ more slowly on the last coat to achieve a glossy finish. The clear coat will protect the paint underneath. 
-
-
 
