@@ -11,7 +11,7 @@ description: >-
 
 ### Who are we?
 
-We are UC Berkeley's competitive rocketry team. We build rockets! Our mission is to enable students from all majors and backgrounds passionate in aerospace to gain hands-on experience through real-world projects. As part of STAR, members can expect to develop a set of valuable engineering skills, including experience with manufacturing, 3D CAD, simulation, project management and more. For more information, check out our website at [https://stars.berkeley.edu/](https://stars.berkeley.edu/)!
+We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our mission is to enable students from all majors and backgrounds passionate in aerospace to gain hands-on experience through real-world projects. As part of STAR, members can expect to develop a set of valuable engineering skills, including experience with manufacturing, 3D CAD, simulation, project management and more. For more information, check out our website at [https://stars.berkeley.edu/](https://stars.berkeley.edu/)!
 
 ### What are the subteams? 
 
@@ -25,22 +25,28 @@ We are UC Berkeley's competitive rocketry team. We build rockets! Our mission is
 
 #### **Non-Hardware Subteams**
 
-* Finance
-* Media
 * Operations
-* Outreach
 * Simulations
 * Systems
+* Finance
+* Outreach
+* Media
 
 ### Our projects 
 
+**Ursa Minor:** subscale for our entry in NASA Student Launch 2017
+
 **Ursa:** our entry in NASA Student Launch 2017
+
+**Sub-Arktos:** subscale for our entry in ****NASA Student Launch 2018
 
 **Arktos:** our entry in ****NASA Student Launch 2018
 
 **AirBears:** our 4" diameter test rocket, launched in Fall 2019
 
-IREC20: yet-to-be-named 2020 launch vehicle, intended for IREC 2020
+**Bear Force One:** 2020 launch vehicle, intended for IREC 2020 \(competition cancelled due to COVID-19\)
+
+**LE-175 "Hot Take":** our liquid engine LOX/Kersoene test article
 
 Check the website for more details, as well as our[ Launch History](history-of-the-team/launch-history/).
 
@@ -152,16 +158,6 @@ We are building a prototype liquid bi-propellant engine. Design work in progress
 
 We are developing a novel stage separation mechanism, as well as managing the recovery of all launch vehicles in development.
 
-### Simulations
-
-#### What does simulations do? 
-
-* Responsible for Design Verification and Concept Check 
-  * Using ANSYS, SimScale, hand calculations, and other computation software
-* Simulating flight trajectories and fluid dynamics 
-* Stress analysis and hazard identification 
-* Analysis of sensor data from flights
-
 ### Operations
 
 #### What does Operations do? 
@@ -182,4 +178,16 @@ We are developing a novel stage separation mechanism, as well as managing the re
 Having experience working with project documentation is a highly sought-after skill by employers of all kinds. Being able to maintain docs for your project shows that you are organized and capable of communicating your ideas with others. Furthermore, tools like checklists, FMEA/FMECA, and especially unit and integration testing are used heavily in industry, and the Ops team is a great way to get familiar with these early on in your career!
 
 If you're more interested in the safety side of Ops, learning how to work safely with dangerous materials and devices can be a great experience for those looking for or already participating in research or work using lasers, cryogens, high-pressure systems, composites, flammables, etc.
+
+### Simulations
+
+#### What does simulations do? 
+
+* Responsible for Design Verification and Concept Check 
+  * Using ANSYS, SimScale, hand calculations, and other computation software
+* Simulating flight trajectories and fluid dynamics 
+* Stress analysis and hazard identification 
+* Analysis of sensor data from flights
+
+### 
 
