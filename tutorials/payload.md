@@ -7,3 +7,9 @@ description: >-
 
 # Payload
 
+Most of the tutorials under Manufacturing have been written by Payload members for Payload applications:
+
+{% page-ref page="manufacturing/" %}
+
+
+
