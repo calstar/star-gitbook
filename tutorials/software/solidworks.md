@@ -1,7 +1,7 @@
 ---
 description: >-
   SolidWorks (also written as SOLIDWORKS) is a 3D Computer-Aided Design (CAD)
-  program. CalSTAR uses SolidWorks for a large portion of our design work.
+  program. STAR uses SolidWorks for a large portion of our design work.
 ---
 
 # SolidWorks Installation
@@ -18,10 +18,10 @@ Before starting, make sure you have a fast, reliable internet connection and eno
 
 ### SolidWorks Student Design Kit \(SDK\)
 
-SolidWorks SDK is a free version that includes SolidWorks Standard. If you need fluid simulation capability or any feature of SolidWorks Premium, contact a lead for a SolidWorks Engineering Kit \(SEK\) license.
+SolidWorks SDK is a free version that includes SolidWorks Standard. If you need fluid simulation capability or any feature of SolidWorks Premium, contact a lead for a SolidWorks Engineering Kit \(SEK\) license. A comparison matrix can be found [here](https://www.solidworks.com/sw/docs/Student_Access_Product_Matrix_LB.pdf); 98% of STAR users are currently using SDK and all production CAD must adhere to the SDK feature set unless an exception is requested.
 
 {% hint style="danger" %}
-CalSTAR currently uses SolidWorks **2019**! You may have multiple versions of SolidWorks installed, but please use SolidWorks 2019 \(also called **2019-2020**\) for all CalSTAR work. Note that installation is _smoothest_ if you uninstall all other versions of SolidWorks before starting; post in \#operations if you encounter issues.
+STAR currently uses SolidWorks **2019**! You may have multiple versions of SolidWorks installed, but please use SolidWorks 2019 \(also called **2019-2020**\) for all STAR work. Note that installation is _smoothest_ if you uninstall all other versions of SolidWorks before starting; post in \#operations if you encounter issues.
 {% endhint %}
 
 To download SolidWorks SDK, navigate to [http://www.solidworks.com/sw/education/SDL\_form.html](http://www.solidworks.com/sw/education/SDL_form.html). Mark "No" that you do not have a serial number and then enter "**9SDK2019**". Select the desired version from the dropdown. Fill out your email and select "Student Team" from the dropdown.
