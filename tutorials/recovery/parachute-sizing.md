@@ -14,7 +14,7 @@ For parachute purchasing, Recovery typically sources from FruityChutes. They als
 
 ### Parachute Deployment Scheme
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 This is the order of recovery. Note the order of deployment and location. 
 

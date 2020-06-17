@@ -458,7 +458,9 @@ Some useful books and articles are compiled in the table below.
         <td style="text-align:left">Properties of epoxy-glass microballoon potting compounds</td>
     </tr>
   </tbody>
-</table>## Suppliers List
+</table>
+
+## Suppliers List
 
 This is a rough and incomplete list of composites-specific suppliers that may be used.
 

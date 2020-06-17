@@ -1,6 +1,6 @@
 # 8020 Extrusions
 
-![An 8020 1010 series extrusion](../../.gitbook/assets/image%20%2884%29.png)
+![An 8020 1010 series extrusion](../../.gitbook/assets/image%20%2883%29.png)
 
 ## First things first
 
@@ -18,7 +18,7 @@ The most useful part of this page is probably the Tips and Tricks section at the
 
 8020 is a brand of Aluminum extrusions. "Extrusions" just means that they are parts with a constant cross section that are extruded through a dye in their manufacturing process. 8020 sells an entire product ecosystem that revolves around their "T-slot" extrusions. Their cross section looks like this:
 
-![Cross sections of the 1010 series and 1515 series extrusions](../../.gitbook/assets/image%20%2882%29.png)
+![Cross sections of the 1010 series and 1515 series extrusions](../../.gitbook/assets/image%20%2881%29.png)
 
 8020 parts are often used to build frames and other equipment quickly and more conveniently than alternatives \(such as welding, manufacturing custom parts, etc.\). They are widely used in industry for several reasons:
 
@@ -31,7 +31,7 @@ The most useful part of this page is probably the Tips and Tricks section at the
 
 The basic principle behind fastening 8020 extrusions is called the "2 degree drop lock"
 
-![The 2 degree drop lock demonstrated](../../.gitbook/assets/image%20%2845%29.png)
+![The 2 degree drop lock demonstrated](../../.gitbook/assets/image%20%2844%29.png)
 
 The main idea here is that the edges of the extrusions are not perfectly parallel to each other, but rather offset by 2 degrees \(this can be a pain in SW sometimes, be aware\). When a fastener is tightened, it elastically deforms the extrusion, creating a strong normal force on the nut and fastener head. This normal force allows for a large static friction force to be applied, securing the nut in place.
 

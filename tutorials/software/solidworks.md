@@ -24,7 +24,7 @@ SolidWorks SDK is a free version that includes SolidWorks Standard. If you need 
 CalSTAR currently uses SolidWorks **2019**! You may have multiple versions of SolidWorks installed, but please use SolidWorks 2019 \(also called **2019-2020**\) for all CalSTAR work. Note that installation is _smoothest_ if you uninstall all other versions of SolidWorks before starting; post in \#operations if you encounter issues.
 {% endhint %}
 
-To download SolidWorks SDK, navigate to [http://www.solidworks.com/sw/education/SDL\_form.html](http://www.solidworks.com/sw/education/SDL_form.html). Mark "No" that you do not have a serial number and then enter "**92018SDK**" \(yes, for version 2019-2020 use "**92018SDK**"--this is not a typo\). Select the desired version from the dropdown. Fill out your email and select "Student Team" from the dropdown.
+To download SolidWorks SDK, navigate to [http://www.solidworks.com/sw/education/SDL\_form.html](http://www.solidworks.com/sw/education/SDL_form.html). Mark "No" that you do not have a serial number and then enter "**9SDK2019**". Select the desired version from the dropdown. Fill out your email and select "Student Team" from the dropdown.
 
 ![](../../.gitbook/assets/sw19.PNG)
 

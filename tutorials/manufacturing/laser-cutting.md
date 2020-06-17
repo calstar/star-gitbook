@@ -303,7 +303,9 @@ It will load the geometry into this screen.
         A job can be estimated while a machine is disconnected or turned off.</td>
     </tr>
   </tbody>
-</table>#### **Before Starting The Laser Cutter**
+</table>
+
+#### **Before Starting The Laser Cutter**
 
 1. Make sure the material is positioned correctly within the engraving area, and the geometry is positioned correctly in the Control Panel.
 2. Close the top door.
@@ -570,7 +572,9 @@ It is not guaranteed that the laser will successfully cut through a material. It
               A job can be estimated while a machine is disconnected or turned off.</td>
           </tr>
         </tbody>
-      </table>**Before Starting The Laser Cutter**
+      </table>
+
+      **Before Starting The Laser Cutter**
 
       1. Make sure the material is positioned correctly within the engraving area, and the geometry is positioned correctly in the Control Panel.
       2. Close the top door.

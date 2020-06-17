@@ -38,7 +38,7 @@ Click the **Finance** option.
 
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
-![Click Create New Request, then Create Purchase Request](../.gitbook/assets/image%20%2887%29.png)
+![Click Create New Request, then Create Purchase Request](../.gitbook/assets/image%20%2885%29%20%281%29.png)
 
 Fill out this form as accurately as possible. 
 
