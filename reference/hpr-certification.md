@@ -17,4 +17,4 @@ Some of the members listed below may no longer be with the team.
 | Sean Pak | NAR L1 |
 | Jacob Posner | NAR L1 |
 | Aaron Togelang | NAR L1 |
-
+| Tyler Adkison | TRA L2 |
