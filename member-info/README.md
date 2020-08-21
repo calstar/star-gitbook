@@ -6,3 +6,11 @@ description: >-
 
 # Member Info
 
+{% page-ref page="membership-requirements.md" %}
+
+{% page-ref page="elections.md" %}
+
+
+
+
+

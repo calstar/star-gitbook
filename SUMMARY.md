@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Space Technologies and Rocketry](README.md)
-* [Frequently Asked Questions](frequently-asked-questions.md)
 * [Join Us!](join.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
 * [Member Info](member-info/README.md)
   * [Membership Requirements](member-info/membership-requirements.md)
   * [Elections](member-info/elections.md)
@@ -130,6 +130,4 @@
     * [2017-03-04 FRR Flight, NASA SL 2017](history-of-the-team/launch-history/2017-03-04-frr-flight-nasa-sl-2017.md)
     * [2016-12-04 CDR Subscale Flight, NASA SL 2017](history-of-the-team/launch-history/2016-12-04-cdr-subscale-flight-nasa-sl-2017.md)
 * [Project Management](project-management.md)
-* [Miscellaneous](miscellaneous/README.md)
-  * [Joining STARcraft \(Minecraft Server\)](miscellaneous/joining-starcraft-minecraft-server.md)
 

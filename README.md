@@ -12,6 +12,8 @@ This is a space for the general public, prospective members, and current members
 
 If you're interested in joining, we recommend starting with the FAQ and the Membership section, then moving on to the Intro Projects:
 
+{% page-ref page="join.md" %}
+
 {% page-ref page="frequently-asked-questions.md" %}
 
 {% page-ref page="member-info/" %}
