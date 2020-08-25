@@ -2,7 +2,13 @@
 description: Getting started with the development environment for the Avionics codebase
 ---
 
-# Mbed Command-Line Interface \(CLI\) Tools
+# Development Environment
+
+Avionics distributes a VM which contains all the tools for compiling our firmware. While distributing a VM may seem intensive, there are many tools we use for firmware development which are not easy to set up. We have found that using a VM overall lowers the barrier to entry.
+
+{% hint style="warning" %}
+If you have tried out the VM and have problems given your setup, and you reallllllly want to install yourself, go ahead. This is not recommended unless you are well acquainted with installation of compilers, etc.
+{% endhint %}
 
 ## Vagrant
 
@@ -32,7 +38,7 @@ vagrant box add mtn_narwhal/mbed_cli_tools
 
 A 'box' is the package format Vagrant uses. This command downloads the `mbed_cli_tools` box, which contains tools such as GCC ARM, git, and Mbed CLI.
 
-Then, go to the CalSTAR directory on your file system, and run:
+Then, go to the STAR directory on your file system, and run:
 
 ```text
 vagrant init mtn_narwhal/mbed_cli_tools
@@ -92,7 +98,7 @@ Linux: if you get an error saying "A host only network interface you're attempti
 
 ### Avoiding file sync
 
-If running `mbed deploy` takes too long \(over 20 minutes\) then you might want to consider a workflow that does not sync the files in the VM with the those of the host machine. To do this, `cd ~` and 
+If running `mbed deploy` takes too long \(over 20 minutes\) then you might want to consider a workflow that does not sync the files in the VM with the those of the host machine. To do this, have all the firmware in the VM itself. This means you will have to edit inside the VM instead of using editors such as VS Code on your desktop. To do this, `cd ~` while in the VM and run 
 
 ```text
 git clone https://github.com/calstar/firmware-launch.git
@@ -148,11 +154,11 @@ Then select "Import with mbed CLI" and copy the command listed.
 
 The command should be of the form `mbed add <project link>`. Run this command from command line inside your mbed project.
 
-## Flashing
+## Flashing Programs to the Microcontroller
 
 As of right now, usb-detection and programming through vagrant is not working. Instead install and use a utility on the host system. 
 
-* Windows: Download and install the St-Link Utility from the file below. To use, first `File > Open file` the binary sof the program output by `mbed compile`. Then  `Target > Connect` to the board, and `Target > Program & Verify`
+* Windows: Download and install the St-Link Utility from the file below. To use, first `File > Open file` the binary of the program output by `mbed compile`. Then  `Target > Connect` to the board, and `Target > Program & Verify`
 * Linux: Install the stlink package from the repositories if it's available, or compile from source [here](https://github.com/texane/stlink).
   * To use, open stlink-gui and perform similar steps to the windows version to flash
   * Alternatively, use `st-info --probe` to search for programmers and `st-flash write $binary_output_file 0x8000000` to flash
