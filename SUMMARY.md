@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Space Technologies and Rocketry](README.md)
-* [Join Us!](join.md)
+* [On-boarding](join.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Member Info](member-info/README.md)
   * [Membership Requirements](member-info/membership-requirements.md)

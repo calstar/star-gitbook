@@ -1,18 +1,21 @@
 ---
-description: What to do to join STAR
+description: >-
+  Welcome! This page gives a quick overview on the on-boarding process. If you
+  have any questions, please don't hesitate to contact your subteam lead or
+  email ucberkeleystar@gmail.com
 ---
 
-# Join Us!
+# On-boarding
 
 ## Summary
 
 A suggested order of steps to follow. See sections below for details.
 
-1. Join Discord
+1. Join Discord and become familiar with the team
 2. Look at Intro Projects
-3. Download GrabCAD+SolidWorks/KiCad if needed
+3. Download software used by your subteam \(SolidWorks, GrabCAD, KiCAD, OpenRocket, etc\)
 4. Complete an Intro Project
-5. Join GitBook
+5. Join GitBook and get editing permissions
 6. Follow [Membership Requirements](member-info/membership-requirements.md)
 
 ## Discord
@@ -53,8 +56,7 @@ To become a member, you should have done the following things:
 * Joined Discord
 * Joined GitBook
 * Completed an Intro Project
-* Installed SolidWorks / KiCad \(if relevant\)
-* Joined GrabCAD \(if relevant\)
+* Installed Relevant Subteam Software \(if relevant\)
 
 To remain a member, you must also keep up with the Membership Requirements:
 

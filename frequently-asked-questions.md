@@ -52,6 +52,14 @@ Check the website for more details, as well as our[ Launch History](history-of-t
 
 ### Joining STAR
 
+**Is there an application?**
+
+No! We do not have an application, and we accept any and all interested members. STAR has championed our no-application policy since our founding in 2016.
+
+**Is there a membership fee?**
+
+No! STAR is completely free to join, and there is no required membership fee. During a normal semester, many of our members opt to obtain the [Jacobs Hall makers pass](https://jacobsinstitute.berkeley.edu/) but this is entirely optional. Expenses made by members for club purposes \(ie. buying raw materials and parts for our rockets\) are usually reinbursed by the club \(subject to subteam lead approval\).
+
 #### Do I need to have any experience to join?  
 
 No! A large majority of our members joined with little to no prior experience in rocketry. Yet through our own passion and motivation, we have been able to create fully functioning rockets! While having technical or business experience is nice, we primarily expect from our new members two things: **passion** and **dedication.**
