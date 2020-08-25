@@ -50,6 +50,7 @@
   * [Avionics](tutorials/avionics/README.md)
     * [KiCad](tutorials/avionics/kicad.md)
     * [Git](tutorials/avionics/git-and-workflow.md)
+    * [Project Management](tutorials/avionics/project-management.md)
     * [Compiling and Flashing Launch Firmware](tutorials/avionics/compiling-and-flashing-launch-firmware.md)
     * [Ground Station Software](tutorials/avionics/ground-station-software.md)
     * [Mbed Command-Line Interface \(CLI\) Tools](tutorials/avionics/mbed-command-line-interface-cli-tools.md)
