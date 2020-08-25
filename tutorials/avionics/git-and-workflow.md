@@ -2,19 +2,45 @@
 description: Learn git and avionics' git workflow
 ---
 
-# Git and Workflow
+# Git
 
 ## About the Repository
 
-The avionics team's repository documents all the code, schematics, and layouts that team members create throughout the year. It is important to pull \(you'll see what this means soon\) often to keep up to date with the most recent changes. Because of the file format of our PCB design documents, it is recommended that you use Windows \(either on a PC or on a virtual machine on Mac\) to open and edit files. Software, however, can be easily edited using Vim, Sublime, Atom, VS Code, or similar text editors on either OS. 
+You'll find all of Avionics' sources on our [Github](https://github.com/calstar), including schematics, layouts, firmware, and software. This Github org also contains repositories of other STAR subteams.
 
 ## Setting Up
 
 {% hint style="info" %}
-Windows 10 supports running a proper Linux development environment using [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). Installing and using this is highly recommended. 
+Windows 10 supports running a proper Linux development environment using [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). Installing and using this is highly recommended on Windows. 
 {% endhint %}
 
-Make sure you have a Github and you have requested access to our repository \(aka: repo\) by messaging the avionics lead \(currently Neelay Junnarkar @neelay.junnarkar\). Git should already be installed on Macs, but if you are using Windows, click [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for directions to install. Clone the repo onto your local computer in a directory of your choice by running the following command in terminal: 
+Make sure you have a Github account and you have joined the Github STAR org Avionics team by messaging the avionics lead \(currently Neelay Junnarkar @neelay.junnarkar\). For git installation, see [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+
+## Quick-links
+
+There are many great git guides out there!
+
+* [Comprehensive reference](https://git-scm.com/docs).
+* [Cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf).
+
+## Workflow
+
+{% hint style="info" %}
+Learning git takes time and can be intimidating! If you are worried you're about to mess-up your repo, or have already messed up your repo, ping someone in Discord!
+{% endhint %}
+
+Short list:
+
+1. Clone the repo.
+2. Create a new change branch from the master branch.
+3. Make changes.
+4. Rebase onto master branch.
+5. Submit a pull-request on Github.
+6. When approved, merge into master!
+
+### Cloning \(downloading\) repositories
+
+Clone the "repo" onto your local computer in by running the following command in terminal: 
 
 ```text
 git clone https://github.com/calstar/NAME_OF_REPO.git
@@ -22,49 +48,93 @@ git clone https://github.com/calstar/NAME_OF_REPO.git
 
 This will copy the repo and all its current files into your directory. Make sure to read through the relevant documentation in the repo before making any changes. 
 
-## Basic Commands
+### Branching
 
-Once you've created a document that you want to add to the repo, navigate to the correct, relevant folder, and run the following command:
+A branch is a separate copy of a git repo that can have its own changes separate from other branches. A branch can later be incorporated back into the "master" \(main\) branch. We use branches to develop and test changes before we merge them into master, which we expect to remain stable and flight-ready.
 
-```
-git add filename
-```
-
-To add every file you've edited, run this command:
+Create and checkout a new branch:
 
 ```text
-git add *
+git checkout -b branchname
 ```
 
-This is only the first step! You must actually commit your changes for them to be logged. You can run the following command with a message:
+Switch to an existing branch:
+
+```text
+git checkout branchname
+```
+
+### Changes
+
+Edit or create files with your desired text editor, which should be vim.
+
+Register changes with git using `git add`. For example if `a.txt` is a new file and `b.txt` is a modified file, do:
+
+```text
+git add a.txt b.txt
+```
+
+Then, "commit" changes into git. This saves changes into a snapshot which you can look back at.
 
 ```text
 git commit -m "This is where you add a brief, yet descriptive 
                 explanation of what you created or changed"
 ```
 
-Finally, to push your changes, meaning to send your files into the repo for everyone else to view, run the command:
+Often you will work with other members on a change on a given branch, so the new changes \(the commits\) on the branch will need to be pushed to Github. Do this by running:
 
 ```text
-git push origin master
+git push
 ```
 
-As mentioned above, it is important to keep up with the most recent version of the repo, so you can pull other's changes by running: 
+The first time you do this from a new branch, git will tell you that no remote exists. Follow the instructions it outputs to create the branch on the Github side.
+
+### Preparing for merging into master
+
+#### Squashing commits
+
+Often, there will be many commits on a branch. To keep git history on the main branch concise and informative, we often squash the commits on a branch into a single commit that describes the whole change. There are two primary ways of doing this:
 
 ```text
-git pull origin master
+git rebase -i HEAD~[NUMBER OF COMMITS]
 ```
 
-To see the files that were committed, you can run: 
+or
+
+```text
+git rebase -i [SHA of commit one before the series of commits you want to squash]
+```
+
+#### Rebasing onto master
+
+While squashing changes gives a single commit that describes the entire change of a branch, rebasing onto master ensures linear commit history of the master branch in case there have been changes on master since your change branch was created. Rebasing does this by essentially taking the current master branch and replaying all your changes on the change branch onto the new master. Rebase onto master, once commits are squashed, by doing the the following from the changes branch.
+
+```text
+// From the changes branch.
+git fetch origin
+git rebase master
+```
+
+You may encounter rebase errors here depending on what changes ocurred on master. Git will let you know which files you will have to merge manually and how to continue when done fixing.
+
+Make sure to test all functionality again after rebasing onto master!
+
+### Submitting a pull-request
+
+Finally, the change is implemented and tested. A pull-request is where the final review of the change is done before it is merged into master.
+
+To submit a pull-request, do a final `git push` and then go to the Github website. Select the branch and using the Github UI select submit pull-request. Add relevent reviewers and ping them on Discord.
+
+As reviewers comment, you will likely need to make changes. Once all changes are made and reviewers approve the change, hit merge!
+
+## General
+
+Some commands you will find useful.
+
+Show commit history:
 
 ```text
 git log
-```
-
-To see the status of your local repo, you can run: 
-
-```text
-git status
 ```
 
 Optional: Download [http://leo.adberg.com/gitconfig](http://leo.adberg.com/gitconfig) and save as ~/.gitconfig \(replacing user info\)  
@@ -74,83 +144,21 @@ To see a view of all commits and branches:
 git lg
 ```
 
-## Branching
-
-A branch is a separate copy of a git repo that can have its own changes and later be incorporated back into the "master" \(main\) branch. They are useful for making experimental changes that you don't want to affect everyone else immediately.
-
-Create and checkout a new branch:
+To see the status of your local repo, you can run: 
 
 ```text
-git checkout -b branchname
+git status
 ```
 
-Switch to an exisiting branch:
+## Submodules
 
-```text
-git checkout branchname
-```
+Git submodules can be quite intimidating. See this [tutorial](https://git-scm.com/book/en/v2/Git-Tools-Submodules). It is long, but covers everything you will need.
 
-Rebasing onto master \(while checked out other branch\):
-
-```text
-git rebase master
-```
-
-Note: Rebasing is always preferable to merging because it creates a linear commit history.
-
-## Resolving Merge Conflicts
-
-Search for &gt;&gt;&gt; in a conflicting file and choose which section of code to keep. Atom \(maybe others?\) make this very easy. Then, run:
-
-```text
-git add filename
-git rebase --continue
-```
-
-## Project Management
-
-We will be using Github's project management features to reduce the number of different tools we use.
-
-{% hint style="warning" %}
-This Gitbook section will go into how we use Github's features, not what they are. To read about the features themselves, see Github's own review [here](https://github.com/features/project-management/).
-{% endhint %}
-
-The general guidelines for project management are as follows:
-
-* The `master` branch must always be stable and flight-ready
-  * Work will be done in feature branches which will be subject to pull requests before being merged or rebased into a parent branch. In order for a pull request to be approved, the branch must satisfy the following:
-    * The new work must have tests defined for it, 
-    * The branch must pass all these tests while not breaking any features of the parent branch
-  *  A branch being merged into `master` will be required to have a more stringent level of testing.
-    * E.g. If applicable, both SIL \(software-in-loop\) and HIL \(hardware-in-loop\) testing will be required for a pull request to be approved into `master` while HIL testing may not be required for a pull request to be approved into a feature branch.
-* Github projects: each of our projects will have a separate Github project within the repo
-* Github issue: tasks will be listed as Github issues \(in addition to issues such as bugs in code\). 
-  * Each issue should be tied to a project
-  * Each issue should be a card in its project
-* Github milestones: Github issues can be grouped together into Github milestones if relevant
-
-  * E.g. a milestone for "Design Review 1" can have all tasks that must be completed before the design review linked to it.
-  * Milestones show completion level based on fraction of issues closed versus open.
-
-  \*\*\*\*
-
-### **Committing to master \(pull requests\)**
-
-* First, rebase your branch onto the latest master to handle any merge conflicts
-  * git fetch origin
-  * git rebase -i master
-    * While checked out on the feature branch
-    * Preferably, squash into one commit
-  * Your feature should now be one commit ahead of origin/master
-* Check to make sure everything still works!
-  * If not, fix and re-do the process
-* Submit a pull request \(PR\) on Github and request reviewers as per the following:
-  * For a pull request to be merged, at least 2 people, one of whom is either the Avionics Lead or Deputy, and the other who is not on the project being submitted for a PR, must approve all changes.
-* _If any of these steps give you trouble or you feel uncomfortable with git, ask on Discord for help!_
+Avionics uses submodules for some library repositories that are commonly used, such as `hardware-sch-blocks`.
 
 ## Git Workshop Slides
 
+These slides have nice descriptive diagrams! Check it out!
+
 {% file src="../../.gitbook/assets/git-workshop.pdf" caption="Slides" %}
-
-
 
