@@ -4,9 +4,9 @@
 
 Reviewing is one of the most important parts of bringing up a board – we don’t want to waste money or time on a flawed design. Consequently, it can take practice to really know what to look for while reviewing a board; there’s no substitute for watching an experienced engineer at work. However, most boards we make have quite a bit in common, so a lot of failure modes are also shared. For anything simple, the below guide should be a good starting point; for anything analog/RF, high-speed, or high voltage/power, additional care should be taken.
 
-In general, when reviewing a board, make notes and open issues on whatever issue tracking system you’re using \(GitHub, Jira, etc.\). Let the responsible engineer \(RE\) review those issues and make changes – don’t make changes on your own. Especially with schematics, merging changes from multiple people can get hairy.
+In general, when reviewing a board, make notes and open issues on whatever issue tracking system you’re using \(GitHub, Jira, etc.\). Let the responsible engineer \(RE\) review those issues and make changes – don’t make changes on your own. Especially with schematics, merging changes from multiple people can get messy.
 
-Reviews take time to be done thoroughly, so \(especially if a single person is doing the review\), alot time in terms of days, not hours. Additionally, do not think of a review as a 'final check' before a board is put out for fabrication. 
+Reviews take time to be done thoroughly, so \(especially if a single person is doing the review\), alot time in terms of days, not hours. Additionally, do not think of a review as a 'final check' before a board is put out for fabrication. It may take weeks to make changes and update until a board passes review.
 
 ### Submitting your schematic or layout for review
 

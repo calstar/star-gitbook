@@ -1,5 +1,7 @@
 ---
-description: How to code in C
+description: >-
+  How to code in C, given that you already have knowledge of other programming
+  languages.
 ---
 
 # Intro to Embedded C Programming
@@ -12,12 +14,12 @@ A useful reference linked [**here**](https://docs.microsoft.com/en-us/cpp/c-lang
 
 **Primitive Data Types:** 
 
-* int: integer
-* float: floating-point number, used to store decimals.
-* double: double-precision floating-point
-* char:  ASCII character
+* `int`: integer
+* `float`: floating-point number, used to store decimals.
+* `double`: double-precision floating-point
+* `char`:  ASCII character
 
-In the &lt;stdint.h&gt; header, additional types are included for defining integers by size \(in bits\) and sign. A useful one is uint8\_t \(an unsigned 8-bit integer type\) to represent a byte.
+In the `<stdint.h>` header, additional types are included for defining integers by size \(in bits\) and sign. A useful one is `uint8_t` \(an unsigned 8-bit integer type\) to represent a byte.
 
 #### Example:
 

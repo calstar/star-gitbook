@@ -5,7 +5,7 @@ description: About ham radio and how to get your license
 # Ham Radio Basics
 
 {% hint style="info" %}
-Professor Miki Lustig will be teaching the ham radio decal in Spring 2019, along with his class EE123: Digital Signal Processing. You can check [https://decal.berkeley.edu/courses](https://decal.berkeley.edu/courses) for information.
+Professor Miki Lustig oftean teaches a Ham Radio decal, along with his class EE123: Digital Signal Processing. You can check [https://decal.berkeley.edu/courses](https://decal.berkeley.edu/courses) for information.
 {% endhint %}
 
 ## About Ham Radio

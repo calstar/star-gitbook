@@ -4,7 +4,7 @@ description: 'This page will show you how to download, compile, and flash launch
 
 # Compiling and Flashing Launch Firmware
 
-This page assumes you have installed VirtualBox and Vagrant, as these are the standard virtual environments we use to compile STAR code. If you have not done so yet, please refer to the [Mbed Command-Line Interface \(CLI\) Tools](mbed-command-line-interface-cli-tools.md#vagrant) tutorial.
+This page assumes you have installed VirtualBox and Vagrant, as these are the standard virtual environments we use to compile STAR code. If you have not done so yet, please refer to the[ Development Environment](mbed-command-line-interface-cli-tools.md#vagrant) tutorial.
 
 Choose a desired directory and
 
@@ -19,6 +19,10 @@ $ git clone git@github.com:/calstar/firmware-launch.git
 ```
 
 ## Git Submodules
+
+See the Git page, linked blow, for more details on submodules.
+
+{% page-ref page="git-and-workflow.md" %}
 
 All libraries are stored in a separate repository for ease of updating libraries across different repos. After you clone a repo, you will have to run the following to download the tools. Run these commands from the working directory of the repo \(eg for the repo `firmware-launch`, run from `/vagrant/firmware-launch`\).
 
