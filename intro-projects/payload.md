@@ -12,11 +12,12 @@ description: >-
 
 ## Introduction
 
-The intro project is designed with two main parts: 1. Design, and 2. Manufacturing. This closely emulates the major stages of a payload project cycle. \(Assembly of course is also a major component, but it is better to teach that during our actual payload projects.\)
+The intro project is designed with two main parts:
 
-The intro project may seem daunting, but don’t worry! In addition to the existing resources on GitBook, all the returning payload members will available to help. 
+1. A general rocketry take-home quiz, taken alone \(due roughly 1 week after assigned\)
+2. A design project, also done alone \(due roughly 3 weeks after assigned\)
 
-To encourage intra-team communication new members are encouraged to ask for help from a designated returning member, as part of our mentorship program. Furthermore, do not hesitate to ask questions on the \#payload Discord channel or PM Jason Xu or other payload members. 
+The intro project may seem daunting, but don’t worry! In addition to the existing resources on GitBook, all the returning payload members will available to help. To encourage intra-team communication, new members are encouraged to ask for help from a designated returning member, as part of our mentorship program. Furthermore, do not hesitate to ask questions on the \#payload Discord channel or PM Jared Farley or other payload members.
 
 We will also hold a series of intro project workshops throughout the next weeks, giving an opportunity for hands-on help. Details will be announced here and on the \#payload channel.
 
@@ -24,14 +25,44 @@ Above all, we hope that the intro project will be a fun and rewarding experience
 
 Checkpoints Schedule:
 
-* By week of 2020-02-25 - Design Stage Complete
-* By following meeting - Manufacturing files complete
+* By week of 2020-09-21 - Quiz Complete
+* By week of 2020-10-05 - Design Project Complete
 
-### Objective Outline
+### Part 1: General STAR & Rocketry Quiz Questions
+
+1. What are the subteams of STAR?
+2. What are the names of STAR's rockets?
+   1. What are their diameters?
+   2. What are they made out of?
+3. What is the maximum side length payload cube that could theoretically fit in a 20cm diameter rocket?
+4. A G-class motor is roughly how many times more powerful than a D-class motor?
+5. With roughly what speed will a 10kg rocket hit the ground if in free fall from 1280m? \(You may use g=10 m/s/s\)
+   1. Is this a realistic speed to assume? Why or why not?
+6. Give two pros and two cons of a dual-deployment \(two parachute\) recovery system.
+   1. How do altimeters measure altitude?
+7. Is it possible to directly measure the velocity of a rocket during flight? Why or why not?
+   1. Describe two ways you might calculate the velocity of a rocket with the following sensors: GPS tracker, altimeter, accelerometer, gyroscope.
+   2. What are the potential advantages and drawbacks of each method given?
+8. Explain what each number means in the following UTS designation: \#6-32x1
+   1. What is the smallest screw gauge in the UTS system?
+   2. What are the standard and fine TPI of a \#4 screw?
+9. Explain what each number means in the following Metric screw designation: M6-1.0x20
+   1. How is the designation of threading different in the UTS system than the Metric system? **Subtle but important.**
+   2. Why is the Metric system superior to the US Customary system?
+
+### Quiz Submission
+
+Please upload your quiz as a PDF here:
+
+{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/SSeNjQrgCF3JUBHh8)" %}
+
+### Part 2: Design
+
+#### Design Objective Outline
 
 Our goal is to build a mini robotic rover that fits inside a 4” diameter payload tube. Another team has already done the task of picking out the electronics, sensors, motors, and wheels. Your task is to design and prototype the rover’s chassis– a structure to mount all of sensors, motors, wheels, and the [microcontroller](https://electronics.howstuffworks.com/microcontroller1.htm).
 
-### Requirements
+#### Requirements
 
 > Engineering is defined by requirements!
 
@@ -54,17 +85,17 @@ _**Detailed Design Requirements:**_
 
 Your frame may be as elaborate or simple as you'd like, but it should adhere to the above requirements.
 
-## Stage 1: Design
+### Designing in Solidworks
 
 {% hint style="info" %}
-**Checkpoint: Week of 10/01 \| Workshop 1: 09/22 @ Etcheverry CAD Lab, see \#announcements on Discord for more information**
+**Checkpoint: Week of \[TBD\] \| Workshop 1: \[TBD\] see \#announcements on Discord for more information**
 
 **\(Dates subject to modification according to scheduling\)**
 {% endhint %}
 
-We will use CAD \(computer aided design\) software in order to model our 3D frame. STAR has standardized in using [SolidWorks ](www.solidworks.com)as our preferred CAD software. If have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up. 
+We will use CAD \(computer aided design\) software in order to model our 3D frame. STAR has standardized in using [SolidWorks ](www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up. 
 
-If you have never used CAD software before, don’t worry! We will hold a intro project training class during Workshop 1, most likely on the week of 9/15**.** If you are not able to attend, there are also great online resources:
+If you have never used CAD software before, don’t worry! We will hold an intro project training class during Workshop 1, most likely on the week of 9/21**.** If you are not able to attend, there are also great online resources:
 
 {% embed url="https://www.youtube.com/watch?v=qtgmGkEPXs8" %}
 
@@ -72,7 +103,7 @@ If you have never used CAD software before, don’t worry! We will hold a intro 
 There will also be example PDFs for each section located at the end of each stage. Use them if you are really stuck!
 {% endhint %}
 
-### 1.1 Installing SolidWorks
+### Step 1: Installing SolidWorks
 
 The first challenge of this stage is installing SolidWorks. The GitBook has a very helpful “SolidWorks Installation” page to help you with this.
 
@@ -86,7 +117,7 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice \(Fusion 360 is recommended as it has many online resources\).
 {% endhint %}
 
-### 1.2 Working with given hardware
+### Step 2: Working with given hardware
 
 Assume another team has already picked out the motors and electronics necessary for a rover. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning rover.
 
@@ -100,7 +131,7 @@ You do not have to 3D model the provided components. However, 3D models of major
 
 {% file src="../.gitbook/assets/models.zip" caption="Component models" %}
 
-### 1.3 Working with the tube
+### Step 3: Working with the tube
 
 The most challenging \(and annoying\) constraint placed on many payload projects is the size of the payload tube \(the part of the rocket that the payload is stored in\). Learning to work with the size limits of a cylinder is essential. 
 
@@ -110,7 +141,7 @@ In this project, your tube space is limited to 4" in diameter and 8" in length, 
 
 Keep this in mind when designing your chassis!
 
-### 1.4 Start designing!
+### Step 4: Start designing!
 
 That's all the essentials to get you started on your design. Remember, you can come up with anything as long as it meets the detailed design requirements. The rest of this sub-section lists a few tips.
 
@@ -126,23 +157,15 @@ To design screw holes that fit, visit the [Tolerancing GitBook page](../tutorial
 If you are really stuck, or just want to see an example of a simple chassis design process step-by-step, there is a detailed PDF in the additional design resources section.
 {% endhint %}
 
-### 1.5 Additional resources
+### Step 5: Additional resources
 
-A detailed step-by-step design guide will be out by 9/10. \(Although I heavily encourage you to try it out yourself first & ask any Payload member for help before consulting the guide\)
-
-## Stage 2: Manufacturing
-
-Since it is logistically challenging to have everyone manufacture their designs, the task will be to export your CAD components as appropriate manufacturing files. For a 3D printed part, an appropriate file will be .stl \(SolidWorks -&gt; Save As -&gt; STL\). For laser-cutting, Adobe Illustrator .ai files or AutoCAD .dxf files are accepted. We have resources on manufacturing in the GitBook tutorials section.
-
-Please reach out on Discord if you have any concerns with this section.
-
-{% page-ref page="../tutorials/manufacturing/laser-cutting.md" %}
+A detailed step-by-step design guide will be released later in the semester. \(Although I heavily encourage you to try it out yourself first & ask any Payload member for help before consulting the guide\)
 
 ## Project Submission
 
-Please upload your SolidWorks/other CAD files here, along with manufacturing files:
+Please upload your SolidWorks/other CAD files here:
 
-{% embed url="https://forms.gle/x4N125Xg1EVt1uba9" %}
+{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/SSeNjQrgCF3JUBHh8)" %}
 
 
 
