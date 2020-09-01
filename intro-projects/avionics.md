@@ -35,8 +35,8 @@ First, download the zip file above. It will contain two folders: `intro_proj` an
 
 I highly recommend looking at some of the following schematics to get a feel for how they generally should look. However, don't feel the need to make yours this polished \(in particular comments and bounding boxes\).
 
-* [CalSTAR Groundstation](https://cadlab.io/project/2325/master/circuit/Z3JvdW5kLXN0YXRpb24vZ3JvdW5kLXN0YXRpb24uc2No)
-* [CalSTAR Blackbox](https://cadlab.io/project/2320/master/circuit/YmxhY2tib3gtbmcvYmxhY2tib3gtbmcuc2No)
+* [CalSTAR Groundstation](https://cadlab.io/project/22830/master/files)
+* [CalSTAR Blackbox](https://cadlab.io/project/22832/master/files)
 
 
 
@@ -190,8 +190,8 @@ In this part, you will learn to read datasheets for the reference layout designs
 
 Again, I highly recommend looking at the below layouts as a guide:
 
-* [CalSTAR Groundstation](https://cadlab.io/project/2325/master/circuit/Z3JvdW5kLXN0YXRpb24vZ3JvdW5kLXN0YXRpb24ua2ljYWRfcGNi)
-* [CalSTAR Blackbox](https://cadlab.io/project/2320/master/circuit/YmxhY2tib3gtbmcvYmxhY2tib3gtbmcua2ljYWRfcGNi)
+* [CalSTAR Groundstation](https://cadlab.io/project/22830/master/files)
+* [CalSTAR Blackbox](https://cadlab.io/project/22832/master/files)
 
 #### Setting up libraries
 
@@ -230,7 +230,7 @@ Before continuing to actually drawing traces and placing components, you must se
 Hit the `Board setup` button to input these values. 
 
 {% hint style="warning" %}
-The unit `mil` is one thousandth of an inch!
+The unit `mil` is one thousandth of an inch! **No** relation to millimeter. Depending on what unit system KiCad defaults to on your system, you may either have to change the unit system to mil or will have to suffix the numbers with 'mil' when inputting them.
 {% endhint %}
 
 ![Board Setup](../.gitbook/assets/image%20%2887%29.png)
@@ -266,7 +266,7 @@ Create the ground plane by tracing the edge of the board. You can zoom in to mak
 
 ![Correct copper zone properties](../.gitbook/assets/image%20%2863%29.png)
 
-Now continue tracing around the board. You will end up with below. You may notice some ratlines have disapeared, becase those grounds have been connected by the ground pour.
+Now continue tracing around the board. You will end up with below. You may notice some ratlines have disappeared, because those grounds have been connected by the ground pour.
 
 ![Front copper pour](../.gitbook/assets/image%20%2865%29.png)
 
@@ -303,6 +303,10 @@ The last step is to perform design rules check just as in schematic. Hit the fol
 Hit `Run DRC` and fix any errors that occur. When both `Problems / Markers` and `Unconnected Items` show 0 errors, you're done with layout! Feel free to ask in \#avionics for help.
 
 Additionally you can run `View > 3D Viewer`. This will generate a 3d model of the board with components and traces, ground pours, drill holes, and all rendered. This is fun to look at as you progress with your layout but also useful for getting a sense of component spacing for soldering, an easy visual check for errors, and good for integration with CAD models.
+
+{% hint style="warning" %}
+Note the board image below is for example purposes only. It has all the components in the default places, with no traces between them. Your board should not look like this!
+{% endhint %}
 
 ![3D View of board before layout](../.gitbook/assets/image%20%2851%29.png)
 
