@@ -1,5 +1,5 @@
 ---
-description: Avionics intro project for Fall 2019 and Spring 2020
+description: Avionics intro project for Fall 2019 and forward
 ---
 
 # Avionics
