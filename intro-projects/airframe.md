@@ -14,13 +14,13 @@ The new members will be tasked with designing an L1 rocket to show:
 2. Commitment to learning new things
 3. Work within a budget
 
-The Airframe meetings at the start of the year - along with the GitBook - will contain all the information required to complete the project. In addition, I will hold office hours **Thursday 6-8pm** at Kresge or the CAEE, so please come and ask any questions you may have.
+The Airframe meetings at the start of the year - along with the GitBook - will contain all the information required to complete the project. In addition, I will hold office hours **Thursdays 4pm-6pm PDT** via Zoom, so please stop by and ask any questions you may have. The Zoom link will be provided on in the Airframe Discord channel. If these scheduled office hours do not work for you, please feel free to reach out to me and schedule a different meeting time.
 
 #### Constraints:
 
 1. $400 budget \(including motor\)
 2. Minimum 1,000 ft Apogee \(simulated at Snow Ranch conditions\)
-3. **Project due 9/27**
+3. **Project due 10/2**
 
 #### Project **Deliverables**:
 
@@ -37,7 +37,7 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 5. Procedures on how to assemble it
 6. Powerpoint presentation outlining all of the above
 7. Should be able to explain any question
-8. Lastly, you must show up to one build day
+8. Build days will be optional events, but are you are highly recommended to attend, given that we have approval to hold in person meetings.
 
 **Given / Outside Scope of Project:**
 
@@ -55,10 +55,13 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 {% file src="../.gitbook/assets/l1\_example\_cad.zip" caption="Example SolidWorks Model" %}
 
-## Returning Members Project
+**Level 1 Build:**
+The original goal was for new members to be able to collectively build a Level 1 rocket, using the designs you each created, and launch the rocket. The purpose of this collective project is for new members to gain hands-on experience building a high powered rocket. This will likely not happen during the fall semester given the circumstances created by coronavirus. If conditions do improve by spring semester, this is something that the new members of Airframe will pursue. 
+
+## Returning Members Intro Project
 
 ![](../.gitbook/assets/img_5739%20%281%29.jpg)
 
-The returning member project for Airframe will be the design of a 4 in. diameter rocket. Specs will be updated as decided by Systems.  
+The returning member project for Airframe will be the design of a 4 inch diameter stage separation rocket. You may use the examples of a stage separation ork provided on the STAR Google Drive in the folder Systems>StageSep Documents. Specs will be updated as decided by Systems.
 
 
