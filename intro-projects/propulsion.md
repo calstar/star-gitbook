@@ -11,9 +11,9 @@ description: >-
 
 ## Introduction
 
-The purpose of this project is to ensure that new and returning members research various parts of a rocket propulsion system from both theoretical and practical engineering points of view.
+The purpose of this project is to ensure that new and returning members research various parts of a rocket propulsion system from both theoretical and practical engineering points of view. The document containing the entire plan can be found [here] (https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit)
 
-The project consists of two parts: an in-person component and a project component.
+Your project should be completed with your intro project group.
 
 ### Returning Members
 
@@ -23,24 +23,24 @@ If you are interested in contributing to a workshop \(highly encouraged\), pleas
 
 ### Contact
 
-If you have any questions about any part of the question at any time \(even if it's 4AM on a weekend\), do not hesitate to reach out to the propulsion lead \(Trevor\) or the propulsion deputy \(Sam\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
+If you have any questions about any part of the question at any time \(even if it's 4AM on a weekend\), do not hesitate to reach out to the propulsion lead \(Trevor\) or the propulsion deputy \(Jeremy\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
 
 * Trevor's Discord: zat15 \(accessible through STAR discord\)
-* Sam's Discord: Sam\_Phillips  \(accessible through STAR discord\)
+* Jeremy's Discord: theAvereageAchiever  \(accessible through STAR discord\)
 * Discord: in the \#propulsion channel
 * Trevor's Email: tzinky@berkeley.edu
-* Sam's Email: 
+* Sam's Email: jeremy.gong@berkeley.edu
 * Office Hours:
   * Trevor's OH: 4:5:30 PM in Kresge Engineering Library
 
     \(exact location may vary, will be announced on Discord\)
 
-  * Sam's OH: TBA
+  * Jeremy's OH: TBA
 
     \(exact location may vary, will be announced on Discord\)
 
 {% hint style="warning" %}
-This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead and propulsion members. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
+This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead, propulsion members, and of course your mentor. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
 {% endhint %}
 
 ## 1. In-Person Component
