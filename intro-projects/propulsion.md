@@ -11,7 +11,7 @@ description: >-
 
 ## Introduction
 
-The purpose of this project is to ensure that new and returning members research various parts of a rocket propulsion system from both theoretical and practical engineering points of view. The document containing the entire plan can be found [here] (https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit)
+The purpose of this project is to ensure that new and returning members research various parts of a rocket propulsion system from both theoretical and practical engineering points of view. The document containing the entire plan can be found [here](https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit)
 
 Your project should be completed with your intro project group.
 
