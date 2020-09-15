@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page is currently under construction and will undergo multiple changes.
-  The finalized version will be noted as such.
+  This is the most up to date version of our intro project but is subject to
+  change.
 ---
 
 # Recovery
@@ -12,13 +12,11 @@ Welcome to the Recovery sub-team's intro/returning project page! Glad you're her
 
 The recovery team is tasked with safely landing the launch vehicle. This responsibility requires working with constraints set by other sub-teams, attention to detail, and producing creative and efficient solutions. We work on numerous different components that  are essential to the safe landing of the rocket including but not limited to: parachute size and geometry selection, parachute deployment altitude selection, ejection and separation mechanics, and avionics sled design. We require a general understanding of mechanics, electronics, simulations, physics, and more.
 
-For any questions/help please feel free to reach out to recovery sub-team lead Cheljea at officer hours or online through Discord or email. We also have Evan Borzilleri on as an advisor this year so feel free to contact him with any questions. Office Hour times/locations for both are listed below. OH are highly encouraged if you need help!
+For any questions/help please feel free to reach out to recovery sub-team lead Hadar at office hours or online through Discord or email. We also have mentors you will be assigned to as an advisor \(and friend\) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help! 
 
-* Cheljea Jang \| Recovery Team Lead
-  * OH: Monday 5 - 6:30 pm, 7:30 - 9 pm \(Kresge or tba each day\) 
-  * Email:  cheljea.jang@berkeley.edu
-* Evan Borzilleri \| Advisor
-  * Email: evanjborzilleri@berkeley.edu
+* Hadar Gamliel \| Recovery Team Lead
+  * OH: Tuesdays 8-9PM or ping me on discord
+  * Email:  hgamliel@berkeley.edu
 
 {% hint style="info" %}
 **\[Workshop\]** = indicates that a workshop will be provided for the fundamentals of this task. Workshops are mandatory, and will make accomplishing the tasks much more simple. Workshop times are listed below:
@@ -39,7 +37,7 @@ The deliverables of the project should be presented at the recovery subteam meet
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 1 \| Jacob's Trainings** _**\(3 hrs\)**_
+### ~~**Task 1 \| Jacob's Trainings** _**\(3 hrs\)**_~~ _****_\(Cancelled for Fa20\)
 
 **Due: October 7**
 
@@ -59,18 +57,34 @@ The majority of our manufacturing will be done in the Jacob's Hall Makers space.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task**  2 **\| Parachute Selection** _**\(3 hrs\)**_
+### **Task**  2 **\| Stage Separation Flow Chart** _**\(3 hrs\)**_
 
 **Due: September 30**
 
-**Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice.
+**Deliverable:** Filled out flow chart with break down of each event of Stage Separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is  safe recovery of the rocket. 
+
+You can assume all separation occurs due to "pyrogen ignition" regardless of mechanism or type or charge. Don't worry too much about how the separation is actually occurring as the mechanisms vary.  I recommend checking out Apogee Rocketry's basic breakdown of events, but please keep in mind this does not cover stage separation. 
+
+{% embed url="https://www.apogeerockets.com/Tech/Phases-of-a-Rockets-Flight" %}
+
+
+
+\*\*\*\*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **Task**  3 **\| Parachute Selection** _**\(3 hrs\)**_
+
+**Due: September 30**
+
+**Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice. _\(Use the Arktos OpenRocket file attached at the bottom of this section\)_
 
 **Workshops:  \[Recovery\] \[OpenRocket\]**
 
 Select the best combination of parachutes that satisfies the constraints below:
 
 * Drogue is deployed at apogee \(maximum altitude\)
-* Main is deployed at 600 ft above ground level \(AGL\)
+* Main is deployed at 800 ft above ground level \(AGL\)
 * Drogue Cd \(Coefficient of Drag\): 1.5
 * Main Cd: 2.2
 * Each component must not land with greater than 75 ftlb of Force
@@ -93,12 +107,14 @@ Fill out the chart below with all of the calculations and relevant information o
 
 
 {% hint style="success" %}
-**BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above.
+**BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above. Or check out the StageSep ork and check out options there!
 {% endhint %}
+
+\*\*\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 3 \|  Avionics Bay Assembly** _**\(6 hrs\)**_
+### **Task 4\|  Avionics Bay Assembly** _**\(6 hrs\)**_
 
 **Due: October 7**
 
@@ -117,7 +133,9 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 
 **You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries**. We have provided the appropriate airframe and altimeter models that we frequently use below. You should create models for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above models, make an assembly of the entire avionics bay with all the components inside and properly constrained. 
 
-* **Outter**
+**Note:** We also require the avionics bay be CAS compatible, this is the custom made electronics designed by our Avionics Subteam! It has the dimensions of a 2x2x2 in cube. 
+
+* **Outer**
   * **Inner Diameter:** 3.900" \(9.91 cm\)
   * **Outer Diameter:** 4.014" \(10.2 cm\)
 * **Coupler**
@@ -129,7 +147,7 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 {% endhint %}
 
 {% hint style="warning" %}
-**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is certainly one of the more difficult parts of the intro project, especially if you do not have prior CAD experience. Please see Evan or Cheljea if you have any questions; we want to help! 
+**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is certainly one of the more difficult parts of the intro project, especially if you do not have prior CAD experience. Please see Hadar or your mentor if you have any questions; we want to help! 
 {% endhint %}
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
