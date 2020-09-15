@@ -1,10 +1,3 @@
----
-description: >-
-  THE FALL 2020 INTRO PROJECT IS DIFFERENT FROM WHAT IS BELOW. Please see the
-  Discord or talk with Trevor to learn about the requirements for the Fall 2020
-  intro project.
----
-
 # Propulsion
 
 ![Ignition Testing for LE-165](../.gitbook/assets/ignitiontesting.PNG)
