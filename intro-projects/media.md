@@ -6,11 +6,7 @@ description: Join the Media team!
 
 ## **Task 1**
 
-Help! STAR has an upcoming event and is in need of some unique flyers. This flyer should capture the club theme around rocketry and education. It should contain our basic information such as our name, logo, website link, and GoFundMe link. Aside from the requirements for the flyer, the rest is up to you and your creative spirit.
-
-### **Marketing Portion:**
-
-* Describe of the distribution of your flyers \(e.g. posted in Etcheverry, tabling on Sproul, etc\)
+STAR is always striving to build better and faster rockets in our journey to eventually launch a rocket to space. In order to do that, we need sponsors that would help us raise money :\) These sponsors like cool visuals! Design a cool logo or image for our new rocket!
 
 ### **Media Portion:**
 
