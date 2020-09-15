@@ -6,7 +6,5 @@ description: We make documents! (Including this GitBook)
 
 ## Our \(not-so-difficult\) project
 
-We have no long, formal, intro project; everyone is welcome to start as soon as possible! Come to one of our meetings to be assigned a project. For your first task, you will be paired with an existing member who will help you become familiar with what we do and how we operate.
-
-We look forward to seeing you there!
+The Documentation/Operations Intro Project is quick and easy! Just go to Tutorials --> Documentation --> LaTeX and complete the listed tutorial!
 
