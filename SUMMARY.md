@@ -66,6 +66,7 @@
     * [Spacecraft Structures](tutorials/outreach-activities/spacecraft-structures.md)
     * [Alka Seltzer Rockets](tutorials/outreach-activities/alka-seltzer-rockets.md)
     * [Paper Airplane Launcher](tutorials/outreach-activities/paper-airplane-launcher.md)
+    * [Coding Workshop](tutorials/outreach-activities/coding-workshop.md)
   * [Operations](tutorials/documentation/README.md)
     * [SolidWorks file conventions](tutorials/documentation/solidworks-file-conventions.md)
     * [Style Guidelines](tutorials/documentation/style-guidelines.md)

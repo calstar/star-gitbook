@@ -24,13 +24,13 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 #### Project **Deliverables**:
 
-1. Report outlining design choices 
+1. Report outlining design choices
 
-     a. Simulation data included
+   a. Simulation data included
 
 2. Line-item budget
 
-     a. Should include supplier
+   a. Should include supplier
 
 3. OpenRocket model \([Guide on how to use OpenRocket](https://calstar.gitbook.io/docs/tutorials/airframe/airframe-openrocket)\)
 4. SolidWorks CAD model
@@ -55,13 +55,11 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 {% file src="../.gitbook/assets/l1\_example\_cad.zip" caption="Example SolidWorks Model" %}
 
-**Level 1 Build:**
-The original goal was for new members to be able to collectively build a Level 1 rocket, using the designs you each created, and launch the rocket. The purpose of this collective project is for new members to gain hands-on experience building a high powered rocket. This will likely not happen during the fall semester given the circumstances created by coronavirus. If conditions do improve by spring semester, this is something that the new members of Airframe will pursue. 
+**Level 1 Build:** The original goal was for new members to be able to collectively build a Level 1 rocket, using the designs you each created, and launch the rocket. The purpose of this collective project is for new members to gain hands-on experience building a high powered rocket. This will likely not happen during the fall semester given the circumstances created by coronavirus. If conditions do improve by spring semester, this is something that the new members of Airframe will pursue.
 
 ## Returning Members Intro Project
 
 ![](../.gitbook/assets/img_5739%20%281%29.jpg)
 
-The returning member project for Airframe will be the design of a 4 inch diameter stage separation rocket. You may use the examples of a stage separation ork provided on the STAR Google Drive in the folder Systems>StageSep Documents. Specs will be updated as decided by Systems.
-
+The returning member project for Airframe will be the design of a 4 inch diameter stage separation rocket. You may use the examples of a stage separation ork provided on the STAR Google Drive in the folder Systems&gt;StageSep Documents. Specs will be updated as decided by Systems.
 
