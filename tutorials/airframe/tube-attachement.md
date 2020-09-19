@@ -22,7 +22,7 @@ If a friction-fit interface is not tight enough, drag separation can occur. Whil
 
 It can be more of an art than a science to get a good friction fit. Generally, we recommend following this \(paraphrased\) advice from Dave Raimondi \(ex-LUNAR President, L3-certified\):
 
-> Your friction fit should allow you to gently lift the rocket in the air by the upper section and hold it such that stable and not touching the ground. Then shake the rocket and make sure the bottom section separates with some effort, but does not require violent shaking.
+> Your friction fit should allow you to gently lift the rocket in the air by the upper section and hold it such that it is stable and not touching the ground. Then shake the rocket and make sure the bottom section separates with some effort, but does not require violent shaking.
 
 To adjust your friction fit, either: remove/add masking tape to the coupler, or, if no masking tape remains and it is still too tight, sand down the coupler/inside of body tube. We recommend adding tape one layer at a time, either in entire rings or even half rings for fine-tuning. Use wide painters or masking tape for best results \(&gt; 1" wide\). There is a fair amount of tolerance on the above advice; don't be too worried if your fit seems to be a little too loose or a little too tight.
 
