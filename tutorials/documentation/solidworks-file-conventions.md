@@ -11,14 +11,21 @@ Regarding drawing setup, CAD’s for the purpose of documentation should use the
 Regarding filename conventions, filenames of CAD's should adhere to the following guidelines:
 
 1. Filenames should follow the general convention of: Project\_Subteam\_DescriptiveName\[\_McMaster part \#\]
+   1. An example of this might be IREC20\_PAY\_Payload\_Centering\_Ring.SLDPRT for an in-house part or IREC20\_AIR\_Weld\_Nut\_90611A320.SLDPRT for a McMaster part.
+   2. Similarly an example for an assembly might be IREC20\_AIR\_Nosecone\_Assembly.SLDASM
 2. Subteam should be denoted by its appropriate 3-letter abbreviation
-   * AIR : Airframe
-   * AVI : Avionics
-   * PAY : Payload
-   * REC : Recovery
-   * PRO : Propulsion
-   * SIM : Simulations
+   * **AIR** : Airframe
+   * **AVI** : Avionics
+   * **PAY** : Payload
+   * **REC** : Recovery
+   * **PRO** : Propulsion
+   * **SIM** : Simulations
 3. Project should be denoted by the selected abbreviation for the project
-   * IREC20 : 6” diameter rocket design for IREC 2020
-   * LE165 : “Hot Take”, Propulsion’s first-iteration of a liquid engine
+   * **IREC20** : 6” diameter rocket design for IREC 2020 \(this is Bear Force One, the project started before it was named and before IREC 2020 was moved to 2021\)
+   * **LE165** : “Hot Take”, Propulsion’s first-iteration of a liquid engine
+   * **LE1**: Liquid Engine 1, Propulsion's 2020-2021 "simple" engine
+   * **LE2**: Liquid Engine 2, a multi-year project to design and build a higher-performance engine. Custom tank CAD can also use LE2.
+   * **SSEP**: Stage separation demonstrator
+   * **DAVE**: Deployable aerial vehicle experiment, a payload launching on Bear Force One.
+   * **CAS**: Common Avionics System mission\(s\), flown on AirBears. AirBears \(the vehicle\) was developed before the naming convention became mandatory, but all CAS-related CAD should follow the convention.
 
