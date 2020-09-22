@@ -16,7 +16,7 @@ description: >-
 **CDR**: Critical Design Review. A step of the NASA design review process intended to assess a final design and technical challenges that may occur in the fabrication and testing process.  
 **CFD**: Computational Fluid Dynamics. Using a computer to analyze the movement of a liquid in a specific instance. Common uses include engine propellant flow and wing lift analyses.  
 **CNC**: Computer Numeric Control. Basically, using a computer to control the motion of a manufacturing machine, most commonly a mill, lathe, or waterjet cutter. Sometimes used to describe additive manufacturing / 3D printing.  
-**DAVE:** Deployable Aerial Vehicle Experiment. A deployable glider payload intended to fly in a 6" diameter airfrane, likely Bear Force One \(see: BFO\).  
+**DAVE:** Deployable Aerial Vehicle Experiment. A deployable glider payload intended to fly in a 6" diameter airframe, likely Bear Force One \(see: BFO\).  
 **ESRA**: Experimental Sounding Rocket Association, the organization that runs the SAC/IREC competition.  
 **FEA** \(also **FEM**\): Finite Element Analysis or Modelling. Using a computer program to calculate the strength of a mechanical part and its resistance to different load cases.  
 **FMEA** \(also **FMECA**\): Failure Modes and Effects Analysis. A required analysis for NASA projects that details the potential failure points of a design and the resultant risks to both safety and function.  
