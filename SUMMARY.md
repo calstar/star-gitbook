@@ -59,6 +59,7 @@
     * [Debugging Tips/Testing](tutorials/avionics/debugging-tips.md)
     * [Ham Radio Basics](tutorials/avionics/ham-radio-basics.md)
   * [Outreach Activities](tutorials/outreach-activities/README.md)
+    * [Straw Rocketry](tutorials/outreach-activities/straw-rocketry.md)
     * [Spacecraft Structures](tutorials/outreach-activities/spacecraft-structures.md)
     * [Alka Seltzer Rockets](tutorials/outreach-activities/alka-seltzer-rockets.md)
     * [Paper Airplane Launcher](tutorials/outreach-activities/paper-airplane-launcher.md)
