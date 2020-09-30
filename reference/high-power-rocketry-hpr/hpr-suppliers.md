@@ -7,7 +7,7 @@ description: >-
 
 # HPR Suppliers
 
-## Where to Get Stuff
+## Suppliers List
 
 * [Bay Area Rocketry](http://bayarearocketry.com/)
   * Buy motors here. BAR is an on-site supplier at almost every NorCal launch.
@@ -49,4 +49,8 @@ description: >-
   * Altimeters and flight electronics, original manufacturer. More info on products at [http://www.perfectflite.com/](http://www.perfectflite.com/), separate from the online store.
 * Non-Rocketry suppliers:
   * Common hardware items like quick-links, swivels, and screws can often be found for cheaper at [https://www.mcmaster.com/](https://www.mcmaster.com/) or [https://www.amazon.com/](https://www.amazon.com/)--don't pay more if you can find them for less!
+
+
+
+
 

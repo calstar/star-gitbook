@@ -10,13 +10,17 @@ Then, get started on your L1 journey by checking out our resources on design and
 
 {% page-ref page="../../tutorials/airframe/airframe-openrocket.md" %}
 
+{% page-ref page="hpr-kits.md" %}
+
 {% page-ref page="hpr-design.md" %}
+
+{% page-ref page="hpr-suppliers.md" %}
 
 {% page-ref page="../../tutorials/airframe/tube-attachement.md" %}
 
 {% page-ref page="../../tutorials/airframe/attaching-fins.md" %}
 
-{% page-ref page="hpr-suppliers.md" %}
+
 
 When you've successfully completed a cert, add yourself to our list of certified members here!
 

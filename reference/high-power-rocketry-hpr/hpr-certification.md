@@ -4,7 +4,7 @@ description: >-
   impulse
 ---
 
-# HPR Certification
+# STAR HPR Certification
 
 Some of the members listed below may no longer be with the team, but they are often available to help out in the \#rocket-design channel!
 
