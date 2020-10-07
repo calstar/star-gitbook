@@ -75,6 +75,18 @@ Like Week 2, but with a focus on injectors and thrust chambers of liquid propuls
 
 ## Week 4-5.
 
+The following instructions are a bit outdated, please refer to the google doc here with for the most up to date instructions for the end of the intro project: [https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit](https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit) 
+
+
+
+
+
+
+
+
+
+
+
 Now you should be prepared to design your very own very basic liquid rocket engine. First, let's go over some of the resources you'll have at your disposal.
 
 * A parts list of various valves, tanks, piping types, etc. that you'll say you'll use for your design that will be made availible when you get to this point.
