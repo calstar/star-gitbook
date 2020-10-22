@@ -6,10 +6,6 @@ description: >-
 
 # How to use GitBook
 
-{% hint style="danger" %}
-If you've acquired permissions by reading the **Access** and **Draft Descriptions** sections and can't figure out how to actually make edits to GitBook pages, **READ THE "Creating a draft" SECTION**!
-{% endhint %}
-
 ## Access
 
 All members are encouraged to contribute to our project documentation! After setting up a GitBook account on [https://www.gitbook.com/](https://www.gitbook.com/) \(though email or Google, GitHub, etc.\), **please first carefully and completely read the entire Draft Descriptions sections below**, and follow the instructions found there to get edit access to our GitBook.
@@ -17,20 +13,18 @@ All members are encouraged to contribute to our project documentation! After set
 ## Draft Descriptions
 
 {% hint style="danger" %}
-After making a change \(new draft\), **you must describe changes** with a short message ****by clicking on "Describe this draft" **in the Drafts section in the sidebar** and writing a brief description.
+After making a **\*\*change \(new draft\),** you must describe changes **with a short message** by clicking on "Describe this draft" **in the Drafts section in the sidebar** and writing a brief description.\*\*
 {% endhint %}
 
 ![See the section below &quot;Creating Drafts&quot; if you don&apos;t have this sidebar visible](.gitbook/assets/drafts.PNG)
 
 Now that you've read this section, you can first follow the join link here: [https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3](https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3)
 
-Then message @rebeccab\#5741 \(Operations Lead\) on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
-
-To edit, **follow the instructions in the "Creating a draft" section below**! Do **not** click on anything that says "Edit with GitHub" or similar \(this should already be disabled\). We use GitHub \(no relation to GitBook\) to back up content, but it is not integrated into the GitBook editing flow and lacks key functionality.
+Then message @rebeccab\#5741 on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
 
 ## Creating a draft
 
-To start editing a GitBook page, first go to [https://www.gitbook.com/](https://www.gitbook.com/) and click on "Go to Dashboard" in the upper right-hand corner.
+To start editing a GitBook page, first go to [https://www.gitbook.com/](https://www.gitbook.com/) and click on "Go to Dashboard"in the upper right-hand corner.
 
 ![](.gitbook/assets/gitbook1.PNG)
 
