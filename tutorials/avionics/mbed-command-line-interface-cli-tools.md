@@ -56,7 +56,7 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA6NF8iallvQVp22WDkTkyrtvp9eWW6A8YVr+kz4
 
 Now, run `$ exit` to logout of the VM, followed by `$ vagrant reload` to restart. After this, ssh should succeed.
 
-If you see an error regarding NFS, you will want to change your filesharing method to RSync. In the `Vagrantfile` change the `type` of the `config.vm.synced_folder` from `"nfs"` to `"rsync"`. Now run `vagrant reload` again and you shouldn't see the error. You may run `vagrant rsync-auto` in a terminal to have vagrant automatically sync the changes you make on your local machine to the virtual one.
+If you see an error regarding NFS, you will want to change your filesharing method to RSync. In the `Vagrantfile` change the `type` of the `config.vm.synced_folder` from `"nfs"` to `"rsync"`. Now run `vagrant reload` again and you shouldn't see the error. You may run `vagrant rsync-auto` in a terminal to have vagrant automatically sync the changes you make on your local machine to the virtual one. If you are using `nfs` and are noticing that your file syncing isn't working, try adding`config.vm.network "private_network", type: "dhcp"` to your vagrant file
 
 {% hint style="warning" %}
 Getting SSH to succeed is crucial as it must work before vagrant will move on to the step where it syncs files in the directory with the `Vagrantfile` in the host system to the `/vagrant` directory in the guest system.
