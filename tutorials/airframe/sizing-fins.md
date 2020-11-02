@@ -18,7 +18,15 @@ description: >-
 
 ![Fin Geometry Diagram](../../.gitbook/assets/fingeometry.png)
 
-## Fin Geometry
+## **Fin Sizing**
+
+* Root chord: ~2 diameter lengths
+* Tip chord: ~ rocket diameter length
+* Semi span: vary this dimension for appropriate stability
+* Fin tabs: make contact with the motor tube and typically between two centering rings.
+* Placement: close to the back of the rocket between two centering rings
+* Fillets: Create fillets between the fins and the airframe using epoxy. This will increase aerodynamics while ensuring the fins are reinforced.
+* Sanding edges: Sand the leading edge and tip chord of the fins to decrease air resistance and increase aerodynamics. This is optional, but highly recommended.
 
 ### 
 
