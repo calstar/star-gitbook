@@ -28,8 +28,6 @@ description: >-
 * Fillets: Create fillets between the fins and the airframe using epoxy. This will increase aerodynamics while ensuring the fins are reinforced.
 * Sanding edges: Sand the leading edge and tip chord of the fins to decrease air resistance and increase aerodynamics. This is optional, but highly recommended.
 
-### 
-
 ## **Fin Parameters**
 
 ### **Fin Flutter**
