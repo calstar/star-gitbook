@@ -21,12 +21,14 @@ description: >-
 ## **Fin Sizing**
 
 * Root chord: ~2 diameter lengths
-* Tip chord: ~ rocket diameter length
+* Tip chord: ~ 1 diameter length
 * Semi span: vary this dimension for appropriate stability
 * Fin tabs: make contact with the motor tube and typically between two centering rings.
-* Placement: close to the back of the rocket between two centering rings
+* Placement: close to the back of the rocket between two centering rings.
+* Material: The main options for the fin material are plywood, fiberglass, and carbon fiber. The material depends on the rocket being made and the durability needed.
 * Fillets: Create fillets between the fins and the airframe using epoxy. This will increase aerodynamics while ensuring the fins are reinforced.
 * Sanding edges: Sand the leading edge and tip chord of the fins to decrease air resistance and increase aerodynamics. This is optional, but highly recommended.
+* Check the Airframe OpenRocket tutorial to learn about adding and designing fins in OpenRocket.
 
 ## **Fin Parameters**
 
