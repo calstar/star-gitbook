@@ -8,6 +8,8 @@
   * [Membership Requirements](member-info/membership-requirements.md)
   * [Elections](member-info/elections.md)
 * [Tutorials](tutorials/README.md)
+  * [Media](tutorials/media/README.md)
+    * [How to make a decent video](tutorials/media/how-to-make-a-decent-video.md)
   * [RFS Safety Training](tutorials/rfs-safety-training.md)
   * [Submitting Reimbursements](tutorials/submitting-reimbursements.md)
   * [Software Setup](tutorials/software/README.md)
