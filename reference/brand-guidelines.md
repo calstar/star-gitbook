@@ -34,9 +34,13 @@ A pictorial mark logo is a graphical logo with some existing and recognizable sy
 
 As pictured above, the pictoral logos come in eight varieties. There's a flat and a layered logo for each of STAR's primary palettes. Note that the black and white logos do not correspond with their exact Pantone color codes as of yet due to temporary color constraints. Although any of the logos shown above are allowed for official STAR use, the highlighted ones are recommended for most purposes. In general, the layered blue logo should be use as the general dark logo and the layered white one for the general light logo.
 
-### Lettermark Logo
+### Wordmark Logo
 
-STAR's updated lettermark logo is currently a work in progress.
+The workmark logo is avaliable in Google Drive, in the Media folder, Current Brand Elements, Typographic logo. 
+
+{% hint style="danger" %}
+You do not need to type out the workmark logo, use the vector version of the logo \(Export from Illustrator file\) or use the .png version.
+{% endhint %}
 
 ## Typographic Guidelines
 
