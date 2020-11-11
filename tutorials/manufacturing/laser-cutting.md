@@ -4,7 +4,7 @@ description: >-
   laser cut part.
 ---
 
-# Laser cutting
+# Laser Cutting
 
 ## SolidWorks to Laser Cutter
 

@@ -14,6 +14,8 @@ If you're just getting started, we recommend going through the 3D Printing and L
 
 {% page-ref page="laser-cutting.md" %}
 
+{% page-ref page="fablight-metal-laser-cutter.md" %}
+
 {% page-ref page="general-material-properties-and-uses.md" %}
 
 If you have more experience or are a little farther along in the design process, check out some of our other tutorials on how to use commercial parts or where to source stock from:
