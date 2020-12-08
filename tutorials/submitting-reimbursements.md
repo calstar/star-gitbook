@@ -8,6 +8,10 @@ description: How to get paid back after buying stuff for the team.
 
 STAR is a Registered Student Organization under the Associated Students of the University of California \(ASUC\). As such, our funds are stored in their accounts and must be paid out according to their policies. Probably for better documentation and to ensure all money is spent properly, they only disburse funds after we purchase the items. This disbursement is your reimbursement. 
 
+{% hint style="info" %}
+Note: This process has changed to be entirely online since March 2020
+{% endhint %}
+
 ## How do I submit a reimbursement?
 
 ### Step 0 - Become a member on our Callink page
@@ -50,6 +54,10 @@ The description of items should be brief but descriptive; try to use between 2-5
 
 Refer to the table below for **Account**:
 
+{% hint style="warning" %}
+If you are making a large request \($250 or more\), please consult the Business lead to check which account should be used - this can change semester to semester for large items
+{% endhint %}
+
 | If you are buying... | Use this Account |
 | :--- | :--- |
 | ~~Technical parts for the rocket~~ **DO NOT USE** | ~~3-62-203828-TECHF-Tech Fee-STAR~~ |
@@ -59,8 +67,9 @@ For **Categories**, chose either **Cash Reimbursement** \(for purchases below $2
 
 ![Choose either the second or third option](../.gitbook/assets/image%20%2823%29.png)
 
-  
-Section 5 \(Expenditure Action\) is up to you. For most cases, you can leave Sections 6 \(Event Details\) and 8 \(Special Instructions\) blank. Once complete, submit the Purchase Request.
+The form asks you to attach receipts: failure to do this will mean the request is rejected.
+
+Section 5 \(Expenditure Action\) is up to you, though be aware that there is no pickup option during the COVID-19 pandemic. For most cases, you can leave Sections 6 \(Event Details\) and 8 \(Special Instructions\) blank. Once complete, submit the Purchase Request.
 
 {% hint style="info" %}
 Mail to Payee-same address for 5 \(Expenditure Action\) is SLOWER. Hold for pickup is generally FASTER.
@@ -83,7 +92,14 @@ Make sure you have physical copies available as you will need it to submit the f
 It would also be helpful to save the edit link to the form in case you make a mistake.
 {% endhint %}
 
-### Step 3 - Wait for confirmation from a STAR representative
+### Step 3 - Submit proof of payment and wait for confirmation from a STAR representative
+
+Please E-mail proof of payment \(credit card statement or bank statement\) to asucfinance@berkeley.edu. It must include:
+
+* The purchase request number in the subject line
+* The name of the payee
+* The last 4 digits of the account or card used
+* ONLY INCLUDE enough pages to show the above information
 
 A finance representative from the team will review your request and elevate it to a Stage 2 request. We will check that the amount requested matches the amount on the proof of purchase, and we will check that you have all required proof of purchases. 
 
@@ -91,17 +107,7 @@ Once approved, you will be notified through email or Discord. You can also check
 
 If your request does not meet our requirements, it will be rejected. Please check this page to make sure you met all the requirements.
 
-### Step 4 - Print out and submit
-
-Return to the Finances page, and print out your purchase request \(On finances page, there should be a print icon next to your request\). Attach physical copies of all the files you uploaded to the form. Staple it all together with the purchase request on top. 
-
-From here you have two options. 
-
-1\) You can bring the paperwork to the LEAD center on the 4th floor of Eshleman Hall and drop the papers off in the box at the reception desk.
-
-2\)  Leave your forms in the folder at the front of the room during GM's. One of the leads will then take all the purchase requests in the folder and drop them off at the LEAD center themselves.
-
-### Step 5 - Wait to hear back from the LEAD Center
+### Step 4 - Wait to hear back from the LEAD Center
 
 Wait for approval from the LEAD Center. They may reach out to you for more details.
 
