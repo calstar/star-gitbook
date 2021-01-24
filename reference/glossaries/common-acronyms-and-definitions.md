@@ -7,6 +7,8 @@ description: >-
 
 # Common Acronyms and Definitions
 
+
+
 | Term/Acronym | Full Phrase | Explanation |
 | :--- | :--- | :--- |
 | **ABS** | Acrylonitrile Butadiene Styrene | A 3D printing plastic made from Acrylonitrile, Butadiene, and Styrene polymers. |
