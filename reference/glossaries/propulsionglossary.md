@@ -12,7 +12,7 @@
 
 | Term/Acronym | Full Phrase | Explanation |
 | :--- | :--- | :--- |
-|  |  |  |
+| Regenerative Cooling |  | Regenerative cooling, in the context of rocket engine design, is a configuration in which some or all of the propellant is passed through tubes, channels, or in a jacket around the combustion chamber or nozzle to cool the engine. This serves two purposes: 1\) it cools the combustion chamber and 2\) it warms the fuel -- making the combustion reaction more efficient. |
 {% endtab %}
 
 {% tab title="Tanks" %}
