@@ -8,7 +8,7 @@ description: >-
 
 ## [Members: Want to edit the GitBook? Follow this link!](https://app.gitbook.com/@rocketry/spaces)
 
-Don't have edit access or can't access the STAR Internal space? Check out this [tutorial](how-to-use-gitbook.md).
+Still don't have edit access or can't access the STAR Internal space? Check out this [tutorial](how-to-use-gitbook.md).
 
 ## Welcome!
 
