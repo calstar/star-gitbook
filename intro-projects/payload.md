@@ -159,7 +159,7 @@ If you are really stuck, or just want to see an example of a simple chassis desi
 
 ### Step 5: Additional resources
 
-A detailed step-by-step design guide will be released later in the semester. \(Although I heavily encourage you to try it out yourself first & ask any Payload member for help before consulting the guide\)
+A detailed step-by-step design guide will be released later in the semester \(Although I heavily encourage you to try it out yourself first & ask any Payload member for help before consulting the guide\).
 
 ## Project Submission
 
