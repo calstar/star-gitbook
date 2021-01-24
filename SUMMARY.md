@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Space Technologies and Rocketry](README.md)
-* [On-boarding](join.md)
+* [Onboarding](join.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [How to use GitBook](how-to-use-gitbook.md)
 * [Member Info](member-info/README.md)

@@ -5,7 +5,7 @@ description: >-
   email ucberkeleystar@gmail.com
 ---
 
-# On-boarding
+# Onboarding
 
 ## Summary
 
