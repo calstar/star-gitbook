@@ -1,18 +1,35 @@
 ---
 description: >-
-  The GitBook interface is pretty self-explanatory, but here's some information
-  to make it easier.
+  The GitBook interface will help you make beautiful docs; here's how to use it
+  for STAR.
 ---
 
 # How to use GitBook
 
-{% hint style="danger" %}
-If you've acquired permissions by reading the **Access** and **Draft Descriptions** sections and can't figure out how to actually make edits to GitBook pages, **READ THE "Creating a draft" SECTION**!
-{% endhint %}
+## Step 1: Create an Account
 
-## Access
+All members are encouraged to contribute to our project documentation!   
+**Set up a GitBook account** on [https://www.gitbook.com/](https://www.gitbook.com/) \(through email or Google, GitHub, etc.--it doesn't matter as long as you remember your login info\).
 
-All members are encouraged to contribute to our project documentation! After setting up a GitBook account on [https://www.gitbook.com/](https://www.gitbook.com/) \(though email or Google, GitHub, etc.\), **please first carefully and completely read the entire Draft Descriptions sections below**, and follow the instructions found there to get edit access to our GitBook.
+## Step 2: Get Access
+
+**To get access, go to the \#operations channel and follow the join link in the channel description.** This link will give you editing access to STAR Public docs as well as the STAR Internal space.
+
+## Step 3: Navigate to Editing Interface
+
+**Click this link to get to your dashboard:** [https://app.gitbook.com/@rocketry/space](https://app.gitbook.com/@rocketry/spaces).
+
+Once at your dashboard, **select which space you'd like to edit** \(this one is called STAR Public\) by clicking on it.
+
+![](.gitbook/assets/image%20%2895%29.png)
+
+You'll now have a sidebar with draft options. **Click anywhere on a page and start typing/editing to start a new draft!**
+
+![](.gitbook/assets/image%20%2896%29.png)
+
+One draft can contain edits to multiple pages. Remember, always enter a draft description \(see below\)! You can also create new pages by mousing over the sidebar: 
+
+![](.gitbook/assets/cropped_gitbook_edit.png)
 
 ## Draft Descriptions
 
@@ -20,25 +37,7 @@ All members are encouraged to contribute to our project documentation! After set
 After making a change \(new draft\), **you must describe changes** with a short message ****by clicking on "Describe this draft" **in the Drafts section in the sidebar** and writing a brief description.
 {% endhint %}
 
-![See the section below &quot;Creating Drafts&quot; if you don&apos;t have this sidebar visible](.gitbook/assets/drafts.PNG)
-
-Now that you've read this section, you can first follow the join link here: [https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3](https://www.gitbook.com/invite/calstar?invite=-LJpEDqIbGMPYJc2aWZ3)
-
-Then message @rebeccab\#5741 \(Operations Lead\) on Discord requesting editing permissions and make sure to include the passphrase "version\_history" to indicate you read through \(or at least read this sentence...\).
-
-To edit, **follow the instructions in the "Creating a draft" section below**! Do **not** click on anything that says "Edit with GitHub" or similar \(this should already be disabled\). We use GitHub \(no relation to GitBook\) to back up content, but it is not integrated into the GitBook editing flow and lacks key functionality.
-
-## Creating a draft
-
-To start editing a GitBook page, first go to [https://www.gitbook.com/](https://www.gitbook.com/) and click on "Go to Dashboard" in the upper right-hand corner.
-
-![](.gitbook/assets/gitbook1.PNG)
-
-Once at your dashboard, select which space you'd like to edit \(this one is called STAR\)
-
-![](.gitbook/assets/gitbook2.PNG)
-
-You'll now have a sidebar with draft options, and a blue button on the lower right-hand corner of the page to start a new draft editing that page. One draft can contain edits to multiple pages. Remember, always enter a draft description!
+![See the section &quot;Step 3&quot; above if you don&apos;t have this sidebar visible](.gitbook/assets/drafts.PNG)
 
 ## Publishing a draft
 
@@ -47,7 +46,7 @@ Let's say you've written and saved a draft, and given it a draft description. Th
 1. You've written a fairly lengthy draft, aren't sure the style is quite consistent with the rest of our docs, had some formatting issue, or just generally wrote a quick draft that isn't highly polished.
 2. You've made a minor edit, or spent a significant amount of time making a polished and consistent page that you believe does not have errors.
 
-If you fall into Case 1, or do not identify with either case, please message in the \#documentation channel saying something along the lines of "Hey, I've written a draft on xxx and was wondering if someone could check it over". In this case, the Documentation team will take care of any remaining copy editing issues, formatting, etc. and publish the draft. You're done!
+If you fall into Case 1, or do not identify with either case, please message in the \#operations channel saying something along the lines of "Hey, I've written a draft on xxx and was wondering if someone could check it over". In this case, the Operations team will take care of any remaining copy editing issues, formatting, etc. and publish the draft. You're done!
 
 If you fall into Case 2, you are welcome to simply publish your draft by clicking on the blue "Merge" button in the sidebar. If you're not confident that the draft is error-free, please default to Case 1; the more eyes looking at the work the better.
 
