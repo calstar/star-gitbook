@@ -8,6 +8,8 @@ description: >-
 
 ## [Members: Want to edit the gitbook? Follow this link!](https://app.gitbook.com/@rocketry/spaces)
 
+Don't have edit access or can't access the STAR Projects space? Check out the [tutorial](how-to-use-gitbook.md).
+
 ## Welcome!
 
 This is a space for the general public, prospective members, and current members to access all sorts of documentation compiled by our team. 
