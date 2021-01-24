@@ -90,7 +90,7 @@ Usually once or twice per week. General Meetings \("GMs"\) and subteam meetings 
   * Includes the structure, materials, aerodynamics, and stability of the rocket
 * Help integrate the systems of other subteams 
 * 3-D model using SolidWorks and OpenRocket
-* Perform composite lay-ups to create [airframe components](reference/airframe-components.md).
+* Perform composite lay-ups to create [airframe components](tutorials/airframe/airframe-components.md).
 * Use a CNC tube winder to manufacture tubes and other airframe components
 * Mechanical design, systems engineering as needed
 
