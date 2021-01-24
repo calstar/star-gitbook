@@ -6,7 +6,7 @@ description: >-
 
 # Space Technologies and Rocketry
 
-## [Want to edit the gitbook? Follow this link!](https://app.gitbook.com/@rocketry/spaces)
+## [Members: Want to edit the gitbook? Follow this link!](https://app.gitbook.com/@rocketry/spaces)
 
 ## Welcome!
 
