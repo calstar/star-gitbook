@@ -6,6 +6,8 @@ description: >-
 
 # Space Technologies and Rocketry
 
+## [https://app.gitbook.com/@rocketry/s/docs/](https://app.gitbook.com/@rocketry/s/docs/)
+
 ## Welcome!
 
 This is a space for the general public, prospective members, and current members to access all sorts of documentation compiled by our team. 
