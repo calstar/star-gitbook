@@ -1,5 +1,5 @@
 ---
-description: How to get started with software CalSTAR uses.
+description: How to get started with software STAR uses.
 ---
 
 # Software Setup
