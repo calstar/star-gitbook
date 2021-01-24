@@ -13,7 +13,9 @@ All members are encouraged to contribute to our project documentation!
 
 ## Step 2: Get Access
 
-**To get access, go to the \#operations channel and follow the join link in the channel description.** This link will give you editing access to STAR Public docs as well as the STAR Internal space.
+**To get access, go to the \#operations channel and follow the join link in the channel description at the top.** This link will give you editing access to STAR Public docs as well as the STAR Internal space.
+
+![](.gitbook/assets/redacted_join_link.png)
 
 ## Step 3: Navigate to Editing Interface
 
