@@ -112,6 +112,7 @@
     * [Avionics 2018](intro-projects/old-intro-projects/avionics-2018.md)
     * [Recovery 2018](intro-projects/old-intro-projects/recovery-2018.md)
 * [Reference](reference/README.md)
+  * [Reference](reference/reference.md)
   * [Glossaries](reference/glossaries/README.md)
     * [Propulsion](reference/glossaries/propulsionglossary.md)
     * [Common Acronyms and Definitions](reference/glossaries/common-acronyms-and-definitions.md)

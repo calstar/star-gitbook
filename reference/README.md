@@ -10,3 +10,11 @@ Rocket Propulsion Elements book:
 
 {% file src="../.gitbook/assets/george-p.-sutton-oscar-biblarz-rocket-propulsion-elements-2016-wiley.pdf" caption="Rocket Propulsion Elements" %}
 
+How to Design, Build and Test Small Liquid-fuel Rocket Engines: [http://www.cientificosaficionados.com/libros/cohetes.pdf](http://www.cientificosaficionados.com/libros/cohetes.pdf)
+
+NASA SP-125 Design of Liquid Propellant Rocket Engines Second Edition by Huzel and Huang: [https://ntrs.nasa.gov/citations/19710019929](https://ntrs.nasa.gov/citations/19710019929)
+
+
+
+
+
