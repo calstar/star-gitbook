@@ -6,9 +6,9 @@ description: >-
 
 # Space Technologies and Rocketry
 
-## [Members: Want to edit the gitbook? Follow this link!](https://app.gitbook.com/@rocketry/spaces)
+## [Members: Want to edit the GitBook? Follow this link!](https://app.gitbook.com/@rocketry/spaces)
 
-Don't have edit access or can't access the STAR Projects space? Check out the [tutorial](how-to-use-gitbook.md).
+Don't have edit access or can't access the STAR Projects space? Check out this [tutorial](how-to-use-gitbook.md).
 
 ## Welcome!
 
