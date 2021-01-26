@@ -40,11 +40,9 @@ To contribute to our documentation, see the below page:
 
 {% page-ref page="how-to-use-gitbook.md" %}
 
-Documentation on specific current or past projects can be found at the Projects space, which is restricted to members:
+Documentation on specific current or past projects can be found at the STAR Internal space, which is restricted to members:
 
-{% embed url="https://rocketry.gitbook.io/projects/" caption="The /projects/ space, separate from this one \(/docs/\)" %}
+{% embed url="https://rocketry.gitbook.io/projects/" caption="The /internal/ space, separate from this one \(/public/\)" %}
 
-
-
-![Some of us at the launch of Sub-Arktos at Snow Ranch, 2017](.gitbook/assets/snow-ranch-group-1-of-2.jpg)
+![The team at Tripoli Central California with our rocket AirBears](.gitbook/assets/star.jpeg)
 
