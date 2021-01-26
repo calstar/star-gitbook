@@ -2,9 +2,9 @@
 
 {% tabs %}
 {% tab title="General" %}
-| Term/Acronym | Full Phrase | Explanation |
+| Term/Acronym | Definition | Links and Resources |
 | :--- | :--- | :--- |
-|  |  |  |
+| O/ F Ratio or Mixture Ratio | Mixture Ratio is the ratio of the liquid oxidizer flow rate divided by the liquid fuel flow rate, with both flow rates being measured as mass flow rates. The best performance \(highest specific impulse\) is obtained at a specific optimum mixture ratio. |  |
 {% endtab %}
 
 {% tab title="Cooling" %}
