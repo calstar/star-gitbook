@@ -60,8 +60,8 @@ If you are making a large request \($250 or more\), please consult the Business 
 
 | If you are buying... | Use this Account |
 | :--- | :--- |
-| ~~Technical parts for the rocket~~ **DO NOT USE** | ~~3-62-203828-TECHF-Tech Fee-STAR~~ |
-| Social supplies, outreach materials, or other general purchases | `3-70-203828-00000-MISC-STAR` |
+| Any hardware for vehicles, engines, or related projects | 3-62-203828-TECHF-Tech Fee-STAR |
+| Social supplies, outreach, etc.; non-hardware purchases | `3-70-203828-00000-MISC-STAR` |
 
 For **Categories**, chose either **Cash Reimbursement** \(for purchases below $25\), or **Check Reimbursement** for all other purchases. If you feel like you must use one of the other categories, please reach out to a lead. 
 
