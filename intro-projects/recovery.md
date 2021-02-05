@@ -37,7 +37,7 @@ The deliverables of the project should be presented at the recovery subteam meet
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### ~~**Task 1 \| Jacob's Trainings** _**\(3 hrs\)**_~~ _****_\(Cancelled for Fa20\)
+### ~~**Task 1 \| Jacob's Trainings** _**\(3 hrs\)**_~~ _****_\(Cancelled for SP21\)
 
 **Due: October 7**
 
@@ -59,7 +59,7 @@ The majority of our manufacturing will be done in the Jacob's Hall Makers space.
 
 ### **Task**  2 **\| Stage Separation Flow Chart** _**\(3 hrs\)**_
 
-**Due: September 30**
+**Due: Due February 25**
 
 **Deliverable:** Filled out flow chart with break down of each event of Stage Separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is  safe recovery of the rocket. 
 
@@ -75,7 +75,7 @@ You can assume all separation occurs due to "pyrogen ignition" regardless of mec
 
 ### **Task**  3 **\| Parachute Selection** _**\(3 hrs\)**_
 
-**Due: September 30**
+**Due: February 25**
 
 **Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice. _\(Use the Arktos OpenRocket file attached at the bottom of this section\)_
 
@@ -116,7 +116,7 @@ Fill out the chart below with all of the calculations and relevant information o
 
 ### **Task 4\|  Avionics Bay Assembly** _**\(6 hrs\)**_
 
-**Due: October 7**
+**Due: March 11**
 
 **Deliverable**: A brief write up presenting your design \(include pictures of the full assembly\) and explaining your design methodology and decisions.
 
