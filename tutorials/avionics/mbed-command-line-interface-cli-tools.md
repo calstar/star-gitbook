@@ -165,3 +165,37 @@ As of right now, usb-detection and programming through vagrant is not working. I
 
 {% file src="../../.gitbook/assets/en.stsw-link004.zip" caption="Windows St-Link Utility" %}
 
+## Docker Environment \(Under construction\)
+
+The next generation of development environment is being moved onto Dockerfile-based platform. To use the new environment, you will need to install the Docker or Podman first. 
+
+### Podman Instructions for Windows Subsystem of Linux \(WSL\)
+
+Podman is the fully open source alternative to Docker, and they share the same commands format. Since WSL is a non-standard linux environment that lacks of some important syscalls and processes, Docker cannot be run on WSL without some hassles. Podman has been tested on WSL, and you should follows the instruction below.
+
+If your Windows 10 is Home version, you might not be able to enable Hyper-V. You should upgrade to Windows 10 Pro, or just use the free educational version from the school: [https://software.berkeley.edu/microsoft-operating-system](https://software.berkeley.edu/microsoft-operating-system)
+
+Follow the instruction on [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10). You should install WSL 2. This tutorial is based on OpenSUSE, but it is possible to use other distros.
+
+Once you finish, install Podman by running
+
+```text
+sudo zypper install podman
+```
+
+Then, run the following instruction to create and modify the config file to make it run on WSL:
+
+```text
+sudo cp /usr/share/containers/containers.conf /etc/containers
+```
+
+Then, use an editor of your choice, open `/etc/containers/containers.conf` with `sudo` :
+
+1. Uncomment the line with `events_logger`, then change the value to `file`.
+2. Uncomment the line with `cgroup-manager`, then change the value to `cgroupfs`.
+
+You should be able to run the docker file right now. If you are getting `No CNI Configuration file` error, do the following steps:
+
+1. Run `sudo podman network create`. It should give you a filename.
+2. In the command you used to run docker, add `--net <config-name>` after `podman run`. `<config-name>` is the filename you got from the first step.
+
