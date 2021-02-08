@@ -10,27 +10,22 @@ Your project should be completed with your intro project group.
 
 ### Returning Members
 
-Returning members have no special requirements for Spring 2020. It is highly recommended to attend workshops and the Feed System Presentations hosted by Trevor.
-
-If you are interested in contributing to a workshop \(highly encouraged\), please contact Trevor via Discord.
+Returning members have no special requirements for Spring 2021.
 
 ### Contact
 
-If you have any questions about any part of the question at any time \(even if it's 4AM on a weekend\), do not hesitate to reach out to the propulsion lead \(Trevor\) or the propulsion deputy \(Jeremy\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
+If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead \(Trevor\) or the propulsion deputy \(Aarabhi\). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
 
 * Trevor's Discord: zat15 \(accessible through STAR discord\)
-* Jeremy's Discord: theAvereageAchiever  \(accessible through STAR discord\)
+* Aarabhi's Discord: arby  \(accessible through STAR discord\)
 * Discord: in the \#propulsion channel
 * Trevor's Email: tzinky@berkeley.edu
-* Jeremy's Email: jeremy.gong@berkeley.edu
 * Office Hours:
-  * Trevor's OH: 4:5:30 PM in Kresge Engineering Library
+  * Trevor's OH: Mondays 6-7 and Friday's 10-11 in a Discord voice channel on the STAR discord. Or by appointment. Message me if you want to meet another time
 
-    \(exact location may vary, will be announced on Discord\)
+    Jeremy's OH: TBA
 
-  * Jeremy's OH: TBA
-
-    \(exact location may vary, will be announced on Discord\)
+  * \(exact location may vary, will be announced on Discord\)
 
 {% hint style="warning" %}
 This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead, propulsion members, and of course your mentor. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
@@ -38,16 +33,7 @@ This project is intended to challenge you a little bit! You are not expected to 
 
 ## In-Person Component
 
-To satisfy the in-person component, you must attend **one** of the following events:
-
-* Safety Workshop \(Will be 2 dates, TBA\)
-
-In addition to attending a safety session, you are required to attend **one** of the following events. If you have time to attend more than one, you are encouraged to do so.
-
-* Manufacturing workshop \(TBA\)
-* Quantitative Analysis workshop \(TBA\)
-
-Lastly, once you believe you have finished your intro project, you should schedule a time with Trevor during office hours to go over your submission. If you are super busy and can't find a time, then talk to me and we can sort something out.
+There is no In-Person Component right now due to coronavirus.
 
 ## Week 1:
 
@@ -55,23 +41,28 @@ First and foremost, we'd like to tell you about some of the projects going on in
 
 ## Week 2.
 
-Time for some fancy book learnin'! NASA created [this](https://er.jsc.nasa.gov/seh/05_Practical_Rocketry.pdf) document to talk about rocket propulsion in general and some of the ways you can make and use a rocket motor. A bit more advanced and optional reading that goes into more detail can be found [here](http://www.braeunig.us/space/propuls.htm).
+Time for some fancy book learnin'! NASA created this document to talk about rocket propulsion in general and some of the ways you can make and use a rocket motor. [Read Here](https://er.jsc.nasa.gov/seh/05_Practical_Rocketry.pdf)
 
-There are also the slides your group must fill out. Within your team, you can divide the tasks however you want to. To help out with the slides, we have a couple more readings for you. Some readings you'll find helpful are
+A bit more advanced and optional reading that goes into more detail can be found [here](http://www.braeunig.us/space/propuls.htm).
+
+There are also the slides your group must fill out, which are located in your group's folder. The slides this week are focused on different types of rockets, and on the different  types of feed systems for liquid rockets. Within your team, you can divide the tasks however you want to. To help out with the slides, we have a couple more readings for you. Some readings you'll find helpful are
 
 * [A pros and cons comparison between solid and liquid motors](https://github.com/calstar/star-gitbook/tree/2c8454b3d1cc4a9061e43daf2f6488c00633c631/intro-projects/thoughtco.com/how-rockets-work-1992379/README.md)
 * [A bit more in depth analysis on solid and liquid fuels](http://www.braeunig.us/space/propel.htm)
 * [Solid rocket fuel mixtures and channel patterns](https://science.howstuffworks.com/rocket.htm) \(you only need to read the solid rocket parts\)
-* [An exerpt from Rocket Propulsion Elements about ](https://wodeshu.gitee.io/roprop/text00004.html#c01) \(section 1.2 up to figure 1-6 talks about liquid and solid motors, section 6.3 and 6.4 up to table 6-5 talks about differet types of feed systems\)
+* [An excerpt from Rocket Propulsion Elements about ](https://wodeshu.gitee.io/roprop/text00004.html#c01) \(section 1.2 up to figure 1-6 talks about liquid and solid motors\)
+* [Another link to Rocket Propulsion Elements](https://wodeshu.gitee.io/roprop/text00004.html) \(section 6.3 and 6.4 up to table 6-5 talks about different types of feed systems\)
 * [How a regulator works](https://www.fluidcontrols.co.uk/how-pressure-regulators-work/#:~:text=Here%20is%20a%20small%20overview,fluctuations%20in%20the%20inlet%20pressure.&text=If%20the%20load%20flow%20decreases,regulator%20flow%20must%20decrease%20also.)
 
 ## Week 3.
 
 Like Week 2, but with a focus on injectors and thrust chambers of liquid propulsion systems.
 
-* [Another exerpt from Rocket Propulsion Elements](https://wodeshu.gitee.io/roprop/text00011.html#c08)\(Relevant bit is section 8.1 up to figure 8-6 and section 8.2\)
+* [Injector overview from Rocket Propulsion Elements](https://wodeshu.gitee.io/roprop/text00011.html#c08)\(Relevant bit is section 8.1 up to figure 8-6\)
 * [A bit about specifically pintle injectors](http://pintleinjector.blogspot.com/2016/12/pintle-injector.html)
-* [Cooling methods](https://aeronotes.weebly.com/cooling-in-liquid-rocket.html)
+* [Thrust Chamber Overview from RPE ](https://wodeshu.gitee.io/roprop/text00011.html#head-2-88)\(Beginning of Ch 8 up to section 8.1\)
+* [RPE Cooling methods](https://wodeshu.gitee.io/roprop/text00011.html#head-2-88) \(section 8.2 up to "Film Cooling"\)
+* [Cooling methods](https://aerospacenotes.com/propulsion-2/cooling-in-liquid-rocket/)
 
 ## Week 4-5.
 
@@ -89,36 +80,66 @@ The following instructions are a bit outdated, please refer to the google doc he
 
 Now you should be prepared to design your very own very basic liquid rocket engine. First, let's go over some of the resources you'll have at your disposal.
 
-* A parts list of various valves, tanks, piping types, etc. that you'll say you'll use for your design that will be made availible when you get to this point.
 * A video presentation series that Trevor gave in the Spring of 2020 which goes over a liquid engine design, piping components, how to read a P&ID diagram, and how to understand procedures. 
+* ADD MORE RECENT PRESENTATION HERE 
 * [This tutorial on how to use Rocket Propulsion Analysis](https://www.youtube.com/watch?v=F3W3zZj4zX4) \(There are more tutorials elsewhere on this Gitbook\)
-* Of course, you always have your mentor, other people in your group, and feel free to message Trevor or Jeremy.
+* Of course, you always have your mentor, other people in your group, and feel free to message Trevor or Aarabhi.
 
-As for your design, you'll have to present three different things: your feed system design, thrust chamber design, and a cost estimate plus basic procedures
+As for your design, you'll have to present four different things: your feed system design, thrust chamber design, injector design, and basic procedures. These can be shared or split up as a team. I would recommend multiple people working on each component, as some are admittedly more exciting and interesting than others, but all are important for everyone on the team to understand.
 
-Feed system design:
+If you don't understand what you are supposed to do or are stuck, please come to office hours! I will basically give you the answer to help you learn throughout this process. 
 
-* Pressure fed or blowdown system? Both are correct choices, but you must justify why you chose one over the other
-* The list of componants is extensive. Your team must choose which ones are best and make sure they work with the rest of the parts
+**Feed system design:**
 
-Thrust chamber design:
+* Which feed system type would you use for your design? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method.
+* A Piping and Instrumentation Diagram \(P&ID\) should be made for your propulsion system. You should watch the pipes and fittings presentation along with the feed system design presentation, both linked above, in order to learn how to create the P&ID design.
 
-* Here are some design restraints
-  * 1000 lbf engine fueled by keorsene and liquid oxygen
-  * Oxidizer/Fuel ratio is 2.5
-  * The feed system can supply up to 1200psi feed pressure, and an injection pressure drop of 250psi will be used.
-    * Based on this, what is a reasonable chamber pressure?
-  * Must fit in a 7.5" diameter airframe
+Deliverables:
+
+* A complete P&ID for your feed system, similar to the design shown in the video
+* A slide detailing your feed system type choice. 
+
+ 
+
+**Thrust chamber design:**
+
+* Here are some design restraints:
+
+  * The engine fueled by kerosene and liquid oxygen
+  * Oxidizer/Fuel ratio is 2.56
   * 1 atm ambient air pressure
-* Pintle or impinging injector system? Like before, both are correct but you have to say why you chose one over the other.
-* Include some rough sketches of your injector design. If you know how to make a design that can be machined, then include that. If you don't know, don't worry about that because it's a rather advanced skill.
-* Using Rocket Propulsion Analysis software, determine the thrust chamber size and shape
-* A total impulse of 30,000 N⋅s is desired. Using the mass flow rates derived in RPA, determine the mass of each propellant required, as well as the associated volume of the fuel tanks.
+  * A total impulse of 8000 N\*s is desired
+  * Assume that the thrust curve is constant during the firing.
+    * Hint: Total Impulse=Force\*time
 
-Cost Estimate and Procedures:
+* Design Choices
+  * The chamber pressure can be between 250 psi and 1000 psi. You may choose any number in this range, but you should present the reasoning behind the pros and cons of a higher or lower chamber pressure.
+  * Choose an engine firing time between 10 and 30 seconds. There is no wrong choice, but explain the pros and cons of the length of firing duration choices.
+  * Which cooling method would you use for the thrust chamber? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method. For your chosen method, in your presentation explain the heat transfer process, following the heat as it is transferred away from the thrust chamber. 
 
-* Create a spreadsheet with all the componants and their costs
-* Basic procedures should be written from a template for your system for filling the fuel tank and for testing the flow rate.
+Deliverables:
+
+* Chamber geometry: Using the Rocket Propulsion Analysis \(RPA\) software, determine the thrust chamber size and shape. Show a screenshot of the RPA results in your final presentation.
+* Tank analysis:. Using the mass flow rates derived in RPA and your chosen firing time, determine the mass of each propellant required, as well as the associated volume required for your tanks to hold the propellant. 
+* Slides detailing your choice of firing time and chamber pressure.
+* Cooling method choice and heat transfer explanation. 
+
+**Injector design:**
+
+* Which injector design would you use for your design? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method. For your chosen method, in your presentation explain with the use of a diagram how the injector promotes mixing together of the fuel and oxidizer in the combustion chamber.
+
+Deliverables:
+
+* A slide detailing your choice of injector type with the explanation of injector mixing. 
+
+**Procedures:** 
+
+* Basic procedures should be written from a template for your system for testing the flow rate for your system. 
+* Make a copy of the template [HERE ](https://docs.google.com/document/d/1P3gKRjy3aOpHa8Oy5DiH7qLSLG5nG873p8IAGObX3G8/edit#)into your group's folder. 
+* The tanks can all be assumed to be full of their respective fluids. 
+* Denote what positions the valves are initially in at the beginning of the test
+* Denote which valves turn in what order to start the test.
+* Say that you only want to test the flow rate with a flow 5 seconds long. Denote which valves are turned to stop the test midway. 
 
 ## Final Presentation
 
