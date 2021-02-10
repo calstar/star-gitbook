@@ -47,7 +47,7 @@ A bit more advanced and optional reading that goes into more detail can be found
 
 There are also the slides your group must fill out, which are located in your group's folder. The slides this week are focused on different types of rockets, and on the different  types of feed systems for liquid rockets. Within your team, you can divide the tasks however you want to. To help out with the slides, we have a couple more readings for you. Some readings you'll find helpful are
 
-* [A pros and cons comparison between solid and liquid motors](https://github.com/calstar/star-gitbook/tree/2c8454b3d1cc4a9061e43daf2f6488c00633c631/intro-projects/thoughtco.com/how-rockets-work-1992379/README.md)
+* [A pros and cons comparison between solid and liquid motors](https://www.thoughtco.com/how-rockets-work-1992379)
 * [A bit more in depth analysis on solid and liquid fuels](http://www.braeunig.us/space/propel.htm)
 * [Solid rocket fuel mixtures and channel patterns](https://science.howstuffworks.com/rocket.htm) \(you only need to read the solid rocket parts\)
 * [An excerpt from Rocket Propulsion Elements about ](https://wodeshu.gitee.io/roprop/text00004.html#c01) \(section 1.2 up to figure 1-6 talks about liquid and solid motors\)
