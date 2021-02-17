@@ -19,6 +19,7 @@ description: Sounds tasty
 | Jenya Pryadkin | KG5JXW | Technician |
 | Wendy Yang | KN6CKY | Technician |
 | Jason Xu | KN6IGE | General |
+| Tyler Adkison  | KN6ELN | Technician  |
 
 
 
