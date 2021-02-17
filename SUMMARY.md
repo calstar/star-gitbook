@@ -80,6 +80,7 @@
     * [Rocket Propulsion Analysis Tutorial](tutorials/propulsion/rocket-propulsion-analysis-tutorial.md)
     * [Ignition Devices](tutorials/propulsion/ignition-devices.md)
     * [Pipes, Fittings, and Components](tutorials/propulsion/propulsion-pipes-+-adapters.md)
+    * [Injectors](tutorials/propulsion/injectors.md)
   * [Recovery](tutorials/recovery/README.md)
     * [Parachute Sizing](tutorials/recovery/parachute-sizing.md)
     * [Avionics Sled](tutorials/recovery/avionics-sled.md)
