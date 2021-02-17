@@ -76,6 +76,7 @@
     * [LaTeX](tutorials/documentation/documentation-latex.md)
   * [Payload](tutorials/payload.md)
   * [Propulsion](tutorials/propulsion/README.md)
+    * [Feed System Types](tutorials/propulsion/feed-system-types.md)
     * [Rocket Propulsion Analysis Tutorial](tutorials/propulsion/rocket-propulsion-analysis-tutorial.md)
     * [Ignition Devices](tutorials/propulsion/ignition-devices.md)
     * [Pipes, Fittings, and Components](tutorials/propulsion/propulsion-pipes-+-adapters.md)
