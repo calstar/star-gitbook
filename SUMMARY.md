@@ -79,6 +79,7 @@
     * [Feed System Types](tutorials/propulsion/feed-system-types.md)
     * [Rocket Propulsion Analysis Tutorial](tutorials/propulsion/rocket-propulsion-analysis-tutorial.md)
     * [Ignition Devices](tutorials/propulsion/ignition-devices.md)
+    * [Creating a Piping and Instrumentation Diagram P&ID](tutorials/propulsion/creating-a-piping-and-instrumentation-diagram-p-and-id.md)
     * [Pipes, Fittings, and Components](tutorials/propulsion/propulsion-pipes-+-adapters.md)
     * [Injectors](tutorials/propulsion/injectors.md)
   * [Recovery](tutorials/recovery/README.md)
