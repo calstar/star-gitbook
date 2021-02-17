@@ -194,8 +194,26 @@ Then, use an editor of your choice, open `/etc/containers/containers.conf` with 
 1. Uncomment the line with `events_logger`, then change the value to `file`.
 2. Uncomment the line with `cgroup-manager`, then change the value to `cgroupfs`.
 
-You should be able to run the docker file right now. If you are getting `No CNI Configuration file` error, do the following steps:
+You should be able to run the docker file right now. **Note that you must run Podman with `sudo`, or you won't be able to do anything.** If you are getting `No CNI Configuration file` error, do the following steps:
 
 1. Run `sudo podman network create`. It should give you a filename.
 2. In the command you used to run docker, add `--net <config-name>` after `podman run`. `<config-name>` is the filename you got from the first step.
+
+### Copying File To Windows File System
+
+To copy a file from the image to Windows, you need to first get the mount point of your workspace by running 
+
+```text
+sudo podman volume inspect star-workspace
+```
+
+where `star-workspace` is the volume name. If you use another volume name, you need to change the command accordingly. You can save it to a environment variable to avoid copying the long path every time.
+
+Since the path is usually only accessible with root privilege, you need to copy it to a place that you can access without `sudo`, like your home directory:
+
+```text
+sudo cp <volume-mountpoint>/<path-in-podman> ~/
+```
+
+Then, open Windows Explorer, type in `\\wsl$` in address bar. For every distros you install, you can see a folder with the same name as the distros in this folder. Go to the distro folder that you use to run Podman, and go to the path you copy the file to in the last step, like `home/<user-name>`. You should be able to see the file you want in that directory, and you can copy and paste it to anywhere you want in your Windows file system.
 
