@@ -159,9 +159,9 @@ For the most part, one uses special epoxy formulations for adhering composite pa
 
 9309 is a high-strength structural epoxy adhesive. It is similar in many respects to 9396, but has a special filler allowing it to bridge gaps up to 0.030” and create good fillets with honeycomb core. It has a lower glass transition temperature than 9396, therefore it can be debonded with a heated blade when necessary. One generally does not add extra fillers to 9309. It has a Tg = 130°F and service temperature up to 160°F.
 
-### 3M DP420
+### 3M DP4X0
 
-DP420 is a high-strength epoxy adhesive with a 15 minute pot life and 24 hrs to full cure. Recommended for all general purpose bonding when fast cure time is desired. Excellent for trackside repairs. Can be filled with milled or chopped fibers to increase strength of a repair patch.
+DP4X0 is a high-strength epoxy adhesive with a minute pot life indicated by the value of x and 24 hrs to full cure. Pot life options include 20 minutes, 60 minutes and 90 minutes. Recommended for all general purpose bonding when fast cure time is desired. Excellent for trackside repairs. While it can be filled with milled or chopped fibers to increase strength of a repair patch, this may make it brittle and thus more prone to failure. It also comes in a "NS" or "non-sag" variant which is good for applications such as creating fin fillets. 
 
 ### Hysol 9396
 
