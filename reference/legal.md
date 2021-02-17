@@ -88,19 +88,13 @@ and from Article 18, § 1033:
 
 > No person shall possess, receive, transport, store, or launch any experimental high power rocket motor without first securing a valid license as a Pyrotechnic Operator -Rockets First, Second, or Third Class from the State Fire Marshal. No person shall sell an experimental high power rocket motor to any person unless the seller possesses a valid license as a wholesaler or retailer under this chapter.
 
-### Pyrotechnic Operator 
+### Pyrotechnic Operator III
 
-In California, a Pyrotechnic Operator license is needed to work with and launch rockets. A Class 3 license allows people to launch and supervise other people launching rockets powered by commercial high-powered solid rocket motors, assuming the other legal requirements are met. 
+Third Class is the starting point for pyrotechnic operator licenses in California; Second and First Class are progressively less restrictive and require 2 years at the previous class.
 
-Class 2 licenses allow the same rights as a Class 3 license, but also allow the holder to fabricate and launch rockets with an experimental solid motor. 
+This detailed write-up by a LUNAR member details the process of obtaining a CA Pyro III license for high power rocketry in 2003: [http://www.lunar.org/Pyro3/Default.htm](http://www.lunar.org/Pyro3/Default.htm).
 
-Class 1 licenses allow all of the same rights and responsibilities as a Class 2 or Class 3, but also allow for the fabrication and flying of experimental solid and hybrid rocket motors as well. 
-
-The updated process is being documented here: [https://docs.google.com/document/d/1BDlsnoWV5nN9Y6qxPJ0\_oM8P6SdlYSV\_n1jVgwQDdr4/edit?usp=sharing](https://docs.google.com/document/d/1BDlsnoWV5nN9Y6qxPJ0_oM8P6SdlYSV_n1jVgwQDdr4/edit?usp=sharing)
-
-The following is out of date and mostly for reference only. This detailed write-up by a LUNAR member details the process of obtaining a CA Pyro III license for high power rocketry in 2003: [http://www.lunar.org/Pyro3/Default.htm](http://www.lunar.org/Pyro3/Default.htm).
-
-Also refer to the LUNAR handbook for a step-by-step guide to becoming a licensed Pyro III through LUNAR: [http://www.lunar.org/wiki/tiki-index.php?page=HB%3AProcess&structure=LUNARHandbook](http://www.lunar.org/wiki/tiki-index.php?page=HB%3AProcess&structure=LUNARHandbook)//
+Also refer to the LUNAR handbook for a step-by-step guide to becoming a licensed Pyro III through LUNAR: [http://www.lunar.org/wiki/tiki-index.php?page=HB%3AProcess&structure=LUNARHandbook](http://www.lunar.org/wiki/tiki-index.php?page=HB%3AProcess&structure=LUNARHandbook)
 
 ## NFPA
 

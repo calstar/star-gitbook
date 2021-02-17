@@ -47,7 +47,7 @@ The 105 epoxy system is the default for laminated parts. Various hardeners can b
 
 ### Tap 4:1 Super Hard epoxy
 
-Tap’s 4:1 epoxy is moderately stiff and strong. It has the benefit of being readily purchased on short notice, and can be used for general purpose potting and lamination. However, as a general purpose resin it makes significant compromises: it has a higher viscosity than 105 and a shorter pot life than both 105 and 9396. Expect working life on the o
+Tap’s 4:1 epoxy is moderately stiff and strong. It has the benefit of being readily purchased on short notice, and can be used for general purpose potting and lamination. However, as a general purpose resin it makes significant compromises: it has a higher viscosity than 105 and a shorter pot life than both 105 and 9396. Expect a working life of less than 15 minutes. 
 
 ### Polyester resin
 
