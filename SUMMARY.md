@@ -83,7 +83,6 @@
     * [Pipes, Fittings, and Components](tutorials/propulsion/propulsion-pipes-+-adapters.md)
     * [Injectors](tutorials/propulsion/injectors.md)
   * [Recovery](tutorials/recovery/README.md)
-    * [Stage Sep - Pyro Bolts](tutorials/recovery/stage-sep-pyro-bolts.md)
     * [Parachute Sizing](tutorials/recovery/parachute-sizing.md)
     * [Avionics Sled](tutorials/recovery/avionics-sled.md)
     * [\[in progress\] Altimeters](tutorials/recovery/recovery-wiring-altimeterts.md)
