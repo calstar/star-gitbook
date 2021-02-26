@@ -21,7 +21,7 @@ If you have any questions about any part of the question at any time, do not hes
 * Discord: in the \#propulsion channel
 * Trevor's Email: tzinky@berkeley.edu
 * Office Hours:
-  * Trevor's OH: Mondays 6-7 and Friday's 10-11 in a Discord voice channel on the STAR discord. Or by appointment. Message me if you want to meet another time
+  * Trevor's OH: Mondays 7-8 and Friday's 10-11 in a Discord voice channel on the STAR discord. Or by appointment. Message me if you want to meet another time
 
     Jeremy's OH: TBA
 
@@ -66,22 +66,13 @@ Like Week 2, but with a focus on injectors and thrust chambers of liquid propuls
 
 ## Week 4-5.
 
-The following instructions are a bit outdated, please refer to the google doc here with for the most up to date instructions for the end of the intro project: [https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit](https://docs.google.com/document/d/1RTEm9aAbXjOoAq3cZLYRdd0aQFkFVtegp608mWr5KFw/edit) 
-
-
-
-
-
-
-
-
-
-
-
 Now you should be prepared to design your very own very basic liquid rocket engine. First, let's go over some of the resources you'll have at your disposal.
 
-* A video presentation series that Trevor gave in the Spring of 2020 which goes over a liquid engine design, piping components, how to read a P&ID diagram, and how to understand procedures. 
-* ADD MORE RECENT PRESENTATION HERE 
+* A video presentation series that Trevor gave in the Spring of 2020 which goes over a liquid engine design, piping components, how to read a P&ID diagram, and how to understand procedures. Under Spring 2020 Feed systems presentations
+* A presentation on feed system design, **you should definitely watch this one!** Under Spring 2020, called Feed System Design 
+  * A pre-requisite viewing before this one is the Pipes and Fittings presentation under the Spring 2020 Feed System Design Presentations
+* Everyone should watch at least 2 presentations, the Pipes and Fittings presentation and the Feed System Design presentation in order to aid you on the P&ID section of the intro project
+* [Video presentations here](https://drive.google.com/drive/u/1/folders/1D6NbMThCN456255a8t0DgSJaBS_EkZjS)
 * [This tutorial on how to use Rocket Propulsion Analysis](https://www.youtube.com/watch?v=F3W3zZj4zX4) \(There are more tutorials elsewhere on this Gitbook\)
 * Of course, you always have your mentor, other people in your group, and feel free to message Trevor or Aarabhi.
 
@@ -93,6 +84,16 @@ If you don't understand what you are supposed to do or are stuck, please come to
 
 * Which feed system type would you use for your design? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method.
 * A Piping and Instrumentation Diagram \(P&ID\) should be made for your propulsion system. You should watch the pipes and fittings presentation along with the feed system design presentation, both linked above, in order to learn how to create the P&ID design.
+
+Components to use in your P&ID:
+
+* Check valves
+* Ball valves
+* Relief valve
+* Regulator
+* T intersections/other multi-way fittings
+* Standalone regulators and nitrogen tank regulators \(if necessary\) 
+* Other components can be used if desired
 
 Deliverables:
 
@@ -130,7 +131,7 @@ Deliverables:
 
 Deliverables:
 
-* A slide detailing your choice of injector type with the explanation of injector mixing. 
+* A slide detailing your choice of injector type with the explanation of how injector mixing occurs in the design. 
 
 **Procedures:** 
 
