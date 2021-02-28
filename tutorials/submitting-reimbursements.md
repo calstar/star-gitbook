@@ -14,21 +14,21 @@ Note: This process has changed to be entirely online since March 2020
 
 ## How do I submit a reimbursement?
 
-### Step 0 - Become a member on our Callink page
+### Step 0 - Become a member on our CalLink page
 
-Only members can submit a purchase request. In the eyes of the ASUC, our official membership list is on our callink page. The following steps will show you how to get on our Callink roster.
+Only members can submit a purchase request. In the eyes of the ASUC, our official membership list is on our CalLink page. The following steps will show you how to get on our CalLink roster.
 
-First, go to our callink page here: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Sign into your Berkeley account and click **Join** to request membership. This is a one time thing, and will allow you to submit a Stage 1 Purchase Request.
+First, go to our CalLink page here: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Sign into your Berkeley account and click **Join** to request membership. This is a one-time thing, and will allow you to submit a Stage 1 Purchase Request.
 
 {% hint style="info" %}
-You will need to wait for a lead to approve your request to Join. The finance tab will not be available until you are approved. 
+You will need to wait for a lead to approve your request to Join. The finance tab will not be available until you are approved. Leads, you must manually mark approved members as "Financial Requestor - 1st Stage" in CalLink for the Finance tab to appear.
 {% endhint %}
 
 ![Click Join to request membership](https://lh3.googleusercontent.com/qhsd4c6_jbZ_QsvObwtVd4Zt8_wWfk9sOu8Ior8p64C9OESHCaHBPZjgztOoJSsWOcSVo5MAaN96NI79LdrEMtd7kHhGWAac2rAOh6Q_NIZd3fPULPZ7VimCIV2-aUPl5l1SKTQl)
 
 ### Step 1 - Submitting a Stage 1 Purchase Request
 
-Once you have been approved as a member, again, navigate to our callink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner. 
+Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner. 
 
 ![Click Manage Organization](https://lh4.googleusercontent.com/5dDY25fqROAaViQyX7G8Kb1IbCrowsYiapIo-KrLIFJwqlxzdUUL4QobK63KcfGCvZ58AhDjTqNUFcmXN1NCZV6YK-igVJM6iI5myo0clEmRQd52IDPHxoxl72lihhkQkg6EREs3)
 
@@ -50,30 +50,49 @@ For **Subject**, use the format \[full name\] - \[subteam\] - \[item description
 
 > Rajiv Govindjee - Propulsion - Test Stand Hardware
 
-The description of items should be brief but descriptive; try to use between 2-5 words.
+The description of items in the **Subject** should be brief but descriptive; try to use between 2-5 words. You can elaborate below in the **Description** field as well.
+
+Enter the **Requested Amount**; this should be the total for the purchase request. Purchase requests \(PRs\) are usually one item, but you can theoretically put up to six items on a single CalLink PR.
+
+For **Categories**, chose **Reimbursement - Any amount**. If you feel like you must use one of the other categories, please reach out to the Business lead.
+
+![Choose &quot;Reimbursement&quot; to get reimbursed. We tend not to use the others.](../.gitbook/assets/image%20%2899%29.png)
 
 Refer to the table below for **Account**:
 
-{% hint style="warning" %}
-If you are making a large request \($250 or more\), please consult the Business lead to check which account should be used - this can change semester to semester for large items
-{% endhint %}
-
 | If you are buying... | Use this Account |
 | :--- | :--- |
-| Any hardware for vehicles, engines, or related projects | 3-62-203828-TECHF-Tech Fee-STAR |
-| Social supplies, outreach, etc.; non-hardware purchases | `3-70-203828-00000-MISC-STAR` |
+| Any **hardware** for vehicles, engines, or related projects | `3-62-203828-TECHF-Tech Fee-STAR` |
+| Social supplies, outreach, etc.; **non-hardware** purchases | `3-70-203828-00000-MISC-STAR` |
 
-For **Categories**, chose either **Cash Reimbursement** \(for purchases below $25\), or **Check Reimbursement** for all other purchases. If you feel like you must use one of the other categories, please reach out to a lead. 
+Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
-![Choose either the second or third option](../.gitbook/assets/image%20%2823%29.png)
+Select **Expenditure Action**; during the pandemic, we recommend Mail to Payee-same address. Pickup is not available.
 
-The form asks you to attach receipts: failure to do this will mean the request is rejected.
+![](../.gitbook/assets/image%20%2898%29.png)
 
-Section 5 \(Expenditure Action\) is up to you, though be aware that there is no pickup option during the COVID-19 pandemic. For most cases, you can leave Sections 6 \(Event Details\) and 8 \(Special Instructions\) blank. Once complete, submit the Purchase Request.
+For most cases, you can leave **Special Instructions** and **Event Details** blank.
 
-{% hint style="info" %}
-Mail to Payee-same address for 5 \(Expenditure Action\) is SLOWER. Hold for pickup is generally FASTER.
+Fill out the required fields for **Item \#1** \(Date, Type, Vendor, Location, Total\)
+
+The form asks you to attach receipts: failure to do this will mean the request is rejected.  
+Below is a sample procedure to reliably get your PR approved:
+
+1. Download a PDF of your credit card / bank statement \(and make sure it's not password-protected to edit; you can use "Print to PDF" from your browser if this is an issue\).
+2. Use a tool like Adobe Acrobat DC \(free for students at [https://software.berkeley.edu/adobe-creative-cloud](https://software.berkeley.edu/adobe-creative-cloud)\) to redact sensitive information like routing numbers, other purchases, balance, etc. \(optional, but recommended\).
+   1. You will need to **leave your name, dates, amount of relevant purchases, and the last 4 digits of your card number** _**unredacted**._ The ASUC can and will reject PRs without this information on your statements.
+3. Download or scan and upload an invoice or receipt from the vendor. For Amazon, invoices must show the word "Shipped". For McMaster, it's best to concatenate the Receipt and Packing List \(shipping confirmation\), but you might be able to get away with just the Receipt \(as long as it shows shipping cost\).
+4. Redact the invoice/shipping notification as appropriate.
+5. Verify the invoice total matches the credit card statement total. If it does not, the ASUC will likely reject your request.
+6. Use a tool like Adobe Acrobat DC to concatenate the invoice and statement into one file, omitting any irrelevant pages.
+
+Repeat the process for Item \#2, ... , 6 if applicable. Most PRs contain only one item.
+
+{% hint style="danger" %}
+Once complete, check over all your entered data. Once submitted, you **cannot** edit the PR--if there are any mistakes, you will have to repeat the whole process over again.
 {% endhint %}
+
+**Submit** the Purchase Request.
 
 ### Step 2 - Submit the STAR PR Form
 
@@ -86,15 +105,17 @@ The form will require the following items \(these are both ASUC requirements\):
 1.  A digital copy of your receipt, invoice, and/or proof of delivery.
 2. A digital copy of your credit card statement proving you paid for the item. \(you can redact all irrelevant information\)
 
+If you've already concatenated the docs from before, you can just submit the same in both form fields.
+
 {% hint style="info" %}
-Make sure you have physical copies available as you will need it to submit the final reimbursement request from the ASUC.
+\[In non-pandemic times\] make sure you have physical copies available as you will need it to submit the final reimbursement request from the ASUC.
 
 It would also be helpful to save the edit link to the form in case you make a mistake.
 {% endhint %}
 
 ### Step 3 - Submit proof of payment and wait for confirmation from a STAR representative
 
-Please E-mail proof of payment \(credit card statement or bank statement\) to asucfinance@berkeley.edu. It must include:
+Please e-mail proof of payment \(credit card statement or bank statement\) to asucfinance@berkeley.edu. It must include:
 
 * The purchase request number in the subject line
 * The name of the payee
