@@ -156,6 +156,12 @@ Git submodules can be quite intimidating. See this [tutorial](https://git-scm.co
 
 Avionics uses submodules for some library repositories that are commonly used, such as `hardware-sch-blocks`.
 
+The most common command you will have to run is to, after cloning a repo, run
+
+```text
+$ git submodule update --init --recursive
+```
+
 ## Git Workshop Slides
 
 These slides have nice descriptive diagrams! Check it out!
