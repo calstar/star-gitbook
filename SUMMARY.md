@@ -89,6 +89,7 @@
     * [Wire Design and Routing](tutorials/recovery/wire-design-and-routing.md)
   * [Safety](tutorials/safety.md)
   * [Simulations](tutorials/simulations/README.md)
+    * [FEA Simulation Tutorial using ANSYS](tutorials/simulations/fea-simulation-tutorial-using-ansys.md)
     * [Getting Started with CONVERGE \(2.4\)](tutorials/simulations/getting-started-with-converge-2.4.md)
     * [\[Empty\] Simulation Methods](tutorials/simulations/simulation-methods.md)
     * [Mathematical Models](tutorials/simulations/mathematical-models.md)
