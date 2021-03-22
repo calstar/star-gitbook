@@ -14,6 +14,7 @@
   * [Submitting Reimbursements](tutorials/submitting-reimbursements.md)
   * [Software Setup](tutorials/software/README.md)
     * [SolidWorks Installation](tutorials/software/solidworks.md)
+    * [VMware/Boot Camp setup](tutorials/software/vmware-boot-camp-setup.md)
     * [Getting Started With GrabCAD Workbench](tutorials/software/getting-started-with-grabcad.md)
     * [Using GrabCAD Workbench in SolidWorks](tutorials/software/using-grabcad-workbench-in-solidworks.md)
     * [ANSYS Installation and Setup](tutorials/software/ansys-installation-and-setup.md)

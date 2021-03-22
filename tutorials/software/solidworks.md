@@ -9,7 +9,7 @@ description: >-
 ## Installation
 
 {% hint style="info" %}
-SolidWorks is only available for Windows 7, 8, and 10. If you have a UNIX-based operating system, consider dual-booting Windows \(see [Boot Camp](https://support.apple.com/en-us/HT201468) for macOS\) or running a virtual machine \(the campus provides VMware and a Windows license for free, but you can also use Parallels for macOS or VirtualBox for Linux\).
+SolidWorks is only available for Windows 7, 8, and 10. If you have a UNIX-based operating system, consider dual-booting Windows \(see [Boot Camp](https://support.apple.com/en-us/HT201468) for macOS\) or running a virtual machine \(the campus provides VMware and a Windows license for free, but you can also use Parallels for macOS or VirtualBox for Linux\). Refer to the VMware/Boot Camp setup page for more detailed instructions
 {% endhint %}
 
 {% hint style="warning" %}
