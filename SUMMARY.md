@@ -140,6 +140,7 @@
     * [Ground Ejection Test](testing/recovery-tests/ground-ejection-test.md)
 * [History of the Team](history-of-the-team/README.md)
   * [Early Years](history-of-the-team/early-years.md)
+  * [Executive History](history-of-the-team/executive-history.md)
   * [Launch History](history-of-the-team/launch-history/README.md)
     * [2019-11-16 AirBears First Flight](history-of-the-team/launch-history/2019-11-16-airbears.md)
     * [2018-03-24 Final flight for Arktos](history-of-the-team/launch-history/2018-03-24-final-flight-for-arktos.md)
