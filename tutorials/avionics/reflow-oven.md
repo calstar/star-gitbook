@@ -17,13 +17,13 @@ The Chenming Hu Innovation Lab \(Supernode\) contains a reflow oven. STAR as a t
 
 ### Materials
 
-* PCB to be soldered henceforth referred to as the "target PCB"
+* PCB to be soldered, henceforth referred to as the "target PCB"
 * PCB blanks, preferably large and of the same height as the target PCB
 * Stencil \(usually ordered from OSH Park\)
 * Solder paste \(63/37 Sn-Pb\)
-  * We currently have a syringe labeled CalSTAR in the Supernode refrigerator
-  * This is expensive, so try not to waste it
-* Masking or other tapes
+  * We currently have a syringe labeled CalSTAR in the Supernode referigerator
+  * This is expensive, so try not waste it
+* Masking or other tape
 * Scraper / credit-card-sized card
 
 ### Applying solder paste
@@ -32,7 +32,7 @@ The Chenming Hu Innovation Lab \(Supernode\) contains a reflow oven. STAR as a t
 2. Arrange spare PCB blanks in a configuration around the target PCB as follows: 
 3.    ![](../../.gitbook/assets/imag0937.jpg)
 
-4. Make sure the PCB to solder is snug and there are no gaps around it. If the blanks are thinner \(e.g. 31 mils\) than the PCB to solder \(e.g. 61 mils\) or vice versa, you can double-stack. **It is important to have the blanks be at the same height as the target PCB**
+4. Make sure the PCB to solder is snug and there are no gaps around it. If the blanks are thinner \(e.g. 31 mil\) than the PCB to solder \(e.g. 61 mil\) or vice versa, you can double-stack. **It is important to have the blanks be at the same height as the target PCB**
 5. Next, position the stencil such that the holes in the stencil line up **perfectly** with their respective pads
 6. Once alignment has been achieved--and be sure that it's as close to perfect as possible--**tape one edge only of the stencil** to the blanks and orient it so the taped side is away from you:
 7. ![](../../.gitbook/assets/imag0938.jpg) 
@@ -46,7 +46,7 @@ The Chenming Hu Innovation Lab \(Supernode\) contains a reflow oven. STAR as a t
 
 ### Placing components
 
-1. Using tweezers, carefully place all components according to the reference designators/layout.
+1. Using tweezers, carefully place all components according the reference designators / layout.
 2. After placement, verify each component is securely on the board by gently pressing down on the top of the package with tweezers
 3. Remove the board gently from the blanks, without tilting it overly
 
@@ -79,7 +79,7 @@ Allow the oven to cool, and carefully remove your newly-reflowed board after wai
 
 ### Post-Procedure
 
-1. Inspect the board for any "tombstoning", shifted parts, failed connections, etc. Some amount of these are normal and can be reworked with the hot air rework station or soldering iron.
+1. Inspect the board for any "tombstoning", shifted parts, failed connections, etc. Some amount of these are normal and can be reworked with the hot air rework station or a normal soldering iron.
 2. Inspect smaller connections under the microscope, and retouch if necessary with a soldering iron
 3. Do not be alarmed if the board is slightly browned--it's been toasted, after all
 

@@ -42,5 +42,5 @@ As with schematic symbols, try finding an existing footprint and then modifying 
 
 Many ICs come in standard packages \(such as SOT-8\). KiCad includes footprints for these standard packages, so often one can select one of these and then ensure with the datasheet that it matches--unfortunately, different manufacturers may use the same name but actually have slightly different footprints. 
 
-As with symbols, all STAR footprints go in `star-common-lib` in `hardware-sch-blocks`. Create your footprints on a new branch \(makes sense to put them on the same branch as the new symbols\), and submit a pull-request.
+As with symbols, all STAR footprints go in `star-common-lib` in `hardware-sch-blocks`. Create your footprints on a new branch \(makes sense to put them on the same branch as the new symbols\), and submit a pull-request. Please let the current Avionics lead know when you submit a pull-request so it doesn't slip through their email.
 
