@@ -4,10 +4,6 @@ description: How to use the lab equipment
 
 # Using Lab Equipment
 
-{% hint style="info" %}
-Please note that there will be a lab equipment use workshop \*on this day at this time\*.  If you choose not to attend or prefer to learn from this tutorial, it is recommended to sit in front of each machine and follow along to familiarize yourself with its functions.
-{% endhint %}
-
 ## Power Source
 
 ![Power Supply Unit \(PSU\) set up](../../.gitbook/assets/psu-setup.gif)
@@ -47,11 +43,11 @@ Follow these steps to set up:
 
 ## Oscilloscope 
 
-Oscilloscope can be used to measure signals that change over time. Unlike a voltmeter, which only shows the instantaneous voltage value, the oscilloscope shows a graph of a voltage versus time, which is useful to see how devices respond to inputs. This piece of equipment may look pretty complicated, but most of the knobs are to adjust axes. Oscilloscopes can also be used to simply measure DC voltages, as one would with a voltmeter. 
+The oscilloscope can be used to measure signals that change over time. Unlike a voltmeter, which only shows the instantaneous voltage value, the oscilloscope shows a graph of voltage versus time, which is useful to see how devices respond to inputs. This piece of equipment may look pretty complicated, but most of the knobs are to adjust axes. Oscilloscopes can also be used to simply measure DC voltages, as one would with a voltmeter. 
 
 ![Oscilloscope set up summary](../../.gitbook/assets/oscilloscope_intro.gif)
 
-The oscilloscope probe that connects to the color coded metal terminals at the bottom looks like this:
+The oscilloscope probe that connects to the color-coded metal terminals at the bottom looks like this:
 
 ![](../../.gitbook/assets/osc-probe.jpg)
 
@@ -63,7 +59,7 @@ Follow these steps to set up:
 4. **Auto Scale:** Potentially skip steps 5-7 by using the "Auto Scale" button \(see the image above\) to automatically scale the axes. **Don't get too dependent on the "Auto Scale" button; sometimes it doesn't do a "good enough" job.**
 5. **Adjust the horizontal axis of the plot.** The large knob at the top \(immediately to the right of the screen\) controls the horizontal time axis and allows you to zoom in or out. The time increments represented by the tick marks on the plot are indicated at the top of the screen. 
 6. **Adjust the vertical scale.** The larger of the two knobs for each channel \(the one above the button with the channel number\) allows the vertical scale of the voltage graph to be adjusted. As with the horizontal scale, the number of volts per tick mark on the graph is marked at the top of the screen. 
-7. **Adjust the offset.** In some cases, signals will appear off screen; adjusting the smaller of the two knobs \(below the channel number button\) corresponding to each input will shift signals up or down on the plot. 
+7. **Adjust the offset.** In some cases, signals will appear off-screen; adjusting the smaller of the two knobs \(below the channel number button\) corresponding to each input will shift signals up or down on the plot. 
 8. **Add measurements such as average voltage, amplitude, etc.** Measurements can be added by pushing the "Meas" button and using the buttons below the screen to select and add measurements. 
 
 ## Function Generator 
