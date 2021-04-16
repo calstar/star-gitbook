@@ -2,17 +2,19 @@
 description: Getting started with the development environment for the Avionics codebase
 ---
 
-# Development Environment
+# Firmware Development Environment
+
+The [**Container Environment** ](mbed-command-line-interface-cli-tools.md#container-environment)section will go over setting up the tools for compiling firmware, the [**Writing and Compiling Firmware**](mbed-command-line-interface-cli-tools.md#writing-and-compiling-firmware) section will go over compiling the firmware, and the [**Flashing Programs to the Microcontroller**](mbed-command-line-interface-cli-tools.md#flashing-programs-to-the-microcontroller) section will go over writing compiled code to hardware.
+
+## Container Environment
 
 Avionics distributes a container which contains all the tools for compiling our firmware. Some of the development tools we use for firmware development are a mild pain to install \(particularly for beginners\), so using the container is recommended for quick set up.
 
 {% hint style="warning" %}
-If you have tried out the container and have problems given your setup, and you reallllllly want to install yourself, go ahead. This is not recommended unless you are well acquainted with installation of compilers, etc.
+If you have tried out the container and have problems given your setup, and you _really_ want to install yourself, go ahead. This is not recommended unless you are well acquainted with installation of compilers, etc.
 {% endhint %}
 
-## Container Environment
-
-The avionics development environment uses Dockerfile-based platform. To use the new environment, you will need to install the [Docker](https://www.docker.com/) or [Podman](https://podman.io/) first. Podman is the fully open source alternative to Docker, and they share the same commands format. Either can be used, although most of this tutorial will use Podman because it is easier to use on Windows.
+To use the container environment, you will need to install the [Docker](https://www.docker.com/) or [Podman](https://podman.io/) first. Podman is the fully open source alternative to Docker, and they share the same commands format. Either can be used, although most of this tutorial will use Podman because it is easier to use on Windows.
 
 ### Podman Installation Instructions
 
@@ -132,17 +134,52 @@ To setup, install the [Remote Containers](https://code.visualstudio.com/docs/rem
 
 Then, go to the "Remote Explorer" tab on the left bar of VS Code, right click on the container you created in the previous step and click attach to start a VS Code instance in the container. From here you should be able to open a terminal inside the container by going to `Terminal->New Terminal` and interact with the filesystem through VS Code and clone stuff, open folders, etc.
 
-## Compiling Firmware
+## Writing and Compiling Firmware
+
+In this section we detail how to compile code into binaries which can be written onto the hardware.
+
+'Firmware' is the code which runs on the hardware, named so because it is 'closer to the hardware' than normal desktop software.
+
+We use [MbedOS](https://os.mbed.com/) for libraries and a lot of the support code needed. The tools needed to run mbed are all included in the container. Run the commands below from the container prompt.
+
+For most cases, you will only need the [Developing STAR firmware projects](mbed-command-line-interface-cli-tools.md#developing-star-firmware-projects) section.
 
 {% hint style="info" %}
-For more detailed documentation on Mbed CLI, look at the official docs [here](https://os.mbed.com/docs/v5.10/tools/working-with-mbed-cli.html).
+For documentation on the Mbed API, look at the official docs [here](https://os.mbed.com/docs/v5.10/apis/index.html). If you don't find a library for what you want there, look at community built libraries by searching using the search box in the upper right corner. 
+
+For more detailed documentation on Mbed Command Line Interface \(CLI\), look at the official docs [here](https://os.mbed.com/docs/v5.10/tools/working-with-mbed-cli.html).
 {% endhint %}
+
+### Developing STAR firmware projects
+
+While the mbed utilities can be used directly, most often in STAR we iterate on existing STAR projects. Therefore we have abstracted away most of the mbed commands using [Makefiles](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/). Note that the specific build system can vary slightly from git repository \(repo\) to repository, so make sure to check the Readme of the specific project you are working on.
 
 {% hint style="info" %}
-For documentation on the Mbed API, look at the official docs [here](https://os.mbed.com/docs/v5.10/apis/index.html). If you don't find a library for what you want there, look at community built libraries by searching using the search box in the upper right corner.
+If you are unfamiliar with the Git version control system, check the [Git Tutorial ](git-and-workflow.md)out before continuing. 
 {% endhint %}
 
-### Creating a new project
+First clone the desired repository from within the container, e.g. 
+
+```text
+git clone https://github.com/calstar/firmware-tests.git
+```
+
+Then from within the repository, clone the submodules and run `mbed deploy`
+
+```text
+git submodule update --init --recursive
+mbed deploy
+```
+
+Finally, compile with a command like
+
+```text
+make build board=cas test=uart_echo
+```
+
+Check the repository Readme for details on the command to run to compile. The output, the binaries to flash to the microcontroller, will be put in the `output` folder.
+
+### Creating a new project with Mbed
 
 To create a new project called `mbed_project`, run the following:
 
@@ -150,7 +187,7 @@ To create a new project called `mbed_project`, run the following:
 mbed new mbed_project
 ```
 
-### Compiling
+### Compiling directly with Mbed
 
 To compile a project, run the following from within the project folder
 
@@ -158,7 +195,7 @@ To compile a project, run the following from within the project folder
 mbed compile --target NUCLEO_F401RE --toolchain GCC_ARM
 ```
 
-The target, `NUCLEO_F401RE` is a development board that has the `STM32F401RET6` microcontroller on board, the same MCU we use. The toolchain selects which compiler we are using.
+The target, `NUCLEO_F401RE` is a development board that has the `STM32F401RET6` microcontroller on board, the same microcontroller unit \(MCU\) that we use. The toolchain selects which compiler we are using.
 
 This should give you something like the following if it compiled successfully. 
 
@@ -180,12 +217,14 @@ The command should be of the form `mbed add <project link>`. Run this command fr
 
 ## Flashing Programs to the Microcontroller
 
-As of right now, usb-detection and programming through vagrant is not working. Instead install and use a utility on the host system. 
+'Flashing' a program onto a microcontroller means to write the compiled code onto the microcontroller to be run when the microcontroller is powered off and back on.
+
+As of right now, usb-detection and programming through the container is not working. Instead install and use a utility on the host system. 
 
 * Windows: Download and install the St-Link Utility from the file below. To use, first `File > Open file` the binary of the program output by `mbed compile`. Then  `Target > Connect` to the board, and `Target > Program & Verify`
-* Linux: Install the stlink package from the repositories if it's available, or compile from source [here](https://github.com/texane/stlink).
-  * To use, open stlink-gui and perform similar steps to the windows version to flash
-  * Alternatively, use `st-info --probe` to search for programmers and `st-flash write $binary_output_file 0x8000000` to flash
+* Linux: Install the stlink package from the package manager if available or compile from source [here](https://github.com/texane/stlink).
+  * To use, open stlink-gui and perform similar steps to the windows version to flash.
+  * Alternatively, use `st-info --probe` to search for programmers and `st-flash write $binary_output_file 0x8000000` to flash.
 
 {% file src="../../.gitbook/assets/en.stsw-link004.zip" caption="Windows St-Link Utility" %}
 

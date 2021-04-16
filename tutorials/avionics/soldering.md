@@ -9,7 +9,7 @@ If you are at a soldering station, do **NOT** eat or drink there whether you're 
 {% endhint %}
 
 {% hint style="info" %}
-Please note that there should be a through hole and surface mount soldering workshop roughly every semester; ask on Discord for a date and time. It is highly recommended that you attend this workshop, as this page is more of a supplement than a stand-alone tutorial. 
+Please note that there should be a through-hole and surface mount soldering workshop roughly every semester; ask on Discord for a date and time. It is highly recommended that you attend this workshop, as this page is more of a supplement than a stand-alone tutorial. 
 {% endhint %}
 
 ## Getting Started
@@ -18,18 +18,18 @@ Now that you have a PCB, you are ready to solder. Make sure you have the followi
 
 * Soldering iron
 * Solder
-* Board that needs soldering
+* The board that needs soldering
 * Components to solder onto the board
 * Flux \(either liquid in syringe or pen form\)
 * Tweezers \(for surface mount soldering\)
 * Solder wick \(not necessary, but useful\)
 * Solder sucker \(not necessary, but useful\)
 
-When putting together your board, remember to test as you solder. This will make sure that you have a better idea of where a bug is if you run into one. This means soldering on a module, and then testing that module before moving on to soldering another module. Refer to ["Using Lab Equipment](https://calstar.gitbook.io/docs/tutorials/avionics/lab-equipment)" on information relevant to testing. An example of how to break up soldering a board into modules is as follows:
+When putting together your board, remember to test as you solder. This will make sure that you have a better idea of where a bug is if you run into one. This means soldering on a module and then testing that module before moving on to soldering another module. Refer to ["Using Lab Equipment](https://calstar.gitbook.io/docs/tutorials/avionics/lab-equipment)" on information relevant to testing. An example of how to break up soldering a board into modules is as follows:
 
-1. Voltage regulator/power input. Test with multimeter \(and by power LED\).
+1. Voltage regulator/power input. Test with a multimeter \(and by power LED\).
 2. Microcontroller. Test by writing a simple program to verify that you can use digital input/output pins. Can also verify by flashing a program that uses the debug UART port.
-3. Sensors/actuators \(one component at a time\). Verify the component works by interfacing with microcontroller. This may require having some code ready to communicate over I2C or SPI!
+3. Sensors/actuators \(one component at a time\). Verify the component works by interfacing with the microcontroller. This may require having some code ready to communicate over I2C or SPI!
 
 Remember to put away **all** tools you used when you are done. Keep whichever space you are working in clean.
 
@@ -72,5 +72,5 @@ The steps to do surface mount soldering is similar to through-hole:
 
 ## Conclusion - _practice_
 
-Now that you have watched both videos to **completion** \(_without skipping around or speeding up_\), ---I can't emphasize this enough. They're less than 8 minutes total. I picked these so you actually watch the whole thing. It's very important--especially if you didn't go to the workshop--to please try to solder a board yourself. There are many free through-hole components around [Supernode](https://supernode.berkeley.edu/), and you can just ask someone for surface mount components. It's important that you practice. Please ask for help if necessary. 
+There are many free through-hole components around [Supernode](https://supernode.berkeley.edu/), and you can just ask someone for surface mount components. It's important that you practice. Please ask for help if necessary. 
 
