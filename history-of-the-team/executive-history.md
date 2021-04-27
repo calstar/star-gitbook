@@ -11,7 +11,7 @@ description: Our best attempt to record who held which positions in club leaders
 | Logistics Officer | N/A | N/A | Aaron Togelang | Aaron Togelang | Jennifer Evans | Jennifer Evans | N/A | N/A | N/A | N/A | N/A |
 | Treasurer | Jia Zhen | Jia Zhen | Jia Zhen/ JunYoung Park | JunYoung Park | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | Historian/Webmaster | Kevin Hsu | Kevin Hsu | Sean Pak | Sean Pak | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Outreach Lead | Aaron Togelang | Aaron Togelang | Adam Huth | Adam Huth | Sean Roh | Sean Roh | Sean Roh | Sean Roh | Sean Roh | Sean Roh |  |
+| Outreach Lead | Aaron Togelang | Aaron Togelang | Adam Huth | Adam Huth | Sean Roh | Sean Roh | Sean Roh | Sean Roh | Sean Roh | Sean Roh | Aarabhi Achanta |
 | Media Lead | N/A | N/A | N/A | N/A | Khaliun Khantushig | Khaliun Khantushig | Gabriel Perko-Engel | Gabriel Perko-Engel | Michelle Lee | Michelle Lee | Trevor Zinky |
 | Business Lead | N/A | N/A | N/A | N/A | Michael Salamy | Deep Dayaramani | Felipe Cuellar | Felipe Cuellar | Sam Phillips | Sam Phillips | Hubert Liu |
 | Finance Lead | N/A | N/A | N/A | N/A | Deep Dayaramani | N/A | N/A | N/A | N/A | N/A | N/A |
@@ -24,7 +24,7 @@ description: Our best attempt to record who held which positions in club leaders
 | Reports Lead | Ryan O'Gorman | Ryan O'Gorman | Ryan O'Gorman | Ryan O'Gorman | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 | Propulsion Lead | N/A | N/A | Ilyas Kamil | Ilyas Kamil | Joe Li | \(interim\) Benson Peng -&gt; Michael Vronsky | Michael Vronsky | Trevor Zinky | Trevor Zinky | Trevor Zinky | Jeremy Gong |
 | Simulations Lead: | N/A | N/A | N/A | N/A | Richard Bonnardel | Richard Bonnardel / Aled Cuda | Aled Cuda | Sarah Schwartz | Cade Coelho | Cade Coelho | Cade Coelho |
-| Operations Lead: | N/A | N/A | N/A | N/A | N/A | N/A | Rajiv Govindjee | Rebecca Bennett | Rebecca Bennett | Rebecca Bennett |  |
+| Operations Lead: | N/A | N/A | N/A | N/A | N/A | N/A | Rajiv Govindjee | Rebecca Bennett | Rebecca Bennett | Rebecca Bennett | Michael Celebrado |
 | Documentation Lead: | N/A | N/A | N/A | N/A | Rajiv Govindjee | Rajiv Govindjee | N/A | N/A | N/A | N/A | N/A |
 | Systems Lead: | N/A | N/A | N/A | N/A | N/A | N/A | Sebastien Whetsel | Sebastien Whetsel | Rajiv Govindjee | Rajiv Govindjee | Ananya Subramani |
 
