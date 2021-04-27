@@ -27,7 +27,6 @@ Search \[topic\] + "apogee newsletter" and you can often find great results
 
 * Stability = \(CG - CP\) / rocket diameter, with CG and CP measured from the bottom of the rocket. It is unitless, but usually written as a number of “cal”s.
   * Stability should be between 1.5 cal to 2.0 cal. Stability of 1.8 cal is good.
-  * Consider adding a mass to the nosecone-payload tube region if the rocket is under-stable for a large motor
 * Tubing:
   * Fiberglass is expensive \(?\).
   * Carbon fiber is more expensive \(?\).
@@ -50,5 +49,4 @@ Search \[topic\] + "apogee newsletter" and you can often find great results
 * Motor mount:
   * Usually a phenolic tube; may be fiberglass.
   * Design around the length of the motor\(s\) you plan on using.
-  * If using a threaded motor retainer, allocate enough room for this by having enough of the motor mount tube extended beyond the aft centering ring
 
