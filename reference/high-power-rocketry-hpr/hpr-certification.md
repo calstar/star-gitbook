@@ -10,7 +10,6 @@ Some of the members listed below may no longer be with the team, but they are of
 
 | Name | Organization and Certification Level |
 | :--- | :--- |
-| Michael Celebrado | NAR L1 |
 | Aled Cuda | TRA L2 |
 | Elizabeth Gammariello | NAR L1 |
 | Rajiv Govindjee | NAR L1 |
