@@ -81,10 +81,11 @@ Below is a sample procedure to reliably get your PR approved:
 1. Download a PDF of your credit card / bank statement \(and make sure it's not password-protected to edit; you can use "Print to PDF" from your browser if this is an issue\).
 2. Use a tool like Adobe Acrobat DC \(free for students at [https://software.berkeley.edu/adobe-creative-cloud](https://software.berkeley.edu/adobe-creative-cloud)\) to redact sensitive information like routing numbers, other purchases, balance, etc. \(optional, but recommended\).
    1. You will need to **leave your name, dates, amount of relevant purchases, and the last 4 digits of your card number** _**unredacted**._ The ASUC can and will reject PRs without this information on your statements.
-3. Download or scan and upload an invoice or receipt from the vendor. For Amazon, invoices must show the word "Shipped". For McMaster, it's best to concatenate the Receipt and Packing List \(shipping confirmation\), but you might be able to get away with just the Receipt \(as long as it shows shipping cost\).
+3. Download or scan and upload an invoice or receipt from the vendor. **For Amazon, invoices must show the word "Shipped"**. For McMaster, it's best to concatenate the Receipt and Packing List \(shipping confirmation\), but you might be able to get away with just the Receipt \(as long as it shows shipping cost\).
 4. Redact the invoice/shipping notification as appropriate.
-5. Verify the invoice total matches the credit card statement total. If it does not, the ASUC will likely reject your request.
-6. Use a tool like Adobe Acrobat DC to concatenate the invoice and statement into one file, omitting any irrelevant pages.
+5. **Verify the invoice total matches the credit card statement total**. If it does not, the ASUC will likely reject your request.
+6. **Verify the Payee name matches the bank/credit card statement.** The ASUC will likely reject your PR if this is not the case. It may be acceptable to have no name on the reciept, but not one that does not match.
+7. Use a tool like Adobe Acrobat DC to concatenate the invoice and statement into one file, omitting any irrelevant pages.
 
 Repeat the process for Item \#2, ... , 6 if applicable. Most PRs contain only one item.
 
@@ -113,7 +114,11 @@ If you've already concatenated the docs from before, you can just submit the sam
 It would also be helpful to save the edit link to the form in case you make a mistake.
 {% endhint %}
 
-### Step 3 - Submit proof of payment and wait for confirmation from a STAR representative
+### Step 2.5 - Submit proof of payment and wait for confirmation from a STAR representative \(Only occasionally applicable\)
+
+{% hint style="warning" %}
+Only follow the steps below if for some reason you were not able to upload the necessary documents to the purchase request, and they have not been added even after the purchase request is Stage 2
+{% endhint %}
 
 Please e-mail proof of payment \(credit card statement or bank statement\) to asucfinance@berkeley.edu. It must include:
 
@@ -127,6 +132,10 @@ A finance representative from the team will review your request and elevate it t
 Once approved, you will be notified through email or Discord. You can also check status from the Finances page. 
 
 If your request does not meet our requirements, it will be rejected. Please check this page to make sure you met all the requirements.
+
+### Step 3 \(optional\) - Message in \#purchases
+
+Send a message in the \#purchases Discord channel mentioning you've submitted a request that needs to reviewed and moved to be Stage 2. This step is optional, but improves chances of timely payment.
 
 ### Step 4 - Wait to hear back from the LEAD Center
 
