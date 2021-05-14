@@ -1,7 +1,8 @@
 ---
 description: >-
   The payload intro-project is designed to be a comprehensive and interesting
-  way of introducing new members to the common tasks done by the team.
+  way of introducing new members to the all of the common tasks done by the
+  team.
 ---
 
 # Payload
