@@ -101,6 +101,7 @@
   * [Administrative](tutorials/administrative/README.md)
     * [Azure Server](tutorials/administrative/azure-server.md)
 * [Intro Projects](intro-projects/README.md)
+  * [Avionics \(new intro project Fall 2021\)](intro-projects/avionics-new-intro-project-fall-2021.md)
   * [Airframe](intro-projects/airframe.md)
   * [Avionics](intro-projects/avionics.md)
   * [Operations](intro-projects/documentation.md)
