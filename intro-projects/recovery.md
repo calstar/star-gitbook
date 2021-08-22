@@ -8,61 +8,47 @@ description: >-
 
 ## **Introduction**
 
-Welcome to the Recovery specialty's intro/returning project page! Glad you're here.
+Welcome to the Recovery sub-team's intro/returning project page! Glad you're here.
 
-The recovery specialty is tasked with safely landing the launch vehicle. This responsibility requires working with constraints set in each project, attention to detail, and producing creative and efficient solutions. We work on numerous different components that are essential to the safe landing of the rocket including but not limited to: parachute size and geometry selection, parachute deployment altitude selection, ejection and separation mechanics, and avionics sled design. We require a general understanding of mechanics, electronics, simulations, physics, and more.
+The recovery team is tasked with safely landing the launch vehicle. This responsibility requires working with constraints set by other sub-teams, attention to detail, and producing creative and efficient solutions. We work on numerous different components that  are essential to the safe landing of the rocket including but not limited to: parachute size and geometry selection, parachute deployment altitude selection, ejection and separation mechanics, and avionics sled design. We require a general understanding of mechanics, electronics, simulations, physics, and more.
 
-For any questions/help please feel free to reach out to Recovery specialty lead Michael at office hours or online through Discord or email. We also have mentors you will be assigned to as an advisor \(and friend\) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help! 
+For any questions/help please feel free to reach out to recovery sub-team lead Hadar at office hours or online through Discord or email. We also have mentors you will be assigned to as an advisor \(and friend\) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help! 
 
-* Michael Karish \| Recovery Specialty Lead
+* Hadar Gamliel \| Recovery Team Lead
   * OH: Tuesdays 8-9PM or ping me on discord
-  * Email:  michael.karish@berkeley.edu
-  * Discord: michaelkarish
+  * Email:  hgamliel@berkeley.edu
 
 {% hint style="info" %}
-**Workshops:** There will be these workshops during the four GMs of the onboarding period:  
-1. Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness.
+**\[Workshop\]** = indicates that a workshop will be provided for the fundamentals of this task. Workshops are mandatory, and will make accomplishing the tasks much more simple. Workshop times are listed below:
 
-2. Openrocket
-
-3. Folding parachutes, folding shock cord, and tying shock cord
-
-4. General manufacturing.
+* **\[OpenRocket\]** \| \[When\] \[Where\]
+* **\[Solidworks\]** \| TBA
 {% endhint %}
 
-## **New Member Project** _**\(18 hrs\)**_
+## **New Member Project** _**\(14 hrs\)**_
 
 The new member project for the recovery sub-team is intended to:
 
 1. Introduce a **strong technical foundation** for the critical components of the recovery subsystem to new members
 2. Learn to work with constraints, similar to **industry**
 3. Encourage **collaboration/asking for help** to accomplish these tasks
-4. **Connect** new Recovery members with returning Recovery members.
 
-The deliverables of the project should be presented at the final GM of the onboarding period. Remember! This project is meant to be challenging, but attainable, especially if you ask for help. So please ask questions, come to workshops, and come to office hours!
+The deliverables of the project should be presented at the recovery subteam meeting **\(TBA\)** in the form of a .ppt slide deck containing snapshots of the various project pieces. Remember! This project is meant to be challenging, but attainable, especially if you ask for help. So please ask questions, come to workshops, and come to office hours!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 1 \| Jacob's Trainings** _**\(Urgent!**_\) \(5 hours\)
+### ~~**Task 1 \| Jacob's Trainings** _**\(3 hrs\)**_~~ _****_\(Cancelled for SP21\)
 
 **Due: October 7**
 
-**Deliverable:** Screenshots of completed trainings from bCourses.
+**Deliverable:** Screenshots of completed trainings from Bcourses.
 
-The majority of our manufacturing will be done in the Jacob's Hall Maker Space. It is a great place to work on a variety of projects with numerous tools and super helpful staff. We would like you to complete laser cutter training, electronics lab training, water jet training, and metal shop training as these are the tools or sets of tools we use that require in person trainings. After this introduction to the Jacobs makerspace, you will no doubt use your pass for projects outside of STAR including personal projects and also some classwork.
+The majority of our manufacturing will be done in the Jacob's Hall Makers space. It is a great space to work on a variety of projects with numerous tools and super helpful staff. We would like you to complete laser cutter training and electronics lab training as we will be using those the most often. After this introduction to the Jacobs makerspace, you will no doubt use your pass for projects outside of CalSTAR including personal projects and also some classwork.
 
-**We would like you to complete laser cutter training, electronics lab training, water jet training, and metal shop training.** Screenshot the completed trainings from bCourses and include it into your final presentation.
-
-**Buy the Maker Pass as soon as possible.** There are only 500 general use passes that run out early in the semester.  
-  
-After applying for a Maker Pass, you need to complete the "General Workshop Safety" \(GWS\) online module that will be linked when you complete the application. Then you will need to complete an online training \(in the same bCourses class as GWS\) for each piece of equipment you want to use. Then you will need to attend an in person training for all of the above pieces of equipment or sets of equipment. Trainings are not more than 2 hours. 3D printing is also an important part of Recovery but only online trainings are required for use.
-
-Coordinate with your teammates to sign up for in person trainings together! 
-
-Contact Michael if you are unable to get a Maker Pass. There are other makerspaces on campus so we can figure something out.
+**We would like you to complete Jacob's Hall general training, laser cutter training, and electronics lab training.** Screenshot the completed trainings from bcourses and include it into your final presentation.
 
 {% hint style="warning" %}
-**Note:** A Maker Pass costs $100 per semester unless you are able to get a fee waiver for demonstrated financial need. STAR does offer club maker's passes if you sign up early enough. If you have any concerns, please let me or Michael Celebrado \(Operations Lead\) know and we can definitely work something out. 
+**Note:** A maker's pass costs $100 for the semester. CalSTAR does offer club maker's passes if you sign up early enough. If you have any concerns, please contact Evan or Cheljea and we be more than happy will work something out. 
 {% endhint %}
 
 {% hint style="info" %}
@@ -71,31 +57,19 @@ Contact Michael if you are unable to get a Maker Pass. There are other makerspac
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task**  2 **\| Stage Separation Flow Chart** _**\(2 hrs\)**_
+### **Task**  2 **\| Stage Separation Flow Chart** _**\(3 hrs\)**_
 
-**Due: October 7**
+**Due: Due February 25**
 
-**Deliverable:** Filled out flow chart with break down of each event of stage separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is safe recovery of the rocket. 
+**Deliverable:** Filled out flow chart with break down of each event of Stage Separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is  safe recovery of the rocket. 
 
 You can assume all separation occurs due to "pyrogen ignition" regardless of mechanism or type or charge. Don't worry too much about how the separation is actually occurring as the mechanisms vary.  I recommend checking out Apogee Rocketry's basic breakdown of events, but please keep in mind this does not cover stage separation. 
 
-The basic idea with stage separation is that it is more efficient for the rocket to fly up without the extra weight of a used up motor and the surrounding airframe so the lower part or stage of the rocket is released at a certain altitude at which we know the lower motor has burned out. 
-
-Openrocket simulations are a good way to visualize the steps of our two stage recovery system. Download Openrocket \(directions are in the gitbook under "Tutorials"&gt;"Software Setup"&gt;"Openrocket Installation"\) and then download the file linked below containing the most recent stage separation Openrocket file. 
-
-Select "Flight simulations" and "plot" to get a sense of what is happening to each stage throughout the rocket's flight. The "Motors & Configuration" tab is useful for understanding where each parachute will deploy. Also in looking at the "Rocket Design" try to picture where in the rocket separation will occur.
-
-I would also checkout the Apogee Rockets' explanation of a two stage rocket with "headend ignition". The separation mechanism is different from our own but it is still relevant.
-
-In understanding the recovery steps of Stage Separation, you will grasp the recovery steps of our single stage competition \(IREC\) rocket.
-
 {% embed url="https://www.apogeerockets.com/Tech/Phases-of-a-Rockets-Flight" %}
 
-{% hint style="info" %}
-**Stage Separation Openrocket File:** [**https://drive.google.com/file/d/10T9or6yggcH\_DY4Mh71U-Ev2n9KXfBLh/view?usp=sharing**](https://drive.google.com/file/d/10T9or6yggcH_DY4Mh71U-Ev2n9KXfBLh/view?usp=sharing)\*\*\*\*
-{% endhint %}
 
-{% embed url="https://www.apogeerockets.com/Tech/How\_2-Stage\_Rockets\_Work" %}
+
+\*\*\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -113,7 +87,7 @@ Select the best combination of parachutes that satisfies the constraints below:
 * Main is deployed at 800 ft above ground level \(AGL\)
 * Drogue Cd \(Coefficient of Drag\): 1.5
 * Main Cd: 2.2
-* Each component must not land with greater than 75 ft**\_**lbs of Force
+* Each component must not land with greater than 75 ftlb of Force
 * Drift radius must be less than 2500 ft in 20 mph wind
 
 Fill out the chart below with all of the calculations and relevant information obtained from open rocket.
@@ -130,12 +104,10 @@ Fill out the chart below with all of the calculations and relevant information o
 
 {% file src="../.gitbook/assets/sl-full-scale-v6.ork" caption="OpenRocket File for Arktos" %}
 
-{% hint style="info" %}
-**Hint:** Fill out the chart and do your calculations in google sheets so you can apply the same drift and kinetic energy equations to each box. Make sure you calculate kinetic energy in ft\_lbs not J.
-{% endhint %}
+
 
 {% hint style="success" %}
-**BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above. Or check out the StageSep ork and check out options there! StageSep
+**BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above. Or check out the StageSep ork and check out options there!
 {% endhint %}
 
 \*\*\*\*
@@ -148,20 +120,20 @@ Fill out the chart below with all of the calculations and relevant information o
 
 **Deliverable**: A brief write up presenting your design \(include pictures of the full assembly\) and explaining your design methodology and decisions.
 
-**Recovery will have Solidworks office hours \[TBD\]**
+**Workshops: \[PDM\] \[Recovery\] \[Solidworks\]**
 
 Creating CAD models is a skill every engineer should have down and recovery is no exception. It is important to model things before manufacturing to avoid wasted materials due to poor design. Recovery designs and manufactures the avionics bays for all the rockets so proper documentation is needed. The avionics bay houses the altimeters and other necessary hardware that enables proper parachute deployment which is often mounted to an accessible sled. A typical avionics bay \(av-bay\) consists of the following:
 
-* Altimeters- tell the pyrogens for parachute deployment and stage separation when to deploy
-* Altimeter Sled- secure the batteries and altimeters
-* Bulkheads- create sturdy and nearly airtight separations between different sections of the rocket allowing for pressure build up when the explosives ignite. This is critical for parachute deployment
+* Altimeters
+* Altimeter Sled  
+* Bulkheads
 * Alignment Rods
-* Access Hatch- the opening through which we can bring the altimeter sled in and out and we can connect wires to the altimeters on the altimeter sled.
-* Batteries- power the altimeters
+* Access Hatch 
+* Batteries
 
 **You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries**. We have provided the appropriate airframe and altimeter models that we frequently use below. You should create models for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above models, make an assembly of the entire avionics bay with all the components inside and properly constrained. 
 
-**Note:** We also require the avionics bay be CAS compatible, this is the custom made electronics designed by our Avionics specialty! It has the dimensions of a 2x2x2 in cube. 
+**Note:** We also require the avionics bay be CAS compatible, this is the custom made electronics designed by our Avionics Subteam! It has the dimensions of a 2x2x2 in cube. 
 
 * **Outer**
   * **Inner Diameter:** 3.900" \(9.91 cm\)
@@ -175,20 +147,8 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 {% endhint %}
 
 {% hint style="warning" %}
-**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is the most difficult part of the project especially if you do not have CAD experience. Please see Michael, your mentors, or any of the other returning members if you have any questions; we want to help! 
+**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is certainly one of the more difficult parts of the intro project, especially if you do not have prior CAD experience. Please see Hadar or your mentor if you have any questions; we want to help! 
 {% endhint %}
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### Task 5\| Mentorship \(3 hours\)
-
-**Due: October 7th**
-
-**Deliverable:** Meet for at least an hour with three returning recovery members. Ask for any help you need on your intro projects and get to know each other.  
-  
-During the first GM you will be assigned 3 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!  
-  
-If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors for more help.
-
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

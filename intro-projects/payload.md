@@ -1,24 +1,29 @@
 ---
 description: >-
-  The payload intro-project is designed to be a comprehensive and interesting
-  way of introducing new members to the all of the common tasks done by the
-  team.
+  The 2021 payload intro-project is designed to be a comprehensive and
+  interesting way of introducing new members to the all of the common tasks done
+  by the team.
 ---
 
 # Payload
 
-![A simple rover chassis](../.gitbook/assets/simple_chassis.png)
+![A simple glider prototype](../.gitbook/assets/image%20%28104%29.png)
 
-![A more complicated Payload rover for NASA SL 2018](../.gitbook/assets/picture2.png)
+![A complicated Payload rover for NASA SL 2018](../.gitbook/assets/picture2.png)
 
 ## Introduction
 
-The intro project is designed with two main parts:
+The intro project is designed with three main parts:
 
-1. A general rocketry take-home quiz, taken alone \(due roughly 1 week after assigned\)
-2. A design project, also done alone \(due roughly 3 weeks after assigned\)
+1. A **general rocketry take-home quiz**, taken **alone** \(due roughly _1 week_ after assigned\)
+2. An **aerodynamics/glider parts quiz**, taken **alone** \(due _after glider presentation_ in meeting\)
+3. A **glider design project**, done with **mentor guidance** \(due roughly _3 weeks_ after assigned\)
 
-The intro project may seem daunting, but don’t worry! In addition to the existing resources on GitBook, all the returning payload members will available to help. To encourage intra-team communication, new members are encouraged to ask for help from a designated returning member, as part of our mentorship program. Furthermore, do not hesitate to ask questions on the \#payload Discord channel or PM Jared Farley or other payload members.
+The intro project may seem daunting, but don’t worry!
+
+ In addition to the existing resources on GitBook, all the returning payload members will available to help. 
+
+We will assign a specific returning member as your mentor, but please reach out to any returning member for any questions. Also, feel free to DM Payload Lead Pranav Jayachand on Discord \(**nuance\#1335**\).
 
 We will also hold a series of intro project workshops throughout the next weeks, giving an opportunity for hands-on help. Details will be announced here and on the \#payload channel.
 
@@ -53,38 +58,60 @@ Checkpoints Schedule:
 
 ### Quiz Submission
 
-Please upload your quiz as a PDF here:
+Please fill out your quiz on the Google Form here:
 
-{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/SSeNjQrgCF3JUBHh8)" %}
+{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/PRr5Xt534Gpbxdoh9)" %}
 
-### Part 2: Design
+As well, you can **submit multiple times**, so feel free to submit part 1 of the quiz before the glider presentation.
+
+### Part 2: Glider Quiz
+
+1. What are the three main parts of a glider?
+2. What glide ratio would we want for a glider that drops from 30,000 ft. and needs to travel for 300,000 ft.?
+3. Should the Center of Pressure be behind the Center of Gravity, or in front of the Center of Gravity?
+4. What style of fuselage does DAVE use?
+5. What purpose do horizontal stabilizers serve for aircraft in general? 
+   1. What forces are involved?
+6. How does the wing billow affect the glider?
+7. \(opt\) How can changing the horizontal and vertical stabilizer lengths affect glider performance?
+
+### Quiz Submission
+
+Please fill out your quiz on the Google Form here:
+
+{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/PRr5Xt534Gpbxdoh9)" %}
+
+As well, you can **submit multiple times**, so feel free to submit part 1 of the quiz before the glider presentation.
+
+
+
+### Part 3: Design
 
 #### Design Objective Outline
 
-Our goal is to build a mini robotic rover that fits inside a 4” diameter payload tube. Another team has already done the task of picking out the electronics, sensors, motors, and wheels. Your task is to design and prototype the rover’s chassis– a structure to mount all of sensors, motors, wheels, and the [microcontroller](https://electronics.howstuffworks.com/microcontroller1.htm).
+Our goal is to design a balsa wood glider that can be launched from any angle. Another team has already done the task of picking out the payload and wing. Your task is to design and prototype the glider frame, keeping aerodynamics and glider design in mind – a structure to mount all of the payload upon.
 
 #### Requirements
 
 > Engineering is defined by requirements!
 
-_**Components to Integrate**_
+_**Materials**_
 
-* 1x [Arduino Nano](https://store.arduino.cc/usa/arduino-nano)
-* 2x [40mm wheels](https://www.pololu.com/product/1452/specs)
-* 1x [ball caster wheel](https://www.pololu.com/product/952/resources)
-* 2x [motors](https://www.pololu.com/product/2367/resources)
-* 1x [motor driver board](https://www.pololu.com/product/2130) \(optional\)
-* 1x [distance sensor](https://www.pololu.com/product/2474)
+* Balsa wood 
+* Research payload, represented by a rectangular prism of dimensions **3 x 3 x 1 \(in^3\)** and weight **0.5 lbs**.
 
 _**Detailed Design Requirements:**_
 
-1. All components must fit within the space of a cylinder, 4" in diameter and 8" in length.
+1. The glider, when wings are folded, must fit within the space of a cylinder, 4" in diameter and 8" in length. You **do not need to design** the folding/unfolding mechanism.
 2. All components must be mounted by non-permanent means. For example, you may not glue the Arduino to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
-3. The distance sensor must be mounted to the front of the rover, facing forward.
-4. The wheels may be arranged in any _reasonable_ format. \(Tricycle-like approach recommended\).
-5. You do not have to worry about wiring the electronics or mounting the rover to the tube.
+3. Glider must be statically stable when launched from any flight angle.
 
-Your frame may be as elaborate or simple as you'd like, but it should adhere to the above requirements.
+_**Ideal Design Goals:**_
+
+1. Ensure durability will suffice when undergoing launch, descent, and landing conditions.
+2. Sustain flight for the longest distance feasible.
+
+Your glider may be as elaborate or as simple as you'd like, but it should adhere to the above requirements.
 
 ### Designing in Solidworks
 
@@ -94,9 +121,9 @@ Your frame may be as elaborate or simple as you'd like, but it should adhere to 
 **\(Dates subject to modification according to scheduling\)**
 {% endhint %}
 
-We will use CAD \(computer aided design\) software in order to model our 3D frame. STAR has standardized in using [SolidWorks ](www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up. 
+We will use CAD \(computer aided design\) software in order to model our 3D frame. STAR has standardized using [SolidWorks ](www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up. 
 
-If you have never used CAD software before, don’t worry! We will hold an intro project training class during Workshop 1, most likely on the week of 9/21**.** If you are not able to attend, there are also great online resources:
+If you have never used CAD software before, don’t worry! We will hold an intro project training class during Workshop 1, most likely in the week of 9/21**.** If you are not able to attend, there are also great online resources:
 
 {% embed url="https://www.youtube.com/watch?v=qtgmGkEPXs8" %}
 
@@ -118,29 +145,35 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice \(Fusion 360 is recommended as it has many online resources\).
 {% endhint %}
 
-### Step 2: Working with given hardware
+### Step 2: Designing and iterating with given materials
 
-Assume another team has already picked out the motors and electronics necessary for a rover. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning rover.
+Assume another team has already picked out the build materials and the payload. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning glider.
 
-A good place to start is by looking at the physical dimensions of each component. Attached are 2D dimensioned engineering drawings of all the parts.
+[Glider Aerodynamics & Important Variables](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit#slide=id.ge5e6739c0e_0_19)
 
-{% file src="../.gitbook/assets/dimensions.zip" caption="Component dimensions" %}
+With all of the different variables used in glider design, it can be very useful to create an Excel/Google Sheets sheet that tracks Fuselage Length, Span, Root Chord length, Stabilizer Locations, and Sweep Angle, along with other variables. 
+
+**We will have a workshop on aerodynamics and glider design**, so if any of this does not make sense, that is completely reasonable. You'll have time to ask questions and receive help from mentors during the workshop \(date TBD\).
+
+A good place to start designing is by looking at the physical dimension of the payload it must carry and ensuring the fuselage is sized properly for payload transportation. 
 
 {% hint style="info" %}
-You do not have to 3D model the provided components. However, 3D models of major components are provided below should you want to make a SolidWorks assembly in the end \(NOT REQUIRED\).
+You do not have to 3D model the payload section.
 {% endhint %}
-
-{% file src="../.gitbook/assets/models.zip" caption="Component models" %}
 
 ### Step 3: Working with the tube
 
 The most challenging \(and annoying\) constraint placed on many payload projects is the size of the payload tube \(the part of the rocket that the payload is stored in\). Learning to work with the size limits of a cylinder is essential. 
 
-In this project, your tube space is limited to 4" in diameter and 8" in length, a common size for a medium-scale rocket. It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 4" diameter circle will not fit a 4x4" square.** Your usable space is limited to what you can fit \(or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)\) within a circle.
+In this project, your tube space is limited to **6**" in diameter and **8**" in length, a common size for a medium-scale rocket \(and the size our glider, DAVE, will have to fit into!\). It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 6" diameter circle will not fit a 6x6" square.** Your usable space is limited to what you can fit \(or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)\) within a circle. 
+
+
+
+To account for the folded wings, ensure that there is empty space greater than or equivalent to **.2 inches on both sides of the fuselage** in the **6"** diameter.
 
 ![](../.gitbook/assets/annotation-2019-07-08-185531.png)
 
-Keep this in mind when designing your chassis!
+Keep this in mind when designing your glider fuselage!
 
 ### Step 4: Start designing!
 
@@ -155,18 +188,22 @@ To design screw holes that fit, visit the [Tolerancing GitBook page](../tutorial
 {% endhint %}
 
 {% hint style="info" %}
-If you are really stuck, or just want to see an example of a simple chassis design process step-by-step, there is a detailed PDF in the additional design resources section.
+Your mentor \(and other Payload members\) are here to help, and if you're ever stuck or confused, please ask! Aerodynamics and glider design is very confusing, and there is zero shame in not understanding the material.
 {% endhint %}
 
 ### Step 5: Additional resources
 
 A detailed step-by-step design guide will be released later in the semester \(Although I heavily encourage you to try it out yourself first & ask any Payload member for help before consulting the guide\).
 
+### Step 6: Manufacturing!
+
+If all Payload prospectives finish design work before the first six weeks of class end, we will attempt to manufacture each of the gliders and fly them against each other to see which one is the most aerodynamically sound. 
+
 ## Project Submission
 
-Please upload your SolidWorks/other CAD files here:
+Please upload your SolidWorks/other CAD files \(and Excel sheet, if used\) here:
 
-{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/SSeNjQrgCF3JUBHh8)" %}
+{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/EooECpuac5FCD2hs7)" %}
 
 
 
