@@ -147,13 +147,13 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 
 ### Step 2: Designing and iterating with given materials
 
-Assume another team has already picked out the build materials and the payload. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning glider.
+Assume another team has already picked out the build materials and the payload. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning glider. 
 
 [Glider Aerodynamics & Important Variables](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit#slide=id.ge5e6739c0e_0_19)
 
 With all of the different variables used in glider design, it can be very useful to create an Excel/Google Sheets sheet that tracks Fuselage Length, Span, Root Chord length, Stabilizer Locations, and Sweep Angle, along with other variables. 
 
-**We will have a workshop on aerodynamics and glider design**, so if any of this does not make sense, that is completely reasonable. You'll have time to ask questions and receive help from mentors during the workshop \(date TBD\).
+**We will have a workshop on aerodynamics and glider design**, so if any of this does not make sense, that is completely reasonable. You'll have time to ask questions and receive help from mentors during the workshop \(date TBD\). Here is the presentation on glider aerodynamics and variables for your convenience: {% embed url="[https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit?usp=sharing)[8](https://forms.gle/PRr5Xt534Gpbxdoh9)" %}
 
 A good place to start designing is by looking at the physical dimension of the payload it must carry and ensuring the fuselage is sized properly for payload transportation. 
 
