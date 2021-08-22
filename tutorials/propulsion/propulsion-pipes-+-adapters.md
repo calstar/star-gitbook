@@ -64,7 +64,7 @@ Ball valves are fairly straight-forward, but it is important to double check in 
 
 ![P&amp;ID \(Piping and Instrumentation Diagram\) symbol for a 2-way ball valve](../../.gitbook/assets/image%20%2819%29.png)
 
-![P&amp;ID symbols for 3-way ball valves \(the inside L or T designation is optional\)](../../.gitbook/assets/image%20%2820%29.png)
+![P&amp;ID symbols for 3-way ball valves \(the inside L or T designation is optional\)](../../.gitbook/assets/image%20%2842%29.png)
 
 ### Check Valve
 

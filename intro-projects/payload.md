@@ -21,7 +21,7 @@ The intro project is designed with three main parts:
 
 The intro project may seem daunting, but don’t worry!
 
- In addition to the existing resources on GitBook, all the returning payload members will available to help. 
+In addition to the existing resources on GitBook, all the returning payload members will available to help.
 
 We will assign a specific returning member as your mentor, but please reach out to any returning member for any questions. Also, feel free to DM Payload Lead Pranav Jayachand on Discord \(**nuance\#1335**\).
 
@@ -60,8 +60,6 @@ Checkpoints Schedule:
 
 Please fill out your quiz on the Google Form here:
 
-{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/PRr5Xt534Gpbxdoh9)" %}
-
 As well, you can **submit multiple times**, so feel free to submit part 1 of the quiz before the glider presentation.
 
 ### Part 2: Glider Quiz
@@ -79,11 +77,7 @@ As well, you can **submit multiple times**, so feel free to submit part 1 of the
 
 Please fill out your quiz on the Google Form here:
 
-{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/PRr5Xt534Gpbxdoh9)" %}
-
 As well, you can **submit multiple times**, so feel free to submit part 1 of the quiz before the glider presentation.
-
-
 
 ### Part 3: Design
 
@@ -121,11 +115,11 @@ Your glider may be as elaborate or as simple as you'd like, but it should adhere
 **\(Dates subject to modification according to scheduling\)**
 {% endhint %}
 
-We will use CAD \(computer aided design\) software in order to model our 3D frame. STAR has standardized using [SolidWorks ](www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up. 
+We will use CAD \(computer aided design\) software in order to model our 3D frame. STAR has standardized using [SolidWorks ](https://github.com/calstar/star-gitbook/tree/5d8cf7302474743570b93a399b946d08b76f99ff/intro-projects/www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up.
 
 If you have never used CAD software before, don’t worry! We will hold an intro project training class during Workshop 1, most likely in the week of 9/21**.** If you are not able to attend, there are also great online resources:
 
-{% embed url="https://www.youtube.com/watch?v=qtgmGkEPXs8" %}
+{% embed url="https://www.youtube.com/watch?v=qtgmGkEPXs8" caption="" %}
 
 {% hint style="info" %}
 There will also be example PDFs for each section located at the end of each stage. Use them if you are really stuck!
@@ -138,7 +132,7 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 {% page-ref page="../tutorials/software/solidworks.md" %}
 
 {% hint style="warning" %}
-**SolidWorks is only compatible with Windows!** If you use MacOS or Linux you have three options: 
+**SolidWorks is only compatible with Windows!** If you use MacOS or Linux you have three options:
 
 1. Use the on-campus CAD lab in Etcheverry 1XXX or Jacobs 10 both of which have SolidWorks pre-installed.
 2. Install Windows and then install SolidWorks.
@@ -147,15 +141,15 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 
 ### Step 2: Designing and iterating with given materials
 
-Assume another team has already picked out the build materials and the payload. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning glider. 
+Assume another team has already picked out the build materials and the payload. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning glider.
 
 [Glider Aerodynamics & Important Variables](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit#slide=id.ge5e6739c0e_0_19)
 
-With all of the different variables used in glider design, it can be very useful to create an Excel/Google Sheets sheet that tracks Fuselage Length, Span, Root Chord length, Stabilizer Locations, and Sweep Angle, along with other variables. 
+With all of the different variables used in glider design, it can be very useful to create an Excel/Google Sheets sheet that tracks Fuselage Length, Span, Root Chord length, Stabilizer Locations, and Sweep Angle, along with other variables.
 
-**We will have a workshop on aerodynamics and glider design**, so if any of this does not make sense, that is completely reasonable. You'll have time to ask questions and receive help from mentors during the workshop \(date TBD\). Here is the presentation on glider aerodynamics and variables for your convenience: {% embed url="[https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit?usp=sharing)[8](https://forms.gle/PRr5Xt534Gpbxdoh9)" %}
+**We will have a workshop on aerodynamics and glider design**, so if any of this does not make sense, that is completely reasonable. You'll have time to ask questions and receive help from mentors during the workshop \(date TBD\). Here is the presentation on glider aerodynamics and variables for your convenience:
 
-A good place to start designing is by looking at the physical dimension of the payload it must carry and ensuring the fuselage is sized properly for payload transportation. 
+A good place to start designing is by looking at the physical dimension of the payload it must carry and ensuring the fuselage is sized properly for payload transportation.
 
 {% hint style="info" %}
 You do not have to 3D model the payload section.
@@ -163,11 +157,9 @@ You do not have to 3D model the payload section.
 
 ### Step 3: Working with the tube
 
-The most challenging \(and annoying\) constraint placed on many payload projects is the size of the payload tube \(the part of the rocket that the payload is stored in\). Learning to work with the size limits of a cylinder is essential. 
+The most challenging \(and annoying\) constraint placed on many payload projects is the size of the payload tube \(the part of the rocket that the payload is stored in\). Learning to work with the size limits of a cylinder is essential.
 
-In this project, your tube space is limited to **6**" in diameter and **8**" in length, a common size for a medium-scale rocket \(and the size our glider, DAVE, will have to fit into!\). It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 6" diameter circle will not fit a 6x6" square.** Your usable space is limited to what you can fit \(or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)\) within a circle. 
-
-
+In this project, your tube space is limited to **6**" in diameter and **8**" in length, a common size for a medium-scale rocket \(and the size our glider, DAVE, will have to fit into!\). It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 6" diameter circle will not fit a 6x6" square.** Your usable space is limited to what you can fit \(or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)\) within a circle.
 
 To account for the folded wings, ensure that there is empty space greater than or equivalent to **.2 inches on both sides of the fuselage** in the **6"** diameter.
 
@@ -180,11 +172,11 @@ Keep this in mind when designing your glider fuselage!
 That's all the essentials to get you started on your design. Remember, you can come up with anything as long as it meets the detailed design requirements. The rest of this sub-section lists a few tips.
 
 {% hint style="info" %}
-Any non-permanent mounting method is acceptable. If a part comes with screw holes, you are encouraged to design for screw fasteners. However, zip ties and Velcro are also acceptable \(and are the only possible options for parts without mounting holes\). 
+Any non-permanent mounting method is acceptable. If a part comes with screw holes, you are encouraged to design for screw fasteners. However, zip ties and Velcro are also acceptable \(and are the only possible options for parts without mounting holes\).
 {% endhint %}
 
 {% hint style="info" %}
-To design screw holes that fit, visit the [Tolerancing GitBook page](../tutorials/manufacturing/tolerancing.md)! 
+To design screw holes that fit, visit the [Tolerancing GitBook page](../tutorials/manufacturing/tolerancing.md)!
 {% endhint %}
 
 {% hint style="info" %}
@@ -197,13 +189,9 @@ A detailed step-by-step design guide will be released later in the semester \(Al
 
 ### Step 6: Manufacturing!
 
-If all Payload prospectives finish design work before the first six weeks of class end, we will attempt to manufacture each of the gliders and fly them against each other to see which one is the most aerodynamically sound. 
+If all Payload prospectives finish design work before the first six weeks of class end, we will attempt to manufacture each of the gliders and fly them against each other to see which one is the most aerodynamically sound.
 
 ## Project Submission
 
-Please upload your SolidWorks/other CAD files \(and Excel sheet, if used\) here:
-
-{% embed url="[https://forms.gle/SSeNjQrgCF3JUBHh8](https://forms.gle/EooECpuac5FCD2hs7)" %}
-
-
+Please upload your SolidWorks/other CAD files \(and Excel sheet, if used\) here: [https://forms.gle/fBveaPspNEGfzsas9](https://forms.gle/fBveaPspNEGfzsas9)
 

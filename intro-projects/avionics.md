@@ -62,7 +62,7 @@ Hit `Ok` and now go back to the KiCad project window.
 
 From the KiCad project window, hit the `Schematic Layout Editor` button.
 
-![Schematic Layout Editor button](../.gitbook/assets/image%20%2832%29.png)
+![Schematic Layout Editor button](../.gitbook/assets/image%20%2838%29.png)
 
 This will open up the schematic editor which will have 4 items on it: a Conn\_01x02\_Male 2 pin connector for power input, an LM3940 \(voltage regulator to convert input 5V to 3.3V for the microcontroller and altimeter\), a BMP388 \(the altimeter\), and a box with many pins on it referencing a file `../lib/STM32F401RET6.sch`. If you double-click on this, it will open up that file showing the microcontroller schematic symbol along with many capacitors and resistors, and a 5 pin connector. This is a hierarchical schematic sheet, which we use to abstract away commonly used configurations of components. You can read more about them [here](http://docs.kicad-pcb.org/5.1.2/en/eeschema/eeschema.html#hierarchical-schematics).
 

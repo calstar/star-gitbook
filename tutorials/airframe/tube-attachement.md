@@ -112,7 +112,7 @@ After a hole is drilled with the right diameter, the nut can be press fit into t
 
 Rockets are usually not made of sheet metal, but these nut have been seen to work on fiberglass tubes.  Do note that for tubes under 2.5" in diameter, the curvature of the tube may be too great for the nut to properly work, as they are design for flat surfaces.  It is also important to buy nuts that are suited for the thickness of the tube wall.  Additionally, ensure you have the right size drill bit, as hole diameter is crucial to ensure the nut press fits well.
 
-![4 Self-Clinching Nuts used to hold a nosecone to a fiberglass tube.](../../.gitbook/assets/image%20%28102%29.png)
+![4 Self-Clinching Nuts used to hold a nosecone to a fiberglass tube.](../../.gitbook/assets/image%20%28102%29%20%281%29.png)
 
 ![Drilling into the fiberglass tube.](../../.gitbook/assets/vlcsnap-2021-06-26-14h20m57s669.png)
 

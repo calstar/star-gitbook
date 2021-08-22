@@ -48,7 +48,7 @@ The launch looked good for the first 400 meters before starting to spiral and co
 
 ![](../../.gitbook/assets/img_6070.jpg)
 
-![](../../.gitbook/assets/img_6032%20%281%29.jpg)
+![](../../.gitbook/assets/img_6032%20%281%29%20%281%29.jpg)
 
 ![](../../.gitbook/assets/img_6042%20%281%29.jpg)
 

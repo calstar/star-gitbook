@@ -14,7 +14,7 @@ Delrin is a low-friction plastic that is extremely machineable; Delrin parts can
 
 Acrylic \(in the form that Jacobs Hall sells\) is a fairly brittle material that we recommend avoiding for use in flight parts. Acrylic is occaisionally useful for enclosures or signs. Polycarbonate is recommended as a substitute for acrylic unless the material _must_ be laser cut.
 
-![A sheet of acrylic](../../.gitbook/assets/image%20%2869%29.png)
+![A sheet of acrylic](../../.gitbook/assets/image%20%2869%29%20%281%29.png)
 
 ##  Acrylonitrile Butadiene Styrene \(ABS\)
 

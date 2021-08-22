@@ -29,7 +29,7 @@ In the GrabCAD Desktop App, you'll have the option of **manually connecting a pr
 
 ![](../../.gitbook/assets/untitled%20%2812%29.png)
 
-![](../../.gitbook/assets/untitled%20%286%29.png)
+![](../../.gitbook/assets/untitled%20%286%29%20%281%29.png)
 
 ## 2. Updating Local GrabCAD Folders
 
