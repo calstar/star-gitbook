@@ -106,6 +106,52 @@ Most of the boards on CAS are 4-layer, but in this intro project we will only co
 * Add any required minor components to the schematic near the transceiver, such as resistors and capacitors \(the intro project on Gitbooks will list what is needed\)
 * Connect the pins on the Radio Transceiver to all other relevant components on the board \(the intro project on Gitbooks will list which pins should be connected to which\).
 
+Datasheet for the AT86RF215: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42415-WIRELESS-AT86RF215\_Datasheet.pdf
+
+The AT86RF215 transciever is probably the most important part of this project, since it's the component that actually does the radio communication. It is an IC radio module with two separate radios included \(a 0.9 GHz one, and a 2.4 GHz one\). The two radios are independent of each other. They also have both transmission \(data in\) and recieving \(data out\) capabilities. The AT86RF215 has 48 pins on it, with the following functions. It's not necessary to understand what these pins are used for, but it's provided to help make the wiring diagram easier to comprehend. 
+
+![](../.gitbook/assets/screen-shot-2021-08-23-at-3.16.40-am.png)
+
+* 0.9 GHz Radio
+  * RFP09: Differential RF input \(positive\)
+  * RFN09: Differential RF Output \(negative\)
+  * FEA09: Digital Output A
+  * FEB09: Digital Output B
+  * RXDP09: I/Q Interface Output \(positive\)
+  * RXDN09: I/Q Interface Ouput \(negative\)
+* 2.4 GHz Radio
+  * RFP24: Differential RF input \(positive\)
+  * RFN24: Differential RF Output \(negative\)
+  * FEA24: Digital Output A
+  * FEB24: Digital Output B
+  * RXDP24: I/Q Interface Output \(positive\)
+  * RXDN24: I/Q Interface Ouput \(negative\)
+* Power
+  * DVDD: Internally Regulated Digital Supply Voltage
+  * AVDD0: Internally Regulated Analog Supply Voltage 0
+  * AVDD1: Internally Regulated Analog Supply Voltage 1
+  * EVDD: External Analog Supply Voltage
+  * DEVDD: External Digital Supply Voltage
+  * AVDD: Analog Ground
+  * DVDD: Digital Ground
+* Communication
+  * MISO: SPI MOSI Connection
+  * MOSI: SPI MISO Connection
+  * SCLK: SPI SCLK Connection
+  * SELN: SPI SELN Connection
+  * RXCLKP: RX I/Q Interface Clock Output \(positive\)
+  * RXCLKN: RX I/Q Interface Clock Output \(negative\)
+  * TXCLKP: TX I/Q Interface Clock Input \(positive\)
+  * TXCLKN: TX I/Q Interface Clock Input \(negative\)
+  * TXDP: TX I/Q Interface Data Input \(positive\)
+  * TXDN: TX I/Q Interface Data Input \(negative\)
+* Miscellaneous
+  * IRQ: Interrupt Signal
+  * RSTN: Reset Pin \(active low\)
+  * TXCO: Crystal Oscillator Input
+  * XTAL2: Crystal Oscillator Output
+  * CLKO: Clock Output
+
 #### Step 2: Associate Components With Footprints
 
 * Perform electrical rules check using debugger tab to ensure there are no errors
