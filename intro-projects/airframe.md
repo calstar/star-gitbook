@@ -1,5 +1,5 @@
 ---
-description: Airframe projects for new and returning members.
+description: Airframe intro projects for new and returning members.
 ---
 
 # Airframe
@@ -14,7 +14,7 @@ The new members will be tasked with designing an L1 rocket to show:
 2. Commitment to learning new things
 3. Work within a budget
 
-The Airframe meetings at the start of the year - along with the GitBook - will contain all the information required to complete the project. In addition, I will hold office hours **Thursdays 4pm-6pm PDT** via Zoom, so please stop by and ask any questions you may have. The Zoom link will be provided on in the Airframe Discord channel. If these scheduled office hours do not work for you, please feel free to reach out to me and schedule a different meeting time.
+The Airframe meetings at the start of the year - along with the GitBook - will contain all the information required to complete the project. In addition, I will hold office hours, so please stop by and ask any questions you may have. If these scheduled office hours do not work for you, please feel free to reach out to me and schedule a different meeting time.
 
 #### Constraints:
 
@@ -24,20 +24,15 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 #### Project **Deliverables**:
 
-1. Report outlining design choices
-
-   a. Simulation data included
-
-2. Line-item budget
-
-   a. Should include supplier
-
+1. Report outlining design choices a. Simulation data included
+2. Line-item budget a. Should include supplier
 3. OpenRocket model \([Guide on how to use OpenRocket](https://calstar.gitbook.io/docs/tutorials/airframe/airframe-openrocket)\)
 4. SolidWorks CAD model
 5. Procedures on how to assemble it
-6. Powerpoint presentation outlining all of the above
-7. Should be able to explain any question
-8. Build days will be optional events, but are you are highly recommended to attend, given that we have approval to hold in person meetings.
+6. PowerPoint presentation outlining all of the above
+7. Be able to explain any question
+8. Attend at least one in person build day.
+9. Meet with your mentor \(in person or virtually\) 3 separate times. The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to get help designing your rocket. 
 
 **Given / Outside Scope of Project:**
 
@@ -55,11 +50,39 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 {% file src="../.gitbook/assets/l1\_example\_cad.zip" caption="Example SolidWorks Model" %}
 
-**Level 1 Build:** The original goal was for new members to be able to collectively build a Level 1 rocket, using the designs you each created, and launch the rocket. The purpose of this collective project is for new members to gain hands-on experience building a high powered rocket. This will likely not happen during the fall semester given the circumstances created by coronavirus. If conditions do improve by spring semester, this is something that the new members of Airframe will pursue.
+**Level 1 Build:** 
+
+Given that there is enough time within the first six weeks of the semester, new members will complete their intro project, and collectively build a Level 1 rocket using the designs they each created, and launch the rocket. New members will collectively decide on a design to build, order components for the rocket, and build and launch the rocket as a group. The purpose of this collective project is for new members to gain hands-on experience building a high powered rocket, and to also work within a group setting.
+
+**Mentorship:**
+
+Each new member will have a mentor \(a returning member of airframe\). It is required that new airframe members meet with their mentor \(in person or virtually\) 3 separate times. The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to get help designing your rocket.
 
 ## Returning Members Intro Project
 
 ![](../.gitbook/assets/img_5739%20%281%29.jpg)
 
-The returning member project for Airframe will be the design of a 4 inch diameter stage separation rocket. You may use the examples of a stage separation ork provided on the STAR Google Drive in the folder Systems&gt;StageSep Documents. Specs will be updated as decided by Systems.
+**L1 Program:**
+
+STAR’s L1 program is new this year and is being implemented at last! Returning airframe members will be required to participate in the L1 program. Additionally, returning members will help to better the program for the future. Upon completion of the program, members will complete a review of the program and submit it to the Airframe Chief Specialist. 
+
+**Trainings:**
+
+Returning airframe members are required to lead at least one training session or workshop. The following are relevant training sessions and workshops:
+
+1. OpenRocket Training Session
+2. Solidworks Training Session
+3. GradCAD Training Session
+4. Richmond Field Station \(RFS\) Workshop
+
+If you have ideas for any additional trainings that could be held, feel free to inform the Airframe Chief Specialist. 
+
+**Recruitment:**
+
+Returning airframe members are required to aid in recruiting new airframe members. Each returning member must attend and help out with at least one recruiting event \(i.e. Calapalooza, information sessions, tabeling, etc.\). 
+
+**Mentorship:**
+
+Each returning airframe member is required to participate in the mentorship program. Because airframe has very few returning members, it is likely that returning airframe members will mentor more than one mentee. It is required that the mentor \(returning member\) meet with each mentee \(new member\) at least 3 times \(in person or virtually\). The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to help the new member with their intro project.  
+
 
