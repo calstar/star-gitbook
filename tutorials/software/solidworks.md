@@ -26,7 +26,7 @@ STAR is migrating to the SolidWorks 2021 Student Edition.
 
 * Go to: [www.solidworks.com/SEK](http://www.solidworks.com/SEK) and complete the form \(first name, last name, Berkeley email address, select “student team” on dropdown\)
 * Under product information
-  * Select Yes \( I already have a serial number\)
+  * Select Yes \(I already have a serial number\)
   * Choose **2021-2022** version
 
 {% hint style="warning" %}
