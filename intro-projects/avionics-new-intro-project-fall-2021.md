@@ -83,7 +83,7 @@ One of the most useful commands is **git status**, which can help you out if you
 
 Kicad has a large number of preloaded libraries \(for symbols & footprints\), but it is also possible to import your own libraries. There are a lot of these libraries publicly available on github. In fact, even the kicad default libraries are available on github \([https://github.com/KiCad/kicad-symbols](https://github.com/KiCad/kicad-symbols), [https://github.com/KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints)\). At avionics, we have created our own library to hold some of our symbols and footprints. This library is located at the the 'hardware-sch-blocks' repository on our github \([https://github.com/calstar/hardware-sch-blocks](https://github.com/calstar/hardware-sch-blocks)\) and cadlab \([https://cadlab.io/project/22829/master/files](https://cadlab.io/project/22829/master/files)\). 
 
-When we create new avionics projects, we will want to include hardware-sch-blocks as a kicad submodule. Here are the steps for creating a new project and importing our hardware-sch-blocks submodule:  
+When we create new avionics projects, we will want to include hardware-sch-blocks as a kicad submodule. Here are the steps for creating a new project and importing our hardware-sch-blocks submodule into the symbol editor:  
 1: Open kicad and create an empty project. In your terminal, navigate inside the project directory.  
 2: Type the command **git init** to start a git repository.  
 3: Type the command **git submodule add https://github.com/calstar/hardware-sch-blocks**.  
@@ -93,8 +93,13 @@ When we create new avionics projects, we will want to include hardware-sch-block
 7: Click 'ok' and save the project.  
 8: If you click on 'place symbol' and scroll down in the dialog box, you should see a section labeled 'star-common-lib'  
   
-Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)  
-
+The steps for importing our submodule into the footprint editor are similar, though it assumes you have already followed the above steps for importing our submodule into the symbol editor.  
+1: Open the layout editor in your kicad project, and click 'manage footprint libraries.'  
+2: Go to the 'project-specific libraries' tab and add a new library.  
+3: Set the library's nickname to 'star-common-lib' and set the library path to ${KIPRJMOD}/hardware-sch-blocks/star-common-lib.lib  
+4: Click 'ok' and save the project.  
+  
+Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)
 
 ## Intro Project A: cas-rpi-hw
 
