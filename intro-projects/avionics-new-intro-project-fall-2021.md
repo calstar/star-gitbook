@@ -8,7 +8,7 @@ description: A new intro project for avionics members updated for Fall 2021.
 
 This intro project serves as an introduction to the Kicad software suite, which is used by the avionics team to design circuit boards for STAR projects. The projects is split up into two paths--one path is for students who are more interested in schematic design, and the other path is for students more interested in PCB layout. Schematic design and PCB layout are both fundamental parts of using Kicad. The primary goal of both intro projects is for students to learn how board design is done on the avionics subteam, and gain experience on a project that is very similar to "real" avionics projects.
 
-The schematic-focused path of the intro project is called "CAS-Core Revision" and it consists of adding two new parts \(a raspberry pi compute module, and an FPGA\) to our current CAS-Core board. The layout-focused path of the intro project is called "CAS-Radio Revision" and it consists of adding one new part \(a dual radio transmitter-reciever\) to our current CAS-Radio board. Both CAS-Core and CAS-Radio will be explained in more detail later on.
+The schematic-focused path of the intro project is called "cas-rpi-hw" and it consists of adding two new parts \(a raspberry pi compute module, and an FPGA\) to our current CAS-Core board. The layout-focused path of the intro project is called "cas-radio-revised-hw" and it consists of adding one new part \(a dual radio transmitter-reciever\) to our current CAS-Radio board. Both CAS-Core and CAS-Radio will be explained in more detail later on.
 
 ## What is Kicad?
 
@@ -54,7 +54,48 @@ The CAS board that already exist are: Core \(main function: performing computati
 
 Most of the boards on CAS are 4-layer, but in this intro project we will only cover 2 layer boards. 2 layer and 4 layer boards have many similarities, but the main difference about 4 layer boards is that the middle two layers are generally designated as power and ground planes, respectively, while the topmost and bottomost layers serve the same function they would on a 2-layer board.
 
-## Intro Project A: CAS-Core Revision
+## Using git
+
+Git and github are a system to manage and keep track of files in large programming projects. Each individual project is stored in a 'repository.' STAR maintains a github account here with several repositories: [https://github.com/calstar](https://github.com/calstar).
+
+If you have never used git before, or you need a refresher, here are a few guides you can follow:  
+[https://inst.eecs.berkeley.edu/~cs61b/fa21/docs/using-git.html](https://inst.eecs.berkeley.edu/~cs61b/fa21/docs/using-git.html)  
+[https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)  
+[https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)  
+[https://guides.github.com/introduction/git-handbook/](https://guides.github.com/introduction/git-handbook/)  
+  
+In general, your workflow using git will look something like this:  
+1: Do some work inside your project directory.  
+2: Enter the command **git add** \* to add your files to the staging area.  
+3: Enter the command **git commit -m "your message here"** to create a commit for your files.  
+4: Enter the command **git push** to push your files to the remote repository.  
+  
+The first time you use git, though, you will have to initialize your repository and also specify what remote repository you want to be connected to. Here are the main steps to doing this:  
+1: Create a directory that you want your project to be in.  
+2: Enter the command **git init**.  
+3: Enter the command **git pull &lt;remote repository url here&gt;**.  
+4: The files from the remote repository should now be in your project directory. From there, you can follow the workflow mentioned above.   
+  
+One of the most useful commands is **git status**, which can help you out if you are confused or stuck. It will tell you what is the status of your local repository and what has been changed, staged, deleted, etc.  
+
+
+## Managing submodules
+
+Kicad has a large number of preloaded libraries \(for symbols & footprints\), but it is also possible to import your own libraries. There are a lot of these libraries publicly available on github. In fact, even the kicad default libraries are available on github \([https://github.com/KiCad/kicad-symbols](https://github.com/KiCad/kicad-symbols), [https://github.com/KiCad/kicad-footprints](https://github.com/KiCad/kicad-footprints)\). At avionics, we have created our own library to hold some of our symbols and footprints. This library is located at the the 'hardware-sch-blocks' repository on our github \([https://github.com/calstar/hardware-sch-blocks](https://github.com/calstar/hardware-sch-blocks)\) and cadlab \([https://cadlab.io/project/22829/master/files](https://cadlab.io/project/22829/master/files)\). 
+
+When we create new avionics projects, we will want to include hardware-sch-blocks as a kicad submodule. Here are the steps for creating a new project and importing our hardware-sch-blocks submodule:  
+1: Open kicad and create an empty project. In your terminal, navigate inside the project directory.  
+2: Type the command **git init** to start a git repository.  
+3: Type the command **git submodule add https://github.com/calstar/hardware-sch-blocks**.  
+4: Open the schematic editor in your kicad project, and click 'manage symbol libraries.'  
+5: Go to the 'project-specific libraries' tab and add a new library.  
+6: Set the library's nickname to 'star-common-lib' and set the library path to ${KIPRJMOD}/hardware-sch-blocks/star-common-lib.lib.  
+7: Click 'ok' and save the project.  
+  
+Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)  
+
+
+## Intro Project A: cas-rpi-hw
 
 #### Step 0: Getting started
 
@@ -92,7 +133,7 @@ Most of the boards on CAS are 4-layer, but in this intro project we will only co
 * Create a ground pour with the copper fill tool
 * Generate gerber files once the layout is finished
 
-## Intro Project B: CAS-Radio Revision
+## Intro Project B: cas-radio-revised-hw
 
 #### Step 0: Getting started
 
