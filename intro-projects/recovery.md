@@ -12,7 +12,7 @@ Welcome to the Recovery specialty's intro/returning project page! Glad you're he
 
 The recovery specialty is tasked with safely landing the launch vehicle. This responsibility requires working with constraints set in each project, attention to detail, and producing creative and efficient solutions. We work on numerous different components that are essential to the safe landing of the rocket including but not limited to: parachute size and geometry selection, parachute deployment altitude selection, ejection and separation mechanics, and avionics sled design. We require a general understanding of mechanics, electronics, simulations, physics, and more.
 
-For any questions/help please feel free to reach out to Recovery specialty lead Michael at office hours or online through Discord or email. We also have mentors you will be assigned to as an advisor \(and friend\) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help! 
+For any questions/help please feel free to reach out to Recovery specialty lead Michael at office hours or online through Discord or email. We also have mentors you will be assigned to as advisors \(and friends\) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help! 
 
 * Michael Karish \| Recovery Specialty Lead
   * OH: Tuesdays 8-9PM or ping me on discord
@@ -53,16 +53,16 @@ The majority of our manufacturing will be done in the Jacob's Hall Maker Space. 
 
 **We would like you to complete laser cutter training, electronics lab training, water jet training, and metal shop training.** Screenshot the completed trainings from bCourses and include it into your final presentation.
 
-**Buy the Maker Pass as soon as possible.** There are only 500 general use passes that run out early in the semester.  
+**Apply for a Maker Pass by September 12th. This will not guarantee you a pass. Jacob's will let you know if you get a pass or not by September 20th.**  
   
 After applying for a Maker Pass, you need to complete the "General Workshop Safety" \(GWS\) online module that will be linked when you complete the application. Then you will need to complete an online training \(in the same bCourses class as GWS\) for each piece of equipment you want to use. Then you will need to attend an in person training for all of the above pieces of equipment or sets of equipment. Trainings are not more than 2 hours. 3D printing is also an important part of Recovery but only online trainings are required for use.
 
 Coordinate with your teammates to sign up for in person trainings together! 
 
-Contact Michael if you are unable to get a Maker Pass. There are other makerspaces on campus so we can figure something out.
+**Contact Michael if you are unable to get a Maker Pass. There are other makerspaces on campus so we can figure something out.**
 
 {% hint style="warning" %}
-**Note:** A Maker Pass costs $100 per semester unless you are able to get a fee waiver for demonstrated financial need. STAR does offer club maker's passes if you sign up early enough. If you have any concerns, please let me or Michael Celebrado \(Operations Lead\) know and we can definitely work something out. 
+**Note:** A Maker Pass costs $100 per semester unless you are able to get a fee waiver for demonstrated financial need. If you have any concerns, please let me or Michael Celebrado \(Operations Lead\) know and we can definitely work something out to help you purchase one.
 {% endhint %}
 
 {% hint style="info" %}
@@ -83,7 +83,7 @@ The basic idea with stage separation is that it is more efficient for the rocket
 
 Openrocket simulations are a good way to visualize the steps of our two stage recovery system. Download Openrocket \(directions are in the gitbook under "Tutorials"&gt;"Software Setup"&gt;"Openrocket Installation"\) and then download the file linked below containing the most recent stage separation Openrocket file. 
 
-Select "Flight simulations" and "plot" to get a sense of what is happening to each stage throughout the rocket's flight. The "Motors & Configuration" tab is useful for understanding where each parachute will deploy. Also in looking at the "Rocket Design" try to picture where in the rocket separation will occur.
+Select "Flight simulations" and "plot" to get a sense of what is happening to each stage throughout the rocket's flight. The "Motors & Configuration" tab is useful for understanding when and where each parachute will deploy. Also in looking at the "Rocket Design" try to picture where in the rocket separation will occur.
 
 I would also checkout the Apogee Rockets' explanation of a two stage rocket with "headend ignition". The separation mechanism is different from our own but it is still relevant.
 
@@ -153,10 +153,10 @@ Fill out the chart below with all of the calculations and relevant information o
 Creating CAD models is a skill every engineer should have down and recovery is no exception. It is important to model things before manufacturing to avoid wasted materials due to poor design. Recovery designs and manufactures the avionics bays for all the rockets so proper documentation is needed. The avionics bay houses the altimeters and other necessary hardware that enables proper parachute deployment which is often mounted to an accessible sled. A typical avionics bay \(av-bay\) consists of the following:
 
 * Altimeters- tell the pyrogens for parachute deployment and stage separation when to deploy
-* Altimeter Sled- secure the batteries and altimeters
+* Avionics Sled- secure the batteries and altimeters
 * Bulkheads- create sturdy and nearly airtight separations between different sections of the rocket allowing for pressure build up when the explosives ignite. This is critical for parachute deployment
-* Alignment Rods
-* Access Hatch- the opening through which we can bring the altimeter sled in and out and we can connect wires to the altimeters on the altimeter sled.
+* Alignment Rods- orient the Av-Bay components such that the Avionics Sled can slide in and out
+* Access Hatch- the opening through which we can bring the altimeter sled in and out and we can connect wires to the altimeters on the altimeter sled
 * Batteries- power the altimeters
 
 **You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries**. We have provided the appropriate airframe and altimeter models that we frequently use below. You should create models for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above models, make an assembly of the entire avionics bay with all the components inside and properly constrained. 
@@ -171,10 +171,14 @@ Creating CAD models is a skill every engineer should have down and recovery is n
   * **Outer Diameter:** 3.900" \(9.91 cm\)
 
 {% hint style="info" %}
-**Link for File Download:** [https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv](https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv)
+**CADs of a 9V battery and a Stratologger Altimeter:** [https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv](https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv)
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
+**Help Starting:** Check out the  STAR Internal page on the Avionics Sled. Join **GrabCAD** to see the CAD work for STAR's current projects and last year's competition rocket: Bear Force One \(BFO\). You should check out BFO's launch proven AvBay and the SSEP project's AvBays to see what AvBays can look like.
+{% endhint %}
+
+{% hint style="info" %}
 **NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is the most difficult part of the project especially if you do not have CAD experience. Please see Michael, your mentors, or any of the other returning members if you have any questions; we want to help! 
 {% endhint %}
 
@@ -186,9 +190,9 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 
 **Deliverable:** Meet for at least an hour with three returning recovery members. Ask for any help you need on your intro projects and get to know each other.  
   
-During the first GM you will be assigned 3 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!  
+During the first GM you attend, you will be assigned 3 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!  
   
-If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors for more help.
+If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors or other returning Recovery members for more help.
 
 
 
