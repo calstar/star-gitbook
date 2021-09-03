@@ -91,6 +91,7 @@ When we create new avionics projects, we will want to include hardware-sch-block
 5: Go to the 'project-specific libraries' tab and add a new library.  
 6: Set the library's nickname to 'star-common-lib' and set the library path to ${KIPRJMOD}/hardware-sch-blocks/star-common-lib.lib  
 7: Click 'ok' and save the project.  
+8: If you click on 'place symbol' and scroll down in the dialog box, you should see a section labeled 'star-common-lib'  
   
 Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)  
 
