@@ -216,8 +216,8 @@ The AT86RF215 transciever is probably the most important part of this project, s
   * AVDD1: Internally Regulated Analog Supply Voltage 1
   * EVDD: External Analog Supply Voltage
   * DEVDD: External Digital Supply Voltage
-  * AVDD: Analog Ground
-  * DVDD: Digital Ground
+  * AVSS: Analog Ground
+  * DVSS: Digital Ground
 * Communication
   * MISO: SPI MOSI Connection
   * MOSI: SPI MISO Connection
