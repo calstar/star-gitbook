@@ -4,6 +4,9 @@ description: A new intro project for avionics members updated for Fall 2021.
 
 # Avionics \(new intro project Fall 2021\)
 
+"One bad year of competition is really annoying. One bad year of education leads to three bad years of competition."  
+--Sam
+
 ## Overview
 
 This intro project serves as an introduction to the Kicad software suite, which is used by the avionics team to design circuit boards for STAR projects. The projects is split up into two paths--one path is for students who are more interested in schematic design, and the other path is for students more interested in PCB layout. Schematic design and PCB layout are both fundamental parts of using Kicad. The primary goal of both intro projects is for students to learn how board design is done on the avionics subteam, and gain experience on a project that is very similar to "real" avionics projects.
@@ -100,6 +103,40 @@ The steps for importing our submodule into the footprint editor are similar, tho
 4: Click 'ok' and save the project.  
   
 Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)
+
+## Cas-Stacking 80-pin connector
+
+The Cas-Stacking board \(located in hardware-sch-blocks here: [https://cadlab.io/project/22829/master/circuit/Q0FTX2J1cy9DQVNfYnVzLnNjaA%3D%3D](https://cadlab.io/project/22829/master/circuit/Q0FTX2J1cy9DQVNfYnVzLnNjaA%3D%3D)\) is used to connect the CAS modules together. Each CAS module contains one copy of the CAS-Stacking board. Each pin X on one CAS-Stacking board is shorted to its corresponding pin X on every other copy of the CAS-Stacking board. One Cas-Stacking board has 80 pins in total: 40 on the left \(A1-A40\) and 40 on the right \(B1-B40\). Pins B15-B40 are currently unused.
+
+The following is a description of the pins used by Cas-Stacking. Except for the power and miscellaneous pins, most of the pins should be used to interface with the board's microcontroller.
+
+* Power
+  * +3.3V
+  * +5V
+  * +BATTERY
+  * GND
+* I2C \#1
+  * SCL
+  * SDA
+* I2C \#2
+  * SCL
+  * SDA
+* SPI High-Speed
+  * SCK
+  * MISO
+  * MOSI
+  * SS1, SS2
+* SPI Low-Speed
+  * SCK
+  * MISO
+  * MOSI
+  * SS1, SS2, SS3, SS4, SS5, SS6, SS7, SS8
+* Miscellaneous \(can be connected to anything\)
+  * INT1, INT2, INT3, INT4, INT5, INT6, INT7, INT8
+
+Included below is the schematic footprint for a Cas-Stacking board. The pins A1-A40 are on the left, and the pins B1-B40 are on the right. The 4 circles on the corners are larger protrusions that are used to stabilize the board and keep it from falling out.
+
+![](../.gitbook/assets/screen-shot-2021-09-08-at-12.54.50-am.png)
 
 ## Intro Project A: cas-rpi-hw
 
