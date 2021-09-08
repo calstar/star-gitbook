@@ -197,15 +197,15 @@ The AT86RF215 transciever is probably the most important part of this project, s
 ![](../.gitbook/assets/screen-shot-2021-08-23-at-3.16.40-am.png)
 
 * 0.9 GHz Radio
-  * RFP09: Differential RF input \(positive\)
-  * RFN09: Differential RF Output \(negative\)
+  * RFP09: Differential RF Input \(positive\)
+  * RFN09: Differential RF Input \(negative\)
   * FEA09: Digital Output A
   * FEB09: Digital Output B
   * RXDP09: I/Q Interface Output \(positive\)
   * RXDN09: I/Q Interface Ouput \(negative\)
 * 2.4 GHz Radio
-  * RFP24: Differential RF input \(positive\)
-  * RFN24: Differential RF Output \(negative\)
+  * RFP24: Differential RF Input \(positive\)
+  * RFN24: Differential RF Input \(negative\)
   * FEA24: Digital Output A
   * FEB24: Digital Output B
   * RXDP24: I/Q Interface Output \(positive\)
