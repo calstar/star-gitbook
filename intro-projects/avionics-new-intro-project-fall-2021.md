@@ -34,7 +34,7 @@ Here is a convenient cheatsheet that explains this process in full:
 
 ![](../.gitbook/assets/kicad_flowchart.png)
 
-You can get started with Kicad by downloading and installing it here: [https://www.kicad.org/download/](https://www.kicad.org/download/)
+You can get started with Kicad by downloading and installing it here: [https://www.kicad.org/download/](https://www.kicad.org/download/). If you just want to get started with kicad as soon as possible, you can follow the instructions on the site as nomal. However, if you are doing the cas-rpi-hw intro project, then you can jump to those instructions because it will tell you how do download the nightly development build that you need for it \(otherwise you would need to redownload kicad all over again\).
 
 If you have no prior experience with Kicad, then I _highly_ recommend watching this tutorial video series by Digikey. It is useful both as a first look to get familiar with Kicad, and as a refresher to brush up on the details. Following along with their practice project is completely optional--the tutorial is still very helpful even when just passively watching.
 
@@ -79,8 +79,30 @@ The first time you use git, though, you will have to initialize your repository 
 3: Enter the command **git pull &lt;remote repository url here&gt;**.  
 4: The files from the remote repository should now be in your project directory. From there, you can follow the workflow mentioned above.   
   
-One of the most useful commands is **git status**, which can help you out if you are confused or stuck. It will tell you what is the status of your local repository and what has been changed, staged, deleted, etc.  
+One of the most useful commands is **git status**, which can help you out if you are confused or stuck. It will tell you what is the status of your local repository and what has been changed, staged, deleted, etc.
 
+## Digital Communication Protocols
+
+One aspect of electronics that's very important if you want to actually build anything, but is often overlooked by beginners: digital communication protocols. Simply put, these allow electronic components to transfer data between each other. There are three important ones you need to be aware of: UART, I2C, and SPI.
+
+In UART, each device that communicates has a TX \(transmit\) and an RX \(recieve\) port. The TX of one device must be connected to the RX of the other device, and vice versa. So, let's imagine that Device A and Device B want to communicate over UART. Then, there are four relevant pins:   
+--Device A RX  
+--Device A TX  
+--Device B RX  
+--Device B TX  
+Device A TX and Device B RX are connected together. On this wire, data flows from device A to device B. Device B TX and Device B RX are connected together. On this wire, data flows from device B to device A.   
+One important feature of UART is that there is no clock signal involved--the 'A' in UART stands for Asynchronous. Because of this, the two devices must agree on a 'baud rate' \(bits per second\) saying how fast they want to send and recieve data. The most common baud rates are 9600 and 115200.
+
+![UART Communication](../.gitbook/assets/introduction-to-uart-basic-connection-diagram.png)
+
+In I2C, each device that communicates has an SDA \(data\) and SCL \(clock\) port. The clock wire is simply a clock, and the data wire can send and recieve in both directions. I2C communication usually involves one 'master' device \(usually a microcontroller\) and multiple peripheral devices. Since there are only two wires involved, the SCL of one device is connected to the SCL of every device, and the SDA of one device is connected to the SDA of every device. This means that the devices must coordinate to ensure that only one data stream is sent in one direction at a time, and the peripheral devices only participate when it is their turn.  
+To accomodate this, the master device starts a communication session. It sends out a short data stream specifying whether it wants to read or write, and another short data stream specifying which peripheral device it wants to talk to. Then, the master device will communicate with that one peripheral device it selected, while the other peripheral devices will remain idle \(they can 'hear' the conversation, but they aren't 'listening.'\)
+
+![I2C Communication](../.gitbook/assets/36684.png)
+
+In SPI, similar to I2C, there is one master device and multiple peripheral devices. Each device that communicates has SCK \(clock\), MISO \(write to master\), MOSI \(read from master\), and CS \(select device\) ports. The functions of SCK, MISO, and MOSI are relatively self-explanatory, but SS is special. Each peripheral device has only one CS port, but the master has one CS port for every peripheral device there is. So, the master device has a CS port connected to each device's CS port. If a CS port for a peripheral is pulled low, that means that master wants to communicate with that device, and so they will exchange data through the MISO and MOSI ports. Data is transferred from or to only one peripheral device at a time. Overall, SPI is pretty similar to I2C, but the main difference is that deciding which device to talk to is done with setting the CS wires instead of sending an address bit out on the data wire. \(And
+
+![SPI Communication](../.gitbook/assets/screen-shot-2021-09-08-at-5.32.20-pm.png)
 
 ## Managing submodules
 
@@ -142,9 +164,11 @@ Included below is the schematic footprint for a Cas-Stacking board. The pins A1-
 
 #### Step 0: Getting started
 
-* Download the starter files for the project from github \(provide instructions to do so\)
-* The project starts with symbol & footprint libraries for Raspberry Pi Compute Module 4 & ICE40HX4K-TQ144 FPGA.
-* The project starts with the entirety of the CAS-Core schematic, except without the STM32 Micro-controller
+* First, create a new directory to hold this kicad project. On the command line, **cd** into this directory.
+* Enter the command **git init** to create a git repository in this directory.
+* Enter the command **git pull https://github.com/calstar/cas-radio-revised-hw** to download the starter files for the project. The project starts out with some mostly-empty project files \(cas-rpi-hw.pro, cas-rpi-hw.sch, and cas-rpi-hw.kicad\_pcb\) as well as the required star-common-lib library.
+* Before doing anything else, we need to download the latest build for kicad because it is the only build that can handle the rapsberry pi kicad files. To do so, head over to [https://www.kicad.org/download/](https://www.kicad.org/download/), select your operating system, and scroll down to click on the link with the nightly development builds. Download the one with the most recent release date, and install it.
+* Then, go to [https://www.raspberrypi.org/products/compute-module-4-io-board/](https://www.raspberrypi.org/products/compute-module-4-io-board/) and scroll down to the link for "Raspberry Pi Compute Module 4 IO Board Kicad Files." Click on the link to download the folder.
 
 #### Step 1: Add Raspberry Pi Compute Module To Schematic
 
@@ -180,9 +204,37 @@ Included below is the schematic footprint for a Cas-Stacking board. The pins A1-
 
 #### Step 0: Getting started
 
-* Download the starter files for the project from github \(provide instructions to do so\)
-* The project starts with symbol & footprint libraries for AT86RF215 Radio Transceiver
-* The project starts as an almost empty project, with only the 80-pin CAS-Bus included
+* First, create a new directory to hold this kicad project. On the command line, **cd** into this directory.
+* Enter the command **git init** to create a git repository in this directory.
+* Enter the command **git pull https://github.com/calstar/cas-radio-revised-hw** to download the starter files for the project. The project starts out with some mostly-empty project files \(cas-radio-revised-hw.pro, cas-radio-revised-hw.sch, and cas-radio-revised-hw.kicad\_pcb\) as well as two required libraries \(hardware-sch-blocks/star-common-lib, and cas-radio-revised-library.lib\). 
+* To get started, open the schematic file cas-radio-revised-hw.sch which will pull up the kicad schematic editor. The project should be blank except for two symbols for the Cas-Stacking board, which is inherited from the star-common-lib library. \(It's true that Cas-Stacking is just one part and not two, but sometimes we will split very large kicad components into multiple symbols so they are more convenient to work with in the schematic editor.\)
+* Here is what you should see at the beginning. \(If you are using the stable release of kicad \(under 6.0\) then it should look slightly different, but these differences are mainly cosmetic. If you want to use this exact same version of kicad, follow the instructions in the cas-rpi-hw intro project for downloading the nightly build of kicad.\)
+
+![Your workspace in kicad](../.gitbook/assets/screen-shot-2021-09-08-at-5.46.57-pm%20%281%29.png)
+
+* That's a lot to take in. So, here's a breakdown of what each part on the screen does:
+
+![Your workspace again](../.gitbook/assets/screen-shot-2021-09-08-at-5.46.57-pm.png)
+
+* Main Work Area
+  * This is where all your components and wiring is goin to be. It's the area on the screen that's bounded by the red box. You can actually go outside the red box if you want, the only reason the red box is there is for asthetic purposes.
+* Sheet Info
+  * This doesn't have any bearing on your actual circuit design, it's just an area where you can jot down things like the project name, version number, designer, etc.
+* Coordinates
+  * This is used to set your measurement scales and grid size, as well as change the units used for measurement.
+* Toolbar \(project\)
+  * This is the toolbar at the top of the screen. It's used to do things like save your work, start and finish projects, zoom in and zoom out, and run the electrical rules check. It's mainly for tasks that involve the project files.
+* Toolbar \(schematic\)
+  * This is the toolbar at the right of the screen. It's used to do things like draw wires, add components, add text, and add power / ground flags. It's mainly for tasks that involve the circuit schematic itself. \(This toolbar is the one you'll probably spend the most time using.\)
+
+
+
+* From this point forward, the rest of the intro project will be shuttling you towards these goals. Keep them in mind so things don't start to feel confusing or aimless.
+  * Add the AT86RF215 radio transciever to the schematic
+  * Add the power and ground sources to the schematic
+  * Connect up the Cas-Stacking and AT86RF215 according to the intstructions in their datasheets
+  * Associate the schematic symbols with their footprints and generate the netlist
+  * Complete the PCB layout in the PCB editor
 
 #### Step 1: Add Radio Transceiver To Schematic
 
