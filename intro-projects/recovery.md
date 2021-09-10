@@ -16,12 +16,12 @@ For any questions/help please feel free to reach out to Recovery specialty lead 
 
 * Michael Karish \| Recovery Specialty Lead
   * OH: Tuesdays 8-9PM or ping me on discord
-  * Email:  michael.karish@berkeley.edu
+  * Email: michael.karish@berkeley.edu
   * Discord: michaelkarish
 
 {% hint style="info" %}
-**Workshops:** There will be these workshops during the four GMs of the onboarding period:  
-1. Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness.
+**Workshops:** There will be these workshops during the onboarding period:  
+1. Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness
 
 2. Openrocket
 
@@ -45,13 +45,13 @@ The deliverables of the project should be presented at the final GM of the onboa
 
 ### **Task 1 \| Jacob's Trainings** _**\(Urgent!**_\) \(5 hours\)
 
-**Due: October 7**
+**Due: October 16th**
 
 **Deliverable:** Screenshots of completed trainings from bCourses.
 
 The majority of our manufacturing will be done in the Jacob's Hall Maker Space. It is a great place to work on a variety of projects with numerous tools and super helpful staff. We would like you to complete laser cutter training, electronics lab training, water jet training, and metal shop training as these are the tools or sets of tools we use that require in person trainings. After this introduction to the Jacobs makerspace, you will no doubt use your pass for projects outside of STAR including personal projects and also some classwork.
 
-**We would like you to complete laser cutter training, electronics lab training, water jet training, and metal shop training.** Screenshot the completed trainings from bCourses and include it into your final presentation.
+**We would like you to complete laser cutter training and electronics lab training. Also complete at least one of water jet training and metal shop training.** 
 
 **Apply for a Maker Pass by September 12th. This will not guarantee you a pass. Jacob's will let you know if you get a pass or not by September 20th.**  
   
@@ -71,13 +71,13 @@ Coordinate with your teammates to sign up for in person trainings together!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task**  2 **\| Stage Separation Flow Chart** _**\(2 hrs\)**_
+### **Task** 2 **\| Stage Separation Flow Chart** _**\(2 hrs\)**_
 
-**Due: October 7**
+**Due: October 16th**
 
-**Deliverable:** Filled out flow chart with break down of each event of stage separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is safe recovery of the rocket. 
+**Deliverable:** Filled out flow chart breaking down of each event of stage separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is safe recovery of the rocket. 
 
-You can assume all separation occurs due to "pyrogen ignition" regardless of mechanism or type or charge. Don't worry too much about how the separation is actually occurring as the mechanisms vary.  I recommend checking out Apogee Rocketry's basic breakdown of events, but please keep in mind this does not cover stage separation. 
+You can assume all separation occurs due to "pyrogen ignition" regardless of mechanism or type or charge. Don't worry too much about how the separation is actually occurring as the mechanisms vary. I recommend checking out Apogee Rocketry's basic breakdown of events, but please keep in mind this does not cover stage separation. 
 
 The basic idea with stage separation is that it is more efficient for the rocket to fly up without the extra weight of a used up motor and the surrounding airframe so the lower part or stage of the rocket is released at a certain altitude at which we know the lower motor has burned out. 
 
@@ -85,13 +85,13 @@ Openrocket simulations are a good way to visualize the steps of our two stage re
 
 Select "Flight simulations" and "plot" to get a sense of what is happening to each stage throughout the rocket's flight. The "Motors & Configuration" tab is useful for understanding when and where each parachute will deploy. Also in looking at the "Rocket Design" try to picture where in the rocket separation will occur.
 
-I would also checkout the Apogee Rockets' explanation of a two stage rocket with "headend ignition". The separation mechanism is different from our own but it is still relevant.
+I would also checkout the Apogee Rockets' explanation of a two stage rocket with "headend ignition". The separation mechanism described is different from our own but it is still relevant.
 
 In understanding the recovery steps of Stage Separation, you will grasp the recovery steps of our single stage competition \(IREC\) rocket.
 
 {% embed url="https://www.apogeerockets.com/Tech/Phases-of-a-Rockets-Flight" %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Stage Separation Openrocket File:** [**https://drive.google.com/file/d/10T9or6yggcH\_DY4Mh71U-Ev2n9KXfBLh/view?usp=sharing**](https://drive.google.com/file/d/10T9or6yggcH_DY4Mh71U-Ev2n9KXfBLh/view?usp=sharing)\*\*\*\*
 {% endhint %}
 
@@ -99,13 +99,13 @@ In understanding the recovery steps of Stage Separation, you will grasp the reco
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task**  3 **\| Parachute Selection** _**\(3 hrs\)**_
+### **Task** 3 **\| Parachute Selection** _**\(3 hrs\)**_
 
-**Due: February 25**
+**Due: October 16th**
 
 **Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice. _\(Use the Arktos OpenRocket file attached at the bottom of this section\)_
 
-**Workshops:  \[Recovery\] \[OpenRocket\]**
+**Workshops: \[Recovery\] \[OpenRocket\]**
 
 Select the best combination of parachutes that satisfies the constraints below:
 
@@ -135,16 +135,16 @@ Fill out the chart below with all of the calculations and relevant information o
 {% endhint %}
 
 {% hint style="success" %}
-**BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above. Or check out the StageSep ork and check out options there! StageSep
+**BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above. Or check out the StageSep ork and check out options there! 
 {% endhint %}
 
 \*\*\*\*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 4\|  Avionics Bay Assembly** _**\(6 hrs\)**_
+### **Task 4\| Avionics Bay Assembly** _**\(6 hrs\)**_
 
-**Due: March 11**
+**Due: March 16th**
 
 **Deliverable**: A brief write up presenting your design \(include pictures of the full assembly\) and explaining your design methodology and decisions.
 
@@ -175,7 +175,7 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 {% endhint %}
 
 {% hint style="info" %}
-**Help Starting:** Check out the  STAR Internal page on the Avionics Sled. Join **GrabCAD** to see the CAD work for STAR's current projects and last year's competition rocket: Bear Force One \(BFO\). You should check out BFO's launch proven AvBay and the SSEP project's AvBays to see what AvBays can look like.
+**Help Starting:** Check out the STAR Internal page on the Avionics Sled. Join **GrabCAD** to see the CAD work for STAR's current projects and last year's competition rocket: Bear Force One \(BFO\). You should check out BFO's launch proven AvBay and the SSEP project's AvBays to see what AvBays can look like.
 {% endhint %}
 
 {% hint style="info" %}
@@ -186,11 +186,11 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 
 ### Task 5\| Mentorship \(3 hours\)
 
-**Due: October 7th**
+**Due: October 16th**
 
 **Deliverable:** Meet for at least an hour with three returning recovery members. Ask for any help you need on your intro projects and get to know each other.  
   
-During the first GM you attend, you will be assigned 3 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!  
+Once you decide to join Recovery, you will be assigned 3 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!  
   
 If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors or other returning Recovery members for more help.
 
