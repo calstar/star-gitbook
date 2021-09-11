@@ -9,6 +9,18 @@ description: >-
 "One bad year of competition is really annoying, but one bad year of education leads to three bad years of competition."  
 --Sam
 
+## Welcome to avionics!
+
+If you're reading this, you're probably a new member who's looking to get involved with our avionics projects at STAR. This document--our new intro project--will teach you everything you need to know to be a filly contributing member on the team, even if you have no experience. For your own reference, here's a concise list of all the different websites and resources that you'll be interacting with as an avionics member:
+
+* Our gitbooks page, which you're reading right now! In addition to the intro project, there are also helful tutorials written by previous avionics members linked here: [https://app.gitbook.com/@rocketry/s/public/~/drafts/-MjLyQKJMVHvQ78dHKoB/tutorials/avionics](https://app.gitbook.com/@rocketry/s/public/~/drafts/-MjLyQKJMVHvQ78dHKoB/tutorials/avionics). Try to read through them since they might help a lot with doing your intro project.
+* The STAR google drive, linked here: [https://drive.google.com/drive/folders/0B1\_9aZj6iTHlanFqejNER29MdGs?usp=sharing](https://drive.google.com/drive/folders/0B1_9aZj6iTHlanFqejNER29MdGs?usp=sharing)
+* Quire, which is a sort of mega to-do list so we can keep track of what to do when. It's similar to trello, if you've ever used it.
+* The STAR calendar: [https://calendar.google.com/calendar/b/1?cid=dGJzbDNzZ290MXUyYW5wMm90M3NhNzAxOTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ](https://calendar.google.com/calendar/b/1?cid=dGJzbDNzZ290MXUyYW5wMm90M3NhNzAxOTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+* Our github, which is where avionics projects live \(including your intro projects\): [https://github.com/calstar](https://github.com/calstar)
+* Cadlab, which is sort of like a mirror for github. It lets you look at the schematics for our projects without needing to download them and open kicad. Link: [https://cadlab.io/star](https://cadlab.io/star)
+* And, of course, the club discord!
+
 ## Overview
 
 This intro project serves as an introduction to the Kicad software suite, which is used by the avionics team to design circuit boards for STAR projects. The projects is split up into two paths--one path is for students who are more interested in schematic design, and the other path is for students more interested in PCB layout. Schematic design and PCB layout are both fundamental parts of using Kicad. The primary goal of both intro projects is for students to learn how board design is done on the avionics subteam, and gain experience on a project that is very similar to "real" avionics projects.
@@ -166,7 +178,7 @@ Here is another useful reference for learning about kicad submodules: [https://w
 
 ![your workspace in kicad](../.gitbook/assets/screen-shot-2021-09-11-at-2.59.37-pm.png)
 
-Lastly, before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-rpi-hw](https://github.com/calstar/cas-rpi-hw). You will probably want to refer to this readme frequently.
+Before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-rpi-hw](https://github.com/calstar/cas-rpi-hw). This tells you what the main projects specs are, and has some advice to help you plan the circuit schematic. You will probably want to refer to this readme frequently.
 
 #### Step 1: Create Schematic
 
@@ -183,15 +195,18 @@ Lastly, before proceeding to the next steps, look at the readme on the intro pro
 * Open the CVPCB tool from the toolbar.
 * Search for each board component and associate it with a footprint.
 * Generate the netlist.
-* Open PCBNew and read in net-list.
+* Open PCBNew and read in the net-list.
 
 #### Step 3: Layout PCB
 
-* Organize footprints into clean positions on top of the CAS-Stacking board
-* Calculate proper trace width using an online trace width calculator, and set the trace widths in KiCad \(go to the track width tab on the toolbar, click on ‘edit pre-defined sizes’ in the dropdown menu, and input the new sizes\)
-* Draw traces on the front copper layer connecting all of the ‘air wires’, using vias to draw traces on the back copper layer if necessary
-* Create a ground pour with the copper fill tool
-* Generate gerber files once the layout is finished
+* You'll see each footprint generate on top of each other in one big clump. Move them out of the way so they aren't all on top of each other. Make sure that all the footprints can fit inside the boundaries of the cas-stacking board. 
+* All the components have little white 'air wires' showing what needs to be connected where. Your next step is to move the components around \(with the M hotkey\) and rotate them \(with the R hotkey\) so that most of the air wires aren't crossing over each other. You probably will still have some air wires crossing over, but try to move the footprints out of the way so you can minimize it as much as possible.
+* You can calculate proper trace width using an online trace width calculator, and set the trace widths in KiCad \(go to the track width tab on the toolbar, click on ‘edit pre-defined sizes’ in the dropdown menu, and input the new sizes\). You will have to set both trace width and drill size. Remember that power traces generally need bigger trace sizes than other types of traces.
+* Route the traces according to the connections provided by the air wires, until all of the air wires are gone. You will probably need to use vias to go through the board in order to fit all the traces in.
+* When routing power traces, try not to make them go through any vias \(though its not an absolute necessity\). The power traces should have "priority" over other types of traces.
+* If you're confused about something, you refer to the old cas-core and cas-radio projects that already exist to see what the settings were like \(trace width, drill size, board layer settings, etc\). Just clone the repository into a new directory and open the project in kicad, then you can navigate around the project and see what a finished kicad project is supposed to look like.
+* When you're done drawing traces, create a ground pour on the second layer \(creating a ground plane\), and then create a +5v pour on the third layer \(creating a power plane\).
+* Generate gerber files once the layout is finished. Generating gerbers is always the last step in a Kicad project.
 
 ## Intro Project B:CAS-Radio-Revised-HW
 
@@ -215,15 +230,7 @@ Lastly, before proceeding to the next steps, look at the readme on the intro pro
 
 ![your workspace in kicad](../.gitbook/assets/screen-shot-2021-09-11-at-2.59.17-pm.png)
 
-From this point forward, the rest of the intro project will be shuttling you towards these goals. Keep them in mind so things don't start to feel confusing or aimless.
-
-* Add the AT86RF215 radio transciever to the schematic
-* Add the power and ground sources to the schematic
-* Connect up the Cas-Stacking and AT86RF215 according to the intstructions in their datasheets
-* Associate the schematic symbols with their footprints and generate the netlist
-* Complete the PCB layout in the PCB editor
-
-Lastly, before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-radio-revised-hw](https://github.com/calstar/cas-radio-revised-hw). You will probably want to refer to this readme frequently.
+Before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-radio-revised-hw](https://github.com/calstar/cas-radio-revised-hw). This tells you what the main projects specs are, and has some advice to help you plan the circuit schematic. You will probably want to refer to this readme frequently.
 
 #### Step 1: Add Radio Transceiver To Schematic
 
@@ -280,13 +287,16 @@ Lastly, before proceeding to the next steps, look at the readme on the intro pro
 * Open the CVPCB tool from the toolbar.
 * Search for each board component and associate it with a footprint.
 * Generate the netlist.
-* Open PCBNew and read in net-list.
+* Open PCBNew and read in the net-list.
 
 #### Step 3: Layout PCB
 
-* Organize footprints into clean positions on top of the CAS-Stacking board
-* Calculate proper trace width using an online trace width calculator, and set the trace widths in KiCad \(go to the track width tab on the toolbar, click on ‘edit pre-defined sizes’ in the dropdown menu, and input the new sizes\)
-* Draw traces on the front copper layer connecting all of the ‘air wires’, using vias to draw traces on the back copper layer if necessary
-* Create a ground pour with the copper fill tool
-* Generate gerber files once the layout is finished
+* You'll see each footprint generate on top of each other in one big clump. Move them out of the way so they aren't all on top of each other. Make sure that all the footprints can fit inside the boundaries of the cas-stacking board. 
+* All the components have little white 'air wires' showing what needs to be connected where. Your next step is to move the components around \(with the M hotkey\) and rotate them \(with the R hotkey\) so that most of the air wires aren't crossing over each other. You probably will still have some air wires crossing over, but try to move the footprints out of the way so you can minimize it as much as possible.
+* You can calculate proper trace width using an online trace width calculator, and set the trace widths in KiCad \(go to the track width tab on the toolbar, click on ‘edit pre-defined sizes’ in the dropdown menu, and input the new sizes\). You will have to set both trace width and drill size. Remember that power traces generally need bigger trace sizes than other types of traces.
+* Route the traces according to the connections provided by the air wires, until all of the air wires are gone. You will probably need to use vias to go through the board in order to fit all the traces in.
+* When routing power traces, try not to make them go through any vias \(though its not an absolute necessity\). The power traces should have "priority" over other types of traces.
+* If you're confused about something, you refer to the old cas-core and cas-radio projects that already exist to see what the settings were like \(trace width, drill size, board layer settings, etc\). Just clone the repository into a new directory and open the project in kicad, then you can navigate around the project and see what a finished kicad project is supposed to look like.
+* When you're done drawing traces, create a ground pour on the second layer \(creating a ground plane\), and then create a +5v pour on the third layer \(creating a power plane\).
+* Generate gerber files once the layout is finished. Generating gerbers is always the last step in a Kicad project.
 
