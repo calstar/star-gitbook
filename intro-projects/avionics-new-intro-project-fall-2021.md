@@ -206,6 +206,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 * Route the traces according to the connections provided by the air wires, until all of the air wires are gone. You will probably need to use vias to go through the board in order to fit all the traces in.
 * When routing power traces, try not to make them go through any vias \(though its not an absolute necessity\). The power traces should have "priority" over other types of traces.
 * If you're confused about something, you refer to the old cas-core and cas-radio projects that already exist to see what the settings were like \(trace width, drill size, board layer settings, etc\). Just clone the repository into a new directory and open the project in kicad, then you can navigate around the project and see what a finished kicad project is supposed to look like.
+* Try using Kicad's 3d viewer to see what your board is going to look like once it's been fabricated. You can do this at any stage in the layout process!
 * When you're done drawing traces, create a ground pour on the second layer \(creating a ground plane\), and then create a +5v pour on the third layer \(creating a power plane\).
 * Generate gerber files once the layout is finished. Generating gerbers is always the last step in a Kicad project.
 
@@ -299,6 +300,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 * Route the traces according to the connections provided by the air wires, until all of the air wires are gone. You will probably need to use vias to go through the board in order to fit all the traces in.
 * When routing power traces, try not to make them go through any vias \(though its not an absolute necessity\). The power traces should have "priority" over other types of traces.
 * If you're confused about something, you refer to the old cas-core and cas-radio projects that already exist to see what the settings were like \(trace width, drill size, board layer settings, etc\). Just clone the repository into a new directory and open the project in kicad, then you can navigate around the project and see what a finished kicad project is supposed to look like.
+* Try using Kicad's 3d viewer to see what your board is going to look like once it's been fabricated. You can do this at any stage in the layout process!
 * When you're done drawing traces, create a ground pour on the second layer \(creating a ground plane\), and then create a +5v pour on the third layer \(creating a power plane\).
 * Generate gerber files once the layout is finished. Generating gerbers is always the last step in a Kicad project.
 
