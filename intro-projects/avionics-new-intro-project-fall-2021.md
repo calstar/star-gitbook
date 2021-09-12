@@ -72,7 +72,7 @@ Solder components to board \(optional\): [https://www.youtube.com/watch?v=Zkn\_A
 
 CAS stands for Common Avionics Stack and it is one of our most recent avionics projects. The fundamental idea behind CAS is that the entire system is organized into modular boards, each of which are about 3 inches by 3 inches in area. Each board has one general purpose, and the boards are all connected together in a 'stack.' The boards can exchange data because each board has an identical 80-pin header. 
 
-The CAS board that already exist are: Core \(main function: performing computations and gathering data\), Pyro \(main function: igniting fuses\), Radio \(main function: sending and recieving radio\). The CAS boards that are currently in development are your two intro peoject boards, as well as the CAS-Prop board \(main function: interfacing with the propulsion system\). The files for the boards can be found on cadlab \([https://cadlab.io/star](https://cadlab.io/star)\) and github \([https://github.com/calstar](https://github.com/calstar)\).
+The CAS board that already exist are: Core \(main function: performing computations and gathering data\), Pyro \(main function: igniting fuses\), Radio \(main function: sending and recieving radio\). The CAS boards that are currently in development are your two intro project boards, as well as the CAS-Prop board \(main function: interfacing with the propulsion system\). The files for the boards can be found on cadlab \([https://cadlab.io/star](https://cadlab.io/star)\) and github \([https://github.com/calstar](https://github.com/calstar)\).
 
 ![CAS Radio \(top\), pyro \(middle\), and core \(bottom\)](../.gitbook/assets/screen-shot-2021-09-09-at-6.50.53-pm.png)
 
