@@ -129,7 +129,7 @@ In general, your workflow using git will look something like this:
 The first time you use git, though, you will have to initialize your repository and also specify what remote repository you want to be connected to. Here are the main steps to doing this:  
 1: Create a directory that you want your project to be in.  
 2: Enter the command **git init**.  
-3: Enter the command **git pull &lt;remote repository url here&gt;**.  
+3: Enter the command **git clone &lt;remote repository url here&gt;**.  
 4: The files from the remote repository should now be in your project directory. From there, you can follow the workflow mentioned above.   
   
 One of the most useful commands is **git status**, which can help you out if you are confused or stuck. It will tell you what is the status of your local repository and what has been changed, staged, deleted, etc.
