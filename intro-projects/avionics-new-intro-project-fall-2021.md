@@ -153,7 +153,7 @@ When we create new avionics projects, we will want to include hardware-sch-block
 The steps for importing our submodule into the footprint editor are similar, though it assumes you have already followed the above steps for importing our submodule into the symbol editor.  
 1: Open the layout editor in your kicad project, and click 'manage footprint libraries.'  
 2: Go to the 'project-specific libraries' tab and add a new library.  
-3: Set the library's nickname to 'star-common-lib' and set the library path to ${KIPRJMOD}/hardware-sch-blocks/star-common-lib.lib  
+3: Set the library's nickname to 'star-common-lib' and set the library path to ${KIPRJMOD}/hardware-sch-blocks/star-common-lib.pretty  
 4: Click 'ok' and save the project.  
   
 Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)
