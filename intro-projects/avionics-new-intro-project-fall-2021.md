@@ -27,7 +27,7 @@ This intro project serves as an introduction to the Kicad software suite, which 
 
 The schematic-focused path of the intro project is called "cas-rpi-hw" and it consists of adding two new parts \(a raspberry pi compute module, and an FPGA\) to our current CAS-Core board. The layout-focused path of the intro project is called "cas-radio-revised-hw" and it consists of adding one new part \(a dual radio transmitter-reciever\) to our current CAS-Radio board. Both CAS-Core and CAS-Radio will be explained in more detail later on. 
 
-Here are the links to the github repositories where our intro projects live:  
+Here are the links to the github repositories where our intro projects live. These repositories contain the starter files for the project, and they tell you the specifications that you'll be trying to fulfill.  
 [https://github.com/calstar/cas-rpi-hw](https://github.com/calstar/cas-rpi-hw)  
 [https://github.com/calstar/cas-radio-revised-hw](https://github.com/calstar/cas-radio-revised-hw)
 
