@@ -20,7 +20,7 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 1. $400 budget \(including motor\)
 2. Minimum 1,000 ft Apogee \(simulated at Snow Ranch conditions\)
-3. **Project due 10/2**
+3. **Project due 10/16**
 
 #### Project **Deliverables**:
 
