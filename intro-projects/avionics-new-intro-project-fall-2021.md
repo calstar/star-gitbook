@@ -158,20 +158,21 @@ The steps for importing our submodule into the footprint editor are similar, tho
   
 Here is another useful reference for learning about kicad submodules: [https://www.youtube.com/watch?v=oXzJFrLo77Y](https://www.youtube.com/watch?v=oXzJFrLo77Y)
 
+Be aware that if you are trying to pull or clone a github repository with submodules in it, you will need to use the **--recursive** tag when entering the command.
+
 ## Intro Project A: CAS-RPI-HW
 
 #### Step 0: Getting started
 
 * First, create a new directory to hold this kicad project. On the command line, **cd** into this directory.
 * Enter the command **git init** to create a git repository in this directory.
-* Enter the command **git pull https://github.com/calstar/cas-rpi-hw** to download the starter files for the project. Your project will be located inside the **core** directory. If you look inside it, this is what you should find:
-
-![](../.gitbook/assets/screen-shot-2021-09-11-at-2.54.34-pm.png)
+* Enter the command **git clone https://github.com/calstar/cas-rpi-hw --recursive** to download the starter files for the project. Your project will be located inside the **core** directory. If you look inside it, this is what you should find:
 
 --**core.pro**: Click on this to open the kicad main window.  
 --**core.sch**: Click on this to open the schematic editor.  
 --**core.kicad\_pcb**: Click on this op open the PCB layout editor.  
---**hardware-sch-blocks**: This contains the symbol and footprint libraries for star-common-lib. The schematic library is located at star-common-lib.lib, and the footprint library is located at star-common-lib.pretty.
+--**hardware-sch-blocks**: This contains the symbol and footprint libraries for star-common-lib. The schematic library is located at star-common-lib.lib, and the footprint library is located at star-common-lib.pretty.  
+--**RPi-CM4-Kicad**: This contains the symbol and footprint libraries for the RPi compute module. The schematic library is located at Raspberry-Pi-Compute-Module-4.lib, and the footprint library is located at Raspberry-Pi-Compute-Module-4.pretty.
 
 * To get started with the project, open the schematic file **core.sch** which will pull up the kicad schematic editor. The project should be blank except for two symbols for the Cas-Stacking board, which is inherited from the star-common-lib library. \(It's true that Cas-Stacking is just one part and not two, but sometimes we will split very large kicad components into multiple symbols so they are more convenient to work with in the schematic editor.\)
 * Here is what you should see at the beginning.
@@ -182,8 +183,9 @@ Before proceeding to the next steps, look at the readme on the intro project git
 
 #### Step 1: Create Schematic
 
-* Create a subcircuit to contain the Raspberry Pi Compute Module 
-* **\[FILL IN HERE\]**
+* The first thing to add is the raspberry pi compute module. You can find it by using the 'place symbol' tool and then going to the RPi-CM4-Kicad-library. The component has 200 pins in total, and it's split up into multiple sub-blocks, either by structure or by function. You could put the component directly on the schematic, but since it's so big, we're going to create a hierarchical sheet to hold it. Click on 'create hierarchical sheet' and place a hierarchical sheet down on the schematic. Go inside the sheet and add your RPi-CM4 component. Then, wire up the power and ground pins using global flags, and connect everything else to hierarchical pins. Then, exit the hierarchical sheet, and place the hierarchical pins on the sheet so that they can connect to the rest of the schematic. 
+* You can also put the Cas-Stacking connector in its own hierarchical sheet. Luckily, this has already been done, since a hierarchical sheet exists in hardware-sch-blocks. To add it to your schematic, create a new hierarchical sheet, and specify the path as  **hardware-sch-blocks/CAS**\_**bus/Cas\_bus.sch.** This should cause Kicad to load in the existing CAS\_bus hiararchical sheet to the schematic. Then, all you have to do is place down the hiararchical pins on the schematic.
+* Hierarchical sheets are a great way to simplift your kicad projects and make them more modular. You can place other components into hierarchical sheets at your discretion if you think it would make the circuit neater. Feel free to review the existing cas-core schematic on cadlab; you will see that some components are nested in hierarchical sheets, but others are not. Generally, hierarchical sheets are best for very big components, or groups of components. 
 * The next thing to add is the ice40 fpga. Luckily, kicad already has this component in its default libraries. If you click the 'place symbol' tool and then search for 'ice40', you should see symbols pop up that you can use for the ice40 fpga. Click on the one \(or ones\) you want, then click 'ok' and you should be able to place them on the schematic.
 * Afer that, try adding the BMP388. This should be very similar to adding rhe fpga, except you will find it under the 'star-common-lib' section. Place it down in the same way you placed down the fpga.
 * Add more components according to the spec on the github readme, such as the accelerometer and rpi cam connectors. Use the resources linked in the readme to figure out how everything should be wired together. You will probably want to review: the datasheets for all relevant components, the downloadable rpi schematics from the CM4IO-KICAD folder, the previous cas-core board schematics on cadlab, and the list of pins for the cas-stacking connector. This step will probably take the longest as you read through all the resources and figure out where everything should go.
@@ -216,16 +218,13 @@ Before proceeding to the next steps, look at the readme on the intro project git
 
 * First, create a new directory to hold this kicad project. On the command line, **cd** into this directory.
 * Enter the command **git init** to create a git repository in this directory.
-* Enter the command **git pull https://github.com/calstar/cas-radio-revised-hw** to download the starter files for the project. Your project will be located inside the **radio** directory. If you look inside it, this is what you should find:
-
-![your intro project directory](../.gitbook/assets/screen-shot-2021-09-11-at-2.45.39-pm.png)
+* Enter the command **git clone https://github.com/calstar/cas-radio-revised-hw --recursive** to download the starter files for the project. Your project will be located inside the **radio** directory. If you look inside it, this is what you should find:
 
 --**radio.pro**: Click on this to open the kicad main window.  
 --**radio.sch**: Click on this to open the schematic editor.  
 --**radio.kicad\_pcb**: Click on this op open the PCB layout editor.  
 --**hardware-sch-blocks**: This contains the symbol and footprint libraries for star-common-lib. The schematic library is located at star-common-lib.lib, and the footprint library is located at star-common-lib.pretty.  
---**cas-radio-revised-library.lib**: a simple schematic library that only contains one component, the AT86RF215 radio transciever which you need for your project.  
---**cas-radio-revised-library.pretty**: a simple footprint library that also contains only one component, the AT86RF215 transciever.
+--**radio-transceiver**: a simple library that only contains one component, the AT86RF215 radio transciever which you need for your project.
 
 * To get started with the project, open the schematic file **radio.sch** which will pull up the kicad schematic editor. The project should be blank except for two symbols for the Cas-Stacking board, which is inherited from the star-common-lib library. \(It's true that Cas-Stacking is just one part and not two, but sometimes we will split very large kicad components into multiple symbols so they are more convenient to work with in the schematic editor.\)
 * Here is what you should see at the beginning.
@@ -279,7 +278,9 @@ Before proceeding to the next steps, look at the readme on the intro project git
   * TXCO: Crystal Oscillator Input
   * XTAL2: Crystal Oscillator Output
   * CLKO: Clock Output 
-* The radio transciever's schematic symbol is included in the cas-radio-revised-hw library. So that means we're able to use it as a component in Kicad. Click on the 'place symbol' tool at the right, and scroll down to the cas-radio-revised-hw section. Then click on the AT86RF215 part, and select ok. Now you can place it down in the schematic.
+* Let's add the transciever to the schematic. You can find it by using the 'place symbol' tool and then going to the radio-transciever library. The component has 48 pins in total, and while you could put the component directly on the schematic, it's so big that we're going to create a hierarchical sheet to hold it. Click on 'create hierarchical sheet' and place a hierarchical sheet down on the schematic. Go inside the sheet and add your AT86RF215 component. Then, wire up the power and ground pins using global flags, and connect everything else to hierarchical pins. Then, exit the hierarchical sheet, and place the hierarchical pins on the sheet so that they can connect to the rest of the schematic. 
+* You can also put the Cas-Stacking connector in its own hierarchical sheet. Luckily, this has already been done, since a hierarchical sheet exists in hardware-sch-blocks. To add it to your schematic, create a new hierarchical sheet, and specify the path as  **hardware-sch-blocks/CAS**\_**bus/Cas\_bus.sch.** This should cause Kicad to load in the existing CAS\_bus hiararchical sheet to the schematic. Then, all you have to do is place down the hiararchical pins on the schematic.
+* Hierarchical sheets are a great way to simplift your kicad projects and make them more modular. You can place other components into hierarchical sheets at your discretion if you think it would make the circuit neater. Feel free to review the existing cas-core schematic on cadlab; you will see that some components are nested in hierarchical sheets, but others are not. Generally, hierarchical sheets are best for very big components, or groups of components. 
 * Refer to the resources included in the github readme to figure out how the AT86RF215 should be wired up. You will probably want to review: the AT86RF215 datasheet, the cariboulite schematic, the previous cas-core and cas-radio board schematics on cadlab, and the list of pins for the cas-stacking connector. This step will probably take the longest as you read through all the resources and figure out where everything should go.
 * Kicad has the following useful hotkeys. Use E to edit a components properties, R to rotate a component, M to move a component, and W to start drawing a wire \(use esc to cancel a wire drawing\).
 
