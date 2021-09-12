@@ -234,7 +234,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 
 Before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-radio-revised-hw](https://github.com/calstar/cas-radio-revised-hw). This tells you what the main projects specs are, and has some advice to help you plan the circuit schematic. You will probably want to refer to this readme frequently.
 
-#### Step 1: Add Radio Transceiver To Schematic
+#### Step 1: Create Schematic
 
 * The AT86RF215 transciever is probably the most important part of this project, since it's the component that actually does the radio communication. It is an IC radio module with two separate radios included \(a 0.9 GHz one, and a 2.4 GHz one\). The two radios are independent of each other. They also have both transmission \(data in\) and recieving \(data out\) capabilities. The AT86RF215 has 48 pins on it, with the following functions. It's not necessary to understand what these pins are used for, but it's provided to help make the wiring diagram easier to comprehend. 
 
