@@ -56,7 +56,7 @@ Given that there is enough time within the first six weeks of the semester, new 
 
 **Mentorship:**
 
-Each new member will have a mentor \(a returning member of airframe\). It is required that new airframe members meet with their mentor \(in person or virtually\) 3 separate times. The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to get help designing your rocket.
+Each new member will have a mentor \(a returning member of airframe\). It is required that new airframe members meet with their mentor \(in person or virtually\) 2 separate times. The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to get help designing your rocket.
 
 ## Returning Members Intro Project
 
@@ -83,6 +83,6 @@ Returning airframe members are required to aid in recruiting new airframe member
 
 **Mentorship:**
 
-Each returning airframe member is required to participate in the mentorship program. Because airframe has very few returning members, it is likely that returning airframe members will mentor more than one mentee. It is required that the mentor \(returning member\) meet with each mentee \(new member\) at least 3 times \(in person or virtually\). The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to help the new member with their intro project.  
+Each returning airframe member is required to participate in the mentorship program. Because airframe has very few returning members, it is likely that returning airframe members will mentor more than one mentee. It is required that the mentor \(returning member\) meet with each mentee \(new member\) at least 2 times \(in person or virtually\). The meetings can be casual, for example going out to get coffee, or the meetings can be educational, for example to help the new member with their intro project.  
 
 
