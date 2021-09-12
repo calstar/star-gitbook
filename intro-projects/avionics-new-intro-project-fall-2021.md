@@ -47,7 +47,7 @@ A typical Kicad project proceeds as follows:
 4: Create connections between pins in the schematic design stage  
 5: Associate symbols with footprints \(tell Kicad which symbol corresponds to which footprint\)  
 6: Draw the physical traces between footprints in the PCB layout stage  
-7: Generate gerber files \(gerber files are the end stage of PCB design\)  
+7: Generate gerber files  
   
 Here is a convenient cheatsheet that explains this process in full:
 
@@ -192,6 +192,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 #### Step 2: Associate Components With Footprints
 
 * When you are satisfied with the state of the schematic, you can associate the components with footprints before proceeding to the layout stage.
+* Select the 'annotate schematic symbols' tool and click 'annotate' to give a number to every symbol on the board.
 * Open the CVPCB tool from the toolbar.
 * Search for each board component and associate it with a footprint.
 * Generate the netlist.
@@ -284,6 +285,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 #### Step 2: Associate Components With Footprints
 
 * When you are satisfied with the state of the schematic, you can associate the components with footprints before proceeding to the layout stage.
+* Select the 'annotate schematic symbols' tool and click 'annotate' to give a number to every symbol on the board.
 * Open the CVPCB tool from the toolbar.
 * Search for each board component and associate it with a footprint.
 * Generate the netlist.
