@@ -31,7 +31,7 @@ Above all, we hope that the intro project will be a fun and rewarding experience
 
 Checkpoints Schedule:
 
-* By week of 2021-09-21 - Quiz Complete
+* By week of 2021-09-27 - Quiz Complete
 * By week of 2021-10-05 - Design Project Complete
 
 ### Part 1: General STAR & Rocketry Quiz Questions
@@ -58,11 +58,13 @@ Checkpoints Schedule:
 
 ### Quiz Submission
 
-Please fill out your quiz on the Google Form here:
+Please fill out your quiz on the Google Form here: [https://forms.gle/ZEMbka2P36oVDELK7](https://forms.gle/ZEMbka2P36oVDELK7)
 
 As well, you can **submit multiple times**, so feel free to submit part 1 of the quiz before the glider presentation.
 
 ### Part 2: Glider Quiz
+
+Relevant Presentation: [https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit\#slide=id.g4f9c04f645\_0\_209](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit#slide=id.g4f9c04f645_0_209)
 
 1. What are the three main parts of a glider?
 2. What glide ratio would we want for a glider that drops from 30,000 ft. and needs to travel for 300,000 ft.?
@@ -75,7 +77,7 @@ As well, you can **submit multiple times**, so feel free to submit part 1 of the
 
 ### Quiz Submission
 
-Please fill out your quiz on the Google Form here:
+Please fill out your quiz on the Google Form here: [https://forms.gle/ZEMbka2P36oVDELK7](https://forms.gle/ZEMbka2P36oVDELK7)
 
 As well, you can **submit multiple times**, so feel free to submit part 1 of the quiz before the glider presentation.
 
