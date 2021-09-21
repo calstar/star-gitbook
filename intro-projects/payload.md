@@ -36,7 +36,7 @@ Checkpoints Schedule:
 
 ### Part 1: General STAR & Rocketry Quiz Questions
 
-1. What are the subteams of STAR?
+1. What are the specialties of STAR?
 2. What are the names of STAR's rockets?
    1. What are their diameters?
    2. What are they made out of?
