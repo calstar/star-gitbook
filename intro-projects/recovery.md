@@ -15,15 +15,15 @@ The recovery specialty is tasked with safely landing the launch vehicle. This re
 For any questions/help please feel free to reach out to Recovery specialty lead Michael at office hours or online through Discord or email. We also have mentors you will be assigned to as advisors \(and friends\) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help! 
 
 * Michael Karish \| Recovery Specialty Lead
-  * OH: Tuesdays 8-9PM or ping me on discord
+  * OH: TBD or ping me on discord
   * Email: michael.karish@berkeley.edu
   * Discord: michaelkarish
 
 {% hint style="info" %}
 **Workshops:** There will be these workshops during the onboarding period:  
-1. Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness
+1. Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness \(9/23/21\)
 
-2. Openrocket
+2. Openrocket \(9/30/21\)
 
 3. Folding parachutes, folding shock cord, and tying shock cord
 
