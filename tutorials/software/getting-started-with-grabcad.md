@@ -36,7 +36,7 @@ You've now successfully created a GrabCAD account!
 
 STAR parts currently follow the set naming convention outlined at [https://rocketry.gitbook.io/docs/tutorials/documentation/solidworks-file-conventions](https://rocketry.gitbook.io/docs/tutorials/documentation/solidworks-file-conventions). **All parts in STAR GrabCAD projects created after 2019 must follow this format.** If you have questions, just ask in \#operations!
 
-**Message the email you used to sign up for GrabCAD to the Operations Lead \(@rebeccab\#5741\) along with a copy of the previous paragraph on naming to obtain an invitation to STAR's GrabCAD page.** Let them know which projects you need access to, if possible.
+**Message the email you used to sign up for GrabCAD to the Operations Lead \(@mcelly\#1609\) along with a copy of the previous paragraph on naming to obtain an invitation to STAR's GrabCAD page.** Let them know which projects you need access to, if possible.
 
 ## 3. Downloading the GrabCAD desktop application
 
