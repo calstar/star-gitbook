@@ -85,7 +85,7 @@ As well, you can **submit multiple times**, so feel free to submit part 1 of the
 
 #### Design Objective Outline
 
-Our goal is to design a balsa wood glider that can be launched from any angle. Another team has already done the task of picking out the payload and wing. Your task is to design and prototype the glider frame, keeping aerodynamics and glider design in mind – a structure to mount all of the payload upon.
+Our goal is to design a balsa wood glider that can be launched from any angle. Another team has already done the task of picking out the payload and wing. Your task is to design and prototype the glider frame, keeping aerodynamics and glider design in mind – a structure to mount all of the payloads upon.
 
 #### Requirements
 
@@ -93,13 +93,15 @@ Our goal is to design a balsa wood glider that can be launched from any angle. A
 
 _**Materials**_
 
-* Balsa wood 
+* Balsa wood \(**1/8in thickness**\)
 * Research payload, represented by a rectangular prism of dimensions **3 x 3 x 1 \(in^3\)** and weight **0.5 lbs**.
+* Angle brackets to attach the wings and stabilizers to the fuselage \([https://www.mcmaster.com/1556A26/](https://www.mcmaster.com/1556A26/)\) 
+  * Download the CAD and make sure you design the holes for the stabilizers to screw in. You are not required to make an assembly.
 
 _**Detailed Design Requirements:**_
 
 1. The glider, when wings are folded, must fit within the space of a cylinder, 4" in diameter and 8" in length. You **do not need to design** the folding/unfolding mechanism.
-2. All components must be mounted by non-permanent means. For example, you may not glue a component to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
+2. All components must be mounted by non-permanent means. For example, you may not glue a component to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. **For parts with mounting holes, screws and nuts are preferred.**
 3. Glider must be statically stable when launched from any flight angle.
 
 _**Ideal Design Goals:**_
