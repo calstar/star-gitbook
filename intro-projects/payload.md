@@ -99,7 +99,7 @@ _**Materials**_
 _**Detailed Design Requirements:**_
 
 1. The glider, when wings are folded, must fit within the space of a cylinder, 4" in diameter and 8" in length. You **do not need to design** the folding/unfolding mechanism.
-2. All components must be mounted by non-permanent means. For example, you may not glue the Arduino to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
+2. All components must be mounted by non-permanent means. For example, you may not glue a component to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
 3. Glider must be statically stable when launched from any flight angle.
 
 _**Ideal Design Goals:**_
