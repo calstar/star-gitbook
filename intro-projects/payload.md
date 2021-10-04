@@ -100,7 +100,7 @@ _**Materials**_
 
 _**Detailed Design Requirements:**_
 
-1. The glider, when wings are folded, must fit within the space of a cylinder, 4" in diameter and 8" in length. You **do not need to design** the folding/unfolding mechanism.
+1. The glider, when wings are folded, must fit within the space of a cylinder, 6" in diameter and 8" in length. You **do not need to design** the folding/unfolding mechanism.
 2. All components must be mounted by non-permanent means. For example, you may not glue a component to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. **For parts with mounting holes, screws and nuts are preferred.**
 3. Glider must be statically stable when launched from any flight angle.
 
@@ -146,6 +146,8 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 ### Step 2: Designing and iterating with given materials
 
 Assume another team has already picked out the build materials and the payload. As a design engineer, your task is to cohesively incorporate all the given components into a \(hopefully\) functioning glider.
+
+[https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit\#slide=id.g4f9c04f645\_0\_209](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit#slide=id.g4f9c04f645_0_209)
 
 [Glider Aerodynamics & Important Variables](https://docs.google.com/presentation/d/1cNe9AxSGersEDoL0zMk6lVN3drbxojVC4Fm1IG2rofg/edit#slide=id.ge5e6739c0e_0_19)
 
