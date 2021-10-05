@@ -101,7 +101,7 @@ In understanding the recovery steps of Stage Separation, you will grasp the reco
 
 ### **Task** 3 **\| Parachute Selection** _**\(3 hrs\)**_
 
-**Due: October 16th**
+**Due: October 16th** 
 
 **Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice. _\(Use the Arktos OpenRocket file attached at the bottom of this section\)_
 
@@ -131,7 +131,9 @@ Fill out the chart below with all of the calculations and relevant information o
 {% file src="../.gitbook/assets/sl-full-scale-v6.ork" caption="OpenRocket File for Arktos" %}
 
 {% hint style="info" %}
-**Hint:** Fill out the chart and do your calculations in google sheets so you can apply the same drift and kinetic energy equations to each box. Make sure you calculate kinetic energy in ft\_lbs not J.
+**Hint:** Fill out the chart and do your calculations in google sheets so you can apply the same drift and kinetic energy equations to each box. Make sure you calculate kinetic energy in ft_lbs not J._   
+This link has a quick explanation on how to calculate kinetic energy in ft\_lbs.  
+[https://www.engineeringtoolbox.com/kinetic-energy-d\_944.html](https://www.engineeringtoolbox.com/kinetic-energy-d_944.html)
 {% endhint %}
 
 {% hint style="success" %}
@@ -144,7 +146,7 @@ Fill out the chart below with all of the calculations and relevant information o
 
 ### **Task 4\| Avionics Bay Assembly** _**\(6 hrs\)**_
 
-**Due: March 16th**
+**Due: October 16th**
 
 **Deliverable**: A brief write up presenting your design \(include pictures of the full assembly\) and explaining your design methodology and decisions.
 
