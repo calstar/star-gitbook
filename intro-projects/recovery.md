@@ -113,7 +113,7 @@ Select the best combination of parachutes that satisfies the constraints below:
 * Main is deployed at 800 ft above ground level \(AGL\)
 * Drogue Cd \(Coefficient of Drag\): 1.5
 * Main Cd: 2.2
-* Each component must not land with greater than 75 ft**\_**lbs of Force
+* Each component must not land with greater than 75 ft**\_**lbs of kinetic energy
 * Drift radius must be less than 2500 ft in 20 mph wind
 
 Fill out the chart below with all of the calculations and relevant information obtained from open rocket.
