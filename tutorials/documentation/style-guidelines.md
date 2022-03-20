@@ -4,7 +4,7 @@
 
 * Follow English conventions unless told otherwise
 * Leave names of existing places/companies/objects as is
-  * ex. AT&T
+  * ex. AT\&T
 * Use the spellings/names of objects common in the US as opposed to those common internationally
   * ex. Labor vs Labour
 * Do not put a period after units unless other conventions dictate it
@@ -25,7 +25,6 @@
   * have a colon before the listing begins;
   * have semicolons between parts, and;
   * use the ", and;" transition before the last item.
-* Use --- in LaTeX to get the long m-dash used to separate parts of sentences. -More from brunston
-
-
+* Use --- in LaTeX to get the long m-dash used to separate parts of sentences.\
+  \-More from brunston
 

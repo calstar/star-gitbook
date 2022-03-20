@@ -6,15 +6,20 @@ description: How do I make 3D models?
 
 ## Check out these cool videos:
 
-{% embed url="https://youtu.be/fvzBweq\_VCA" caption="SolidWorks Tutorial \#1" %}
+{% embed url="https://youtu.be/fvzBweq_VCA" %}
+SolidWorks Tutorial #1
+{% endembed %}
 
-{% embed url="https://youtu.be/W-TNKcP-0YI" caption="SolidWorks Tutorial \#2" %}
+{% embed url="https://youtu.be/W-TNKcP-0YI" %}
+SolidWorks Tutorial #2
+{% endembed %}
 
 Ask questions in Discord if you have any!
 
 ## Reference Material
 
-{% file src="../../.gitbook/assets/solidworks\_introduction\_en.pdf" caption="SolidWorks Introduction User Manual" %}
+{% file src="../../.gitbook/assets/solidworks_introduction_en.pdf" %}
+SolidWorks Introduction User Manual
+{% endfile %}
 
 {% embed url="http://www.solidworkstutorials.com/" %}
-

@@ -10,9 +10,8 @@ Below are several videos detailing the features of OpenRocket and how to use the
 
 #### Basic Rocket Design
 
-{% embed url="https://www.youtube.com/watch?v=egHbZUEr\_Co" %}
+{% embed url="https://www.youtube.com/watch?v=egHbZUEr_Co" %}
 
 #### Installing Motors and Running Simulations
 
 {% embed url="https://www.youtube.com/watch?v=ANpyjTFmcsg&t=4s" %}
-

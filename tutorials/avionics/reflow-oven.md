@@ -13,14 +13,14 @@ description: >-
 
 ## How to use the Supernode reflow oven
 
-The Chenming Hu Innovation Lab \(Supernode\) contains a reflow oven. STAR as a team has used it successfully to solder components. Here is how to do so:
+The Chenming Hu Innovation Lab (Supernode) contains a reflow oven. STAR as a team has used it successfully to solder components. Here is how to do so:
 
 ### Materials
 
 * PCB to be soldered henceforth referred to as the "target PCB"
 * PCB blanks, preferably large and of the same height as the target PCB
-* Stencil \(usually ordered from OSH Park\)
-* Solder paste \(63/37 Sn-Pb\)
+* Stencil (usually ordered from OSH Park)
+* Solder paste (63/37 Sn-Pb)
   * We currently have a syringe labeled CalSTAR in the Supernode refrigerator
   * This is expensive, so try not to waste it
 * Masking or other tapes
@@ -28,21 +28,22 @@ The Chenming Hu Innovation Lab \(Supernode\) contains a reflow oven. STAR as a t
 
 ### Applying solder paste
 
-1. Clean the target PCB with isopropyl alcohol \(isopropanol\)
-2. Arrange spare PCB blanks in a configuration around the target PCB as follows: 
-3.    ![](../../.gitbook/assets/imag0937.jpg)
+1. Clean the target PCB with isopropyl alcohol (isopropanol)
+2. Arrange spare PCB blanks in a configuration around the target PCB as follows:&#x20;
+3.  &#x20;
 
-4. Make sure the PCB to solder is snug and there are no gaps around it. If the blanks are thinner \(e.g. 31 mils\) than the PCB to solder \(e.g. 61 mils\) or vice versa, you can double-stack. **It is important to have the blanks be at the same height as the target PCB**
+    ![](../../.gitbook/assets/imag0937.jpg)
+4. Make sure the PCB to solder is snug and there are no gaps around it. If the blanks are thinner (e.g. 31 mils) than the PCB to solder (e.g. 61 mils) or vice versa, you can double-stack. **It is important to have the blanks be at the same height as the target PCB**
 5. Next, position the stencil such that the holes in the stencil line up **perfectly** with their respective pads
 6. Once alignment has been achieved--and be sure that it's as close to perfect as possible--**tape one edge only of the stencil** to the blanks and orient it so the taped side is away from you:
-7. ![](../../.gitbook/assets/imag0938.jpg) 
-8. Squeeze solder paste from the syringe "above" \(tape side\) each section of pads 
-9. Use a scraper or card to press firmly down on the stencil and spread solder paste, drawing the scraper toward you. **At no point should you scrape away from yourself, lifting the stencil!**![](../../.gitbook/assets/imag0940.jpg)\*\*\*\*
+7. ![](../../.gitbook/assets/imag0938.jpg)&#x20;
+8. Squeeze solder paste from the syringe "above" (tape side) each section of pads&#x20;
+9. Use a scraper or card to press firmly down on the stencil and spread solder paste, drawing the scraper toward you. **At no point should you scrape away from yourself, lifting the stencil!**![](../../.gitbook/assets/imag0940.jpg)****
 10. You will likely have to add more solder paste after the first pass. It is OK to recover solder paste, move it around, etc., but be very careful not to scrape too much side-to-side or away from you. **The stencil must remain flat and in position**
 11. Continue spreading the solder paste around until each pad clearly has solder paste on it. We have found a steep angle allows for the collection of paste from the top of the stencil, while a low angle and higher amounts of downward force can help to get paste through the holes in the stencil
-12. ![](../../.gitbook/assets/imag0941.jpg) 
+12. ![](../../.gitbook/assets/imag0941.jpg)&#x20;
 13. Gently lift the stencil from the board and flip it "up", exposing the board
-14. ![](../../.gitbook/assets/imag0942.jpg) 
+14. ![](../../.gitbook/assets/imag0942.jpg)&#x20;
 
 ### Placing components
 
@@ -68,8 +69,8 @@ Before starting this section, open all windows in the vicinity of the oven. This
 6. ![](../../.gitbook/assets/imag0943.jpg)
 
 {% hint style="info" %}
-Even though the reflow oven will not quite be able to follow the profile specified, we have had no known problems with just letting it run--the temperatures reached are sufficient.   
-  
+Even though the reflow oven will not quite be able to follow the profile specified, we have had no known problems with just letting it run--the temperatures reached are sufficient. \
+\
 Abort only if it is _abundantly_ clear that the oven will not reach anywhere near the desired curve, and restart--if the oven starts from 50C, there should be no significant issues.
 {% endhint %}
 
@@ -82,4 +83,3 @@ Allow the oven to cool, and carefully remove your newly-reflowed board after wai
 1. Inspect the board for any "tombstoning", shifted parts, failed connections, etc. Some amount of these are normal and can be reworked with the hot air rework station or soldering iron.
 2. Inspect smaller connections under the microscope, and retouch if necessary with a soldering iron
 3. Do not be alarmed if the board is slightly browned--it's been toasted, after all
-

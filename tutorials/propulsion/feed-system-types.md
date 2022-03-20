@@ -8,33 +8,33 @@ As the feed system is composed of pipes, valves, fittings, and tanks, these comp
 
 
 
-\*\*\*\*
+****
 
-![Figure 1: Possible feed system types \(from RPE\)](https://lh5.googleusercontent.com/xRLIaj5NOGDpz7xKlKoZuIWDYLMMrhdKlshXuIrdjh4ioyfHF0z-uCC04mYJo5Ctt6c8cMwBMGCsTjEq9s6MxHRupw_DCyLkdtWatolhiS8LYKXY9GuYnXg_cN1ts5x1-P6pLV7s)
+![Figure 1: Possible feed system types (from RPE)](https://lh5.googleusercontent.com/xRLIaj5NOGDpz7xKlKoZuIWDYLMMrhdKlshXuIrdjh4ioyfHF0z-uCC04mYJo5Ctt6c8cMwBMGCsTjEq9s6MxHRupw\_DCyLkdtWatolhiS8LYKXY9GuYnXg\_cN1ts5x1-P6pLV7s)
 
 ## **Viable Choices for Us**
 
-As is obvious from the above document\(RPE Chapter 6\), there are many choices for feed system types. For our purposes, a turbopump system is not viable because of its complexity. Under pressurized systems, a flexible bag within the tank and piston pressurization system are also too complex for a college rocketry team to do. Then, the remaining choices that are not too complex for a college rocketry team are Pressurized systems&gt; Direct gas pressurization&gt; By stored inert gas&gt; As received&gt; Regulated pressure & Blowdown. These are the two viable choices for our team that will be further examined below
+As is obvious from the above document(RPE Chapter 6), there are many choices for feed system types. For our purposes, a turbopump system is not viable because of its complexity. Under pressurized systems, a flexible bag within the tank and piston pressurization system are also too complex for a college rocketry team to do. Then, the remaining choices that are not too complex for a college rocketry team are Pressurized systems> Direct gas pressurization> By stored inert gas> As received> Regulated pressure & Blowdown. These are the two viable choices for our team that will be further examined below
 
 ### **Pressure Regulated**
 
-![](https://lh5.googleusercontent.com/gba7t1XDTBA6_KSIJABSQOasrrAKNYUOrmnRbGXrGOf4PXFzKk7xBzVB2kS-NXW02_O2qy-xqzDmoDVUiWRS_ezVHOsxqqsczgUxUYLeO2XzqwK4EjGjFsS2-H0aiLyD0I_W1o-i)
+![](https://lh5.googleusercontent.com/gba7t1XDTBA6\_KSIJABSQOasrrAKNYUOrmnRbGXrGOf4PXFzKk7xBzVB2kS-NXW02\_O2qy-xqzDmoDVUiWRS\_ezVHOsxqqsczgUxUYLeO2XzqwK4EjGjFsS2-H0aiLyD0I\_W1o-i)
 
 In this case, gas from a high pressure gas supply tank is flown through a regulator, resulting in a near constant pressure of gas to the propellant tanks. This results in a near constant pressure at the thrust chamber, in turn causing a near constant thrust. The propellants in the system can also be regulated instead by flowing the propellants through a regulator. This choice results in a simpler design for the thrust chamber than in a blowdown system, as it is easier to design a thrust chamber for propellant at a constant pressure than to design a thrust chamber that receives propellant at variable pressures.
 
-### **Blowdown** 
+### **Blowdown**&#x20;
 
-![](https://lh6.googleusercontent.com/Aml09CZW1YD1clzXyRlByOw3GybbXbr8D79Ka0uFGUNZiNLJ0oL7--CX2wCgW2Y-xe6ZfW_NKuPJfrIsf4dcaMnOrUJWXAexx6RC6QZrIh6ZNYHbSPqVrC19p0DX4YV6QH2CmMt5)
+![](https://lh6.googleusercontent.com/Aml09CZW1YD1clzXyRlByOw3GybbXbr8D79Ka0uFGUNZiNLJ0oL7--CX2wCgW2Y-xe6ZfW\_NKuPJfrIsf4dcaMnOrUJWXAexx6RC6QZrIh6ZNYHbSPqVrC19p0DX4YV6QH2CmMt5)
 
-A blowdown feed system works instead by storing the highly pressurized gas inside the fuel and oxidizer tanks instead of inside a different tank. As the gas and propellant is in the same tank, they both are at the same pressure. When the valve below the tank is opened, the propellant in each tank can then start flowing to the engine. This figure shows two engines, but the concept is the same with one engine as well. As more fuel is expelled out of the engine, more pressure is lost in the tanks, resulting in a lower pressure of the propellants over the firing time of the engine. 
+A blowdown feed system works instead by storing the highly pressurized gas inside the fuel and oxidizer tanks instead of inside a different tank. As the gas and propellant is in the same tank, they both are at the same pressure. When the valve below the tank is opened, the propellant in each tank can then start flowing to the engine. This figure shows two engines, but the concept is the same with one engine as well. As more fuel is expelled out of the engine, more pressure is lost in the tanks, resulting in a lower pressure of the propellants over the firing time of the engine.&#x20;
 
 ## **Comparison Between The Two**
 
-![](https://lh3.googleusercontent.com/cAIoi3sWJsx0x5uHNNdl2r7bhPjFAnspeZBRyFqTpWsg16k6_x7yZR86Ny-MhFs84SPKE7CsgxQwNGPgP9csFT1rguBUUVQMkbcK1blM1CvsU-hM4W-39DVvBdTw6vFjQD49lFE6)
+![](https://lh3.googleusercontent.com/cAIoi3sWJsx0x5uHNNdl2r7bhPjFAnspeZBRyFqTpWsg16k6\_x7yZR86Ny-MhFs84SPKE7CsgxQwNGPgP9csFT1rguBUUVQMkbcK1blM1CvsU-hM4W-39DVvBdTw6vFjQD49lFE6)
 
 ## **Useful Links**
 
-\*\*\*\*[Rocket Propulsion Elements Chapter 6: Liquid Propellant Rocket Engine Fundamentals ](https://wodeshu.gitee.io/roprop/text00009.html#c06)
+****[Rocket Propulsion Elements Chapter 6: Liquid Propellant Rocket Engine Fundamentals ](https://wodeshu.gitee.io/roprop/text00009.html#c06)
 
 ## Related Pages
 
@@ -48,5 +48,4 @@ Fuel Choices
 
 Oxidizer Choices
 
-##   
-
+## &#x20; 

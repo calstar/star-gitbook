@@ -17,22 +17,23 @@ Information about the training requirements can be found at the following websit
 
 {% embed url="http://rfs-env.berkeley.edu/about.html" %}
 
-1. Go to this link, you will be prompted to login with your Calnet identity: [https://jwas.ehs.berkeley.edu/lmsi?deepLinkActivityId=247519](https://jwas.ehs.berkeley.edu/lmsi?deepLinkActivityId=247519) 
+1. Go to this link, you will be prompted to login with your Calnet identity: [https://jwas.ehs.berkeley.edu/lmsi?deepLinkActivityId=247519](https://jwas.ehs.berkeley.edu/lmsi?deepLinkActivityId=247519)&#x20;
 2. If the link above does not immediately work, try this link: [https://jwas.ehs.berkeley.edu/lmsi](https://jwas.ehs.berkeley.edu/lmsi)
-3. At the UC Learning Center welcome page, navigate to the correct training course by searching for "Richmond Field Station" and selecting the course "EHS 703 Working at the Richmond Field Station".  
+3. At the UC Learning Center welcome page, navigate to the correct training course by searching for "Richmond Field Station" and selecting the course "EHS 703 Working at the Richmond Field Station". &#x20;
 4. Start the training, if you are prompted for Organization, enter "STAR", or if you are prompted for a Faculty Adviser, "Ömer Savaş".
 
 ![This is the correct course](../.gitbook/assets/annotation-2019-02-15-001903.jpg)
 
-1. After completing the training, you should have a completion certificate. Take a screenshot of it [\(instructions to take a screenshot\)](https://en.wikipedia.org/wiki/Screenshot), or save it as a PDF. 
+1. After completing the training, you should have a completion certificate. Take a screenshot of it [(instructions to take a screenshot)](https://en.wikipedia.org/wiki/Screenshot), or save it as a PDF.&#x20;
 
 {% hint style="warning" %}
-You have finished the training BUT you are not done yet. **You must submit proof of completion using the following form:** 
+You have finished the training BUT you are not done yet. **You must submit proof of completion using the following form:**&#x20;
 {% endhint %}
 
-{% embed url="https://goo.gl/forms/zihLjeDmgxGXGkZl2" caption="STAR RFS Safety Training Form" %}
+{% embed url="https://goo.gl/forms/zihLjeDmgxGXGkZl2" %}
+STAR RFS Safety Training Form
+{% endembed %}
 
 {% hint style="success" %}
 You have now completed the RFS safety training requirement!
 {% endhint %}
-

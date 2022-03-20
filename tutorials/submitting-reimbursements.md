@@ -6,7 +6,7 @@ description: How to get paid back after buying stuff for the team.
 
 ## What is a reimbursement?
 
-STAR is a Registered Student Organization under the Associated Students of the University of California (ASUC). As such, our funds are stored in their accounts and must be paid out according to their policies. Probably for better documentation and to ensure all money is spent properly, they only disburse funds after we purchase the items. This disbursement is your reimbursement. 
+STAR is a Registered Student Organization under the Associated Students of the University of California (ASUC). As such, our funds are stored in their accounts and must be paid out according to their policies. Probably for better documentation and to ensure all money is spent properly, they only disburse funds after we purchase the items. This disbursement is your reimbursement.&#x20;
 
 {% hint style="info" %}
 Note: This process has changed to be entirely online since March 2020
@@ -28,29 +28,29 @@ You will need to wait for a lead to approve your request to Join. The finance ta
 We have noticed that the "Join" button is missing sometimes. If that happens to you, just send a message in the [#business](https://discord.gg/7qcBUU4k) channel or dm the business lead for a "financial requestor--stage 1" status, along with your Berkeley email and name.
 {% endhint %}
 
-![Click Join to request membership](https://lh3.googleusercontent.com/qhsd4c6\_jbZ_QsvObwtVd4Zt8\_wWfk9sOu8Ior8p64C9OESHCaHBPZjgztOoJSsWOcSVo5MAaN96NI79LdrEMtd7kHhGWAac2rAOh6Q_NIZd3fPULPZ7VimCIV2-aUPl5l1SKTQl)
+![Click Join to request membership](https://lh3.googleusercontent.com/qhsd4c6\_jbZ\_QsvObwtVd4Zt8\_wWfk9sOu8Ior8p64C9OESHCaHBPZjgztOoJSsWOcSVo5MAaN96NI79LdrEMtd7kHhGWAac2rAOh6Q\_NIZd3fPULPZ7VimCIV2-aUPl5l1SKTQl)
 
 ### Step 1 - Submitting a Stage 1 Purchase Request
 
-Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner. 
+Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner.&#x20;
 
 ![Click Manage Organization](https://lh4.googleusercontent.com/5dDY25fqROAaViQyX7G8Kb1IbCrowsYiapIo-KrLIFJwqlxzdUUL4QobK63KcfGCvZ58AhDjTqNUFcmXN1NCZV6YK-igVJM6iI5myo0clEmRQd52IDPHxoxl72lihhkQkg6EREs3)
 
-Then, click the **expand menu button** (**three horizontal bars**) on the upper left corner . This will open a sidebar. 
+Then, click the **expand menu button** (**three horizontal bars**) on the upper left corner . This will open a sidebar.&#x20;
 
-![Click the three bars on the upper left corner](https://lh6.googleusercontent.com/yjbzSe5SZo50jccc2gkWTUbLmUYe2ydKgGklqd2hBabxl9U7xECA9bFe2FBG1UTUt_pfPZuEjJ6\_sQUCpQvVsk9aeYakVwRm9r6dk76AZ29NREll0Kxth3yKDgmcV6hVLVAhL6z8)
+![Click the three bars on the upper left corner](https://lh6.googleusercontent.com/yjbzSe5SZo50jccc2gkWTUbLmUYe2ydKgGklqd2hBabxl9U7xECA9bFe2FBG1UTUt\_pfPZuEjJ6\_sQUCpQvVsk9aeYakVwRm9r6dk76AZ29NREll0Kxth3yKDgmcV6hVLVAhL6z8)
 
-Click the **Finance **option.
+Click the **Finance** option.
 
-![Click Finance](https://lh3.googleusercontent.com/Pj5P-BFyxQSFRKJaceKWBD4mj0kns7B1GFznopgwdWlvHAnU717kEYVKm_dWoycdpnf7JJS0ibSfi_sQ5dnlLWJE9Dk36L_M-6jEZyZ6QwvjUtfLnvqSiKQ0rF43BknegTg0qB\_5)
+![Click Finance](https://lh3.googleusercontent.com/Pj5P-BFyxQSFRKJaceKWBD4mj0kns7B1GFznopgwdWlvHAnU717kEYVKm\_dWoycdpnf7JJS0ibSfi\_sQ5dnlLWJE9Dk36L\_M-6jEZyZ6QwvjUtfLnvqSiKQ0rF43BknegTg0qB\_5)
 
-Click the **Create New Request** button and then **Create New Purchase Request **from the drop-down options.
+Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
 
-Fill out this form as accurately as possible. 
+Fill out this form as accurately as possible.&#x20;
 
-For **Subject**, use the format \[full name] - \[subteam] - \[item description]. For example, this might look like: 
+For **Subject**, use the format \[full name] - \[subteam] - \[item description]. For example, this might look like:&#x20;
 
 > Rajiv Govindjee - Propulsion - Test Stand Hardware
 
@@ -66,7 +66,7 @@ Refer to the table below for **Account**:
 
 | If you are buying...                                        | Use this Account                  |
 | ----------------------------------------------------------- | --------------------------------- |
-| Any **hardware **for vehicles, engines, or related projects | `3-62-203828-TECHF-Tech Fee-STAR` |
+| Any **hardware** for vehicles, engines, or related projects | `3-62-203828-TECHF-Tech Fee-STAR` |
 | Social supplies, outreach, etc.; **non-hardware** purchases | `3-70-203828-00000-MISC-STAR`     |
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
@@ -97,17 +97,17 @@ Repeat the process for Item #2, ... , 6 if applicable. Most PRs contain only one
 Once complete, check over all your entered data. Once submitted, you **cannot** edit the PR--if there are any mistakes, you will have to repeat the whole process over again.
 {% endhint %}
 
-**Submit **the Purchase Request.
+**Submit** the Purchase Request.
 
 ### Step 2 - Submit the STAR PR Form
 
 Once you fill out the Stage 1 Purchase Request, fill out this form: [https://goo.gl/forms/cMOkLBXOFGwLEstl2](https://goo.gl/forms/cMOkLBXOFGwLEstl2)
 
-The form above allows us to have our own financial records. The copy sent to the ASUC is not in a database format and is not searchable nor manipulable. 
+The form above allows us to have our own financial records. The copy sent to the ASUC is not in a database format and is not searchable nor manipulable.&#x20;
 
 The form will require the following items (these are both ASUC requirements):
 
-1.  A digital copy of your receipt, invoice, and/or proof of delivery.
+1. &#x20;A digital copy of your receipt, invoice, and/or proof of delivery.
 2. A digital copy of your credit card statement proving you paid for the item. (you can redact all irrelevant information)
 
 If you've already concatenated the docs from before, you can just submit the same in both form fields.
@@ -131,9 +131,9 @@ Please e-mail proof of payment (credit card statement or bank statement) to asuc
 * The last 4 digits of the account or card used
 * ONLY INCLUDE enough pages to show the above information
 
-A finance representative from the team will review your request and elevate it to a Stage 2 request. We will check that the amount requested matches the amount on the proof of purchase, and we will check that you have all required proof of purchases. 
+A finance representative from the team will review your request and elevate it to a Stage 2 request. We will check that the amount requested matches the amount on the proof of purchase, and we will check that you have all required proof of purchases.&#x20;
 
-Once approved, you will be notified through email or Discord. You can also check status from the Finances page. 
+Once approved, you will be notified through email or Discord. You can also check status from the Finances page.&#x20;
 
 If your request does not meet our requirements, it will be rejected. Please check this page to make sure you met all the requirements.
 
