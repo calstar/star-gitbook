@@ -137,6 +137,7 @@
     * [Materials](reference/safety/materials.md)
     * [Tools](reference/safety/tools.md)
     * [Electrical](reference/safety/electrical.md)
+    * [Page 1](reference/safety/page-1.md)
 * [Testing](testing/README.md)
   * [Test Forms](testing/test-forms.md)
   * [Damage Report Forms](testing/damage-report-forms.md)
