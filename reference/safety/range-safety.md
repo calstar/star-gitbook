@@ -1,22 +1,4 @@
----
-description: >-
-  Safety is an especially important consideration when it comes to rocketry.
-  Safety first!
----
-
-# Safety
-
-## Working at the RFS
-
-Many manufacturing teams work at the Richmond Field Station, a proprty owned by UC Berkeley and home to project teams and research groups with a need for space away from main campus.\
-\
-To work on STAR projects at the RFS, you **must** complete the RFS Safety Training and submit evidence of completion to us. See [RFS Safety Training](rfs-safety-training.md) for details.
-
-## High-Pressure Systems, Cryogens, and Flammable Materials
-
-The Propulsion subteam may require completion of EHS trainings and attendance at STAR-internal safety briefings to work with systems where additional hazards are present.
-
-## Range Safety
+# Range Safety
 
 When attending a high-power rocket launch, all members on site are required to attend the briefing given by the Range Safety Officer (usually before the range opens for launches). This briefing usually includes advice along the lines of:
 
