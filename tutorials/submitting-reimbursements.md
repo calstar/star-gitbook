@@ -120,7 +120,7 @@ Below is a sample procedure to reliably get your PR approved:
 6. **Verify the Payee name matches the bank/credit card statement.** The ASUC will likely reject your PR if this is not the case. It may be acceptable to have no name on the reciept, but not one that does not match.
 7. Use a tool like Adobe Acrobat DC to concatenate the invoice and statement into one file, omitting any irrelevant pages.
 
-7. Upload the file.
+8. Upload the file.
 
 Repeat the process for Item #2, ... , 6 if applicable. Most PRs contain only one item.
 
