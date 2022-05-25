@@ -66,8 +66,8 @@ Refer to the table below for **Account**:
 
 | If you are buying...                                        | Use this Account                  |
 | ----------------------------------------------------------- | --------------------------------- |
-| Any **hardware** for vehicles, engines, or related projects | `3-62-203828-TECHF-Tech Fee-STAR` |
-| Social supplies, outreach, etc.; **non-hardware** purchases | `3-70-203828-00000-MISC-STAR`     |
+| Any **hardware** for vehicles, engines, or related projects |  `3-70-203828-00000-MISC-STAR`    |
+| Social supplies, outreach, etc.; **non-hardware** purchases |
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
