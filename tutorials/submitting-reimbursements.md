@@ -71,6 +71,7 @@ Refer to the table below for **Account**:
 
 {% hint style="warning" %}
 As of now (May 24, 2022), all expenditure, regardless of categories, should use our misc account: **`3-70-203828-00000-MISC-STAR`**
+{% endhint %}
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
@@ -82,11 +83,12 @@ Check out the following chart for more information about three common actions:
 Expenditure Action                   | What does it mean                  |
 | ---------------------------| ----------------------------------------------------------------|
 | Mail to Payee-same address | No additional set up or office visit needed. However, it takes several days for checks to be mailed to the address indicated in your PR form. |
-| Direct deposit             | The fastest way to receive reimbursement, but equires additional setup. For more info please check out **Section 6A in the PR form** |
+| Direct deposit             | The fastest way to receive reimbursement, but requires additional setup. For more info please check out **Section 6A in the PR form** |
 | Pick up                    | No additional set up required; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
 
 {% hint style="info" %}
-we recommend **Mail to Payee-same address** or **Direct deposit**
+We recommend **Mail to Payee-same address** or **Direct deposit**
+{% endhint %}
 
 
 For most cases, you can leave **Special Instructions** and **Event Details** blank.
