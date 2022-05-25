@@ -60,6 +60,10 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 
 Fill out this form as accurately as possible.&#x20;
 
+{% hint style="warning" %}
+The PR forms asks for your UID. It is NOT your student ID on your Cal One Card. Be sure to follow the instruction on the PR form to look up your UID. We recommend right click the UID link, and open it in a new tab so that you won't lose progress (if you click on the UID link directly, it may just reload the current page into the new page)
+{% endhint %}
+
 For **Subject**, use the format \[full name] - \[subteam] - \[item description]. For example, this might look like:&#x20;
 
 > Rajiv Govindjee - Propulsion - Test Stand Hardware
@@ -191,7 +195,7 @@ Send a message in the #purchases Discord channel mentioning you've submitted a r
 
 ### Step 3 - Wait to hear back from the LEAD Center
 
-Wait for approval from the LEAD Center. They may reach out to you for more details. If your PR(s) are listed in Stage 5, that means your reimbursement(s) have been **approved**. 
+Wait for approval from the LEAD Center. They may reach out to you for more details. If your PR(s) are listed in Stage 5, that means your reimbursement(s) have been **approved**.
 
 ## Index
 
