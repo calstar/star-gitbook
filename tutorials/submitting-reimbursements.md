@@ -34,7 +34,7 @@ We have noticed that the "Join" button is missing sometimes. If that happens to 
 
 #### __Open the Purchase Request page__
 
-Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). You should see the following page:&#x20;
+__Once you have been approved as a member__, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). You should see the following page:&#x20;
 
 ![](<../.gitbook/assets/callink-new-layout.png>)
 
