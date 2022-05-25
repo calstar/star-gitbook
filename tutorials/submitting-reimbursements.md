@@ -105,14 +105,22 @@ Fill out the required fields for **Item #1** (Date, Type, Vendor, Location, Tota
 The form asks you to attach receipts: failure to do this will mean the request is rejected.\
 Below is a sample procedure to reliably get your PR approved:
 
-1. Download a PDF of your credit card / bank statement (and make sure it's not password-protected to edit; you can use "Print to PDF" from your browser if this is an issue).
-2. Use a tool like Adobe Acrobat DC (free for students at [https://software.berkeley.edu/adobe-creative-cloud](https://software.berkeley.edu/adobe-creative-cloud)) to redact sensitive information like routing numbers, other purchases, balance, etc. (optional, but recommended).
+
+1. Download or scan and upload an invoice or receipt from the vendor. **For Amazon, invoices must show the word "Shipped"**. For McMaster, it's best to concatenate the Receipt and Packing List (shipping confirmation), but you might be able to get away with just the Receipt (as long as it shows shipping cost).
+2. Redact the invoice/shipping notification as appropriate.
+
+{% hint style="warning" %}
+**Only complete Step 3-6 if your receipts do not have billing contact (name, address, etc.)**.
+{% endhint %}
+
+3. Download a PDF of your credit card / bank statement (and make sure it's not password-protected to edit; you can use "Print to PDF" from your browser if this is an issue).
+4. Use a tool like Adobe Acrobat DC (free for students at [https://software.berkeley.edu/adobe-creative-cloud](https://software.berkeley.edu/adobe-creative-cloud)) to redact sensitive information like routing numbers, other purchases, balance, etc. (optional, but recommended).
    1. You will need to **leave your name, dates, amount of relevant purchases, and the last 4 digits of your card number **_**unredacted**._ The ASUC can and will reject PRs without this information on your statements.
-3. Download or scan and upload an invoice or receipt from the vendor. **For Amazon, invoices must show the word "Shipped"**. For McMaster, it's best to concatenate the Receipt and Packing List (shipping confirmation), but you might be able to get away with just the Receipt (as long as it shows shipping cost).
-4. Redact the invoice/shipping notification as appropriate.
 5. **Verify the invoice total matches the credit card statement total**. If it does not, the ASUC will likely reject your request.
 6. **Verify the Payee name matches the bank/credit card statement.** The ASUC will likely reject your PR if this is not the case. It may be acceptable to have no name on the reciept, but not one that does not match.
 7. Use a tool like Adobe Acrobat DC to concatenate the invoice and statement into one file, omitting any irrelevant pages.
+
+7. Upload the file.
 
 Repeat the process for Item #2, ... , 6 if applicable. Most PRs contain only one item.
 
