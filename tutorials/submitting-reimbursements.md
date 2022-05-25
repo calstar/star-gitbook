@@ -43,11 +43,13 @@ Then, click the STAR icon on the left banner. The icon will turn into a gear whe
 ![Click Finance](<../.gitbook/assets/callink-new-menu.png>)
 
 {% hint style="info" %}
-The screenshot here shows what an admin (usually a lead) can see. If you are a 1st-stage financial requestor, you will only see **About** and **Finance** on the popped-up menu.
+The screenshot here shows what an admin (usually a lead) can see. If you are a 1st-stage financial requestor, you will only see **Documents** and **Finance** on the popped-up menu.
 {% endhint %}
 
 {% hint style="danger" %}
-If you do not see the banner, you may be using the old Callink web page layout. Refer to [heading](#Navigating the old Callink web page layout)
+If you do not see the banner, you may be using the old Callink web page layout. Refer to [heading](https://rocketry.gitbook.io/public/tutorials/submitting-reimbursements#heading1)
+
+<!-- [heading](#Navigating the old Callink web page layout) -->
 
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
