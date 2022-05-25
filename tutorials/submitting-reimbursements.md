@@ -85,7 +85,7 @@ Expenditure Action                   | What does it mean                  |
 | Direct deposit             | Requires additional setup, but it's the fastest way to receive reimbursement. More info please check out **section 6A in PR form** |
 | Pick up                    | No additional set up; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
 
 For most cases, you can leave **Special Instructions** and **Event Details** blank.
 
