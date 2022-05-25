@@ -47,7 +47,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 {% endhint %}
 
 {% hint style="danger" %}
-If you do not see the banner, you may be using the old Callink web page layout. Refer to <span style="color:blue">[**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)</span>. if this is the case
+If you do not see the banner, you may be using the old Callink web page layout. Refer to <span style="color:blue">[**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)</span> if this is the case
 {% endhint %}
 
 <!-- [heading](#Navigating the old Callink web page layout) -->
