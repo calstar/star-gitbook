@@ -173,3 +173,19 @@ Wait for approval from the LEAD Center. They may reach out to you for more detai
 ## Index
 
 ### Navigating the old Callink web page layout
+
+Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner.&#x20;
+
+![Click Manage Organization](https://lh4.googleusercontent.com/5dDY25fqROAaViQyX7G8Kb1IbCrowsYiapIo-KrLIFJwqlxzdUUL4QobK63KcfGCvZ58AhDjTqNUFcmXN1NCZV6YK-igVJM6iI5myo0clEmRQd52IDPHxoxl72lihhkQkg6EREs3)
+
+Then, click the **expand menu button** (**three horizontal bars**) on the upper left corner . This will open a sidebar.&#x20;
+
+![Click the three bars on the upper left corner](https://lh6.googleusercontent.com/yjbzSe5SZo50jccc2gkWTUbLmUYe2ydKgGklqd2hBabxl9U7xECA9bFe2FBG1UTUt\_pfPZuEjJ6\_sQUCpQvVsk9aeYakVwRm9r6dk76AZ29NREll0Kxth3yKDgmcV6hVLVAhL6z8)
+
+Click the **Finance** option.
+
+![Click Finance](https://lh3.googleusercontent.com/Pj5P-BFyxQSFRKJaceKWBD4mj0kns7B1GFznopgwdWlvHAnU717kEYVKm\_dWoycdpnf7JJS0ibSfi\_sQ5dnlLWJE9Dk36L\_M-6jEZyZ6QwvjUtfLnvqSiKQ0rF43BknegTg0qB\_5)
+
+Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
+
+![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
