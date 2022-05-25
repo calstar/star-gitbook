@@ -189,3 +189,5 @@ Click the **Finance** option.
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
+
+**Now you are ready to resume the tutorial above**
