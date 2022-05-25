@@ -64,18 +64,17 @@ For **Categories**, chose **Reimbursement - Any amount**. If you feel like you m
 
 
 Refer to the table below for **Account**:
- If you are buying...                                        | Use this Account                  |
-| --------------------------------------------------| --------------------------------- |
+| If you are buying...                                         | Use this Account                 |
+| ------------------------------------------------------------| ---------------------------------|
 | Any **hardware** for vehicles, engines, or related projects |  `3-70-203828-00000-MISC-STAR`   |
-| Social supplies, outreach, etc.; **non-hardware** purchases |`3-70-203828-00000-MISC-STAR`   |
+| Social supplies, outreach, etc.; **non-hardware** purchases |`3-70-203828-00000-MISC-STAR`     |
 
+{% hint style="warning" %}
 As of now (May 24, 2022), all expenditure, regardless of categories, should use our misc account: **`3-70-203828-00000-MISC-STAR`**
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
 Select **Expenditure Action**; check out the following chart for more information:
-
-we recommend **Mail to Payee-same address** or **Direct deposit**
 
 Three common actions:
 Expenditure Action                   | What does it mean                  |
@@ -83,6 +82,9 @@ Expenditure Action                   | What does it mean                  |
 | Mail to Payee-same address | No additional set up or office visit needed. However, it takes several days for checks to be mailed to the address indicated in your PR form. |
 | Direct deposit             | Requires additional setup, but it's the fastest way to receive reimbursement. More info please check out **section 6A in PR form** |
 | Pick up                    | No additional set up; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
+
+{% hint style="info" %}
+we recommend **Mail to Payee-same address** or **Direct deposit**
 
 ![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
 
