@@ -47,7 +47,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 {% endhint %}
 
 {% hint style="danger" %}
-If you do not see the banner, you may be using the old Callink web page layout. Refer to [heading](https://rocketry.gitbook.io/public/tutorials/submitting-reimbursements###Navigating the old Callink web page layout)
+If you do not see the banner, you may be using the old Callink web page layout. Refer to [heading](https://rocketry.gitbook.io/public/tutorials/submitting-reimbursements#Navigating the old Callink web page layout)
 
 <!-- [heading](#Navigating the old Callink web page layout) -->
 
