@@ -47,7 +47,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 {% endhint %}
 
 {% hint style="danger" %}
-If you do not see the banner, you may be using the old Callink web page layout. Refer to [**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout) if this is the case
+If you do not see the banner, you may be using the old Callink web page layout. Refer to <span style="color:blue">[**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)</span>. if this is the case
 {% endhint %}
 
 <!-- [heading](#Navigating the old Callink web page layout) -->
@@ -168,8 +168,6 @@ Send a message in the #purchases Discord channel mentioning you've submitted a r
 ### Step 4 - Wait to hear back from the LEAD Center
 
 Wait for approval from the LEAD Center. They may reach out to you for more details.
-
-### Step 4 - Wait to hear back from the LEAD Center
 
 ## Index
 
