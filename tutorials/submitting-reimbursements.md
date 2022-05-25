@@ -36,13 +36,18 @@ Once you have been approved as a member, again, navigate to our CalLink page: [h
 
 ![](<../.gitbook/assets/callink-new-layout.png>)
 
+
 Then, click the STAR icon on the left banner. The icon will turn into a gear when the mouse hovers over it. This will open a sidebar. Click the **Finance** option. &#x20;
+
 
 ![Click Finance](<../.gitbook/assets/callink-new-menu.png>)
 
 {% hint style="info" %}
 The screenshot here shows what an admin (usually a lead) can see. If you are a 1st-stage financial requestor, you will only see **About** and **Finance** on the popped-up menu.
 {% endhint %}
+
+{% hint style="danger" %}
+If you do not see the banner, you may be using the old Callink web page layout. Refer to [heading](https://rocketry.gitbooks.io/public/tutorials/submitting-reimbursements/### Navigating the old Callink web page layout)
 
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
@@ -160,3 +165,8 @@ Send a message in the #purchases Discord channel mentioning you've submitted a r
 ### Step 4 - Wait to hear back from the LEAD Center
 
 Wait for approval from the LEAD Center. They may reach out to you for more details.
+
+
+## Index
+
+### Navigating the old Callink web page layout
