@@ -75,12 +75,13 @@ Fill out the **Payee Information** completely. If you are getting a check mailed
 
 Select **Expenditure Action**; check out the following chart for more information:
 
-we recommend **Mail to Payee-same address** or **Direct deposit** instead of Pick up.
+we recommend **Mail to Payee-same address** or **Direct deposit**
 
+Three common actions:
 Expenditure Action                   | What does it mean                  |
 | ---------------------------| ----------------------------------------------------------------|
-| Mail to Payee-same address | No additional set up or office visit needed. However, it takes  |
-                             several days for checks to be mailed to the address indicated in your PR form.                       
+| Mail to Payee-same address | No additional set up or office visit needed. However, it takes  
+                             several days for checks to be mailed to the address indicated in your PR form.                                                              |
 | Direct deposit             | Requires additional setup, but it's the fastest way to receive reimbursement. More info please check out **section 6A in PR form** |
 | Pick up                    | No additional set up; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
 
