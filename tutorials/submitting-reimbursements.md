@@ -106,7 +106,7 @@ The form asks you to attach receipts: failure to do this will mean the request i
 Below is a sample procedure to reliably get your PR approved:
 
 {% hint style="warning" %}
-Only complete Step 3-6 if your receipts do not have billing contact (name, address, etc.).
+Only complete Step 3-7 if your receipts do not have billing contact (name, address, etc.).
 {% endhint %}
 1. Download or scan and upload an invoice or receipt from the vendor. **For Amazon, invoices must show the word "Shipped"**. For McMaster, it's best to concatenate the Receipt and Packing List (shipping confirmation), but you might be able to get away with just the Receipt (as long as it shows shipping cost).
 2. Redact the invoice/shipping notification as appropriate.
