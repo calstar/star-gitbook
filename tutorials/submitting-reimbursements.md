@@ -217,4 +217,4 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
 
-**Now you are ready to** [**resume**](#start-a-new-purchase-request) **the tutorial above**
+**Now you are ready to resume the tutorial above**. Click [**here**](#start-a-new-purchase-request)  to return.
