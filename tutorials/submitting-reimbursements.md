@@ -124,22 +124,33 @@ Once complete, check over all your entered data. Once submitted, you **cannot** 
 
 ### Step 2 - Submit the STAR PR Form
 
-Once you fill out the Stage 1 Purchase Request, fill out this form: [https://goo.gl/forms/cMOkLBXOFGwLEstl2](https://goo.gl/forms/cMOkLBXOFGwLEstl2)
+Once you have submitted the PR, your job is complete! STAR's stage-2 financial agents, who are usually in the business subteam, will approve your PR or contact you for further questions! If you realize that you have made a mistake, please inform the agents. You can do that either by direct messaging or sending the message to the Business channel in STAR's Discord Server.
+
+{% hint style="info" %}
+If no stage-2 agents approve your PR or contact you after 3 business days, please send a message in the Business channel.
+{% endhint %}
+
+{% hint style="warning" %}
+If some of your receipts **do not** have billing contact (name, address, etc.), which can clear show that they were your purchases, you should prepare a digital copy of your credit/debit card statement proving you paid for these items. (you can redact all irrelevant information, but make sure to **leave your name on the statement**)
+{% endhint %}
+
+
+<!-- Once you fill out the Stage 1 Purchase Request, fill out this form: [https://goo.gl/forms/cMOkLBXOFGwLEstl2](https://goo.gl/forms/cMOkLBXOFGwLEstl2)
 
 The form above allows us to have our own financial records. The copy sent to the ASUC is not in a database format and is not searchable nor manipulable.&#x20;
 
-The form will require the following items (these are both ASUC requirements):
+The form will require the following items (these are both ASUC requirements): -->
 
-1. &#x20;A digital copy of your receipt, invoice, and/or proof of delivery.
-2. A digital copy of your credit card statement proving you paid for the item. (you can redact all irrelevant information)
+<!-- 1. &#x20;A digital copy of your receipt, invoice, and/or proof of delivery.
+2. A digital copy of your credit card statement proving you paid for the item. (you can redact all irrelevant information) -->
 
-If you've already concatenated the docs from before, you can just submit the same in both form fields.
+<!-- If you've already concatenated the docs from before, you can just submit the same in both form fields.
 
 {% hint style="info" %}
 \[In non-pandemic times] make sure you have physical copies available as you will need it to submit the final reimbursement request from the ASUC.
 
 It would also be helpful to save the edit link to the form in case you make a mistake.
-{% endhint %}
+{% endhint %} -->
 
 ### Step 2.5 - Submit proof of payment and wait for confirmation from a STAR representative (Only occasionally applicable)
 
