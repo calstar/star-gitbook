@@ -34,11 +34,11 @@ We have noticed that the "Join" button is missing sometimes. If that happens to 
 
 Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner.&#x20;
 
-![Click Manage Organization](https://lh4.googleusercontent.com/5dDY25fqROAaViQyX7G8Kb1IbCrowsYiapIo-KrLIFJwqlxzdUUL4QobK63KcfGCvZ58AhDjTqNUFcmXN1NCZV6YK-igVJM6iI5myo0clEmRQd52IDPHxoxl72lihhkQkg6EREs3)
+<../.gitbook/assets/callink-new-layout.png>
 
-Then, click the **expand menu button** (**three horizontal bars**) on the upper left corner . This will open a sidebar.&#x20;
+Then, click the STAR icon on the left banner. The icon will turn into a gear when the mouse hovers over it. This will open a sidebar.&#x20;
 
-![Click the three bars on the upper left corner](https://lh6.googleusercontent.com/yjbzSe5SZo50jccc2gkWTUbLmUYe2ydKgGklqd2hBabxl9U7xECA9bFe2FBG1UTUt\_pfPZuEjJ6\_sQUCpQvVsk9aeYakVwRm9r6dk76AZ29NREll0Kxth3yKDgmcV6hVLVAhL6z8)
+<../.gitbook/assets/callink-new-menu.png>
 
 Click the **Finance** option.
 
@@ -80,7 +80,7 @@ Select **Expenditure Action**;
 ![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
 
 Check out the following chart for more information about three common actions:
-Expenditure Action                   | What does it mean                  |
+Expenditure action                   | What does it mean                  |
 | ---------------------------| ----------------------------------------------------------------|
 | Mail to Payee-same address | No additional set up or office visit needed. However, it takes several days for checks to be mailed to the address indicated in your PR form. |
 | Direct deposit             | The fastest way to receive reimbursement, but requires additional setup. For more info please check out **Section 6A in the PR form** |
