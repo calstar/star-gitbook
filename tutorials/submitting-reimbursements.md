@@ -52,6 +52,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 If you do not see the banner, you may be using the old Callink web page layout. Refer to <span style="color:blue">[**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)</span> if this is the case.
 {% endhint %}
 
+#### Start a new purchase request
 
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
@@ -84,6 +85,8 @@ As of now (May 24, 2022), all expenditure, regardless of categories, should use 
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
+#### Expenditure Actions
+
 Select **Expenditure Action**;
 
 ![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
@@ -99,6 +102,7 @@ Expenditure action                   | What does it mean                  |
 We recommend **Mail to Payee-same address** or **Direct deposit**
 {% endhint %}
 
+#### Fill out itemized sections
 
 For most cases, you can leave **Special Instructions** and **Event Details** blank.
 
@@ -124,13 +128,15 @@ Only complete Step 3-7 if your receipts do not have billing contact (name, addre
 
 Repeat the process for Item #2, ... , 6 if applicable. Most PRs contain only one item.
 
+#### Verify and submit
+
 {% hint style="danger" %}
 Once complete, check over all your entered data. Upon PR submission, you **cannot** edit the PR anymore.
 {% endhint %}
 
 **Submit** the Purchase Request.
 
-### Step 2 - Submit the STAR PR Form
+### Step 2 - Prepare for Stage 2 and beyond
 
 Once you have submitted the PR, your job is complete! STAR's stage-2 financial agents, who are usually in the business subteam, will approve your PR or contact you for further questions! If you realize that you have made a mistake, please inform the agents. You can do that either by direct messaging or sending the message to the Business channel in STAR's Discord Server.
 
@@ -160,7 +166,7 @@ The form will require the following items (these are both ASUC requirements): --
 It would also be helpful to save the edit link to the form in case you make a mistake.
 {% endhint %} -->
 
-### Step 2.5 - Submit proof of payment and wait for confirmation from a STAR representative (Only occasionally applicable)
+### Step 2.5 - Submit proof of payment and wait for confirmation from a STAR representative (Only occasionally applicable when your PR is listed in Stage 3)
 
 {% hint style="warning" %}
 Only follow the steps below if for some reason you were not able to upload the necessary documents to the purchase request, and they have not been added even after the purchase request is Stage 2. **We recommend you to complete this step with a Business member**
@@ -185,7 +191,7 @@ Send a message in the #purchases Discord channel mentioning you've submitted a r
 
 ### Step 3 - Wait to hear back from the LEAD Center
 
-Wait for approval from the LEAD Center. They may reach out to you for more details.
+Wait for approval from the LEAD Center. They may reach out to you for more details. If your PR(s) are listed in Stage 5, that means your reimbursement(s) have been **approved**. 
 
 ## Index
 
@@ -207,4 +213,4 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
 
-**Now you are ready to** [**resume**](#step-1-submitting-a-stage-1-purchase-request) **the tutorial above**
+**Now you are ready to** [**resume**](#Start-a-new-purchase-request) **the tutorial above**
