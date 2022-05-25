@@ -32,7 +32,7 @@ We have noticed that the "Join" button is missing sometimes. If that happens to 
 
 ### Step 1 - Submitting a Stage 1 Purchase Request
 
-#### Open the Purchase Request page
+#### _Open the Purchase Request page_
 
 Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). You should see the following page:&#x20;
 
@@ -52,7 +52,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 If you do not see the banner, you may be using the old Callink web page layout. Refer to <span style="color:blue">[**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)</span> if this is the case.
 {% endhint %}
 
-#### Start a new purchase request
+#### _Start a new purchase request_
 
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
