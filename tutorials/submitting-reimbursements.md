@@ -108,9 +108,9 @@ Below is a sample procedure to reliably get your PR approved:
 
 1. Download or scan and upload an invoice or receipt from the vendor. **For Amazon, invoices must show the word "Shipped"**. For McMaster, it's best to concatenate the Receipt and Packing List (shipping confirmation), but you might be able to get away with just the Receipt (as long as it shows shipping cost).
 2. Redact the invoice/shipping notification as appropriate.
-    {% hint style="warning" %}
+    <!-- {% hint style="warning" %} -->
     **Only complete Step 3-6 if your receipts do not have billing contact (name, address, etc.)**.
-    {% endhint %}
+    <!-- {% endhint %} -->
 3. Download a PDF of your credit card / bank statement (and make sure it's not password-protected to edit; you can use "Print to PDF" from your browser if this is an issue).
 4. Use a tool like Adobe Acrobat DC (free for students at [https://software.berkeley.edu/adobe-creative-cloud](https://software.berkeley.edu/adobe-creative-cloud)) to redact sensitive information like routing numbers, other purchases, balance, etc. (optional, but recommended).
    1. You will need to **leave your name, dates, amount of relevant purchases, and the last 4 digits of your card number **_**unredacted**._ The ASUC can and will reject PRs without this information on your statements.
