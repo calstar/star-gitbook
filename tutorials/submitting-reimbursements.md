@@ -47,7 +47,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 {% endhint %}
 
 {% hint style="danger" %}
-If you do not see the banner, you may be using the old Callink web page layout. Refer to [heading](#navigating-the-old-callink-web-page-layout)**Navigating the old Callink web page layout** if this is the case
+If you do not see the banner, you may be using the old Callink web page layout. Refer to [**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)if this is the case
 {% endhint %}
 
 <!-- [heading](#Navigating the old Callink web page layout) -->
@@ -190,4 +190,4 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
 
-**Now you are ready to resume the tutorial above**
+**Now you are ready to [resume](#step-1-submitting-a-stage-1-purchase-request) the tutorial above**
