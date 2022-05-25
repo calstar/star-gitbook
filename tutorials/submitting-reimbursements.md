@@ -155,15 +155,15 @@ It would also be helpful to save the edit link to the form in case you make a mi
 ### Step 2.5 - Submit proof of payment and wait for confirmation from a STAR representative (Only occasionally applicable)
 
 {% hint style="warning" %}
-Only follow the steps below if for some reason you were not able to upload the necessary documents to the purchase request, and they have not been added even after the purchase request is Stage 2
+Only follow the steps below if for some reason you were not able to upload the necessary documents to the purchase request, and they have not been added even after the purchase request is Stage 2. **We recommend you to complete this step with a Business member**
 {% endhint %}
 
-Please e-mail proof of payment (credit card statement or bank statement) to asucfinance@berkeley.edu. It must include:
+Please e-mail proof of payment (credit card statement or bank statement) to asucfinance@berkeley.edu. The email must include:
 
 * The purchase request number in the subject line
 * The name of the payee
-* The last 4 digits of the account or card used
-* ONLY INCLUDE enough pages to show the above information
+<!-- * The last 4 digits of the account or card used -->
+<!-- * ONLY INCLUDE enough pages to show the above information -->
 
 A finance representative from the team will review your request and elevate it to a Stage 2 request. We will check that the amount requested matches the amount on the proof of purchase, and we will check that you have all required proof of purchases.&#x20;
 
@@ -171,11 +171,11 @@ Once approved, you will be notified through email or Discord. You can also check
 
 If your request does not meet our requirements, it will be rejected. Please check this page to make sure you met all the requirements.
 
-### Step 3 (optional) - Message in #purchases
+<!-- ### Step 3 (optional) - Message in #purchases
 
-Send a message in the #purchases Discord channel mentioning you've submitted a request that needs to reviewed and moved to be Stage 2. This step is optional, but improves chances of timely payment.
+Send a message in the #purchases Discord channel mentioning you've submitted a request that needs to reviewed and moved to be Stage 2. This step is optional, but improves chances of timely payment. -->
 
-### Step 4 - Wait to hear back from the LEAD Center
+### Step 3 - Wait to hear back from the LEAD Center
 
 Wait for approval from the LEAD Center. They may reach out to you for more details.
 
