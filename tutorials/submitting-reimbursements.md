@@ -77,7 +77,7 @@ Refer to the table below for **Account**:
 | Social supplies, outreach, etc.; **non-hardware** purchases |`3-70-203828-00000-MISC-STAR`     |
 
 {% hint style="warning" %}
-As of now (May 24, 2022), all expenditure, regardless of categories, should use our misc account: **`3-70-203828-00000-MISC-STAR`**
+As of now (May 24, 2022), all expenditure, regardless of categories, should use our misc account: **`3-70-203828-00000-MISC-STAR`**.
 {% endhint %}
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
@@ -132,7 +132,7 @@ Once complete, check over all your entered data. Upon PR submission, you **canno
 
 ### Step 2 - Submit the STAR PR Form
 
-Once you have submitted the PR, your job is complete! STAR's stage-2 financial agents, who are usually in the business subteam, will approve your PR or contact you for further questions! If you realize that you have made a mistake, please inform the agents. You can do that either by direct messaging or sending the message to the Business channel in STAR's Discord Server. 
+Once you have submitted the PR, your job is complete! STAR's stage-2 financial agents, who are usually in the business subteam, will approve your PR or contact you for further questions! If you realize that you have made a mistake, please inform the agents. You can do that either by direct messaging or sending the message to the Business channel in STAR's Discord Server.
 
 {% hint style="info" %}
 If no stage-2 agents approve your PR or contact you after 3 business days, please send a message in the Business channel.
