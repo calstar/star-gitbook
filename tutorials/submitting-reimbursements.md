@@ -62,15 +62,14 @@ For **Categories**, chose **Reimbursement - Any amount**. If you feel like you m
 
 ![Choose "Reimbursement" to get reimbursed. We tend not to use the others.](<../.gitbook/assets/image (99).png>)
 
-As of now (May 24, 2022), all expenditure, regardless of categories, should use our misc account: **`3-70-203828-00000-MISC-STAR`**
-<!-- Refer to the table below for **Account**: -->
 
-<!-- | If you are buying...                                        | Use this Account                  |
+Refer to the table below for **Account**:
+ If you are buying...                                        | Use this Account                  |
 | ----------------------------------------------------------- | --------------------------------- |
 | Any **hardware** for vehicles, engines, or related projects |  `3-70-203828-00000-MISC-STAR`    |
-| Social supplies, outreach, etc.; **non-hardware** purchases | -->
+| Social supplies, outreach, etc.; **non-hardware** purchases |`3-70-203828-00000-MISC-STAR`   |
 
-
+As of now (May 24, 2022), all expenditure, regardless of categories, should use our misc account: **`3-70-203828-00000-MISC-STAR`**
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
