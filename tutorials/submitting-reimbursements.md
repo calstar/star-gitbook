@@ -34,11 +34,11 @@ We have noticed that the "Join" button is missing sometimes. If that happens to 
 
 Once you have been approved as a member, again, navigate to our CalLink page: [https://callink.berkeley.edu/organization/star/](https://callink.berkeley.edu/organization/star/). Click **Manage Organization** in the upper right corner.&#x20;
 
-<../.gitbook/assets/callink-new-layout.png>
+![]<../.gitbook/assets/callink-new-layout.png>
 
 Then, click the STAR icon on the left banner. The icon will turn into a gear when the mouse hovers over it. This will open a sidebar. Click the **Finance** option. &#x20;
 
-<../.gitbook/assets/callink-new-menu.png>
+![]<../.gitbook/assets/callink-new-menu.png>
 
 
 ![Click Finance](https://lh3.googleusercontent.com/Pj5P-BFyxQSFRKJaceKWBD4mj0kns7B1GFznopgwdWlvHAnU717kEYVKm\_dWoycdpnf7JJS0ibSfi\_sQ5dnlLWJE9Dk36L\_M-6jEZyZ6QwvjUtfLnvqSiKQ0rF43BknegTg0qB\_5)
