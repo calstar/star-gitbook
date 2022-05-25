@@ -74,19 +74,20 @@ As of now (May 24, 2022), all expenditure, regardless of categories, should use 
 
 Fill out the **Payee Information** completely. If you are getting a check mailed to you, this address is where it will go.
 
-Select **Expenditure Action**; check out the following chart for more information:
+Select **Expenditure Action**;
 
-Three common actions:
+![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
+
+Check out the following chart for more information about three common actions:
 Expenditure Action                   | What does it mean                  |
 | ---------------------------| ----------------------------------------------------------------|
 | Mail to Payee-same address | No additional set up or office visit needed. However, it takes several days for checks to be mailed to the address indicated in your PR form. |
-| Direct deposit             | Requires additional setup, but it's the fastest way to receive reimbursement. More info please check out **section 6A in PR form** |
-| Pick up                    | No additional set up; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
+| Direct deposit             | The fastest way to receive reimbursement, but equires additional setup. For more info please check out **Section 6A in the PR form** |
+| Pick up                    | No additional set up required; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
 
 {% hint style="info" %}
 we recommend **Mail to Payee-same address** or **Direct deposit**
 
-![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
 
 For most cases, you can leave **Special Instructions** and **Event Details** blank.
 
