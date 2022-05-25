@@ -52,7 +52,7 @@ The screenshot here shows what an admin (usually a lead) can see. If you are a 1
 If you do not see the banner, you may be using the old Callink web page layout. Refer to <span style="color:blue">[**Navigating the old Callink web page layout**](#navigating-the-old-callink-web-page-layout)</span> if this is the case.
 {% endhint %}
 
-#### Start a new purchase reques
+#### Start a new purchase request
 
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
@@ -91,7 +91,7 @@ Fill out the **Payee Information** completely. If you are getting a check mailed
 
 #### Expenditure Actions
 
-Select **Expenditure Action**
+Select an expenditure action
 
 ![](<../.gitbook/assets/reimbursement-expenditure-actions.png>)
 
@@ -99,7 +99,7 @@ Check out the following chart for more information about three common actions:
 Expenditure action                   | What does it mean                  |
 | ---------------------------| ----------------------------------------------------------------|
 | Mail to Payee-same address | No additional set up or office visit needed. However, it takes several days for checks to be mailed to the address indicated in your PR form. |
-| Direct deposit             | The fastest way to receive reimbursement, but requires additional setup. For more info please check out **Section 6A in the PR form** |
+| Direct deposit             | Electronic deposit, the fastest way to receive reimbursement, but requires additional setup. For more info please check out **Section 6A in the PR form** |
 | Pick up                    | No additional set up required; however, you would need to visit **432A Eshleman Hall with a valid photo ID**|
 
 {% hint style="info" %}
@@ -217,4 +217,4 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
 
-**Now you are ready to resume the tutorial above**. Click [**here**](#start-a-new-purchase-reques) to return.
+**Now you are ready to resume the tutorial above**. Click [**here**](#start-a-new-purchase-request) to return.
