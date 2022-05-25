@@ -125,14 +125,14 @@ Below is a sample procedure to reliably get your PR approved:
 Repeat the process for Item #2, ... , 6 if applicable. Most PRs contain only one item.
 
 {% hint style="danger" %}
-Once complete, check over all your entered data. Once submitted, you **cannot** edit the PR--if there are any mistakes, you will have to repeat the whole process over again.
+Once complete, check over all your entered data. Upon PR submission, you **cannot** edit the PR anymore.
 {% endhint %}
 
 **Submit** the Purchase Request.
 
 ### Step 2 - Submit the STAR PR Form
 
-Once you have submitted the PR, your job is complete! STAR's stage-2 financial agents, who are usually in the business subteam, will approve your PR or contact you for further questions! If you realize that you have made a mistake, please inform the agents. You can do that either by direct messaging or sending the message to the Business channel in STAR's Discord Server.
+Once you have submitted the PR, your job is complete! STAR's stage-2 financial agents, who are usually in the business subteam, will approve your PR or contact you for further questions! If you realize that you have made a mistake, please inform the agents. You can do that either by direct messaging or sending the message to the Business channel in STAR's Discord Server. 
 
 {% hint style="info" %}
 If no stage-2 agents approve your PR or contact you after 3 business days, please send a message in the Business channel.
