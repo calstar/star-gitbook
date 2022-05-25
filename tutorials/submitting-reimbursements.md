@@ -40,6 +40,10 @@ Then, click the STAR icon on the left banner. The icon will turn into a gear whe
 
 ![Click Finance](<../.gitbook/assets/callink-new-menu.png>)
 
+{% hint style="info" %}
+The screenshot here shows what an admin (usually a lead) can see. If you are a 1st-stage financial requestor, you will only see **About** and **Finance** on the popped-up menu.
+{% endhint %}
+
 Click the **Create New Request** button and then **Create New Purchase Request** from the drop-down options.
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/create-new-pr.png>)
