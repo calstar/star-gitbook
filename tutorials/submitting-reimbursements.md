@@ -25,7 +25,7 @@ You will need to wait for a lead to approve your request to Join. The finance ta
 {% endhint %}
 
 {% hint style="warning" %}
-We have noticed that the "Join" button is missing sometimes. If that happens to you, just send a message in the [#business](https://discord.gg/7qcBUU4k) channel or dm the business lead for a "financial requestor--stage 1" status, along with your Berkeley email and name.
+We have noticed that the "Join" button is missing sometimes. If that happens to you, just send a message in the [#business](https://discord.gg/f94j2wDCGm) channel or dm the business lead for a "financial requestor--stage 1" status, along with your Berkeley email and name.
 {% endhint %}
 
 ![Click Join to request membership](https://lh3.googleusercontent.com/qhsd4c6\_jbZ\_QsvObwtVd4Zt8\_wWfk9sOu8Ior8p64C9OESHCaHBPZjgztOoJSsWOcSVo5MAaN96NI79LdrEMtd7kHhGWAac2rAOh6Q\_NIZd3fPULPZ7VimCIV2-aUPl5l1SKTQl)
@@ -217,4 +217,4 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 
 ![Click Create New Request, then Create Purchase Request](<../.gitbook/assets/image (85) (1).png>)
 
-**Now you are ready to resume the tutorial above**. Click [**here**](#start-a-new-purchase-request)  to return.
+**Now you are ready to resume the tutorial above**. Click [**here**](#start-a-new-purchase-request) to return.
