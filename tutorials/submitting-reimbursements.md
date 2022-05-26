@@ -61,7 +61,7 @@ Click the **Create New Request** button and then **Create New Purchase Request**
 Fill out this form as accurately as possible.&#x20;
 
 {% hint style="warning" %}
-The PR forms asks for your UID. It is NOT your student ID on your Cal One Card. Be sure to follow the instruction on the PR form to look up your UID. We recommend right-clicking the UID link, and opening it in a new tab so that you won't lose progress (if you click on the UID link directly, it may just reload the current page into the new page)
+The PR form asks for your UID. It is NOT your student ID on your Cal One Card. Be sure to follow the instruction on the PR form to look up your UID. We recommend right-clicking the UID link, and opening it in a new tab so that you won't lose progress (if you click on the UID link directly, it may just reload the current page into the new page)
 {% endhint %}
 
 For **Subject**, use the format \[full name] - \[subteam] - \[item description]. For example, this might look like:&#x20;
