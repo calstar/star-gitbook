@@ -32,18 +32,18 @@ The Chenming Hu Innovation Lab (Supernode) contains a reflow oven. STAR as a tea
 2. Arrange spare PCB blanks in a configuration around the target PCB as follows:&#x20;
 3.  &#x20;
 
-    ![](../../.gitbook/assets/imag0937.jpg)
+    <img src="../../.gitbook/assets/imag0937.jpg" alt="" data-size="original">
 4. Make sure the PCB to solder is snug and there are no gaps around it. If the blanks are thinner (e.g. 31 mils) than the PCB to solder (e.g. 61 mils) or vice versa, you can double-stack. **It is important to have the blanks be at the same height as the target PCB**
 5. Next, position the stencil such that the holes in the stencil line up **perfectly** with their respective pads
 6. Once alignment has been achieved--and be sure that it's as close to perfect as possible--**tape one edge only of the stencil** to the blanks and orient it so the taped side is away from you:
-7. ![](../../.gitbook/assets/imag0938.jpg)&#x20;
+7. <img src="../../.gitbook/assets/imag0938.jpg" alt="" data-size="original">&#x20;
 8. Squeeze solder paste from the syringe "above" (tape side) each section of pads&#x20;
-9. Use a scraper or card to press firmly down on the stencil and spread solder paste, drawing the scraper toward you. **At no point should you scrape away from yourself, lifting the stencil!**![](../../.gitbook/assets/imag0940.jpg)****
+9. Use a scraper or card to press firmly down on the stencil and spread solder paste, drawing the scraper toward you. **At no point should you scrape away from yourself, lifting the stencil!**<img src="../../.gitbook/assets/imag0940.jpg" alt="" data-size="original">****
 10. You will likely have to add more solder paste after the first pass. It is OK to recover solder paste, move it around, etc., but be very careful not to scrape too much side-to-side or away from you. **The stencil must remain flat and in position**
 11. Continue spreading the solder paste around until each pad clearly has solder paste on it. We have found a steep angle allows for the collection of paste from the top of the stencil, while a low angle and higher amounts of downward force can help to get paste through the holes in the stencil
-12. ![](../../.gitbook/assets/imag0941.jpg)&#x20;
+12. <img src="../../.gitbook/assets/imag0941.jpg" alt="" data-size="original">&#x20;
 13. Gently lift the stencil from the board and flip it "up", exposing the board
-14. ![](../../.gitbook/assets/imag0942.jpg)&#x20;
+14. <img src="../../.gitbook/assets/imag0942.jpg" alt="" data-size="original">&#x20;
 
 ### Placing components
 
@@ -66,7 +66,7 @@ Before starting this section, open all windows in the vicinity of the oven. This
 3. Turn the oven on with the switch on the back. You will have to walk around to the other side of the oven to access it
 4. Select the pre-set reflow profile for 63/37 solder.
 5. Start the heating sequence.
-6. ![](../../.gitbook/assets/imag0943.jpg)
+6. <img src="../../.gitbook/assets/imag0943.jpg" alt="" data-size="original">
 
 {% hint style="info" %}
 Even though the reflow oven will not quite be able to follow the profile specified, we have had no known problems with just letting it run--the temperatures reached are sufficient. \

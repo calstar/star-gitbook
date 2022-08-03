@@ -9,7 +9,7 @@ description: >-
 ## Step 1: Create an Account
 
 All members are encouraged to contribute to our project documentation! \
-**Set up a GitBook account** on [https://www.gitbook.com/](https://www.gitbook.com) (through email or Google, GitHub, etc.--it doesn't matter as long as you remember your login info).
+**Set up a GitBook account** on [https://www.gitbook.com/](https://www.gitbook.com/) (through email or Google, GitHub, etc.--it doesn't matter as long as you remember your login info).
 
 ## Step 2: Get Access
 
@@ -54,7 +54,7 @@ If you fall into Case 2, you are welcome to simply publish your draft by clickin
 
 ## For any and mostly all questions
 
-Please reference the GitBook documentation here; it should contain complete instructions on everything there is to know about GitBook: [**https://docs.gitbook.com/**](https://docs.gitbook.com)
+Please reference the GitBook documentation here; it should contain complete instructions on everything there is to know about GitBook: [**https://docs.gitbook.com/**](https://docs.gitbook.com/)
 
 Specifically, for basic instructions for editing see: [https://docs.gitbook.com/content-editing/markdown](https://docs.gitbook.com/content-editing/markdown)
 
@@ -65,7 +65,7 @@ Specifically, for basic instructions for editing see: [https://docs.gitbook.com/
 * To rearrange cards: drag the square icon with 9 dots up or down
 * To create **bold**, **\*\***_**italic**_**, **~~**strikethrough**~~**, or `code` text: in paragraph/heading mode, highlight a section of text and mouse over it to see options.** Ctrl+B\*\* and _Ctrl+I_ also work as shortcuts. &#x20;
 
-![Basic features](.gitbook/assets/formatting.png)
+![Basic features](<.gitbook/assets/formatting (1).png>)
 
 * To insert a math formula $$\left( \Delta v = v_\text{e} \ln \frac {m_0} {m_f} \right)$$ mouse over the cursor and click the '+' button, then click the equation button
 * To create lists, just type "- " or "\* " or "1. " and it should auto-format to a bulleted list. You can also create a dedicated card with a list.

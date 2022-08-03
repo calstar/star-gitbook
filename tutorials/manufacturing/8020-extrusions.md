@@ -95,6 +95,6 @@ Don't make the same mistakes we did.
 * Try to stick with flat plates and gussets. Anchor fasteners are difficult to access and expensive, and end fasteners require tapping into the aluminum, which isn't ideal for things that need to be disassembled frequently. 45 degree supports are also very nice for high-strength applications.
 * When tightening fasteners, you almost can't go too tight. Most people will not tighten the fasteners enough to engage the 2-degree drop lock on the first try.
 * Think about accessing fasteners when you create your assembly. A fastener is no good if you can't get in with a hex wrench to tighten it.
-* When creating 8020 assemblies in SolidWorks, use the models provided on 3D Content Central ([https://www.3dcontentcentral.com/](https://www.3dcontentcentral.com))
+* When creating 8020 assemblies in SolidWorks, use the models provided on 3D Content Central ([https://www.3dcontentcentral.com/](https://www.3dcontentcentral.com/))
   * Be mindful about constraining these, since the 2-degree drop lock means that seemingly parallel planes are not actually parallel
 * 8020 becomes very useful when you interface it with your custom parts. This is not very difficult to do, and essentially just involves including an equivalent flat plate fastener in your part.

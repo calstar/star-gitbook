@@ -26,6 +26,6 @@ After the rapid unscheduled disassembly of Ursa Major, we had 2 weeks to fix the
 \
 A big thanks to everyone on the 2016-2017 team who were able to make this launch happen. Special shout-out to Adam's parents, who hosted us overnight during our rushed final preparations, and to the MDARS folks for staying at the site until we were ready to launch.
 
-![The STAR MDARS launch crew (Left to right): Aaron, Avyay, Juan, Adam, Carly, and Brunston](../../.gitbook/assets/2.jpg)
+![The STAR MDARS launch crew (Left to right): Aaron, Avyay, Juan, Adam, Carly, and Brunston](<../../.gitbook/assets/2 (1).JPG>)
 
 Photos: Brunston Poon

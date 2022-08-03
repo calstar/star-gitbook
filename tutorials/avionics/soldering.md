@@ -76,4 +76,4 @@ Surface mount soldering
 
 ## Conclusion - _practice_
 
-There are many free through-hole components around [Supernode](https://supernode.berkeley.edu), and you can just ask someone for surface mount components. It's important that you practice. Please ask for help if necessary.&#x20;
+There are many free through-hole components around [Supernode](https://supernode.berkeley.edu/), and you can just ask someone for surface mount components. It's important that you practice. Please ask for help if necessary.&#x20;

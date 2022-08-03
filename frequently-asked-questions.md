@@ -11,7 +11,7 @@ description: >-
 
 ### Who are we?
 
-We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our mission is to enable students from all majors and backgrounds passionate in aerospace to gain hands-on experience through real-world projects. As part of STAR, members can expect to develop a set of valuable engineering skills, including experience with manufacturing, 3D CAD, simulation, project management and more. For more information, check out our website at [https://stars.berkeley.edu/](https://stars.berkeley.edu)!
+We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our mission is to enable students from all majors and backgrounds passionate in aerospace to gain hands-on experience through real-world projects. As part of STAR, members can expect to develop a set of valuable engineering skills, including experience with manufacturing, 3D CAD, simulation, project management and more. For more information, check out our website at [https://stars.berkeley.edu/](https://stars.berkeley.edu/)!
 
 ### What are the subteams?&#x20;
 
@@ -58,7 +58,7 @@ No! We do not have an application, and we accept any and all interested members.
 
 **Is there a membership fee?**
 
-No! STAR is completely free to join, and there is no required membership fee. During a normal semester, many of our members opt to obtain the [Jacobs Hall makers pass](https://jacobsinstitute.berkeley.edu) but this is entirely optional. Expenses made by members for club purposes (ie. buying raw materials and parts for our rockets) are usually reinbursed by the club (subject to subteam lead approval).
+No! STAR is completely free to join, and there is no required membership fee. During a normal semester, many of our members opt to obtain the [Jacobs Hall makers pass](https://jacobsinstitute.berkeley.edu/) but this is entirely optional. Expenses made by members for club purposes (ie. buying raw materials and parts for our rockets) are usually reinbursed by the club (subject to subteam lead approval).
 
 #### Do I need to have any experience to join? &#x20;
 

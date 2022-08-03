@@ -6,7 +6,7 @@ description: Airframe intro projects for new and returning members.
 
 ## Intro Project - New Members
 
-![](<../.gitbook/assets/img\_9630 (1).jpg>)
+![](../.gitbook/assets/img\_9630.jpg)
 
 The new members will be tasked with designing an L1 rocket to show:
 
@@ -70,7 +70,7 @@ Each new member will have a mentor (a returning member of airframe). It is requi
 
 ## Returning Members Intro Project
 
-![](<../.gitbook/assets/img\_5739 (1).jpg>)
+![](../.gitbook/assets/img\_5739.jpg)
 
 **L1 Program:**
 

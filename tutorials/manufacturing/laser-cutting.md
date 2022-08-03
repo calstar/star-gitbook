@@ -117,7 +117,7 @@ Discontinue using the laser until a technician has assessed that it is okay to r
 
 *
   * The Invention Lab lasers are on a first-come basis. Please be kind to your fellow users and be accommodating if you have a very long job.
-  * For the Jacobs Hall lasers, the reservation system can be found at [http://reserve.jacobshall.org/ (Links to an external site.)Links to an external site.](http://reserve.jacobshall.org). **Please prepare your cut file in advance and estimate the cutting time using the Universal Laser software**. See the **Laser Cutter Interface** section below regarding estimating cutting time.&#x20;
+  * For the Jacobs Hall lasers, the reservation system can be found at [http://reserve.jacobshall.org/ (Links to an external site.)Links to an external site.](http://reserve.jacobshall.org/). **Please prepare your cut file in advance and estimate the cutting time using the Universal Laser software**. See the **Laser Cutter Interface** section below regarding estimating cutting time.&#x20;
   * Reservations can be made up to 7 days in advance.
   * **Late & no-shows**: **After** **10 minutes** **a reservation is forfeited and the remainder of the time is given to the first drop-in user**. If you cannot make it to an appointment, please cancel it before it begins.
   * Unreserved times are designated drop-in use by anyone until the next reservation.
@@ -337,7 +337,7 @@ It is not guaranteed that the laser will successfully cut through a material. It
 
        *
          * The Invention Lab lasers are on a first-come basis. Please be kind to your fellow users and be accommodating if you have a very long job.
-         * For the Jacobs Hall lasers, the reservation system can be found at [http://reserve.jacobshall.org/ (Links to an external site.)Links to an external site.](http://reserve.jacobshall.org). **Please prepare your cut file in advance and estimate the cutting time using the Universal Laser software**. See the **Laser Cutter Interface** section below regarding estimating cutting time.&#x20;
+         * For the Jacobs Hall lasers, the reservation system can be found at [http://reserve.jacobshall.org/ (Links to an external site.)Links to an external site.](http://reserve.jacobshall.org/). **Please prepare your cut file in advance and estimate the cutting time using the Universal Laser software**. See the **Laser Cutter Interface** section below regarding estimating cutting time.&#x20;
          * Reservations can be made up to 7 days in advance.
          * **Late & no-shows**: **After** **10 minutes** **a reservation is forfeited and the remainder of the time is given to the first drop-in user**. If you cannot make it to an appointment, please cancel it before it begins.
          * Unreserved times are designated drop-in use by anyone until the next reservation.

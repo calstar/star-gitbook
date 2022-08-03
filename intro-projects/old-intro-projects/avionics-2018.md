@@ -90,7 +90,7 @@ MPL3115A2 I2C Reference
    * R1= 10kΩ, and S1 is pressed 5% of the time.
    * R2 = 200Ω, D1's Vf = 2.1V, and D1 is on 50% of the time.
 
-![](<../../.gitbook/assets/additional-question-1 (1).png>)
+![](../../.gitbook/assets/additional-question-1.png)
 
 \
 

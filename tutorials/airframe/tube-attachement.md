@@ -112,7 +112,7 @@ After a hole is drilled with the right diameter, the nut can be press fit into t
 
 Rockets are usually not made of sheet metal, but these nut have been seen to work on fiberglass tubes.  Do note that for tubes under 2.5" in diameter, the curvature of the tube may be too great for the nut to properly work, as they are design for flat surfaces.  It is also important to buy nuts that are suited for the thickness of the tube wall.  Additionally, ensure you have the right size drill bit, as hole diameter is crucial to ensure the nut press fits well.
 
-![4 Self-Clinching Nuts used to hold a nosecone to a fiberglass tube.](<../../.gitbook/assets/image (102) (1).png>)
+![4 Self-Clinching Nuts used to hold a nosecone to a fiberglass tube.](<../../.gitbook/assets/image (102).png>)
 
 ![Drilling into the fiberglass tube.](../../.gitbook/assets/vlcsnap-2021-06-26-14h20m57s669.png)
 
@@ -122,6 +122,6 @@ Specialized tools can be used to press fit the nuts into place, but simpler meth
 
 ![Threading a screw to tighten and press nut into hole](../../.gitbook/assets/vlcsnap-2021-06-26-14h30m57s609.png)
 
-![Nut successfully installed](../../.gitbook/assets/vlcsnap-2021-06-26-14h35m52s458.png)
+![Nut successfully installed](<../../.gitbook/assets/vlcsnap-2021-06-26-14h35m52s458 (1).png>)
 
 Some people choose to also add epoxy to the nut to increase the strength of the nut to the tube.  It likely depends on serval factors for how well the nut actually stay in place, but in flight when the nuts are engaged with the screws, they shouldn't go anywhere.  The screw shearing off is more likely than the nut failing all together.  Multiple nuts should be used to make a good permanent connection between to pieces of the rocket.  It is also recommended that the screw sizes should be slightly longer than they need to be, so in the case of the screws shearing off, they can still be removed from the nuts.  Even then, it is recommended to not use these nut for shear pins/screws, and to go with the more traditional technique outlined above.
