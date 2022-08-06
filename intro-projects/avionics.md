@@ -1,5 +1,7 @@
 ---
-description: Avionics intro project for Fall 2022 and forward
+description: >-
+  Avionics intro project for Fall 2022 and forward (Created by Neelay, updated
+  by Cedric)
 ---
 
 # Avionics
@@ -48,15 +50,15 @@ In `intro_proj`, open up `intro_proj.pro`, the KiCad project. We will now make s
 
 Hit `Preferences > Manage Symbol Libraries` as below.
 
-![R](../.gitbook/assets/manage\_symbol\_prefs.png)
+![](<../.gitbook/assets/Screenshot 2022-08-02 213756.png>)
 
 Once the `Symbol Libraries` window opens, go to the `Project Libraries` tab and hit the `Add existing library to table` button in the bottom left row above `Path Subsitutions`.
 
-![Select Add existing library to table](<../.gitbook/assets/image (66).png>)
+![Select Add existing library to table](<../.gitbook/assets/Screenshot 2022-08-03 115141.png>)
 
-Now navigate to `lib/` and select `calstar.lib`.  The window should end up looking like this:
+Now navigate to `lib/` and select `calstar.lib`.  However, we want to replace the calstar library path with ${KIPRJMOD}/../calstar.lib.  Relative path is applicable on any machine, while your absolute path (i.e. C:/Users/Cedric/......./lib/calstar.lib) isn't.  The window should end up looking like this:
 
-![Properly included calstar symbols library](<../.gitbook/assets/image (78).png>)
+![](<../.gitbook/assets/Screenshot 2022-08-02 215000.png>)
 
 Hit `Ok` and now go back to the KiCad project window.&#x20;
 
@@ -126,13 +128,13 @@ At this point, open up the altimeter datasheet and read the first few pages to g
 
 Now, search the datasheet to find a reference schematic for how the BMP388 should be hooked up with resistors ('R') and capacitors ('C') for I2C operation. Place components to hook it up as specified, with `I2C Address Pin Select` connected to ground. This pin determines one of the bits of the I2C address the microcontroller will use to address the altimeter. Note that we will be using both `VDD` and `VDDIO` as `+3.3V`. At this point, connections to `CSB`, `INT` (for interrupt), `SCL`, and `SDA` will be unfinished. These pins will all be connected to the microcontroller, with `CSB` by recommendation of the datasheet.
 
-Now you must determine which pins of the microcontroller to connect these to (none of the pins on the microcontroller hierarchical block are named `SDA` or `SCL`!). For `SCL` and `SDA` it must be particular pins meant for I2C on the microcontroller. You can find these by looking in the microcontroller datasheet. For `CSB` and `INT`, it does not matter as long as they are general purpose input-output pins (there are some more details for `INT` but it does not mater for the microcontroller we are using). However, for consistency, connect `CSB` to `PB9` and `INT` to `PB8`. Note that you can use global labels to clean up the schematic and prevent wires from going all over the place. Connect a wire to a named global label (e.g. "SDA") and then use another global label elsewhere. Example below
+Now you must determine which pins of the microcontroller to connect these to (none of the pins on the microcontroller hierarchical block are named `SDA` or `SCL`!). For `SCL` and `SDA` it must be particular pins meant for I2C on the microcontroller. You can find these by looking in the microcontroller datasheet. For `CSB` and `INT`, it does not matter as long as they are general purpose input-output pins (there are some more details for `INT` but it does not mater for the microcontroller we are using). However, for consistency, connect `CSB` to `PB9` and `INT` to `PB8`. Note that you can use net labels to clean up the schematic and prevent wires from going all over the place. Connect a wire to a named net label (e.g. "SDA") and then use another net label elsewhere. Example below
 
-![Place a global label by hitting this button in the right toolbar](<../.gitbook/assets/image (29).png>)
+![Place a net label by hitting this button in the right toolbar](<../.gitbook/assets/Screenshot 2022-08-03 120351.png>)
 
-![Using global lables](<../.gitbook/assets/image (30).png>)
+![Using net lables](<../.gitbook/assets/Screenshot 2022-08-03 130538.png>)
 
-#### &#x20;Annotating schematic symbols and electrical rule check
+Annotating schematic symbols and electrical rule check
 
 Now that the schematic is 'complete', it is time to get rid of those question marks. To do this, hit the `Annotate schematic symbols` button in the top toolbar. When its window pops up, hit `Annotate` and then `Close`. Now all the question marks will be replaced with numbers. These are called reference designators, so components can be easily identified. An example, `R6`, for example, means "Resistor 6".&#x20;
 
@@ -144,7 +146,7 @@ Now hit the button next to `Annotate schematic symbols`, `Perform electrical rul
 
 ![](<../.gitbook/assets/image (40).png>)
 
-This is because the pin on the altimeter is not set as a power input pin, but is connected to power. To fix this, hit `a` and then search `Net`. Select and place `Net-Tie_2` as below. Annotate schematic symbols again and then run electrical rules check. This should get rid of that warning.&#x20;
+This is because the pin on the altimeter is not set as a power input pin, but is connected to power. To fix this, hit `a` and then search `Net`. Select and place `Net-Tie_2` as below. Annotate schematic symbols again and then run electrical rules check. This should get rid of that warning. In practice, net ties can be used like that, but are usually used to connect analog ground to digital ground.&#x20;
 
 ![Net Tie](<../.gitbook/assets/image (12).png>)
 
@@ -201,7 +203,7 @@ Just as we set up KiCad to include a calstar schematic symbol library, we will n
 
 As in the previous setting up libraries step, open up the KiCad project (`.pro`) file, and select `Manage Footprint Libraries...`.
 
-![Manage Footprint Libraries](<../.gitbook/assets/image (70).png>)
+![Manage Footprint Libraries](<../.gitbook/assets/Screenshot 2022-08-03 132006.png>)
 
 Navigate to the `Project Specific Libraries` tab and then hit `Add existing library to table`.&#x20;
 
@@ -209,13 +211,13 @@ Navigate to the `Project Specific Libraries` tab and then hit `Add existing libr
 
 Navigate to `lib` and select the `calstar.pretty` folder. Hit `Ok` and you should end up with the following.
 
-![](<../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/Screenshot 2022-08-03 132905 (1).png>)
 
 #### Setting up the PCB
 
 First, fill the PCB with the components from the schematic by, after the schematic is annotated and ERC'd (electrical rule check), running `Tools > Update PCB from Schematic...`.&#x20;
 
-![Updating PCB from schematic](<../.gitbook/assets/image (7).png>)
+![Updating PCB from schematic](<../.gitbook/assets/Screenshot 2022-08-03 134552.png>)
 
 Then hit `Update PCB`.
 
@@ -227,7 +229,7 @@ Then hit `Close` and you should see a clump of components in the layout window. 
 
 At this point, to understand what is going on in the above picture, read the following section in our Board Design Reference tutorial: [https://calstar.gitbook.io/docs/tutorials/avionics/board-design#making-a-layout](https://calstar.gitbook.io/docs/tutorials/avionics/board-design#making-a-layout).
 
-Before continuing to actually drawing traces and placing components, you must setup the board and rule checker. Here, you set options such as the number of copper layers in the board, the board thickness, minimum trace thickness, trace clearances, via sizes, etc. These will affect how you can place components and route traces in the board. Many of these values depend on our fabrication house capabilities ([https://bayareacircuits.com/capabilities/](https://bayareacircuits.com/capabilities/), we stick to standard), while others such as board thickness are derived from considerations of our radio.
+Before continuing to actually drawing traces and placing components, you must setup the board and rule checker. Here, you set options such as the number of copper layers in the board, the board thickness, minimum trace thickness, trace clearances, via sizes, etc. These will affect how you can place components and route traces in the board. Many of these values depend on our fabrication house capabilities ([https://bayareacircuits.com/capabilities/](https://bayareacircuits.com/capabilities/), we stick to standard), while others such as board thickness are derived from considerations of our radio.  You should follow the HOPE PCB Requirements since it is good practice: [https://docs.google.com/document/d/1XIp4hQyu5kEEh66-nD2Bew6qIBCuiEiuqHCNkp3XYyc/edit](https://docs.google.com/document/d/1XIp4hQyu5kEEh66-nD2Bew6qIBCuiEiuqHCNkp3XYyc/edit)
 
 Hit the `Board setup` button to input these values.&#x20;
 
@@ -252,9 +254,9 @@ First select the `Edge.Cuts` layer where you will draw the boundaries of the boa
 
 ![Select Edge.Cuts from this menu](<../.gitbook/assets/image (15).png>)
 
-Now select `Add graphic lines` from the right toolbar and draw a roughly 1.5 inch by 1.5 inch square around the components. This will be more space than needed for this board, but you can later adjust the edges to different aspect ratios if you wish. Hold `Ctrl` to make the lines go straight, and look in the bottom left to see length of segment.
+Now select `Add lines` from the right toolbar and draw a roughly 1.5 inch by 1.5 inch square around the components. This will be more space than needed for this board, but you can later adjust the edges to different aspect ratios if you wish. Hold `Ctrl` to make the lines go straight, and look in the bottom left to see length of segment.
 
-![Add graphic lines](<../.gitbook/assets/image (86).png>)
+![Add lines](<../.gitbook/assets/image (86).png>)
 
 You should end up with something like the following.
 
@@ -337,7 +339,12 @@ With going directly to writing firmware for main logic, this intro project is sk
 
 #### Setup
 
-The first step is to setup [SIL ](https://github.com/calstar/SIL)for the intro project. SIL is a software simulation tool that allows us to run our firmware intended for hardware, without the hardware. This allows us to test and debug our code, make faster iterations, and test changes to code even when we are not in the lab.
+The first step is to setup [SIL ](https://github.com/calstar/SIL)for the intro project. SIL is a software simulation tool that allows us to run our firmware intended for hardware, without the hardware. This allows us to test and debug our code, make faster iterations, and test changes to code even when we are not in the lab.  If you use Windows, use WSL to clone and run SIL instead of Vagrant from the README.
+
+If you are using WSL:
+
+* To compile main.cpp, run: make code0=\[relative-path-to-main.cpp]/main.cpp in SIL directory.
+* If necessary, install python2 in WSL using: sudo apt install python.
 
 Download the files below. These are configuration files for SIL. The rocket configuration file defines parameters of the rocket such as weight, drag, parachutes, and then microcontrollers and pin connections for our avionics. The simulation config file defines environment parameters such as ground height and simulation parameters such as how to record data and what tests to run. These config files have been pre-made for the intro project, but you may have to define your own for future projects.
 
@@ -369,7 +376,13 @@ The interface to deploy parachutes for our firmware is through general purpose i
 
 #### Logic
 
-Your code should deploy the drogue parachute at (or soon after) apogee, and deploy the main parachute at 600ft above the ground.
+Your code should deploy the drogue parachute at (or soon after) apogee, and deploy the main parachute at 600ft above the ground. For your convenience, Khai wrote a nice python script that compiles all the data from the flight into a PNG file:
+
+{% file src="../.gitbook/assets/grapher.py" %}
+Place into your /SIL directory and make necessary edits
+{% endfile %}
+
+![Your data should look like this](../.gitbook/assets/altitude.png)
 
 #### Specification List
 
@@ -385,3 +398,6 @@ Resources
 
 * [SIL](https://github.com/calstar/SIL)
 * [Pressure Altitude](https://www.weather.gov/media/epz/wxcalc/pressureAltitude.pdf)
+* [SPI](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol/)
+* [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/)
+* [UART](https://www.circuitbasics.com/basics-uart-communication/)
