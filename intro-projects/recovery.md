@@ -12,22 +12,24 @@ Welcome to the Recovery specialty's intro/returning project page! Glad you're he
 
 The recovery specialty is tasked with safely landing the launch vehicle. This responsibility requires working with constraints set in each project, attention to detail, and producing creative and efficient solutions. We work on numerous different components that are essential to the safe landing of the rocket including but not limited to: parachute size and geometry selection, parachute deployment altitude selection, ejection and separation mechanics, and avionics sled design. We require a general understanding of mechanics, electronics, simulations, physics, and more.
 
-For any questions/help please feel free to reach out to Recovery specialty lead Michael at office hours or online through Discord or email. We also have mentors you will be assigned to as advisors (and friends) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help!&#x20;
+For any questions/help please feel free to reach out to Recovery specialty lead Cassidy at office hours or online through Discord or email. We also have mentors you will be assigned to as advisors (and friends) this year so feel free to contact them with any questions. Office Hour times are listed below. OH are highly encouraged if you need help!&#x20;
 
-* Michael Karish | Recovery Specialty Lead
+* Cassidy Powers | Recovery Specialty Lead
   * OH: TBD or ping me on discord
-  * Email: michael.karish@berkeley.edu
-  * Discord: michaelkarish
+  * Email: cassidypowers@berkeley.edu
+  * Discord: cassidy\_powers
 
 {% hint style="info" %}
 **Workshops:** There will be these workshops during the onboarding period:\
-1\. Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness (9/23/21)
+1\. (09/15) - CAD (demonstration on how to use Solidworks computer modeling software)
 
-2\. Openrocket (9/30/21)
+2\. (09/22) - Openrocket/Parachute Sizing
 
-3\. Folding parachutes, folding shock cord, and tying shock cord
+3\. (09/29) - Visual demonstrations of the avionics bay, avionics bay wiring, and parachute harness (9/23/21)
 
-4\. General manufacturing.
+4\. (10/06) - General manufacturing
+
+5\. (TBD) - Mock Build Day, Parachute packing, black powder weighing, ground test
 {% endhint %}
 
 ## **New Member Project **_**(18 hrs)**_
@@ -45,7 +47,7 @@ The deliverables of the project should be presented at the final GM of the onboa
 
 ### **Task 1 | Jacob's Trainings **_**(Urgent!**_) (5 hours)
 
-**Due: October 16th**
+**Due: October 13th**
 
 **Deliverable:** Screenshots of completed trainings from bCourses.
 
@@ -73,7 +75,7 @@ Coordinate with your teammates to sign up for in person trainings together!&#x20
 
 ### **Task** 2 **| Stage Separation Flow Chart **_**(2 hrs)**_
 
-**Due: October 16th**
+**Due: September 29th**
 
 **Deliverable:** Filled out flow chart breaking down of each event of stage separation. Cover possibilities of both success and failure at each event and the resulting situation. Remember our main goal is safe recovery of the rocket.&#x20;
 
@@ -101,7 +103,7 @@ In understanding the recovery steps of Stage Separation, you will grasp the reco
 
 ### **Task** 3 **| Parachute Selection **_**(3 hrs)**_
 
-**Due: October 16th**&#x20;
+**Due: October 6th**&#x20;
 
 **Deliverable:** Filled out chart with calculations and work. What you think the best option is given the constraints provided and justification of your choice. _(Use the Arktos OpenRocket file attached at the bottom of this section)_
 
@@ -148,7 +150,7 @@ __This link has a quick explanation on how to calculate kinetic energy in ft\_lb
 
 ### **Task 4| Avionics Bay Assembly **_**(6 hrs)**_
 
-**Due: October 16th**
+**Due: October 13th**
 
 **Deliverable**: A brief write up presenting your design (include pictures of the full assembly) and explaining your design methodology and decisions.
 
@@ -190,7 +192,7 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 
 ### Task 5| Mentorship (3 hours)
 
-**Due: October 16th**
+**Due: October 13th**
 
 **Deliverable:** Meet for at least an hour with three returning recovery members. Ask for any help you need on your intro projects and get to know each other.\
 \
