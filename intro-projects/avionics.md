@@ -37,13 +37,6 @@ Part of this will be guided, showing basic KiCad usage, but other parts of the s
 
 First, download the zip file above. It will contain two folders: `intro_proj` and `lib`. The `intro_proj` folder contains a KiCad project which you will complete. In this section you will complete the schematic. The `lib` folder contains schematic symbols and component footprints you will need.
 
-I highly recommend looking at some of the following schematics to get a feel for how they generally should look. However, don't feel the need to make yours this polished (in particular comments and bounding boxes).
-
-* [CalSTAR Groundstation](https://cadlab.io/project/22830/master/files)
-* [CalSTAR Blackbox](https://cadlab.io/project/22832/master/files)
-
-
-
 #### Setting up libraries
 
 In `intro_proj`, open up `intro_proj.pro`, the KiCad project. We will now make sure that the calstar schematic symbol library in `lib` is included.

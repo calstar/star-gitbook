@@ -47,7 +47,7 @@ The deliverables of the project should be presented at the final GM of the onboa
 
 ### **Task 1 | Jacob's Trainings **_**(Urgent!**_) (5 hours)
 
-**Due: October 16th**
+**Due: October 13th**
 
 **Deliverable:** Screenshots of completed trainings from bCourses.
 
