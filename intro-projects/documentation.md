@@ -1,10 +1,10 @@
 ---
-description: We make documents! (Including this GitBook)
+description: We make and maintain documents! (Including this GitBook)
 ---
 
 # Operations
 
-Operations is still a developing specialty. The intro project should be a reflection of what a member of operations should expect to do. This adds to the existing intro project by integrating other parts of operations. It consists of three sections: documentation, safety, and logistics. It should take under two hours to complete. If any of the project is confusing or ambiguous, please reach out to Michael C. (Ops Lead) on discord.&#x20;
+The Operations intro project will reflect what a member of operations should expect to do. It consists of three sections: documentation, safety, and logistics; and should take under two hours to complete. If any of the project is confusing or ambiguous, please reach out to Rocklin (Ops Lead) on discord.
 
 ### Documentation&#x20;
 
