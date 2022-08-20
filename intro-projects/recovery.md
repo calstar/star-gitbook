@@ -177,7 +177,7 @@ Creating CAD models is a skill every engineer should have down and recovery is n
   * **Outer Diameter:** 3.900" (9.91 cm)
 
 {% hint style="info" %}
-**CADs of a 9V battery and a Stratologger Altimeter:** [https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv](https://drive.google.com/open?id=1YP8dbC0DgkeTvMOsvlSa2kKPlNZkGhRv)
+**CADs of a 9V battery and a Stratologger Altimeter:** [**https://drive.google.com/drive/folders/1mKPF4cOOXk0YaSNkeCsWYUEElXhLPK8q?usp=sharing**](https://drive.google.com/drive/folders/1mKPF4cOOXk0YaSNkeCsWYUEElXhLPK8q?usp=sharing)****
 {% endhint %}
 
 {% hint style="info" %}
