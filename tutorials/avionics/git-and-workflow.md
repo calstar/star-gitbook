@@ -11,10 +11,10 @@ You'll find all of Avionics' sources on our [Github](https://github.com/calstar)
 ## Setting Up
 
 {% hint style="info" %}
-Windows 10 supports running a proper Linux development environment using [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). Installing and using this is highly recommended on Windows. 
+Windows 10 supports running a proper Linux development environment using [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about). Installing and using this is highly recommended on Windows.&#x20;
 {% endhint %}
 
-Make sure you have a Github account and you have joined the Github STAR org Avionics team by messaging the avionics lead \(currently Neelay Junnarkar @neelay.junnarkar\). For git installation, see [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). 
+Make sure you have a Github account and you have joined the Github STAR org Avionics team by messaging the avionics lead (currently Cedric Murphy @Andalite1999#4769). For git installation, see [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).&#x20;
 
 ## Quick-links
 
@@ -38,29 +38,39 @@ Short list:
 5. Submit a pull-request on Github.
 6. When approved, merge into master!
 
-### Cloning \(downloading\) repositories
+### Cloning (downloading) repositories
 
-Clone the "repo" onto your local computer in by running the following command in terminal: 
+Clone the "repo" onto your local computer in by running the following command in terminal:&#x20;
 
-```text
-git clone https://github.com/calstar/NAME_OF_REPO.git
+```
+git clone --recurse https://github.com/calstar/NAME_OF_REPO.git
 ```
 
-This will copy the repo and all its current files into your directory. Make sure to read through the relevant documentation in the repo before making any changes. 
+This will copy the repo and all its current files into your directory. Make sure to read through the relevant documentation in the repo before making any changes.&#x20;
+
+## Submodules
+
+The `--recurse` (short for `--recurse-submodules`) tag tell the computer to execute&#x20;
+
+```
+$ git submodule update --init --recursive
+```
+
+after cloning. For libraries that are used in multiple repositories, such as `hardware-sch-blocks,` it is cleaner to create a separate repository for the library and embed it as a submodule instead. Because submodules are not normally downloaded with git clone, `--recurse` is necessitated. For a thorough guide, see [tutorial](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 ### Branching
 
-A branch is a separate copy of a git repo that can have its own changes separate from other branches. A branch can later be incorporated back into the "master" \(main\) branch. We use branches to develop and test changes before we merge them into master, which we expect to remain stable and flight-ready.
+A branch is a separate copy of a git repo that can have its own changes separate from other branches. A branch can later be incorporated back into the "master" (main) branch. We use branches to develop and test changes before we merge them into master, which we expect to remain stable and flight-ready.
 
 Create and checkout a new branch:
 
-```text
+```
 git checkout -b branchname
 ```
 
 Switch to an existing branch:
 
-```text
+```
 git checkout branchname
 ```
 
@@ -70,20 +80,20 @@ Edit or create files with your desired text editor, which should be vim.
 
 Register changes with git using `git add`. For example if `a.txt` is a new file and `b.txt` is a modified file, do:
 
-```text
+```
 git add a.txt b.txt
 ```
 
 Then, "commit" changes into git. This saves changes into a snapshot which you can look back at.
 
-```text
+```
 git commit -m "This is where you add a brief, yet descriptive 
                 explanation of what you created or changed"
 ```
 
-Often you will work with other members on a change on a given branch, so the new changes \(the commits\) on the branch will need to be pushed to Github. Do this by running:
+Often you will work with other members on a change on a given branch, so the new changes (the commits) on the branch will need to be pushed to Github. Do this by running:
 
-```text
+```
 git push
 ```
 
@@ -95,13 +105,13 @@ The first time you do this from a new branch, git will tell you that no remote e
 
 Often, there will be many commits on a branch. To keep git history on the main branch concise and informative, we often squash the commits on a branch into a single commit that describes the whole change. There are two primary ways of doing this:
 
-```text
+```
 git rebase -i HEAD~[NUMBER OF COMMITS]
 ```
 
 or
 
-```text
+```
 git rebase -i [SHA of commit one before the series of commits you want to squash]
 ```
 
@@ -109,7 +119,7 @@ git rebase -i [SHA of commit one before the series of commits you want to squash
 
 While squashing changes gives a single commit that describes the entire change of a branch, rebasing onto master ensures linear commit history of the master branch in case there have been changes on master since your change branch was created. Rebasing does this by essentially taking the current master branch and replaying all your changes on the change branch onto the new master. Rebase onto master, once commits are squashed, by doing the the following from the changes branch.
 
-```text
+```
 // From the changes branch.
 git fetch origin
 git rebase master
@@ -133,38 +143,27 @@ Some commands you will find useful.
 
 Show commit history:
 
-```text
+```
 git log
 ```
 
-Optional: Download [http://leo.adberg.com/gitconfig](http://leo.adberg.com/gitconfig) and save as ~/.gitconfig \(replacing user info\)  
+Optional: Download [http://leo.adberg.com/gitconfig](http://leo.adberg.com/gitconfig) and save as \~/.gitconfig (replacing user info)\
 To see a view of all commits and branches:
 
-```text
+```
 git lg
 ```
 
-To see the status of your local repo, you can run: 
+To see the status of your local repo, you can run:&#x20;
 
-```text
-git status
 ```
-
-## Submodules
-
-Git submodules can be quite intimidating. See this [tutorial](https://git-scm.com/book/en/v2/Git-Tools-Submodules). It is long, but covers everything you will need.
-
-Avionics uses submodules for some library repositories that are commonly used, such as `hardware-sch-blocks`.
-
-The most common command you will have to run is to, after cloning a repo, run
-
-```text
-$ git submodule update --init --recursive
+git status
 ```
 
 ## Git Workshop Slides
 
 These slides have nice descriptive diagrams! Check it out!
 
-{% file src="../../.gitbook/assets/git-workshop.pdf" caption="Slides" %}
-
+{% file src="../../.gitbook/assets/git-workshop.pdf" %}
+Slides
+{% endfile %}
