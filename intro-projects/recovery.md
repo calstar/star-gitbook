@@ -53,18 +53,18 @@ The deliverables of the project should be presented at the final GM of the onboa
 
 The majority of our manufacturing will be done in the Jacob's Hall Maker Space. It is a great place to work on a variety of projects with numerous tools and super helpful staff. We would like you to complete laser cutter training, electronics lab training, water jet training, and metal shop training as these are the tools or sets of tools we use that require in person trainings. After this introduction to the Jacobs makerspace, you will no doubt use your pass for projects outside of STAR including personal projects and also some classwork.
 
-**We would like you to complete laser cutter training and electronics lab training. Also complete at least one of water jet training and metal shop training.**&#x20;
+**We would like you to complete laser cutter training and electronics lab training.**&#x20;
 
-**Apply for a Maker Pass by September 12th. This will not guarantee you a pass. Jacob's will let you know if you get a pass or not by September 20th.**\
+**Apply for a Maker Pass by September 12th. This will not guarantee you a pass. Jacob's will let you know if you get a pass or not by TBD.**\
 \
 After applying for a Maker Pass, you need to complete the "General Workshop Safety" (GWS) online module that will be linked when you complete the application. Then you will need to complete an online training (in the same bCourses class as GWS) for each piece of equipment you want to use. Then you will need to attend an in person training for all of the above pieces of equipment or sets of equipment. Trainings are not more than 2 hours. 3D printing is also an important part of Recovery but only online trainings are required for use.
 
 Coordinate with your teammates to sign up for in person trainings together!&#x20;
 
-**Contact Michael if you are unable to get a Maker Pass. There are other makerspaces on campus so we can figure something out.**
+**Contact Cassidy if you are unable to get a Maker Pass. There are other makerspaces on campus so we can figure something out.**
 
 {% hint style="warning" %}
-**Note:** A Maker Pass costs $100 per semester unless you are able to get a fee waiver for demonstrated financial need. If you have any concerns, please let me or Michael Celebrado (Operations Lead) know and we can definitely work something out to help you purchase one.
+**Note:** A Maker Pass costs $100 per semester unless you are able to get a fee waiver for demonstrated financial need. If you have any concerns, please let me or Rocklin (Operations Lead) know and we can definitely work something out to help you purchase one.
 {% endhint %}
 
 {% hint style="info" %}
@@ -167,7 +167,7 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 
 **You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries**. We have provided the appropriate airframe and altimeter models that we frequently use below. You should create models for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above models, make an assembly of the entire avionics bay with all the components inside and properly constrained.&#x20;
 
-**Note:** We also require the avionics bay be CAS compatible, this is the custom made electronics designed by our Avionics specialty! It has the dimensions of a 2x2x2 in cube.&#x20;
+****
 
 * **Outer**
   * **Inner Diameter:** 3.900" (9.91 cm)
@@ -185,7 +185,7 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 {% endhint %}
 
 {% hint style="info" %}
-**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is the most difficult part of the project especially if you do not have CAD experience. Please see Michael, your mentors, or any of the other returning members if you have any questions; we want to help!&#x20;
+**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is the most difficult part of the project especially if you do not have CAD experience. Please see Cassidy, your mentors, or any of the other returning members if you have any questions; we want to help!&#x20;
 {% endhint %}
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
