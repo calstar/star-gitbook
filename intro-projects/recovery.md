@@ -29,7 +29,7 @@ For any questions/help please feel free to reach out to Recovery specialty lead 
 
 4\. (10/06) - General manufacturing
 
-5\. (TBD) - Mock Build Day, Parachute packing, black powder weighing, ground test
+5\. (TBD) - Mock Launch Day, Parachute packing, black powder weighing, ground test
 {% endhint %}
 
 ## **New Member Project **_**(18 hrs)**_
