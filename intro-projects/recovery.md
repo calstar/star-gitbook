@@ -190,13 +190,13 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Task 5| Mentorship (3 hours)
+### Task 5| Mentorship (2 hours)
 
 **Due: October 13th**
 
-**Deliverable:** Meet for at least an hour with three returning recovery members. Ask for any help you need on your intro projects and get to know each other.\
+**Deliverable:** Meet for at least an hour with two returning recovery members. Ask for any help you need on your intro projects and get to know each other.\
 \
-Once you decide to join Recovery, you will be assigned 3 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!\
+Once you decide to join Recovery, you will be assigned 2 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!\
 \
 If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors or other returning Recovery members for more help.
 
