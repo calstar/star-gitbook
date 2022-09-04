@@ -1,8 +1,8 @@
 ---
 description: >-
   The 2021 payload intro project is designed to be a comprehensive and
-  interesting way of introducing new members to the all of the common tasks done
-  by the team.
+  interesting way of introducing new members to all of the common tasks done by
+  the team.
 ---
 
 # Payload
@@ -63,7 +63,7 @@ Please fill out your quiz on the Google Form here: [https://forms.gle/ZEMbka2P36
 
 #### Design Objective Outline
 
-Our goal is to build a mini robotic rover that fits inside a 4” inner diameter payload tube. Another team has already done the task of picking out the electronics, sensors, and wheels. Your task is to design and prototype the rover’s chassis– a structure to mount all of the sensors, battery and wheels. After that, you will build your design, but without the electronics.
+Our goal is to build a mini robotic rover that fits inside a 4” inner diameter payload tube. Another team has already done the task of picking out the electronics, sensors, and wheels. Your task is to design and prototype the rover’s chassis—a structure to mount all of the sensors, battery and wheels. After that, you will build your design, but without the electronics.
 
 #### Requirements
 
@@ -97,7 +97,7 @@ _**Detailed Design Requirements:**_
 
 Your rover may be as elaborate or simple as you'd like, but it should adhere to the above requirements, and should be able to be manufactured given the resources and parts that Jacobs and STAR are providing.
 
-### Designing in Solidworks
+### Designing in SolidWorks
 
 {% hint style="info" %}
 **Checkpoint: Week of \[TBD] | Workshop 1: \[TBD] see #announcements on Discord for more information**
