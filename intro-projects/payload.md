@@ -1,6 +1,6 @@
 ---
 description: >-
-  The 2021 payload intro project is designed to be a comprehensive and
+  The 2022 payload intro project is designed to be a comprehensive and
   interesting way of introducing new members to all of the common tasks done by
   the team.
 ---
