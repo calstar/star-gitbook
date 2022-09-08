@@ -146,38 +146,30 @@ Project Mentor Options:&#x20;
   * Goal: Design an ultralight, space efficient, flight-optimized propellant tank
   * Complications: Structure, Chemical Reactivity, Sealing, Wire Routing
   * Research/Resources:
-*
-  * [ Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
-* Create Airframe-Integrated Tank
-* Plan Pressure, Cycle, and Temperature Test
+    * [ Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
+    * Create Airframe-Integrated Tank
+    * Plan Pressure, Cycle, and Temperature Test
 * Valve Design and Testing: - Justin, Pranit
-*
   * Goal: Design a lightweight, high-precision, high-flow main propellant control valve
   * Complications: Control Speed/Accuracy, Fluid Type, Actuation Method
   * Research Links
-  *
     * Pyro Valves: Main Actuators for LE2!
     * Flow-Control Valves: Precisely Control Flow Rates/Pressure Drops with physical actuation
-    *
-      * [Needle Valve](https://youtu.be/CzBB1CEAAS4)
-      * [Bang-Bang Valve](https://youtu.be/eX7fBt0pJwk)
+    * [Needle Valve](https://youtu.be/CzBB1CEAAS4)
+    * [Bang-Bang Valve](https://youtu.be/eX7fBt0pJwk)
     * Servo-Actuated [Ball Valves](https://theengineeringmindset.com/the-basics-of-ball-valves-explained/): ELLIE Main Valves!
     * [https://en.wikipedia.org/wiki/Pyrotechnic\_valves](https://en.wikipedia.org/wiki/Pyrotechnic\_valves)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
     * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
 * Remote Pressurization Line Disconnect System- Scout, Rachel
-*
   * Goal: Remotely yank pressurization lines off rocket before launch. Develop understanding of avionics and control logic.
   * Resources:
-  *
     * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
     * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
 * Propulsion System Modeling- Liam, Dylan
-*
   * Goal: Model a simplified rocket in Simulink. Optimize a thrust curve for exactly 10,000 ft apogee target. Develop understanding of modeling and control
   * Resources:
-  *
     * [Simulink Modeling - Feed Systems](https://drive.google.com/file/d/13sZ0Y6N4bCdf\_QgLgTDrhz9q7u7sj6Qm/view?usp=sharing)
     * [Intro to Optimization](https://docs.google.com/presentation/d/1WN75i01ckPoMVYoqD23YH-e8cbf3BI9Y8Y-eZ1Xmk2k/edit?usp=sharing)
 
