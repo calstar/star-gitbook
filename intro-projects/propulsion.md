@@ -63,104 +63,121 @@ There will also be an in person workshop on the LE2 feed system! We encourage yo
 
 * Readings:
   * Solid Rocket
+    * [Video of NASA’s solid rocket booster](https://www.youtube.com/watch?v=7ChDT4kj3oE)
+    * [How Rocket Engines Work](https://science.howstuffworks.com/rocket.htm#pt3)
+      * Read Solid-fuel Rockets: Fuel Mixture&#x20;
+      * Read Solid-fuel Rockets: Channel Configuration
+    * [Rocket and Space Technology: Solid Propellants](http://www.braeunig.us/space/propel.htm#solid)
+      * Read Solid Propellants
+    * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+      * Read pg 9, section 1.5.1.1
+      * Pay special attention to the fig 1.5a. What are the six parts of a solid rocket listed? Excluding “payload,” can you say what each part does?
+    * BONUS: [Solid Rocket Grain Design](https://www.youtube.com/watch?v=xDl\_LO6nOnI\&t=58s)
+  * Liquid Rocket
+    * [Video: Liquid Propellant Rocket Engine](https://www.youtube.com/watch?v=9Y3fG-YrIII)
+    * [Rocket & Space Technology - Solid Propellants](http://www.braeunig.us/space/propel.htm#liquid)
+      * Read Liquid Propellants
+    * [How Rocket Engines Work](https://science.howstuffworks.com/rocket.htm#pt5)
+      * Read Liquid-Propellant Rocket
+    * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+      * Read pg 12, section 1.5.1.2
+    * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
+      * Section 1.2 on page 4
+  * Feed Systems
+    * [Video: Propellant Feed Systems](https://www.youtube.com/watch?v=tOrELhwdMAg)
+    * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+      * Read pg 357, 10.8.1 Liquid-Propellant Feed System&#x20;
+      * Reach pg 360, 10.8.1.1 Gas Pressure Feed System
+    * [How Does a Pressure Regulator Work](https://www.fluidcontrols.co.uk/how-pressure-regulators-work/)
+    * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
+      * Read section 6.3-6.4 (up to table 6-5) on page 203
+    * BONUS: [Liquid Propellant Feed Systems](https://aerospacenotes.com/liquid-propellant-feed-systems/)
 
-## Week 3.
+## Week 3: Valves, Injectors, and Thrust Chambers
 
-Like Week 2, but with a focus on injectors and thrust chambers of liquid propulsion systems.
+This week you will be expected to have completed the slides from week 2. You will also be assigned new slides for this week, due next week. Since the sources are so short, the slides for this week are mostly filled out, with the hope that completing them should take each person about an hour.&#x20;
 
-* [Injector overview from Rocket Propulsion Elements](https://wodeshu.gitee.io/roprop/text00011.html#c08)(Relevant bit is section 8.1 up to figure 8-6)
-* [A bit about specifically pintle injectors](http://pintleinjector.blogspot.com/2016/12/pintle-injector.html)
-* [Thrust Chamber Overview from RPE ](https://wodeshu.gitee.io/roprop/text00011.html#head-2-88)(Beginning of Ch 8 up to section 8.1)
-* [RPE Cooling methods](https://wodeshu.gitee.io/roprop/text00011.html#head-2-88) (section 8.2 up to "Film Cooling")
-* [Cooling methods](https://aerospacenotes.com/propulsion-2/cooling-in-liquid-rocket/)
+\
+There will also be an in person workshop on RPA! We encourage you to attend, but if that is not possible, it will be recorded.
 
-## Week 4-5.
+* Injectors
+  * [Bi-Liquid Injectors](https://youtu.be/pE0q4vrhkMU)
+  * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
+    * Read section 8.1 on page 276, up to injector flow characteristics&#x20;
+  * [Pintle Injectors](http://pintleinjector.blogspot.com/2016/12/pintle-injector.html)
+  * [Impinging Injectors Video](https://www.youtube.com/watch?v=watzSDCZeXM)
+* Valves
+  * [design fundamentals](https://youtu.be/W1QYuh9BXao)
+* Thrust Chambers
+  * [Cooling in Liquid Rockets](https://aeronotes.weebly.com/cooling-in-liquid-rocket.html)
+  * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
+    * Read intro to chapter 8 on page 271&#x20;
+    * Read section 8.2 on page 285 up to “Film Cooling” on page 2
+  * [STAR Gitbook RPA instructions](https://rocketry.gitbook.io/docs/tutorials/propulsion/rocket-propulsion-analysis-tutorial)
+    * We will also have a workshop on this&#x20;
+* Bonus Material:
+  * [Propulsion Systems Lectures](https://ocw.mit.edu/courses/16-50-introduction-to-propulsion-systems-spring-2012/pages/lecture-notes/)
+  * Famous/Exciting Rocket Stuff!!
+    * [RIP Robert Goddard](https://www.nasa.gov/missions/research/f\_goddard.html)
+    * [RD-180: Absolute Legend](https://www.technologyreview.com/2019/06/26/134490/spacex-blue-origin-russian-rd180-rocket-engine-design/)
+    * [Copenhagen Suborbitals Project](https://youtu.be/IkRE2ogHrdc)
+  * [Workshop Recordings](https://drive.google.com/drive/u/0/folders/1kCIn9Z-NuIFim6WLNRcDuI9-HEB9zsh7), [Feed System Presentations](https://drive.google.com/drive/u/0/folders/1kCIn9Z-NuIFim6WLNRcDuI9-HEB9zsh7)
+  * [STAR Gitbook Resources](https://rocketry.gitbook.io/public/tutorials/propulsion)
 
-Now you should be prepared to design your very own very basic liquid rocket engine. First, let's go over some of the resources you'll have at your disposal.
+## Week 4-5: Technical Project Starts&#x20;
 
-* A video presentation series that Trevor gave in the Spring of 2020 which goes over a liquid engine design, piping components, how to read a P\&ID diagram, and how to understand procedures. Under Spring 2020 Feed systems presentations
-* A presentation on feed system design, **you should definitely watch this one!** Under Spring 2020, called Feed System Design&#x20;
-  * A pre-requisite viewing before this one is the Pipes and Fittings presentation under the Spring 2020 Feed System Design Presentations
-* Everyone should watch at least 2 presentations, the Pipes and Fittings presentation and the Feed System Design presentation in order to aid you on the P\&ID section of the intro project
-* [Video presentations here](https://drive.google.com/drive/u/1/folders/1D6NbMThCN456255a8t0DgSJaBS\_EkZjS)
-* [This tutorial on how to use Rocket Propulsion Analysis](https://www.youtube.com/watch?v=F3W3zZj4zX4) (There are more tutorials elsewhere on this Gitbook)
-* Of course, you always have your mentor, other people in your group, and feel free to message Trevor or Aarabhi.
+You finished your readings!! Now, you will be assigned a technical mentor. This is different from your previous one because your project mentor will be the person who is in charge of a technical project on our LE2 rocket! Depending on what you would like to learn, you can choose who to work with.&#x20;
 
-As for your design, you'll have to present four different things: your feed system design, thrust chamber design, injector design, and basic procedures. These can be shared or split up as a team. I would recommend multiple people working on each component, as some are admittedly more exciting and interesting than others, but all are important for everyone on the team to understand.
+Weekly office hours and meetings will be provided by your new mentor!. Also, never be afraid to reach out for help - ask anyone you feel comfortable with. It is better to ask for clarification on something that might seem obvious than to spend hours confused.&#x20;
 
-If you don't understand what you are supposed to do or are stuck, please come to office hours! I will basically give you the answer to help you learn throughout this process.&#x20;
+In the end, we require a short slide deck of what you have learned from your research.&#x20;
 
-**Feed system design:**
-
-* Which feed system type would you use for your design? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method.
-* A Piping and Instrumentation Diagram (P\&ID) should be made for your propulsion system. You should watch the pipes and fittings presentation along with the feed system design presentation, both linked above, in order to learn how to create the P\&ID design.
-
-Components to use in your P\&ID:
-
-* Check valves
-* Ball valves
-* Relief valve
-* Regulator
-* T intersections/other multi-way fittings
-* Standalone regulators and nitrogen tank regulators (if necessary)&#x20;
-* Other components can be used if desired
-
-Deliverables:
-
-* A complete P\&ID for your feed system, similar to the design shown in the video
-* A slide detailing your feed system type choice.&#x20;
-
-&#x20;
-
-**Thrust chamber design:**
-
-*   Here are some design restraints:
-
-    * The engine fueled by kerosene and liquid oxygen
-    * Oxidizer/Fuel ratio is 2.56
-    * 1 atm ambient air pressure
-    * A total impulse of 8000 N\*s is desired
-    * Assume that the thrust curve is constant during the firing.
-      * Hint: Total Impulse=Force\*time
+We will also be hosting several workshops! To complete your intro project, please attend at least one specialty workshop.&#x20;
 
 
-* Design Choices
-  * The chamber pressure can be between 250 psi and 1000 psi. You may choose any number in this range, but you should present the reasoning behind the pros and cons of a higher or lower chamber pressure.
-  * Choose an engine firing time between 10 and 30 seconds. There is no wrong choice, but explain the pros and cons of the length of firing duration choices.
-  * Which cooling method would you use for the thrust chamber? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method. For your chosen method, in your presentation explain the heat transfer process, following the heat as it is transferred away from the thrust chamber.&#x20;
 
-Deliverables:
+Project Mentor Options:&#x20;
 
-* Chamber geometry: Using the Rocket Propulsion Analysis (RPA) software, determine the thrust chamber size and shape. Show a screenshot of the RPA results in your final presentation.
-* Tank analysis:. Using the mass flow rates derived in RPA and your chosen firing time, determine the mass of each propellant required, as well as the associated volume required for your tanks to hold the propellant.&#x20;
-* Slides detailing your choice of firing time and chamber pressure.
-* Cooling method choice and heat transfer explanation.&#x20;
+* Rocket Engine Cooling - Jeremy, Liam
+  * Goal: Test ablative cooling methods on ELLIE system. Develop an understanding of cooling analysis and design.&#x20;
+  * Research / Resources:
+    * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)&#x20;
+* Tank Design and Testing - Aarchan, Tyler
+  * Goal: Design an ultralight, space efficient, flight-optimized propellant tank
+  * Complications: Structure, Chemical Reactivity, Sealing, Wire Routing
+  * Research/Resources:
+*
+  * [ Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
+* Create Airframe-Integrated Tank
+* Plan Pressure, Cycle, and Temperature Test
+* Valve Design and Testing: - Justin, Pranit
+*
+  * Goal: Design a lightweight, high-precision, high-flow main propellant control valve
+  * Complications: Control Speed/Accuracy, Fluid Type, Actuation Method
+  * Research Links
+  *
+    * Pyro Valves: Main Actuators for LE2!
+    * Flow-Control Valves: Precisely Control Flow Rates/Pressure Drops with physical actuation
+    *
+      * [Needle Valve](https://youtu.be/CzBB1CEAAS4)
+      * [Bang-Bang Valve](https://youtu.be/eX7fBt0pJwk)
+    * Servo-Actuated [Ball Valves](https://theengineeringmindset.com/the-basics-of-ball-valves-explained/): ELLIE Main Valves!
+    * [https://en.wikipedia.org/wiki/Pyrotechnic\_valves](https://en.wikipedia.org/wiki/Pyrotechnic\_valves)&#x20;
+    * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
+    * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
+* Remote Pressurization Line Disconnect System- Scout, Rachel
+*
+  * Goal: Remotely yank pressurization lines off rocket before launch. Develop understanding of avionics and control logic.
+  * Resources:
+  *
+    * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)&#x20;
+    * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
+    * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
+* Propulsion System Modeling- Liam, Dylan
+*
+  * Goal: Model a simplified rocket in Simulink. Optimize a thrust curve for exactly 10,000 ft apogee target. Develop understanding of modeling and control
+  * Resources:
+  *
+    * [Simulink Modeling - Feed Systems](https://drive.google.com/file/d/13sZ0Y6N4bCdf\_QgLgTDrhz9q7u7sj6Qm/view?usp=sharing)
+    * [Intro to Optimization](https://docs.google.com/presentation/d/1WN75i01ckPoMVYoqD23YH-e8cbf3BI9Y8Y-eZ1Xmk2k/edit?usp=sharing)
 
-**Injector design:**
-
-* Which injector design would you use for your design? Why? State some pros and cons of your chosen method, and present a runner-up method while comparing the first choice and runner-up method. For your chosen method, in your presentation explain with the use of a diagram how the injector promotes mixing together of the fuel and oxidizer in the combustion chamber.
-
-Deliverables:
-
-* A slide detailing your choice of injector type with the explanation of how injector mixing occurs in the design.&#x20;
-
-**Procedures:**&#x20;
-
-* Basic procedures should be written from a template for your system for testing the flow rate for your system.&#x20;
-* Make a copy of the template [HERE ](https://docs.google.com/document/d/1P3gKRjy3aOpHa8Oy5DiH7qLSLG5nG873p8IAGObX3G8/edit)into your group's folder.&#x20;
-* The tanks can all be assumed to be full of their respective fluids.&#x20;
-* Denote what positions the valves are initially in at the beginning of the test
-* Denote which valves turn in what order to start the test.
-* Say that you only want to test the flow rate with a flow 5 seconds long. Denote which valves are turned to stop the test midway.&#x20;
-
-## Final Presentation
-
-Prepare a slide deck to be presented to your mentor, Propulsion lead, and Propulsion deputy. Anyone who wants to come and watch, including members of other groups, may also do so. A rubric will be used to provide feedback on every group’s presentation. The presentation is not meant to be hard, and putting in a minimal amount of effort is enough to complete it. The rubric will be used to provide feedback on the group’s design and project immediately after their presentation.
-
-Good luck, have fun!
-
-## Resources
-
-{% file src="../.gitbook/assets/george-p.-sutton-oscar-biblarz-rocket-propulsion-elements-2016-wiley.pdf" %}
-Rocket Propulsion Elements
-{% endfile %}
