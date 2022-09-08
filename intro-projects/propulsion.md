@@ -14,27 +14,21 @@ Returning members have no special requirements for Fall 2022.
 
 ### Contact
 
-If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Trevor) or the propulsion deputy (Aarabhi). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
+If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Liam) or the propulsion deputy (Rachel). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
 
-* Trevor's Discord: zat15 (accessible through STAR discord)
-* Aarabhi's Discord: arby  (accessible through STAR discord)
-* Discord: in the #propulsion channel
-* Trevor's Email: tzinky@berkeley.edu
-* Office Hours:
-  *   Trevor's OH: Mondays 7-8 and Friday's 10-11 in a Discord voice channel on the STAR discord. Or by appointment. Message me if you want to meet another time
-
-      Jeremy's OH: TBA
-  * (exact location may vary, will be announced on Discord)
+* Liam
+  * Discord: Liam M.#4183
+* Rachel
+  * Discord: rachel w.#5286
+  * email: reweber@berkeley.edu
+* For access to the STAR general discord, please message us!&#x20;
+  * If you have acces, find us in the #propulsion #ellie #LE2 tags!&#x20;
 
 {% hint style="warning" %}
 This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead, propulsion members, and of course your mentor. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
 {% endhint %}
 
-## In-Person Component
-
-There is no In-Person Component right now due to coronavirus.
-
-## Week 1:
+## Week 1: Introduction to Propulsion
 
 First and foremost, we'd like to tell you about some of the projects going on in the Propulsion subteam and also tell you about what we do in general. You can attend an intro meeting presentation or view one of our recorded presentations [here.](https://drive.google.com/file/d/1EWDwvw7YAYIq2R5Y7f-VqoeJ8-SaDZBA/view?usp=sharing) If you can't make it in person for whatever reason, please let either Trevor or Jeremy know so they can answer any further question you may have and put you into a group with a mentor. You could do the entire project alone, but that's an unnecessary amount of work and we would all like to get to know you sooner!
 
