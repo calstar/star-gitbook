@@ -14,15 +14,16 @@ Returning members have no special requirements for Fall 2022.
 
 ### Contact
 
-If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Liam) or the propulsion deputy (Rachel). Discord is preferred, but if you are having difficulty getting started with Discord, Email is fine.
+If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Liam) or the propulsion deputy (Rachel). Discord is preferred, but if you are having difficulty getting started with Discord, email is fine.
 
 * Liam
   * Discord: Liam M.#4183
+  * email: liam.mchugh@berkeley.edu
 * Rachel
   * Discord: rachel w.#5286
   * email: reweber@berkeley.edu
 * For access to the STAR general discord, please message us!&#x20;
-  * If you have acces, find us in the #propulsion #ellie #LE2 tags!&#x20;
+  * If you have access, find us in the #propulsion #ellie #LE2 tags!&#x20;
 
 {% hint style="warning" %}
 This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead, propulsion members, and of course your mentor. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
@@ -30,7 +31,27 @@ This project is intended to challenge you a little bit! You are not expected to 
 
 ## Week 1: Introduction to Propulsion
 
-First and foremost, we'd like to tell you about some of the projects going on in the Propulsion subteam and also tell you about what we do in general. You can attend an intro meeting presentation or view one of our recorded presentations [here.](https://drive.google.com/file/d/1EWDwvw7YAYIq2R5Y7f-VqoeJ8-SaDZBA/view?usp=sharing) If you can't make it in person for whatever reason, please let either Trevor or Jeremy know so they can answer any further question you may have and put you into a group with a mentor. You could do the entire project alone, but that's an unnecessary amount of work and we would all like to get to know you sooner!
+Our first meeting with be at the STAR general meeting on Tursday, where we will give new memebrs a run down of what you can expect with prop as well as a runthorugh of our current projects! Recruits are also invited to our propulsion meetings on Monday night.&#x20;
+
+If you are not able to make it in person, please feel free to reach out to us so we can answer any question you may have, as well as set you up with an educational group mentor!&#x20;
+
+The way the propulsion intro project will be broken down is listed below:&#x20;
+
+1. Week 1 (current week): will help new recruits become familiar with propulsion as a team. You will also be assigned a project mentor and be divided into teams&#x20;
+2. [Week 2](https://docs.google.com/document/d/1Uy2l3JOKqw\_BGmBq33F0STwY3ups7bEq2XvbOAA-AiI/edit#heading=h.1qb4or2gp95l): will be where we introduce Solid Rockets, Liquid Rockets, and Feed Systems. You will:
+   1. Be assigned to a group and a mentor
+   2. Start readings for week 2&#x20;
+   3. Work with your group to complete the slides for week 2
+3. [Week 3](https://docs.google.com/document/d/1Uy2l3JOKqw\_BGmBq33F0STwY3ups7bEq2XvbOAA-AiI/edit#heading=h.9oqzu3jxc05g): will be focusing on Injectors and Thrust Chambers. You will:
+   1. Present slides for week 2 to mentor&#x20;
+   2. Start readings for week 3&#x20;
+   3. Work with your group to complete the slides for week 3
+4. [Week 4 and 5](https://docs.google.com/document/d/1Uy2l3JOKqw\_BGmBq33F0STwY3ups7bEq2XvbOAA-AiI/edit#heading=h.c3mquuykyp28): will be where you will get to work under a member of the prop team and be introduced to propulsion specialties of your choosing.&#x20;
+
+\
+You can view our week 1 slides [here](https://docs.google.com/presentation/d/1ELVzyB-4RBtOOTk8soJIerAGa7zAK6LjjPjcKwEF6Lg/edit#slide=id.g147dd557f88\_0\_5). This week will focus on establishing a point of contact between you and your group, as well as establishing a meeting time. You are welcome to get started on the readings for week 2 and 3.&#x20;
+
+Please fill out our form [here](https://forms.gle/agxxTCMhbVcqkshz5) so we can get your paired up with a mentor!&#x20;
 
 ## Week 2.
 
