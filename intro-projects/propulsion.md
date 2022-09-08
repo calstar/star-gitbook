@@ -38,35 +38,31 @@ If you are not able to make it in person, please feel free to reach out to us so
 The way the propulsion intro project will be broken down is listed below:&#x20;
 
 1. Week 1 (current week): will help new recruits become familiar with propulsion as a team. You will also be assigned a project mentor and be divided into teams&#x20;
-2. [Week 2](https://docs.google.com/document/d/1Uy2l3JOKqw\_BGmBq33F0STwY3ups7bEq2XvbOAA-AiI/edit#heading=h.1qb4or2gp95l): will be where we introduce Solid Rockets, Liquid Rockets, and Feed Systems. You will:
+2. Week 2: will be where we introduce Solid Rockets, Liquid Rockets, and Feed Systems. You will:
    1. Be assigned to a group and a mentor
    2. Start readings for week 2&#x20;
    3. Work with your group to complete the slides for week 2
-3. [Week 3](https://docs.google.com/document/d/1Uy2l3JOKqw\_BGmBq33F0STwY3ups7bEq2XvbOAA-AiI/edit#heading=h.9oqzu3jxc05g): will be focusing on Injectors and Thrust Chambers. You will:
+3. Week 3: will be focusing on Injectors and Thrust Chambers. You will:
    1. Present slides for week 2 to mentor&#x20;
    2. Start readings for week 3&#x20;
    3. Work with your group to complete the slides for week 3
-4. [Week 4 and 5](https://docs.google.com/document/d/1Uy2l3JOKqw\_BGmBq33F0STwY3ups7bEq2XvbOAA-AiI/edit#heading=h.c3mquuykyp28): will be where you will get to work under a member of the prop team and be introduced to propulsion specialties of your choosing.&#x20;
+4. Week 4 and 5: will be where you will get to work under a member of the prop team and be introduced to propulsion specialties of your choosing.&#x20;
 
 \
 You can view our week 1 slides [here](https://docs.google.com/presentation/d/1ELVzyB-4RBtOOTk8soJIerAGa7zAK6LjjPjcKwEF6Lg/edit#slide=id.g147dd557f88\_0\_5). This week will focus on establishing a point of contact between you and your group, as well as establishing a meeting time. You are welcome to get started on the readings for week 2 and 3.&#x20;
 
 Please fill out our form [here](https://forms.gle/agxxTCMhbVcqkshz5) so we can get your paired up with a mentor!&#x20;
 
-## Week 2.
+## Week 2: Solid Rockets, Liquid Rockets, and Feed Systems&#x20;
 
-Time for some fancy book learnin'! NASA created this document to talk about rocket propulsion in general and some of the ways you can make and use a rocket motor. [Read Here](https://er.jsc.nasa.gov/seh/05\_Practical\_Rocketry.pdf)
+Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material in your own time throughout the course of this week. If you have any questions, please feel free to attend office hours with your mentor, or to reach out on discord.&#x20;
 
-A bit more advanced and optional reading that goes into more detail can be found [here](http://www.braeunig.us/space/propuls.htm).
+You will also be expected to fill out slides with your group, which will be shared to you by your mentor. Each of you will be assigned slides to fill, where you will answer questions related to this week's readings. Don’t worry about correctness - your mentor will go over the correct answers with you at your scheduled meetings.
 
-There are also the slides your group must fill out, which are located in your group's folder. The slides this week are focused on different types of rockets, and on the different  types of feed systems for liquid rockets. Within your team, you can divide the tasks however you want to. To help out with the slides, we have a couple more readings for you. Some readings you'll find helpful are
+There will also be an in person workshop on the LE2 feed system! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
 
-* [A pros and cons comparison between solid and liquid motors](https://www.thoughtco.com/how-rockets-work-1992379)
-* [A bit more in depth analysis on solid and liquid fuels](http://www.braeunig.us/space/propel.htm)
-* [Solid rocket fuel mixtures and channel patterns](https://science.howstuffworks.com/rocket.htm) (you only need to read the solid rocket parts)
-* [An excerpt from Rocket Propulsion Elements about ](https://wodeshu.gitee.io/roprop/text00004.html#c01) (section 1.2 up to figure 1-6 talks about liquid and solid motors)
-* [Another link to Rocket Propulsion Elements](https://wodeshu.gitee.io/roprop/text00004.html) (section 6.3 and 6.4 up to table 6-5 talks about different types of feed systems)
-* [How a regulator works](https://www.fluidcontrols.co.uk/how-pressure-regulators-work/)
+* Readings:
+  * Solid Rocket
 
 ## Week 3.
 
