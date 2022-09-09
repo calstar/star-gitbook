@@ -143,8 +143,6 @@ We will also be hosting several workshops! To complete your intro project, pleas
 
 **Technical Project Options / Further Research Launching Points:**&#x20;
 
-New members will completely own a small project on Propulsion, working to integrate your research/design/testing into the full-scale ELLIE and LE2/Flight propulsion projects.
-
 (referenced are specific technical mentors that will provide direct project guidance)
 
 We will cover each project idea in detial after the third week of introductory material.
@@ -158,11 +156,10 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
-* Cryogenic Insulation - Justin
+* Cryogenic Insulation Design - Justin
   * Goal: Create a reliable design for insulation for flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
   * Research / Resources:
     * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
-    * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)&#x20;
 * Structural / Thermal Design: Crogenic Tank Mounting - Dakota, Liam
   * Goal: Design and optimize a lightweight, requirements-encompassing cryogenic tank mount.
   * Research / Resources:
