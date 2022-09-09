@@ -143,38 +143,34 @@ OpenRocket File for Arktos
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 3| Lines Diagram **_**(1 hrs)**_
+### **Task 4| Lines Diagram **_**(1 hrs)**_
 
 **Due: October 13th**
 
 **Deliverable**: Completed line diagram for dual-side dual-deployment (ie. one line diagram depicting main deployment and one depicting main deployment)
 
-**Recovery will have Solidworks office hours \[TBD]**
+The image below is a line diagram for a single side dual deployment (meaning both the drogue and main are housed in the same part of the rocket). Use this image as a guide to understand the aspects that your line diagram should have. Such as: Shock cord Quick links Parachutes Parachute bags Rocket tubes U-bolt
 
-Creating CAD models is a skill every engineer should have down and recovery is no exception. It is important to model things before manufacturing to avoid wasted materials due to poor design. Recovery designs and manufactures the avionics bays for all the rockets so proper&#x20;
+5
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### **Task 4| Avionics Bay Assembly **_**(6 hrs)**_
+### **Task 5| Avionics Bay Assembly **_**(6 hrs)**_
 
 **Due: October 13th**
 
-**Deliverable**: A brief write up presenting your design (include pictures of the full assembly) and explaining your design methodology and decisions.
+**Deliverable**: A brief write up presenting your design (include pictures of the full assembly) and explaining your design methodology and decisions. Upload your write up and CAD files into the google drive at this link, under the same folder with your name from task 1. Please note that you must upload all parts contained within your final assembly file in order for me to be able to open your assembly file.
 
-**Recovery will have Solidworks office hours \[TBD]**
+Creating CAD models is a skill every engineer should be knowledgeable about, and recovery is no exception. It is important to model things before manufacturing to avoid wasted materials due to poor design. Recovery designs and manufactures the avionics bays for all the rockets so proper documentation is needed. The avionics bay houses the altimeters and other necessary hardware that enables proper parachute deployment which is often mounted to an accessible sled. A typical avionics bay (av-bay) consists of the following:&#x20;
 
-Creating CAD models is a skill every engineer should have down and recovery is no exception. It is important to model things before manufacturing to avoid wasted materials due to poor design. Recovery designs and manufactures the avionics bays for all the rockets so proper documentation is needed. The avionics bay houses the altimeters and other necessary hardware that enables proper parachute deployment which is often mounted to an accessible sled. A typical avionics bay (av-bay) consists of the following:
+* Altimeters: tell the pyrogens for parachute deployment and stage separation when to deploy&#x20;
+* Avionics Sled: secure the batteries and altimeters&#x20;
+* Bulkheads- create sturdy and nearly airtight separations between different sections of the rocket allowing for pressure build up when the explosives ignite. This is critical for parachute deployment&#x20;
+* Alignment Rods: orient the Av-Bay components such that the Avionics Sled can slide in and out&#x20;
+* Access Hatch: the opening through which we can bring the altimeter sled in and out and we can connect wires to the altimeters on the altimeter sled&#x20;
+* Batteries: power the altimeters&#x20;
 
-* Altimeters- tell the pyrogens for parachute deployment and stage separation when to deploy
-* Avionics Sled- secure the batteries and altimeters
-* Bulkheads- create sturdy and nearly airtight separations between different sections of the rocket allowing for pressure build up when the explosives ignite. This is critical for parachute deployment
-* Alignment Rods- orient the Av-Bay components such that the Avionics Sled can slide in and out
-* Access Hatch- the opening through which we can bring the altimeter sled in and out and we can connect wires to the altimeters on the altimeter sled
-* Batteries- power the altimeters
-
-**You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries**. We have provided the appropriate airframe and altimeter models that we frequently use below. You should create models for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above models, make an assembly of the entire avionics bay with all the components inside and properly constrained.&#x20;
-
-****
+You are tasked to create a full CAD model of a usable avionics bay to house 2 altimeters and 2 9V batteries. We have provided the appropriate airframe, batteries and altimeter part models that we frequently use below. Use these part files in your avionics bay assembly. You will have to create and design your own separate model parts for the altimeter sled, bulkheads, and alignment rods. Once you have completed all of the above part models, make an assembly of the entire avionics bay with all the components inside and properly constrained.&#x20;
 
 * **Outer**
   * **Inner Diameter:** 3.900" (9.91 cm)
@@ -188,22 +184,22 @@ Creating CAD models is a skill every engineer should have down and recovery is n
 {% endhint %}
 
 {% hint style="info" %}
-**Help Starting:** Check out the STAR Internal page on the Avionics Sled. Join **GrabCAD** to see the CAD work for STAR's current projects and last year's competition rocket: Bear Force One (BFO). You should check out BFO's launch proven AvBay and the SSEP project's AvBays to see what AvBays can look like.
+**Help Starting:** Check out the STAR Internal page on the Avionics Sled for some helpful information. Join GrabCAD to see the CAD work for STAR's current projects. You should check out SSEP project's AvBays to see what AvBays can look like. SSEP contains three different av bays, one for the lower section parachute, one for the upper section main parachute, and one for the drogue parachute. By looking at these you can see how avionics bays can vary in size, shape and design.
 {% endhint %}
 
 {% hint style="info" %}
-**NOTE:** This is a open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is the most difficult part of the project especially if you do not have CAD experience. Please see Cassidy, your mentors, or any of the other returning members if you have any questions; we want to help!&#x20;
+**NOTE:** This is an open, free-form project. There is no single way to create an avionics bay. As long as you can defend your design choices, we will accept your assembly. This is the most difficult part of the project especially if you do not have CAD experience. Please see Cassidy, Cassie, your mentors, or any of the other returning members if you have any questions; we want to help!
 {% endhint %}
 
 #### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### Task 5| Mentorship (2 hours)
+### Task 6| Mentorship (2 hours)
 
 **Due: October 13th**
 
-**Deliverable:** Meet for at least an hour with two returning recovery members. Ask for any help you need on your intro projects and get to know each other.\
+**Deliverable:** Upload a selfie with you and your mentor into the google drive at this link, under the same folder with your name from task 1.\
 \
-Once you decide to join Recovery, you will be assigned 2 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus!\
-\
-If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors or other returning Recovery members for more help.
+Meet for at least an hour with two returning recovery members. Ask for any help you need on your intro projects and get to know each other. This is both to promote the share of knowledge, but also for new members to meet and integrate with returning members.&#x20;
+
+Once you decide to join Recovery, you will be assigned 2 returning members that you will meet with during the onboarding period. Meet at a coffee shop or somewhere else cool in Berkeley or on campus! If these meetings are not enough for you to get the help you need on your intro projects, you should definitely reach out to your mentors or other returning Recovery members for more help.
 
