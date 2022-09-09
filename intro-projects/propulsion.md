@@ -112,6 +112,7 @@ There will also be an in person workshop on RPA! We encourage you to attend, but
   * [Impinging Injectors Video](https://www.youtube.com/watch?v=watzSDCZeXM)
 * Valves
   * [design fundamentals](https://youtu.be/W1QYuh9BXao)
+  * [Example of a Liquid Oxygen Valve](https://youtu.be/W1QYuh9BXao)
 * Thrust Chambers
   * [Cooling in Liquid Rockets](https://aeronotes.weebly.com/cooling-in-liquid-rocket.html)
   * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
@@ -120,7 +121,7 @@ There will also be an in person workshop on RPA! We encourage you to attend, but
   * [STAR Gitbook RPA instructions](https://rocketry.gitbook.io/docs/tutorials/propulsion/rocket-propulsion-analysis-tutorial)
     * We will also have a workshop on this&#x20;
 * Bonus Material:
-  * [Propulsion Systems Lectures](https://ocw.mit.edu/courses/16-50-introduction-to-propulsion-systems-spring-2012/pages/lecture-notes/)
+  * [Propulsion Systems Lectures](https://ocw.mit.edu/courses/16-50-introduction-to-propulsion-systems-spring-2012/pages/lecture-notes/) (Heavy duty shit)
   * Famous/Exciting Rocket Stuff!!
     * [RIP Robert Goddard](https://www.nasa.gov/missions/research/f\_goddard.html)
     * [RD-180: Absolute Legend](https://www.technologyreview.com/2019/06/26/134490/spacex-blue-origin-russian-rd180-rocket-engine-design/)
@@ -142,9 +143,13 @@ We will also be hosting several workshops! To complete your intro project, pleas
 
 **Technical Project Options / Further Research Launching Points:**&#x20;
 
-(referenced are specific technical mentors that will provide direct assistance)
+New members will completely own a small project on Propulsion, working to integrate your research/design/testing into the full-scale ELLIE and LE2/Flight propulsion projects.
+
+(referenced are specific technical mentors that will provide direct project guidance)
 
 We will cover each project idea in detial after the third week of introductory material.
+
+Don't feel overwhelmend - You'll learn how to break down your goal into small, manageable portions that will integrate smoothly into a full project.
 
 
 
@@ -153,10 +158,11 @@ We will cover each project idea in detial after the third week of introductory m
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
-* Cryogenic Insulation Design - Justin
+* Cryogenic Insulation - Justin
   * Goal: Create a reliable design for insulation for flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
   * Research / Resources:
     * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
+    * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)&#x20;
 * Structural / Thermal Design: Crogenic Tank Mounting - Dakota, Liam
   * Goal: Design and optimize a lightweight, requirements-encompassing cryogenic tank mount.
   * Research / Resources:
