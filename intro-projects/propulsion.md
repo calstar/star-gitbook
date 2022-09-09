@@ -1,5 +1,7 @@
 # Propulsion
 
+
+
 ![Ignition Testing for LE-165](../.gitbook/assets/ignitiontesting.PNG)
 
 ## Introduction
@@ -149,8 +151,18 @@ We will cover each project idea in detial after the third week of introductory m
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
+* Cryogenic Insulation Design
+  * Goal: Create a reliable design for insulation for flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
+  * Research / Resources:
+    * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
+* Structural / Thermal Design: Crogenic Tank Mounting - Dakota, Liam
+  * Goal: Design and optimize a lightweight, requirements-encompassing cryogenic tank mount.
+  * Research / Resources:
+    * [https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials](https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials)
+    * [https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing](https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing)&#x20;
+    *
 * Rocket Engine Cooling - Jeremy, Liam
-  * Goal: Test ablative cooling methods on ELLIE system. Develop an understanding of cooling analysis and design.&#x20;
+  * Goal: Experiment with combustion chamber cooling methods on ELLIE testbed. Develop an understanding of cooling analysis and design.&#x20;
   * Research / Resources:
     * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)&#x20;
 * Propellant Storage; Design and Testing - Aarchan, Tyler
@@ -178,8 +190,8 @@ We will cover each project idea in detial after the third week of introductory m
     * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
     * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
-* Propulsion System Modeling- Liam, Dylan
-  * Goal: Model a simplified rocket in Simulink. Optimize a thrust curve for exactly 10,000 ft apogee target. Develop understanding of modeling and control
+* Propulsion System Simulation- Liam, Dylan
+  * Goal: Model a simplified liquid rocket in Simulink. Optimize a thrust curve for exactly 10,000 ft apogee target. Develop understanding of modeling and control.
   * Resources:
     * [Simulink Modeling - Feed Systems](https://drive.google.com/file/d/13sZ0Y6N4bCdf\_QgLgTDrhz9q7u7sj6Qm/view?usp=sharing)
     * [Intro to Optimization](https://docs.google.com/presentation/d/1WN75i01ckPoMVYoqD23YH-e8cbf3BI9Y8Y-eZ1Xmk2k/edit?usp=sharing)
