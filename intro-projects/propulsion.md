@@ -151,7 +151,7 @@ We will cover each project idea in detial after the third week of introductory m
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
-* Cryogenic Insulation Design
+* Cryogenic Insulation Design - Justin
   * Goal: Create a reliable design for insulation for flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
   * Research / Resources:
     * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
@@ -160,7 +160,6 @@ We will cover each project idea in detial after the third week of introductory m
   * Research / Resources:
     * [https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials](https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials)
     * [https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing](https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing)&#x20;
-    *
 * Rocket Engine Cooling - Jeremy, Liam
   * Goal: Experiment with combustion chamber cooling methods on ELLIE testbed. Develop an understanding of cooling analysis and design.&#x20;
   * Research / Resources:
@@ -184,8 +183,8 @@ We will cover each project idea in detial after the third week of introductory m
     * [https://en.wikipedia.org/wiki/Pyrotechnic\_valves](https://en.wikipedia.org/wiki/Pyrotechnic\_valves)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
     * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
-* Remote Pressurization Line Disconnect System- Scout, Rachel
-  * Goal: Remotely yank pressurization lines off rocket before launch. Develop understanding of avionics and control logic.
+* Remote Pressurization Hose Disconnect System- Scout, Rachel
+  * Goal: Remotely yank pressurization lines off rocket before launch. Develop understanding of actuated system design and control logic.
   * Resources:
     * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
