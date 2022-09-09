@@ -57,11 +57,11 @@ Please fill out our form [here](https://forms.gle/agxxTCMhbVcqkshz5) so we can g
 
 ## Week 2: Solid Rockets, Liquid Rockets, and Feed Systems&#x20;
 
-Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material in your own time throughout the course of this week. If you have any questions, please feel free to attend office hours with your mentor, or to reach out on discord.&#x20;
+Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material(below) on your own time throughout the course of this week. If you have any questions, please feel free to attend [Office Hours](https://docs.google.com/spreadsheets/d/1RtN5emHDT4Ztby0sD5t8LjnltecEHg-VsS011yhLepI/edit?usp=sharing) with returning members, or to reach out on discord.&#x20;
 
-You will also be expected to fill out slides with your group, which will be shared to you by your mentor. Each of you will be assigned slides to fill, where you will answer questions related to this week's readings. Don’t worry about correctness - your mentor will go over the correct answers with you at your scheduled meetings.
+You will discuss what you learn and fill out a copy of week 2 slides([template here](https://docs.google.com/presentation/d/1EgcO5VNzixLT9-WuIbFNSjDEiqlWCZGGrWfWe6zRw2Y/edit?usp=sharing)) with your education group. Feel free to begin adding notes before your meeting(esp make use of presentation notes below each slide)... Don’t worry about correctness - your mentor will go over the correct answers with you at your scheduled meetings, and promote discussion of some of the difficult concepts.
 
-There will also be an in person workshop on the LE2 feed system! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
+There will be an **in person workshop on the LE2 feed system** during Prop Meeting on Monday, Sept 19th! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
 
 * Readings:
   * Solid Rocket
@@ -97,7 +97,9 @@ There will also be an in person workshop on the LE2 feed system! We encourage yo
 
 ## Week 3: Valves, Injectors, and Thrust Chambers
 
-This week you will be expected to have completed the slides from week 2. You will also be assigned new slides for this week, due next week. Since the sources are so short, the slides for this week are mostly filled out, with the hope that completing them should take each person about an hour.&#x20;
+This week you will be expected to have completed the slides from week 2. You will also be assigned [new slides](https://docs.google.com/presentation/d/17iDc72jS9Sk0dWxmoAECnFFMK0PvQAFRmZPwsrFZzwk/edit?usp=sharing) for this week, due next week. The slides for this week serve mostly as discussion topics - try to come to your intro meetings with questions prepared!
+
+The information covered in this week's material is a very general overview on some advanced topics in propulsion. If you don't understand something or want to learn more, our **main resources folder** is located [here](https://drive.google.com/drive/folders/1bWF0c6GEQ5IlOdPJ3HJM\_Z-Yki8hGcOm?usp=sharing) in Propulsion(feel free to add resources you find online!)
 
 \
 There will also be an in person workshop on RPA! We encourage you to attend, but if that is not possible, it will be recorded.
