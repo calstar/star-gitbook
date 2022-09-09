@@ -131,17 +131,19 @@ There will also be an in person workshop on RPA! We encourage you to attend, but
 
 ## Week 4-5: Technical Project Starts&#x20;
 
-You finished your readings!! Now, you will be assigned a technical mentor. This is different from your previous one because your project mentor will be the person who is in charge of a technical project on our LE2 rocket! Depending on what you would like to learn, you can choose who to work with.&#x20;
+You finished your readings!! Now, you will select / be assigned a **technical mentor**. This is different from your previous one because your technical mentor will be the person who is in charge of a technical specialty on our LE2 rocket! Depending on what you would like to learn, you can choose who to work with.&#x20;
 
-Weekly office hours and meetings will be provided by your new mentor!. Also, never be afraid to reach out for help - ask anyone you feel comfortable with. It is better to ask for clarification on something that might seem obvious than to spend hours confused.&#x20;
+**Weekly office hours and meetings will be provided** by your new mentor!. Also, never be afraid to reach out for help - ask anyone you feel comfortable with. It is better to ask for clarification on something that might seem obvious than to spend hours confused.&#x20;
 
-In the end, we require a short slide deck of what you have learned from your research.&#x20;
+After week 5, **new members will host a design review** for their system and move forward with redesign/fabrication/testing.&#x20;
 
-We will also be hosting several workshops! To complete your intro project, please attend at least one specialty workshop.&#x20;
+We will also be hosting several workshops! To complete your intro project and develop knowledge in propulsion specialties, please attend at least one workshop(really as many as you want) over these weeks.&#x20;
 
 
 
 **Technical Project Options / Further Research Launching Points:**&#x20;
+
+New members will completely own a small project on Propulsion, working to integrate your research/design/testing into the full-scale ELLIE and LE2/Flight propulsion projects.
 
 (referenced are specific technical mentors that will provide direct project guidance)
 
@@ -156,10 +158,11 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
-* Cryogenic Insulation Design - Justin
+* Cryogenic Insulation - Justin
   * Goal: Create a reliable design for insulation for flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
   * Research / Resources:
     * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
+    * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)&#x20;
 * Structural / Thermal Design: Crogenic Tank Mounting - Dakota, Liam
   * Goal: Design and optimize a lightweight, requirements-encompassing cryogenic tank mount.
   * Research / Resources:
