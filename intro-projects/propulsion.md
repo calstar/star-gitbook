@@ -136,21 +136,32 @@ We will also be hosting several workshops! To complete your intro project, pleas
 
 
 
-Project Mentor Options:&#x20;
+**Technical Project Options / Further Research Launching Points:**&#x20;
 
+(referenced are specific technical mentors that will provide direct assistance)
+
+We will cover each project idea in detial after the third week of introductory material.
+
+
+
+* Flight Vehicle Igniter - Aarchan, Liam
+  * Goal: Ignite a liquid rocket with a reliable system. Understand startup transience in liquid propulsion systems.
+  * Research / Resources:&#x20;
+    * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
+    * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
 * Rocket Engine Cooling - Jeremy, Liam
   * Goal: Test ablative cooling methods on ELLIE system. Develop an understanding of cooling analysis and design.&#x20;
   * Research / Resources:
     * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)&#x20;
-* Tank Design and Testing - Aarchan, Tyler
-  * Goal: Design an ultralight, space efficient, flight-optimized propellant tank
+* Propellant Storage; Design and Testing - Aarchan, Tyler
+  * Goal: Design a lightweight propellant tank using rocket airframe
   * Complications: Structure, Chemical Reactivity, Sealing, Wire Routing
   * Research/Resources:
     * [ Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
     * Create Airframe-Integrated Tank
     * Plan Pressure, Cycle, and Temperature Test
 * Valve Design and Testing: - Justin, Pranit
-  * Goal: Design a lightweight, high-precision, high-flow main propellant control valve
+  * Goal: Design a simple propellant valve
   * Complications: Control Speed/Accuracy, Fluid Type, Actuation Method
   * Research Links
     * Pyro Valves: Main Actuators for LE2!
