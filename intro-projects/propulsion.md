@@ -153,22 +153,22 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
 
 
 
-* Flight Vehicle Igniter - Aarchan, Liam
+* Flight Vehicle Igniter - Jeremy, Tyler
   * Goal: Ignite a liquid rocket with a reliable system. Understand startup transience in liquid propulsion systems.
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
-* Cryogenic Insulation - Justin
-  * Goal: Create a reliable design for insulation for flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
+* Cryogenic Insulation - Aarchan
+  * Goal: Create a reliable method for insulating flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
   * Research / Resources:
     * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
-    * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)&#x20;
+    * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)
 * Structural / Thermal Design: Crogenic Tank Mounting - Dakota, Liam
   * Goal: Design and optimize a lightweight, requirements-encompassing cryogenic tank mount.
   * Research / Resources:
     * [https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials](https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials)
     * [https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing](https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing)&#x20;
-* Rocket Engine Cooling - Jeremy, Liam
+* Heat Rejection: Rocket engine cooling system - Jeremy, Liam
   * Goal: Experiment with combustion chamber cooling methods on ELLIE testbed. Develop an understanding of cooling analysis and design.&#x20;
   * Research / Resources:
     * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)&#x20;
@@ -181,7 +181,7 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
     * Plan Pressure, Cycle, and Temperature Test
 * Valve Design and Testing: - Justin, Pranit
   * Goal: Design a simple propellant valve
-  * Complications: Control Speed/Accuracy, Fluid Type, Actuation Method
+  * Complications: Actuation Method, fluid characteristics, flow control
   * Research Links
     * Pyro Valves: Main Actuators for LE2!
     * Flow-Control Valves: Precisely Control Flow Rates/Pressure Drops with physical actuation
@@ -191,8 +191,11 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
     * [https://en.wikipedia.org/wiki/Pyrotechnic\_valves](https://en.wikipedia.org/wiki/Pyrotechnic\_valves)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
     * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
-* Remote Pressurization Hose Disconnect System- Scout, Rachel
+* Remote Hose Disconnect System- Scout, Rachel
   * Goal: Remotely yank pressurization lines off rocket before launch. Develop understanding of actuated system design and control logic.
+  * Description / Sub-projects:
+    * Design Disconnect Actuator Mount
+    * Control Solenoid Valve to actuate pneumatic cylinder
   * Resources:
     * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
@@ -202,4 +205,5 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Resources:
     * [Simulink Modeling - Feed Systems](https://drive.google.com/file/d/13sZ0Y6N4bCdf\_QgLgTDrhz9q7u7sj6Qm/view?usp=sharing)
     * [Intro to Optimization](https://docs.google.com/presentation/d/1WN75i01ckPoMVYoqD23YH-e8cbf3BI9Y8Y-eZ1Xmk2k/edit?usp=sharing)
+*
 
