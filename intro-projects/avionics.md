@@ -8,7 +8,7 @@ description: >-
 
 In this intro project, you will work through a cut-down version of the process we use in Avionics to go from start to finish for a project. Through this project you will learn how to use our tools and get a feel for what we do in Avionics.
 
-If you have any questions about the intro project, are stuck, need help understanding a part of it, or want to know more, ask in the Avionics channel in Discord, or ping Cedric(Andalite1999#4769) directly!
+If you have any questions about the intro project, are stuck, need help understanding a part of it, or want to know more, ask in the Avionics channel in Discord, or send a DM to the current avionics lead.
 
 ## Description
 
@@ -110,7 +110,7 @@ While I have not done so in the above picture, you can also select the text and 
 Now you will complete altimeter (BMP388) and microcontroller (STM32F401RET6) portion of the schematic. This portion will be more hands-off, for you to use what you learned in the previous sections.
 
 {% hint style="info" %}
-Ask in discord if you need help, or ping Cedric directly!
+Ask in the avionics discord if you need help!
 {% endhint %}
 
 The first point to note is that the microcontroller hierarchical sheet already completes much of the microcontroller portion for you, all according to the STM32F401RET6 (the microcontroller part label) datasheet. Therefore, for power, all you have to do is hookup `+3.3V` to the `3V3` pin, and ground to its ground pin.&#x20;
