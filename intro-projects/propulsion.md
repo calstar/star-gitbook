@@ -115,6 +115,10 @@ There will also be an in person workshop on RPA! We encourage you to attend, but
   * [Example of a Liquid Oxygen Valve](https://youtu.be/W1QYuh9BXao)
 * Thrust Chambers
   * [Cooling in Liquid Rockets](https://aeronotes.weebly.com/cooling-in-liquid-rocket.html)
+    * [Ablative Cooling](https://ntrs.nasa.gov/api/citations/19960007443/downloads/19960007443.pdf)
+    * [Film Cooling](https://link.springer.com/chapter/10.1007/978-3-030-53847-7\_4)
+    * [Regenerative Cooling](https://drive.google.com/file/d/11B1xJ-ukqvjAQmBcF6\_nys5JSAl4m-t-/view?usp=sharing)
+      * Very Technical but good to skim the introduction at least. Good heat transfer explanations
   * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
     * Read intro to chapter 8 on page 271&#x20;
     * Read section 8.2 on page 285 up to “Film Cooling” on page 2
