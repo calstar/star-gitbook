@@ -63,7 +63,7 @@ Please fill out your quiz on the Google Form here: [https://docs.google.com/form
 
 #### Design Objective Outline
 
-Our goal is to build a mini robotic rover that fits inside a 4” inner diameter payload tube. Another team has already done the task of picking out the electronics, sensors, and wheels. Your task is to design and prototype the rover’s chassis—a structure to mount all of the sensors, battery and wheels. After that, you will build your design, but without the electronics.
+Our goal is to build a mini robotic rover that fits inside a 6” inner diameter payload tube. Another team has already done the task of picking out the electronics, sensors, and wheels. Your task is to design and prototype the rover’s chassis—a structure to mount all of the sensors, battery and wheels. After that, you will build your design, but without the electronics.
 
 #### Requirements
 
@@ -93,7 +93,7 @@ One of the axle types (13927) is too long for the payload space requirement. You
 
 _**Detailed Design Requirements:**_
 
-1. All components must fit within the space of a cylinder, 4" in inner diameter and 8" in length.
+1. All components must fit within the space of a cylinder, 6" in inner diameter and 8" in length.
 2. All components must be mounted by non-permanent means. For example, you may not glue the Arduino to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
 3. The distance sensor must be mounted to the front of the rover, facing forward.
 4. The wheels may be arranged in any reasonable format (keep in mind you will be manufacturing and building the rover, so the axles need to be able to spin freely, and since the chassis’ are being 3D printed you will need to account for any shrinkage; we will talk about this more in the 3D printing workshop).
@@ -157,7 +157,7 @@ You do not have to 3D model the payload section.
 
 The most challenging (and annoying) constraint placed on many payload projects is the size of the payload tube (the part of the rocket that the payload is stored in). Learning to work with the size limits of a cylinder is essential.
 
-In this project, your tube space is limited to 4" in. inner diameter and **8**" in length, a common size for a medium-scale rocket (and the size our glider, DAVE, will have to fit into!). It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 4" diameter circle will not fit a 4x4" square.** Your usable space is limited to what you can fit (or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)) within a circle.
+In this project, your tube space is limited to 6" in. inner diameter and **8**" in length, a common size for a medium-scale rocket (and the size our glider, DAVE, will have to fit into!). It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 6" diameter circle will not fit a 6x6" square.** Your usable space is limited to what you can fit (or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)) within a circle.
 
 ### Step 4: Start designing!
 
