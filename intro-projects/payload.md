@@ -30,8 +30,8 @@ Above all, we hope that the intro project will be a fun and rewarding experience
 
 Checkpoints Schedule:
 
-* By week of 2021-09-22 - Quiz Complete
-* By week of 2021-10-06 - Design Project Complete
+* By week of 2022-09-24 - Quiz Complete
+* By week of 2022-10-15 - Design Project Complete
 
 ### Part 1: General STAR & Rocketry Quiz Questions
 
