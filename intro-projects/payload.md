@@ -84,8 +84,12 @@ _**Components to Integrate**_
 * 1x distance sensor&#x20;
 * 1x 3.7v Lipo Battery&#x20;
 * 4x LEGO Rims (56145)&#x20;
-* 2x LEGO Axles (3708 or 3737)&#x20;
+* 2x LEGO Axles (3708 or 3737 or 13927)&#x20;
 * 4x LEGO Tires (15413 or 61481 or 55978)
+
+Note on the axles:&#x20;
+
+One of the axle types (13927) is too long for the payload space requirement. You will have to cut these (both in CAD and in real life) to make them fit. We will teach you how to do this!
 
 _**Detailed Design Requirements:**_
 
@@ -143,7 +147,7 @@ Component Dimensions
 
 3D models of major components are provided below for the SolidWorks assembly of your rovers.
 
-{% file src="../.gitbook/assets/models_2022.zip" %}
+{% file src="../.gitbook/assets/models_2022_v2.zip" %}
 
 {% hint style="info" %}
 You do not have to 3D model the payload section.
@@ -177,7 +181,7 @@ Now you start actually building your rover!&#x20;
 
 The chassis can be 3D printed through Jacobs (if you don’t have a Makerpass, you can still print it and STAR will reimburse you). Click [here](https://jacobsinstitute.berkeley.edu/jacobs-self-service-printing/) for Jacobs self-service printing. We will also have a workshop during a GM on everything you’ll need to know about 3D printing.&#x20;
 
-The electronics will not be part of your final rover, so all you will need to do is integrate the wheels and axles with your chassis. On the last day of intro projects, we will provide you with the rest of your parts and you’ll be ready to build!
+The electronics will not be part of your final rover, so all you will need to do is cut your axles (if necessary) and integrate the wheels and axles with your chassis. On the last day of intro projects, we will provide you with the rest of your parts and you’ll be ready to build!
 
 ## Project Submission
 
