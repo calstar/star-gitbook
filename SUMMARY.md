@@ -147,6 +147,7 @@
   * [Early Years](history-of-the-team/early-years.md)
   * [Executive History](history-of-the-team/executive-history.md)
   * [Launch History](history-of-the-team/launch-history/README.md)
+    * [2022-09-17 Pinkbeary First Flight](history-of-the-team/launch-history/2022-09-17-pinkbeary-first-flight.md)
     * [2019-11-16 AirBears First Flight](history-of-the-team/launch-history/2019-11-16-airbears.md)
     * [2018-03-24 Final flight for Arktos](history-of-the-team/launch-history/2018-03-24-final-flight-for-arktos.md)
     * [2017-04-08 Competition Launch, NASA SL 2017](history-of-the-team/launch-history/2017-04-08-competition-launch-nasa-sl-2017.md)
