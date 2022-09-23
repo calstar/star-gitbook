@@ -157,6 +157,8 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
 
 
 
+
+
 * Flight Vehicle Igniter - Jeremy, Tyler
   * Goal: Ignite a liquid rocket with a reliable system. Understand startup transience in liquid propulsion systems.
   * Research / Resources:&#x20;
@@ -172,10 +174,17 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Research / Resources:
     * [https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials](https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials)
     * [https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing](https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing)&#x20;
-* Heat Rejection: Rocket engine cooling system - Jeremy, Liam
+*
+* Rocket engine cooling system: Ablatives - Jeremy, Liam
   * Goal: Experiment with combustion chamber cooling methods on ELLIE testbed. Develop an understanding of cooling analysis and design.&#x20;
   * Research / Resources:
-    * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)&#x20;
+    * [Combustion Chamber Resource](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)s
+* Combustion Chamber: Graphite Nozzle Insert
+  * Goal: Design and source a graphite insert for our phenolic nozzle throat. Develop an understanding of heat flux / material analysis
+  * Research / Resources:
+    * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)
+    * [Rocket Propulsion Analysis](https://rocketry.gitbook.io/docs/tutorials/propulsion/rocket-propulsion-analysis-tutorial): Chamber Contour Spec Design
+    * [Commercial Nozzle](https://www.rocketmotorparts.com/98mm\_Nozzle\_1000\_\_Throat/p1577809\_14654165.aspx) we'll post-machine to match our design specs
 * Propellant Storage; Design and Testing - Aarchan, Tyler
   * Goal: Design a lightweight propellant tank using rocket airframe
   * Complications: Structure, Chemical Reactivity, Sealing, Wire Routing
