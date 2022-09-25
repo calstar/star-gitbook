@@ -79,9 +79,9 @@ Our goal is to build a mini robotic rover that fits inside a 6” inner diameter
 
 _**Components to Integrate**_
 
-* 1x Arduino Nano&#x20;
-* 1x motor driver board (optional)&#x20;
-* 1x distance sensor&#x20;
+* 1x [Arduino Nano ](https://store-usa.arduino.cc/products/arduino-nano/?selectedStore=us)
+* 1x [motor driver board](https://www.pololu.com/product/2130) (optional)&#x20;
+* 1x [distance sensor ](https://www.pololu.com/product/2474)
 * 1x 3.7v Lipo Battery&#x20;
 * 4x LEGO Rims (56145)&#x20;
 * 2x LEGO Axles (3708 or 3737 or 13927)&#x20;
