@@ -145,6 +145,12 @@ Attached are 2D dimensioned engineering drawings of some of the electronics.
 Component Dimensions
 {% endfile %}
 
+Below is a pdf with the dimensions for the LEGO wheels and axles (which depend on which tires you chose), along with some examples for how to design your rover to accomodate them.
+
+{% file src="../.gitbook/assets/Payload Intro Project Dimensions.pdf" %}
+Dimensions of LEGO Parts + Tips for Axle Mounting Design
+{% endfile %}
+
 3D models of major components are provided below for the SolidWorks assembly of your rovers.
 
 {% file src="../.gitbook/assets/models_2022_v2.zip" %}
