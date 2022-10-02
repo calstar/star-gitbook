@@ -97,7 +97,7 @@ _**Detailed Design Requirements:**_
 2. All components must be mounted by non-permanent means. For example, you may not glue the Arduino to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
 3. The distance sensor must be mounted to the front of the rover, facing forward.
 4. The wheels may be arranged in any reasonable format (keep in mind you will be manufacturing and building the rover, so the axles need to be able to spin freely, and since the chassis’ are being 3D printed you will need to account for any shrinkage; we will talk about this more in the 3D printing workshop).
-5. You do not have to worry about wiring the electronics or mounting the rover to the tube, but you should make sure the wires can be routed to each electrical component For example, if designing covers to fasten the electronics to the chassis, make sure to put a hole for a wire to fit through (number inches).
+5. You do not have to worry about wiring the electronics or mounting the rover to the tube, but you should make sure the wires can be routed to each electrical component. For example, if designing covers to fasten the electronics to the chassis, make sure to put a hole for a wire to fit through (number inches).
 
 Your rover may be as elaborate or simple as you'd like, but it should adhere to the above requirements, and should be able to be manufactured given the resources and parts that Jacobs and STAR are providing.
 
@@ -153,7 +153,7 @@ Dimensions of LEGO Parts + Tips for Axle Mounting Design
 
 3D models of major components are provided below for the SolidWorks assembly of your rovers.
 
-{% file src="../.gitbook/assets/models_2022_v2.zip" %}
+{% file src="../.gitbook/assets/models_2022_v3.zip" %}
 
 {% hint style="info" %}
 You do not have to 3D model the payload section.
