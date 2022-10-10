@@ -271,27 +271,37 @@ Now go to `B.Cu` (Back Copper) and do the same to end up with below, but make su
 
 ![Both front and back copper ground pours](<../.gitbook/assets/image (41).png>)
 
-It can get annoying with the pour always showing, so know that these three buttons on the left toolbar can change the viewing options of pours. Also, hit `B` to update copper pours when you move around components.
-
-![Change pour viewing options](<../.gitbook/assets/image (90).png>)
+Hit `B` to update copper pours when you move around components.
 
 {% hint style="info" %}
 Remember to think about solderability! How close are you placing components to another? Would you be able to get tweezers and a soldering iron in there? Consider the height of components too.
 {% endhint %}
 
-Now for the fun part, to move all the components and route traces between them. Many of the controls are the same as in schematic editor, such as `m` for move and `r` for rotate. To route a trace, press `x` or hit the button below.&#x20;
+Now for the fun part, to move all the components and route traces between them. Many of the controls are the same as in schematic editor, such as `m` for move and `r` for rotate. Move the components on the board so that the rat's nest lines are as as short and as organized as possible. For example, the microcontroller is connected to several capacitors, so try keeping these together!&#x20;
+
+To route a trace, press `x` or hit the button below.  If a trace is red, it is on the front of the board, if it's bue, this means it is on the back.&#x20;
 
 ![Route trace](<../.gitbook/assets/image (60).png>)
 
-To place vias, to bring traces to the back of the board and route them there if necessary, or connect the front ground plane to the back ground plane, hit the following button that is right below `Route trace`.
+You'll notice that sometimes you will be unable to avoid traces that cross over each other, which KiCad doesn't let you do. To get around this, you canplace vias, which bring traces to the back of the board and let you cross under traces on the front. To do this, start drawing a trace, then press V or click the "via" button in the menu. Click on your board where you want the via to be placed. When you continue to route the trace, it will be on the other side of the board.&#x20;
 
 ![Add vias](<../.gitbook/assets/image (89).png>)
 
-Not everything is free-form though. A major guideline is to put the capacitors that go between `VDD` and `VSS` on components right next to the `VDD/VSS` pairs, as in the example below.
+<figure><img src="../.gitbook/assets/vias.PNG" alt=""><figcaption><p>An example of using vias. </p></figcaption></figure>
 
-![Decoupling capacitor right next to VDD/GND pair](<../.gitbook/assets/image (76).png>)
 
-In the right part of the above image you may note I routed `VDD` under the microcontroller! That's perfectly valid, and feel free to route signals under other components, but try to keep the ground plane as intact as possible.
+
+Not everything is free-form though. A major guideline is to put the capacitors that go between `VDD` and `VSS` on components right next to the `VDD/VSS` pairs, as in the example below. These are called decoupling capacitors, and are very useful for limiting noise!&#x20;
+
+Another important constraint is **trace thickness.** Power traces, like the ones in the 3.3V and 5V net, should be thicker than signal traces since they are conducting a larger current, which can damage the trace if it's surface area is too small. To highlight a net (a set of traces that are all at the same voltage) click on a trace in this net, and hit the ' key. The entire net should now be highlighted in white on your board.&#x20;
+
+To change the thickness of an individual trace, double click on it to see its properties, and edit the "Track Width" field. This is painstaking to do for a whole net, so instead we'll apply the change  for the whole net. To do this, first select the button in the top left corner labelled “Track: Use netclass widths”. You should see a drop-down menu. Click the last option, “Edit pre-defined sizes”. In the pop-up window that opens, add an option under the “Width” section for 0.02 inches (or, equivalently, 0.508 mm, or 20 mils). Click the “OK” button in the bottom right corner. You can use calculators like this one to find the appropriate trace width for different currents.
+
+<figure><img src="../.gitbook/assets/board_setup.PNG" alt=""><figcaption><p>Add a track width of 0.02 inches.</p></figcaption></figure>
+
+Now, click the “Edit” button in the top left, and select “Set Track and Via Properties” from the drop-down menu. Under “Scope”, select Traces. Under “Filter Items”, select “Filter items by net”, and select +3V3 from the dropdown menu. Under “Actions”, select “Set to Specified Values”. Select the new 0.02 inch track width in the left-most drop-down menu, and do not edit the rest of settings. Click “OK”. You should see that the traces in the 3V3 net are now thicker! **Repeat this process for the +5V net as well.**
+
+<figure><img src="../.gitbook/assets/set_track_properties.PNG" alt=""><figcaption><p>Set track width for the +3V3 net. </p></figcaption></figure>
 
 The last step is to perform design rules check just as in schematic. Hit the following button to open up the menu to do so.
 
