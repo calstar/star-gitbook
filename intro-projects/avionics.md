@@ -305,7 +305,7 @@ Now, click the “Edit” button in the top left, and select “Set Track and Vi
 
 The last step is to perform design rules check just as in schematic. Hit the following button to open up the menu to do so.
 
-![Perform design rules check](<../.gitbook/assets/image (72).png>)
+<figure><img src="../.gitbook/assets/ERC.PNG" alt=""><figcaption><p>ERC button. </p></figcaption></figure>
 
 Hit `Run DRC` and fix any errors that occur. When both `Problems / Markers` and `Unconnected Items` show 0 errors, you're done with layout! Feel free to ask in #avionics for help.
 
