@@ -46,6 +46,10 @@ The download link only downloads a \~32.1MB file named SolidWorksSetup.exe. A 7.
 
 ![Upgrade screen in the installer if you have an older version of SolidWorks. The screen remains the same regardless of year.](../../.gitbook/assets/solidworksinstall.png)
 
+{% hint style="info" %}
+Make sure you only install Solidworks, and not any of its extra add-ons like Solidworks Electrical. People have had problems in the past when trying to install extra add-ons.
+{% endhint %}
+
 If presented with the option above in the installer, it is recommended to upgrade rather than create a new installation to save space.
 
 On the summary page of the installer, you can select which products you wish to install. At minimum, you will need the 7.1GB SolidWorks package.
