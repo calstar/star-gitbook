@@ -291,7 +291,9 @@ You'll notice that sometimes you will be unable to avoid traces that cross over 
 
 
 
-Not everything is free-form though. A major guideline is to put the capacitors that go between `VDD` and `VSS` on components right next to the `VDD/VSS` pairs, as in the example below. These are called decoupling capacitors, and are very useful for limiting noise!&#x20;
+Not everything is free-form though. A major guideline is to put the capacitors that go between `VDD` and `VSS` on components right next to the `VDD/VSS` pairs, as in the example below. These are called decoupling capacitors, and are very useful for limiting noise! You should check on the schematic to see which decoupling capacitors are associated with which components, and make sure to keep those decoupling capacitors close to their associated components. Don't just put all the capacitors in one block off to the side.
+
+One other thing to consider is the two connectors (the 5-pin one and the 2-pin one). They need to be located relatively close to the edge of the board, since that would make it easy to plug things in to those connectors.
 
 Another important constraint is **trace thickness.** Power traces, like the ones in the 3.3V and 5V net, should be thicker than signal traces since they are conducting a larger current, which can damage the trace if it's surface area is too small. To highlight a net (a set of traces that are all at the same voltage) click on a trace in this net, and hit the ' key. The entire net should now be highlighted in white on your board.&#x20;
 
