@@ -27,6 +27,7 @@ Regarding filename conventions, file names of CADs should adhere to the followin
    * **SIM** : Simulations
    * **OUT** : Outreach
 4. Project shall be denoted by the selected abbreviation for the project:
+   * **MINDI**: 2" minimum-diameter rocket
    * **IREC20** : 6” diameter rocket design for IREC 2020 (this is Bear Force One, the project started before it was named and before IREC 2020 was moved to 2021)
    * **LE165** : “Hot Take”, Propulsion’s first-iteration of a liquid engine
    * **LE1**: Liquid Engine 1, Propulsion's 2020-2021 "simple" engine
