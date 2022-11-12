@@ -25,4 +25,5 @@ description: Sounds tasty
 | Laura Wong       | KN6WJA | Technician  |
 | Aarabhi Achanta  | KN6WIJ | Technician  |
 | Dulanya Cooray   | KN6WJG | Technician  |
+| Ashvin Verma     | KN6WKL | Technician  |
 
