@@ -21,9 +21,9 @@ description: Sounds tasty
 | Tyler Adkison    | KN6ELN | Technician  |
 | Tristan Steen    | KN6WIZ | Technician  |
 | Jonah Henry      | KN6WKK | Technician  |
-| Scout Weber      |        | Technician  |
+| Scout Weber      | KN6WPC | Technician  |
 | Laura Wong       | KN6WJA | Technician  |
 | Aarabhi Achanta  | KN6WIJ | Technician  |
-| Dulanya Cooray   | KN6WJG | Technician  |
+| Dulanya Cooray   | KN6WJG | General     |
 | Ashvin Verma     | KN6WKL | Technician  |
 
