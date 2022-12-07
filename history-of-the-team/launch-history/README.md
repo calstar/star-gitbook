@@ -4,8 +4,9 @@ The goal of maintaining a launch history is to keep a chronology of lessons lear
 
 The individual launch pages should contain photos, description of off-nominal procedures (as well as the procedures followed during the launch, if possible), notable events, as well as lessons learned for the relevant sub-teams.
 
-| <p></p><p>2022-09-17<br></p> | Pinkbeary First Flight                     | FAR, Cantil, CA             | 2377 ft        | Motor  | Summary & Notable Events                                                                                                  |
+| 2022-12-03                   | MINDI First Flight                         | FAR, Cantil, CA             | 14325 ft       |        |                                                                                                                           |
 | ---------------------------- | ------------------------------------------ | --------------------------- | -------------- | ------ | ------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><p>2022-09-17<br></p> | Pinkbeary First Flight                     | FAR, Cantil, CA             | 2377 ft        | Motor  | Summary & Notable Events                                                                                                  |
 | 2021-06-19                   | Bear Force One First Flight, FAR 1030 2021 | FAR, Cantil, CA             | 10163 ft       | M2500T | Nominal flight, successful main and drogue deployment. First place in the COTS 10k category for the FAR 1030 competition. |
 | 2020-02-15                   | AirBears Second Flight                     | TCC, Del Norte, CA          | 7752 ft        | L1150R | Nominal flight, successful main and drogue deployment. Successfully located with GPS data from Avionics payload.          |
 | 2019-11-16                   | AirBears First Flight                      | TCC, Del Norte, CA          | 4509 ft        | K805G  | Nominal flight, successful main and drogue deployment. Carried payloads from the Payload and Avionics sub-teams.          |
