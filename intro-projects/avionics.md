@@ -41,7 +41,7 @@ First, download the zip file above. It will contain two folders: `intro_proj` an
 
 By far the most common mistake that new members make is drawing messy schematics. Before jumping into the intro project, take a moment to read [this stack exchange post](https://electronics.stackexchange.com/questions/28251/rules-and-guidelines-for-drawing-good-schematics) with tips on creating good schematics, many of which will still be useful well into your engineering careers.
 
-When creating schematics yourself, aim to emulate the style and clarity used in previous avionics projects such as CAS and Ground Station (pictured below):
+When creating schematics yourself, aim to emulate the style and clarity used in previous avionics projects such as CAS and Ground Station (pictured below). Note the use of net labels and global labels to keep wires short, as well as the organization of different sub-circuits into different areas of the page.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-26 at 6.28.32 PM (1).png" alt=""><figcaption><p>CAS-Core schematic</p></figcaption></figure>
 
