@@ -37,6 +37,16 @@ Part of this will be guided, showing basic KiCad usage, but other parts of the s
 
 First, download the zip file above. It will contain two folders: `intro_proj` and `lib`. The `intro_proj` folder contains a KiCad project which you will complete. In this section you will complete the schematic. The `lib` folder contains schematic symbols and component footprints you will need.
 
+#### A brief note about creating high-quality schematics
+
+By far the most common mistake that new members make is drawing messy schematics. Before jumping into the intro project, take a moment to read [this stack exchange post](https://electronics.stackexchange.com/questions/28251/rules-and-guidelines-for-drawing-good-schematics) with tips on creating good schematics, many of which will still be useful well into your engineering careers.
+
+When creating schematics yourself, aim to emulate the style and clarity used in previous avionics projects such as CAS and Ground Station (pictured below):
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-26 at 6.28.32 PM (1).png" alt=""><figcaption><p>CAS-Core schematic</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screen Shot 2022-12-26 at 6.14.54 PM.png" alt=""><figcaption><p>Ground Station schematic</p></figcaption></figure>
+
 #### Setting up libraries
 
 In `intro_proj`, open up `intro_proj.pro`, the KiCad project. We will now make sure that the calstar schematic symbol library in `lib` is included.
@@ -185,10 +195,10 @@ Resources
 
 In this part, you will learn to read datasheets for the reference layout designs, and then complete a two-layer board layout of the schematic from the previous step in KiCad.
 
-Again, I highly recommend looking at the below layouts as a guide:
+Again, I highly recommend looking at the below layouts as a guide. Open the github pages and clone each of the repositories to your own computer, then open the .kicad\_pcb folders within the repository.
 
-* [CalSTAR Groundstation](https://cadlab.io/project/22830/master/files)
-* [CalSTAR Blackbox](https://cadlab.io/project/22832/master/files)
+* [Blackbox](https://github.com/calstar/blackbox-ng)
+* [Gound Station](https://github.com/calstar/hardware-ground-station)
 
 #### Setting up libraries
 

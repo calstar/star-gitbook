@@ -12,7 +12,7 @@ Unlike a typical engineering note, this document is a living article with no res
 
 ## Comments on safety
 
-Use good safety practices \(gloves, goggles, avoid skin contact, ingestion, inhalation, etc\) with all resins and materials described below. Read the MSDS and be aware of safe disposal methods as well as safe use. This document makes no attempt at a complete description of safe handling or risks of the materials described. Some particular examples of the safety precautions to be aware of are:
+Use good safety practices (gloves, goggles, avoid skin contact, ingestion, inhalation, etc) with all resins and materials described below. Read the MSDS and be aware of safe disposal methods as well as safe use. This document makes no attempt at a complete description of safe handling or risks of the materials described. Some particular examples of the safety precautions to be aware of are:
 
 Again, it is essential to properly research for yourself the risks and best safety practices for each material and process before use. If you are unsure, it is always better to contact a lead and ask for assistance than to endanger yourself.
 
@@ -27,27 +27,27 @@ Cyanate esters behave similarly to epoxies, and are the most common resin system
 * Many dusts and fillers are bad to breathe -- when in doubt wear a dust mask.
 * If material like a resin gets on the skin, it is usually incorrect to attempt to “wash” it off with a solvent. The reasoning is that the solvent will simply dissolve the material and make it easier to penetrate the skin! Use soap and water with manual scrubbing instead.
 * **epoxy**               as the matrix for fiber-reinforced laminates
-* **vinyl ester**       as the matrix for fiberglass molds
-* **polyester**        \(e.g. gel coat\) as the hard surface coat for molds – if molds are used.
+* **vinyl ester**  as the matrix for fiberglass molds
+* **polyester**        (e.g. gel coat) as the hard surface coat for molds – if molds are used.
 
-These resins are all thermosets. In other words, the curing process is a 3D chemical cross-linking, where the mers \(short CH molecules of which the resin is composed\) grow strong links to one another. The process is both heat-driven and exothermic, so it accelerates itself. This means two things:
+These resins are all thermosets. In other words, the curing process is a 3D chemical cross-linking, where the mers (short CH molecules of which the resin is composed) grow strong links to one another. The process is both heat-driven and exothermic, so it accelerates itself. This means two things:
 
 1. You can speed up a cure by heating the resin.
-2. Thinly spread resin \(volume / surface area = low\) will cure much more slowly than a mass of resin in a container \(volume / surface area = high\).
+2. Thinly spread resin (volume / surface area = low) will cure much more slowly than a mass of resin in a container (volume / surface area = high).
 
-With regard to point \(2\), a large mass of curing resin left in a cup will often turn brown, smoke, and put off foul smells and lots of heat. \(The self-accelerating effect is compounded by the fact that polymers have low thermal conductivities, so the heat cannot escape the curing resin easily.\) Therefore always dispose of excess resin by spreading it over a large area of paper or plastic, and letting it cure in that spread-out state.
+With regard to point (2), a large mass of curing resin left in a cup will often turn brown, smoke, and put off foul smells and lots of heat. (The self-accelerating effect is compounded by the fact that polymers have low thermal conductivities, so the heat cannot escape the curing resin easily.) Therefore always dispose of excess resin by spreading it over a large area of paper or plastic, and letting it cure in that spread-out state.
 
 ### West System 105/209 epoxy
 
-The 105 epoxy system is the default for laminated parts. Various hardeners can be combined with 105 resin to adjust cure time and cured part properties. Usually the 209 hardener is chosen, which gives a long pot life, so that the layup will not be rushed. The 105 system features a low viscosity, making it a good laminating resin. The main downside of the 105 system is its low Tg \(~120°F\).
+The 105 epoxy system is the default for laminated parts. Various hardeners can be combined with 105 resin to adjust cure time and cured part properties. Usually the 209 hardener is chosen, which gives a long pot life, so that the layup will not be rushed. The 105 system features a low viscosity, making it a good laminating resin. The main downside of the 105 system is its low Tg (\~120°F).
 
 ### Hysol 9396 epoxy
 
-9396 is one of the stiffest and most temperature-resilient \(service temperature up to 350°F\) structural epoxies. It is more difficult to use in laminations due to having a higher viscosity and shorter pot life than West System 105/209. \(However, the team has made many successful laminations with 9396.\) It can be used as a good adhesive, and is the best option for laminates or bonds in close proximity to intense heat sources \(like the exhaust\). 9396 is effective as a potting and repair resin. Expect working life on the order of 1.5 hours, and at room temperature, 70% cure in 24 hours, with full cure in several days. At elevated temperature \(~135°F\), cure time can be significantly reduced to ~1.5 hours.
+9396 is one of the stiffest and most temperature-resilient (service temperature up to 350°F) structural epoxies. It is more difficult to use in laminations due to having a higher viscosity and shorter pot life than West System 105/209. (However, the team has made many successful laminations with 9396.) It can be used as a good adhesive, and is the best option for laminates or bonds in close proximity to intense heat sources (like the exhaust). 9396 is effective as a potting and repair resin. Expect working life on the order of 1.5 hours, and at room temperature, 70% cure in 24 hours, with full cure in several days. At elevated temperature (\~135°F), cure time can be significantly reduced to \~1.5 hours.
 
 ### Tap 4:1 Super Hard epoxy
 
-Tap’s 4:1 epoxy is moderately stiff and strong. It has the benefit of being readily purchased on short notice, and can be used for general purpose potting and lamination. However, as a general purpose resin it makes significant compromises: it has a higher viscosity than 105 and a shorter pot life than both 105 and 9396. Expect a working life of less than 15 minutes. 
+Tap’s 4:1 epoxy is moderately stiff and strong. It has the benefit of being readily purchased on short notice, and can be used for general purpose potting and lamination. However, as a general purpose resin it makes significant compromises: it has a higher viscosity than 105 and a shorter pot life than both 105 and 9396. Expect a working life of less than 15 minutes.&#x20;
 
 ### Polyester resin
 
@@ -63,7 +63,7 @@ Vinyl ester is very similar to polyester in processing behavior. It is somewhat 
 
 ### Cyanate Ester
 
-Cyanate ester is the most common resin system for prepregs \(frozen fiber tapes pre-impregnated with resin\). Once cured, it is mechanically similar to epoxy, but has better resistance to hot-wet conditions. In the uncured state it is very sensitive to moisture. When removing prepreg from the freezer, where it should be stored prior, it must be allowed to come to room temperature before opening the bag. Otherwise condensation on the material will ruin it. When repacking prepreg for putting back into the freezer, include a dessicant pack and seal the bag well. Cyanate ester systems require heat to properly cure. Most of the prepreg we will likely use is RS3, and cures when held at 350°F for several hours. There are published schedules of heat and pressure to define good cure cycles for various resin systems.
+Cyanate ester is the most common resin system for prepregs (frozen fiber tapes pre-impregnated with resin). Once cured, it is mechanically similar to epoxy, but has better resistance to hot-wet conditions. In the uncured state it is very sensitive to moisture. When removing prepreg from the freezer, where it should be stored prior, it must be allowed to come to room temperature before opening the bag. Otherwise condensation on the material will ruin it. When repacking prepreg for putting back into the freezer, include a dessicant pack and seal the bag well. Cyanate ester systems require heat to properly cure. Most of the prepreg we will likely use is RS3, and cures when held at 350°F for several hours. There are published schedules of heat and pressure to define good cure cycles for various resin systems.
 
 ## Fibers
 
@@ -71,9 +71,9 @@ Cyanate ester is the most common resin system for prepregs \(frozen fiber tapes 
 
 For the most part, the team has used high-strength carbon fibers such as AS4 and IM7. These have relatively low modulus and fall into the “black aluminum” design regime. A key decision when acquiring fiber is the form of the fabric: whether to get unidirectional or woven, and if woven, what type of weave. It has been useful to get a moderate amount of unidirectional material for making strength-controlled shear panels, but for the majority of parts that are not filament wound, we will use woven cloth.
 
-Satin or twill weaves are much easier to control during layup than plain weave. Plain weave is very difficult to use in any part with bi-directional curvature or uni-directional curvature tighter than ~200 mm radius. Therefore it is advisable to always insist on 5 harness satin or twill. Fiber areal weight of ~6 oz/yd² is generally useful. In special applications, lighter fabrics may be desirable.
+Satin or twill weaves are much easier to control during layup than plain weave. Plain weave is very difficult to use in any part with bi-directional curvature or uni-directional curvature tighter than \~200 mm radius. Therefore it is advisable to always insist on 5 harness satin or twill. Fiber areal weight of \~6 oz/yd² is generally useful. In special applications, lighter fabrics may be desirable.
 
-Carbon fiber composites have good electrical conductivity in the plane of the laminate, but if using the carbon for example as a grounding body, it is necessary to drill into it and install a metal stud which will bypass the current past the surface epoxy \(which is non-conductive\) and into the center of the laminate, where contact can be made with the exposed carbon fibers. Carbon fabrics are easily cut with good, sharp shears.
+Carbon fiber composites have good electrical conductivity in the plane of the laminate, but if using the carbon for example as a grounding body, it is necessary to drill into it and install a metal stud which will bypass the current past the surface epoxy (which is non-conductive) and into the center of the laminate, where contact can be made with the exposed carbon fibers. Carbon fabrics are easily cut with good, sharp shears.
 
 By experimentation, we have found that plain weave final product should be around 0.35-0.36 g per square inch.
 
@@ -83,7 +83,7 @@ The usual glass in fiberglass fabrics is E-glass, which is strong and moderately
 
 ### Aramid Fabrics
 
-Aramids \(commonly referred to by the brand name “Kevlar”\) are strong in tension and moderately stiff. They have extremely poor strength in compression, but extremely high strength in shear. They are therefore used where skid-protection or shrapnel containment is necessary. They find some use in the lining of section of rocket airframe where catastrophic failure which may result in shrapnel may be present. Aramids are difficult to cut in the dry state and difficult to cleanly trim or machine when cured in a matrix. In the dry state, the best method of cutting is with well-sharpened high-quality shears, and patience.
+Aramids (commonly referred to by the brand name “Kevlar”) are strong in tension and moderately stiff. They have extremely poor strength in compression, but extremely high strength in shear. They are therefore used where skid-protection or shrapnel containment is necessary. They find some use in the lining of section of rocket airframe where catastrophic failure which may result in shrapnel may be present. Aramids are difficult to cut in the dry state and difficult to cleanly trim or machine when cured in a matrix. In the dry state, the best method of cutting is with well-sharpened high-quality shears, and patience.
 
 ### Carbon-Aramid Hybrid Fabrics
 
@@ -91,17 +91,17 @@ The team has experimented before with fabrics that combine both carbon and arami
 
 ### Mats
 
-Glass fibers and carbon fibers are also produced in mat form, where the fibers are randomly oriented and loosely packed together. The fibers are lightly bound to each other by a “size” adhesive, which dissolves in the resin upon lamination. Glass mat fibers typically have a size which is soluble in polyester and vinyl ester, but has poor solubility in epoxy. Carbon mats usually get a size which has better solubility in epoxy. But the type of size can only be definitely ascertained by contacting the manufacturer. Glass mat in heavier weights \(1.5+ oz/yd²\) is predominantly used in combination with vinyl ester when making fiberglass molds. In low weights, glass and carbon mats are usually called “tissues” or “surfacing veils”, and are useful when a very smooth surface is required on a part without the use of gel coat. As an example, an 0.7 oz/yd² glass surfacing veil has been used for the interior surface of the restrictor; weights down to 0.3 oz/yd² are readily available.
+Glass fibers and carbon fibers are also produced in mat form, where the fibers are randomly oriented and loosely packed together. The fibers are lightly bound to each other by a “size” adhesive, which dissolves in the resin upon lamination. Glass mat fibers typically have a size which is soluble in polyester and vinyl ester, but has poor solubility in epoxy. Carbon mats usually get a size which has better solubility in epoxy. But the type of size can only be definitely ascertained by contacting the manufacturer. Glass mat in heavier weights (1.5+ oz/yd²) is predominantly used in combination with vinyl ester when making fiberglass molds. In low weights, glass and carbon mats are usually called “tissues” or “surfacing veils”, and are useful when a very smooth surface is required on a part without the use of gel coat. As an example, an 0.7 oz/yd² glass surfacing veil has been used for the interior surface of the restrictor; weights down to 0.3 oz/yd² are readily available.
 
 ### Weaves
 
-There is not much "theory" to selection of weave in typical rocketry usage. One usually wants twill or satin weave, and not plain. Plain weave is difficult to use on anything other than flat plates or large cylinders. Twill or satin will conform to bi-directional curves much better. Satin is most generally useful, especially in harnesses 5HS to 8HS. The tow count -- 1k, 3k, etc -- often seen associated with a weave is the number of fiber strands in each tow of the weave \(a tow is a single fiber bundle -- multiple tows are woven to form a weave\). So the tow count is directly related to the fiber areal weight. \(Fiber areal weight -- FAW -- is the mass of fiber per unit area, usually quoted in oz/yd² or g/m². The unit g/m² is often written “gsm”.\)
+There is not much "theory" to selection of weave in typical rocketry usage. One usually wants twill or satin weave, and not plain. Plain weave is difficult to use on anything other than flat plates or large cylinders. Twill or satin will conform to bi-directional curves much better. Satin is most generally useful, especially in harnesses 5HS to 8HS. The tow count -- 1k, 3k, etc -- often seen associated with a weave is the number of fiber strands in each tow of the weave (a tow is a single fiber bundle -- multiple tows are woven to form a weave). So the tow count is directly related to the fiber areal weight. (Fiber areal weight -- FAW -- is the mass of fiber per unit area, usually quoted in oz/yd² or g/m². The unit g/m² is often written “gsm”.)
 
 ## Fillers
 
-### Fumed Silica \(cab-o-sil\)
+### Fumed Silica (cab-o-sil)
 
-Fumed silica \(also known by brand name “cab-o-sil”\) is a filler powder used to thicken epoxy resins. It is lightweight and confers thixotropic \(shear thickening\) properties on the resin, making it very useful in all potting, filling, and surfacing applications. Epoxy filled with fumed silica creates a hard, sandable surface. Sometimes microballoons are added to either reduce weight or weaken the surface \(to make sanding a little easier\).
+Fumed silica (also known by brand name “cab-o-sil”) is a filler powder used to thicken epoxy resins. It is lightweight and confers thixotropic (shear thickening) properties on the resin, making it very useful in all potting, filling, and surfacing applications. Epoxy filled with fumed silica creates a hard, sandable surface. Sometimes microballoons are added to either reduce weight or weaken the surface (to make sanding a little easier).
 
 ### Glass Microballoons
 
@@ -109,11 +109,11 @@ Glass microballoons are a powder consisting of small hollow glass spheres. The h
 
 ### Talc Powder
 
-Talc powder \(a magnesium silicate\) can be used as an epoxy filler. It is heavier than fumed silica and makes a surface which can be very difficult to sand. Therefore, it is not commonly used in applications where a surface finish is desired. However, it does improve smoothness of the filled resin, so sometimes a small amount of talc may be added in a surfacing application.
+Talc powder (a magnesium silicate) can be used as an epoxy filler. It is heavier than fumed silica and makes a surface which can be very difficult to sand. Therefore, it is not commonly used in applications where a surface finish is desired. However, it does improve smoothness of the filled resin, so sometimes a small amount of talc may be added in a surfacing application.
 
 ### Milled/Chopped Glass Fiber
 
-Milled or chopped glass fibers are readily available. They are simply E-glass fibers which have been cut to very short lengths. Milled fibers are short enough to look like powder, but will significantly strengthen the resin when used as a filler \(at a cost of more weight\). Chopped fibers are usually ⅛” to ¼” long, and greatly strengthen the resin, but it is difficult to spread a resin smoothly when filled with chopped fibers. Therefore, milled fibers are more often useful, particularly as an additive in mold surfacing when high strength is required \(at the cost of more sanding time\). The CalSTAR team has utilized this in the past by impregnating JB weld adhesive with Carbon Fiber shavings.
+Milled or chopped glass fibers are readily available. They are simply E-glass fibers which have been cut to very short lengths. Milled fibers are short enough to look like powder, but will significantly strengthen the resin when used as a filler (at a cost of more weight). Chopped fibers are usually ⅛” to ¼” long, and greatly strengthen the resin, but it is difficult to spread a resin smoothly when filled with chopped fibers. Therefore, milled fibers are more often useful, particularly as an additive in mold surfacing when high strength is required (at the cost of more sanding time). The CalSTAR team has utilized this in the past by impregnating JB weld adhesive with Carbon Fiber shavings.
 
 ### Chopped Carbon Fiber
 
@@ -133,19 +133,19 @@ Special dispensation is made for a particular Bondo product called “Profession
 
 Urethane foam is the standard for mold making. In general, the higher the density, the better will be the mold. Cost scales directly with density; there are trade-offs to be made. Typical densities availale are 6, 10, 20 lb/ft^3. High quality parts have been made with 6 lb/ft^3 foam, but 10 or greater is preferred, as it will improve fidelity and reduce the coating/sanding effort considerably.
 
-Urethane foam sands well and is reasonably strong. In lower density \(6 lb/ft^3\) take care not to puncture the foam, as its compressive strength isn’t too high. The foam is somewhat brittle and should not be dropped from too high or danced upon too enthusiastically. Urethane foam is compatible with both epoxy and ester resins. Slabs may be bonded together with either of these agents, or urethane Liquid Nails, or Gorilla Glue. When bonding slabs, make the adhesive layer as thin as possible -- otherwise it will be a hardness discontinuity that interferes with machining/sanding.
+Urethane foam sands well and is reasonably strong. In lower density (6 lb/ft^3) take care not to puncture the foam, as its compressive strength isn’t too high. The foam is somewhat brittle and should not be dropped from too high or danced upon too enthusiastically. Urethane foam is compatible with both epoxy and ester resins. Slabs may be bonded together with either of these agents, or urethane Liquid Nails, or Gorilla Glue. When bonding slabs, make the adhesive layer as thin as possible -- otherwise it will be a hardness discontinuity that interferes with machining/sanding.
 
 ### Styrene Modeling Foams
 
 Polystyrene foams are cheap and readily available. They usually come in 1” thick boards meant for building insulation, but can be sometimes purchased thicker. There are two basic types:
 
-●       Expanded polystyrene \(EPS\)
+●       Expanded polystyrene (EPS)
 
-●       Extruded polystyrene \(XPS\)
+●       Extruded polystyrene (XPS)
 
-EPS is composed of many beads fused together, and is horrible to sand / mill / shape. It is usually white, and often used in molded shipping boxes or packing peanuts. XPS is much better for sanding and shaping, and comes in colors blue or pink \(there is no significant difference between XPS in the two different colors\). Both typically come in 1-2 lb/ft^3 density: very light and very low hardness.
+EPS is composed of many beads fused together, and is horrible to sand / mill / shape. It is usually white, and often used in molded shipping boxes or packing peanuts. XPS is much better for sanding and shaping, and comes in colors blue or pink (there is no significant difference between XPS in the two different colors). Both typically come in 1-2 lb/ft^3 density: very light and very low hardness.
 
-Over the years, polystyrene has been used to make a number of molds for FSAE and CalSol, two other competition teams on campus. These generally have been of low quality and time-consuming to produce. Polystyrene has the twin disadvantages of being very difficult to sand smooth, while also being incompatible with all polyester resins / fillers \(these resins include styrene monomers in their formulation -- clearly, then they will dissolve styrene foam\).
+Over the years, polystyrene has been used to make a number of molds for FSAE and CalSol, two other competition teams on campus. These generally have been of low quality and time-consuming to produce. Polystyrene has the twin disadvantages of being very difficult to sand smooth, while also being incompatible with all polyester resins / fillers (these resins include styrene monomers in their formulation -- clearly, then they will dissolve styrene foam).
 
 ### Urethane Expanding Foams
 
@@ -161,11 +161,11 @@ For the most part, one uses special epoxy formulations for adhering composite pa
 
 ### 3M DP4X0
 
-DP4X0 is a high-strength epoxy adhesive with a minute pot life indicated by the value of x and 24 hrs to full cure. Pot life options include 20 minutes, 60 minutes and 90 minutes. Recommended for all general purpose bonding when fast cure time is desired. Excellent for trackside repairs. While it can be filled with milled or chopped fibers to increase strength of a repair patch, this may make it brittle and thus more prone to failure. It also comes in a "NS" or "non-sag" variant which is good for applications such as creating fin fillets. 
+DP4X0 is a high-strength epoxy adhesive with a minute pot life indicated by the value of x and 24 hrs to full cure. Pot life options include 20 minutes, 60 minutes and 90 minutes. Recommended for all general purpose bonding when fast cure time is desired. Excellent for trackside repairs. While it can be filled with milled or chopped fibers to increase strength of a repair patch, this may make it brittle and thus more prone to failure. It also comes in a "NS" or "non-sag" variant which is good for applications such as creating fin fillets.&#x20;
 
 ### Hysol 9396
 
-9396 is discussed earlier in this document as a laminating and potting resin, but is repeated here. It is specifically useful as an adhesive in high-temperature locations \(service temperature up to 350°F\). It can be moderately filled with fumed silica to bridge bond gaps between 0.020” - 0.030”, and needs no filler at gaps less than 0.015”. Because 9396 is quite linearly rigid, a good bond joint design becomes more important wherever peel failure is a concern. As one of the stiffest resins available, with reasonably low viscosity, 9396 is particularly good as an adhesive whenever the primary design requirement is stiffness and a definite 0.005” - 0.008” bond gap can be obtained.
+9396 is discussed earlier in this document as a laminating and potting resin, but is repeated here. It is specifically useful as an adhesive in high-temperature locations (service temperature up to 350°F). It can be moderately filled with fumed silica to bridge bond gaps between 0.020” - 0.030”, and needs no filler at gaps less than 0.015”. Because 9396 is quite linearly rigid, a good bond joint design becomes more important wherever peel failure is a concern. As one of the stiffest resins available, with reasonably low viscosity, 9396 is particularly good as an adhesive whenever the primary design requirement is stiffness and a definite 0.005” - 0.008” bond gap can be obtained.
 
 ### Hardware store 5 minute epoxies
 
@@ -197,7 +197,7 @@ Decent results can be achieved with adhesive epoxies available from hardware sto
 
 Shears are not scissors. Shears look like big scissors, but they’re better. Good shears are sometimes marketed as carpet and upholstery shears. They have an adjustable pivot screw to control pressure between the two blades. The blades are of alloy steel and hold an edge. Shears need to be sharpened from time to time. Correct sharpening technique is essential to maintain close contact between the two shearing edges. An example of good shears is shown from the MSC catalog below.
 
-![](file:///C:/Users/Richa/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![](file:///C:/Users/Richa/AppData/Local/Temp/msohtmlclip1/01/clip\_image002.gif)
 
 ### Saws
 
@@ -205,7 +205,7 @@ The most effective saws for cutting fiber composites tend to be toothless steel 
 
 ### Drills
 
-High-speed steel drill bits will go dull fairly quickly when cutting fiber composites. Cheap ones can be sacrificed for simply punching holes. Machinists will not thank you for using their good precision drills to cut composites. Carbide bits are preferred, as they will last longer and cut cleaner. High precision \(diameter tolerance &lt; 0.001”\) holes are readily achievable in composites with carbide reamers.
+High-speed steel drill bits will go dull fairly quickly when cutting fiber composites. Cheap ones can be sacrificed for simply punching holes. Machinists will not thank you for using their good precision drills to cut composites. Carbide bits are preferred, as they will last longer and cut cleaner. High precision (diameter tolerance < 0.001”) holes are readily achievable in composites with carbide reamers.
 
 ### Cutters
 
@@ -217,7 +217,7 @@ A standard stock of sand paper includes 60, 100, and 200 grits in dry sanding pa
 
 ### Scotch-Brite
 
-Scotch-brite pads come color-coded in different levels of aggressiveness of abrasion. It is usual to keep a stock of green pads \(aggressive\) and light gray pads \(very soft\). Note that some other colors of scotch brite are “tan”, “gray”, and “dark gray” -- not to be confused with “light gray”, which is almost white in color. Like sand paper, scotch-brite goes dull with continued use, and should be discarded.
+Scotch-brite pads come color-coded in different levels of aggressiveness of abrasion. It is usual to keep a stock of green pads (aggressive) and light gray pads (very soft). Note that some other colors of scotch brite are “tan”, “gray”, and “dark gray” -- not to be confused with “light gray”, which is almost white in color. Like sand paper, scotch-brite goes dull with continued use, and should be discarded.
 
 ### Razor blades
 
@@ -237,7 +237,7 @@ Before bonding two surfaces together, it is critical that they be properly prepa
 
 ### Mechanical abrasion
 
-When bonding a fiber composite surface, the goal is to achieve scratches in all directions in the plastic matrix only. Carbon fibers, in particular, are poor bond surfaces, therefore one does not want to sand into the fiber. \(If you see black grit, you’ve gone too deep.\) Green scotch-brite pads are an effective abrasive to achieve scratches in the matrix without attacking the fibers underneath. Scratch the surface thoroughly in all directions, either with swirling motions ~1” in diameter, or by scratching at 0°, 90°, +45°, -45° in succession.
+When bonding a fiber composite surface, the goal is to achieve scratches in all directions in the plastic matrix only. Carbon fibers, in particular, are poor bond surfaces, therefore one does not want to sand into the fiber. (If you see black grit, you’ve gone too deep.) Green scotch-brite pads are an effective abrasive to achieve scratches in the matrix without attacking the fibers underneath. Scratch the surface thoroughly in all directions, either with swirling motions \~1” in diameter, or by scratching at 0°, 90°, +45°, -45° in succession.
 
 When bonding a metal surface, sand paper may be necessary to achieve good scratching. 200 grit dry sanding is effective, again moving either in 1” swirls or a 0°, 90°, +45°, -45° succession of sanding directions.
 
@@ -255,11 +255,11 @@ Bare aluminum in air rapidly forms an oxide layer which bonds poorly. However, i
 
 Note that anodized aluminum is a very poor bonding surface, and should be completely removed. This can be time consuming.
 
-Also note that there is a more permanent alternative to West System 860, called “iridite” or “alodine”. This surface coating makes for excellent bonds, and does not have the same restriction on time frame for bonding. \(The alodined surface is good for adhering to paint as well as epoxies.\)
+Also note that there is a more permanent alternative to West System 860, called “iridite” or “alodine”. This surface coating makes for excellent bonds, and does not have the same restriction on time frame for bonding. (The alodined surface is good for adhering to paint as well as epoxies.)
 
 ## Release Surface Prep
 
-When the goal is to have a material not stick to a surface \(i.e. a plug or mold\), it is again critical that the surface be properly prepared. The goal is to achieve three qualities:
+When the goal is to have a material not stick to a surface (i.e. a plug or mold), it is again critical that the surface be properly prepared. The goal is to achieve three qualities:
 
 1. Cleanness -- no interfering grit or sticky particles
 2. Low surface area -- keep the surface as smooth as possible, i.e. a mirror-finish
@@ -267,17 +267,17 @@ When the goal is to have a material not stick to a surface \(i.e. a plug or mold
 
 ### Cleaning
 
-Flash from previous uses of the mold should they be present, should be mechanically removed. A soft scotch-brite pad \(light gray\) is helpful. Be sure not to scratch the mold. If aggressive cleaning is necessary, use a degreaser with water, then acetone. Otherwise use isopropyl alcohol with a towel. Blow off dust and repeat wipe-down until thoroughly cleaned.
+Flash from previous uses of the mold should they be present, should be mechanically removed. A soft scotch-brite pad (light gray) is helpful. Be sure not to scratch the mold. If aggressive cleaning is necessary, use a degreaser with water, then acetone. Otherwise use isopropyl alcohol with a towel. Blow off dust and repeat wipe-down until thoroughly cleaned.
 
 In situations where a mold is not used, but you are interfacing a carbon fiber layup with a surface which eventually you **do not** want the carbon to be bonded to, following the same steps as above but replacing the mold with your surface. Remember that it is always better to be sure of what you’re doing but slower than to work quickly and risk damaging or destroying the surface.
 
 ### Mold release wax
 
-Use Meguiar’s mold release wax or Part-all paste wax. Apply a thin light layer over the whole surface with a microfiber towel. Let the solvents flash off 5 minutes, then buff in the wax until shiny with a clean microfiber. \(Buffing well is important -- a shiny waxed surface will release well, whereas a hazy texture of wax can actually act as a mild adhesive!\) Repeat a minimum of 3 coats. The mold release wax provides a strong, low surface energy barrier between the mold and the part. It fills and smooths pinholes and tiny scratches. Often, mold release wax only needs to be applied the first few times a mold is used -- after that, the mold becomes “seasoned”, with plenty of wax permanently impregnated into the surface.
+Use Meguiar’s mold release wax or Part-all paste wax. Apply a thin light layer over the whole surface with a microfiber towel. Let the solvents flash off 5 minutes, then buff in the wax until shiny with a clean microfiber. (Buffing well is important -- a shiny waxed surface will release well, whereas a hazy texture of wax can actually act as a mild adhesive!) Repeat a minimum of 3 coats. The mold release wax provides a strong, low surface energy barrier between the mold and the part. It fills and smooths pinholes and tiny scratches. Often, mold release wax only needs to be applied the first few times a mold is used -- after that, the mold becomes “seasoned”, with plenty of wax permanently impregnated into the surface.
 
 ### Water-break test
 
-Before applying mold release film, but after waxing, the quality of the release surface can be roughly observed by putting a few droplets of water on the surface. If the water balls up, then the surface tension of the water exceeds the surface energy of the mold. This is a good sign, indicating low surface energy has been achieved on the mold, and it should release well. If the water spreads out in a thin film, this means the surface must be improved, either by better waxing or \(more likely\) by stripping off the wax \(with acetone\) and sanding the surface smoother, then clean it again and re-wax.
+Before applying mold release film, but after waxing, the quality of the release surface can be roughly observed by putting a few droplets of water on the surface. If the water balls up, then the surface tension of the water exceeds the surface energy of the mold. This is a good sign, indicating low surface energy has been achieved on the mold, and it should release well. If the water spreads out in a thin film, this means the surface must be improved, either by better waxing or (more likely) by stripping off the wax (with acetone) and sanding the surface smoother, then clean it again and re-wax.
 
 ### Mold release film
 
@@ -289,11 +289,11 @@ In a typical application, where a male plug is to be made, and then a female mol
 
 1. Urethane foam slabs are bonded together into a larger block
 2. The foam is machined by a CNC routing shop off of CAD geometry
-3. The machined plug is sprayed with a polyester-based hard surface coat \(e.g. Duratec or Gel-Coat\)
+3. The machined plug is sprayed with a polyester-based hard surface coat (e.g. Duratec or Gel-Coat)
 4. The coated plug is sanded smooth and polished
 5. The female fiberglass mold is laid up on the plug
 
-For a nosecone of size, say, 13” in diameter, expect step \(1\) to take two person-days, step \(3\) to take two person-days, and step \(4\) to take six person-days. The schedule for step \(2\) depends on how quickly you can get the CNC shop to mill the foam and send it back. Making the female mold \(step 5\) is discussed separately in this document. The bottom line to be very aware of is to start early! The time estimates above are deceiving, because:
+For a nosecone of size, say, 13” in diameter, expect step (1) to take two person-days, step (3) to take two person-days, and step (4) to take six person-days. The schedule for step (2) depends on how quickly you can get the CNC shop to mill the foam and send it back. Making the female mold (step 5) is discussed separately in this document. The bottom line to be very aware of is to start early! The time estimates above are deceiving, because:
 
 ●       These estimates are for experienced workers. Students new to the process will be slower, with greater risk of damaging plugs and then needing to repair them.
 
@@ -370,105 +370,26 @@ Outline of steps:
 
 Some useful books and articles are compiled in the table below.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Title</b>
-      </th>
-      <th style="text-align:left"><b>Author</b>
-      </th>
-      <th style="text-align:left"><b>Where to find</b>
-      </th>
-      <th style="text-align:left"><b>Comments</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">ME127 reader: Design and Manufacture with Composite Materials</td>
-      <td
-      style="text-align:left">Multiple, compiled by Prof. Dharan</td>
-        <td style="text-align:left">Needs to be Sourced</td>
-        <td style="text-align:left">Concisely combines information from various textbooks and guides into
-          one composites bible</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Fiberglass and Composite Materials: an enthusiast&#x2019;s guide</td>
-      <td
-      style="text-align:left">Forbes Aird</td>
-        <td style="text-align:left">Purchase if need be &#x2013; pdf is being sourced</td>
-        <td style="text-align:left">Straightforward, covers all the basics in resins, fabrics, layups, tools,
-          processes</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Surface preparations for ensuring that the glue will stick in bonded composite
-        structures</td>
-      <td style="text-align:left">L.J. Hart-Smith</td>
-      <td style="text-align:left">Search engineering articles database</td>
-      <td style="text-align:left">Essential reading on bond prep of surfaces</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Adhesively bonded joints for fibrous composite structures</td>
-      <td style="text-align:left">L.J. Hart-Smith</td>
-      <td style="text-align:left">Search engineering articles database</td>
-      <td style="text-align:left">Essential reading on bond joint design and why bonds fail</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Mil Handbook 17-2:</p>
-        <p>POLYMER MATRIX COMPOSITES</p>
-        <p>MATERIALS PROPERTIES</p>
-      </td>
-      <td style="text-align:left">US Dept of Defense</td>
-      <td style="text-align:left"><a href="http://www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-2F.pdf">www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-2F.pdf</a>
-      </td>
-      <td style="text-align:left">Extensive list of tested material properties for various fibers and resins</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>Mil Handbook 17-3:</p>
-        <p>POLYMER MATRIX COMPOSITES</p>
-        <p>MATERIALS USAGE, DESIGN, AND ANALYSIS</p>
-      </td>
-      <td style="text-align:left">US Dept of Defense</td>
-      <td style="text-align:left"><a href="http://www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-3F.pdf">www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-3F.pdf</a>
-      </td>
-      <td style="text-align:left">Overview of most practical composites matters. Most common standard reference
-        in composites world</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Handbook of Composites</td>
-      <td style="text-align:left">edited by S.T. Peters</td>
-      <td style="text-align:left"><a href="http://www.knovel.com/web/portal/browse/display?_EXT_KNOVEL_DISPLAY_bookid=359">http://www.knovel.com/web/portal/browse/display?_EXT_KNOVEL_DISPLAY_bookid=359</a>
-      </td>
-      <td style="text-align:left">Good combination of theory and practical knowledge</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Principles of Composite Material Mechanics</td>
-      <td style="text-align:left">Ronald F. Gibson</td>
-      <td style="text-align:left">at engineering library</td>
-      <td style="text-align:left">Current ME 127 textbook, lots of theory</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tensile Properties of Glass Microballoon- Epoxy Resin Syntactic Foams</td>
-      <td
-      style="text-align:left">Nikhil Gupta and Ruslan Nagorny</td>
-        <td style="text-align:left"><a href="http://composites.poly.edu/Publications/Gupta-Tensile%20syntactic%20foam.pdf">http://composites.poly.edu/Publications/Gupta-Tensile%20syntactic%20foam.pdf</a>
-        </td>
-        <td style="text-align:left">Properties of epoxy-glass microballoon potting compounds</td>
-    </tr>
-  </tbody>
-</table>
+| **Title**                                                                                             | **Author**                         | **Where to find**                                                                                                                                                        | **Comments**                                                                                      |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| ME127 reader: Design and Manufacture with Composite Materials                                         | Multiple, compiled by Prof. Dharan | Needs to be Sourced                                                                                                                                                      | Concisely combines information from various textbooks and guides into one composites bible        |
+| Fiberglass and Composite Materials: an enthusiast’s guide                                             | Forbes Aird                        | Purchase if need be – pdf is being sourced                                                                                                                               | Straightforward, covers all the basics in resins, fabrics, layups, tools, processes               |
+| Surface preparations for ensuring that the glue will stick in bonded composite structures             | L.J. Hart-Smith                    | Search engineering articles database                                                                                                                                     | Essential reading on bond prep of surfaces                                                        |
+| Adhesively bonded joints for fibrous composite structures                                             | L.J. Hart-Smith                    | Search engineering articles database                                                                                                                                     | Essential reading on bond joint design and why bonds fail                                         |
+| <p>Mil Handbook 17-2:</p><p>POLYMER MATRIX COMPOSITES</p><p>MATERIALS PROPERTIES</p>                  | US Dept of Defense                 | [www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-2F.pdf](http://www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-2F.pdf)                                    | Extensive list of tested material properties for various fibers and resins                        |
+| <p>Mil Handbook 17-3:</p><p>POLYMER MATRIX COMPOSITES</p><p>MATERIALS USAGE, DESIGN, AND ANALYSIS</p> | US Dept of Defense                 | [www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-3F.pdf](http://www.lib.ucdavis.edu/dept/pse/resources/fulltext/HDBK17-3F.pdf)                                    | Overview of most practical composites matters. Most common standard reference in composites world |
+| Handbook of Composites                                                                                | edited by S.T. Peters              | [http://www.knovel.com/web/portal/browse/display?\_EXT\_KNOVEL\_DISPLAY\_bookid=359](http://www.knovel.com/web/portal/browse/display?\_EXT\_KNOVEL\_DISPLAY\_bookid=359) | Good combination of theory and practical knowledge                                                |
+| Principles of Composite Material Mechanics                                                            | Ronald F. Gibson                   | at engineering library                                                                                                                                                   | Current ME 127 textbook, lots of theory                                                           |
+| Tensile Properties of Glass Microballoon- Epoxy Resin Syntactic Foams                                 | Nikhil Gupta and Ruslan Nagorny    | [http://composites.poly.edu/Publications/Gupta-Tensile%20syntactic%20foam.pdf](http://composites.poly.edu/Publications/Gupta-Tensile%20syntactic%20foam.pdf)             | Properties of epoxy-glass microballoon potting compounds                                          |
 
 ## Suppliers List
 
 This is a rough and incomplete list of composites-specific suppliers that may be used.
 
-| **Supplier** | **Location** | **Link** | **Comments** |
-| :--- | :--- | :--- | :--- |
-| Tap Plastics | Stores throughout Bay Area, one close to garage | [http://www.tapplastics.com/](http://www.tapplastics.com/) | Close to RFS, fairly limited selection |
-| The Composites Store | Southern California | [http://www.cstsales.com/](http://www.cstsales.com/) |  |
-| ACP Composites | Livermore | [http://www.acpsales.com/](http://www.acpsales.com/) |  |
-| Douglas & Sturgess | Richmond, close to garage | [http://www.artstuf.com/](http://www.artstuf.com/) |  |
-|  |  |  |  |
-
+| **Supplier**         | **Location**                                    | **Link**                                                   | **Comments**                           |
+| -------------------- | ----------------------------------------------- | ---------------------------------------------------------- | -------------------------------------- |
+| Tap Plastics         | Stores throughout Bay Area, one close to garage | [http://www.tapplastics.com/](http://www.tapplastics.com/) | Close to RFS, fairly limited selection |
+| The Composites Store | Southern California                             | [http://www.cstsales.com/](http://www.cstsales.com/)       |                                        |
+| ACP Composites       | Livermore                                       | [http://www.acpsales.com/](http://www.acpsales.com/)       |                                        |
+| Douglas & Sturgess   | Richmond, close to garage                       | [http://www.artstuf.com/](http://www.artstuf.com/)         |                                        |
+|                      |                                                 |                                                            |                                        |
