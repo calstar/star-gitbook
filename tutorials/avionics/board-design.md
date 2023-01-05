@@ -166,6 +166,7 @@ Other things to consider include the following:
 * Traces have resistance (they will heat up, decreasing efficiency and wasting power), have inductance (current through them can't change instantaneously), and have capacitance (causes signals on one wire to show up on others). Increasing trace width reduces resistance and inductance. Decreasing trace length does the same.
 * Vias have inductance and add length, so put them in parallel when you must use them.
 * Decouple correctly by placing capacitors close to the component you are decoupling and size the capacitor correctly so that inductance doesn't dominate. See datasheets for recommendations.&#x20;
+* If you are creating a complex with a lot of components, consider using the "Manhattan Routing" strategy. It has only one simple rule: all horizontal traces go on one layer and all vertical traces go on another layer, and traces go to the other layer (with a via) whenever they need to turn. If your board is very simple then this probably isn't worth the effort, but for large or dense boards this strategy can make your life much easier.
 
 When you have finished your layout, go through this [checklist](https://ieee.berkeley.edu/hope/checklist.html) to ensure that your board is ready for fabrication.&#x20;
 
