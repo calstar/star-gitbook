@@ -222,4 +222,9 @@ Bay Area Circuits:
 * Stay within BAC's standard capabilities
 * Manufacturing capabilities: [https://bayareacircuits.com/capabilities/](https://bayareacircuits.com/capabilities/)
 * Stackup capabilities: [https://bayareacircuits.com/multi-layer-stackups/](https://bayareacircuits.com/multi-layer-stackups/)
-* Instant DFM: [http://instantdfm.bayareacircuits.com/](http://instantdfm.bayareacircuits.com/)
+
+### Instant DFM
+
+InstantDFM is a simple tool from bay area circuits that you can use at the very end of the board design process to verify that your board meets their manufacturing requirements (like minimum trace widths, via sizes, copper to edge clearance, etc). Before you submit any board for manufacturing, you should always run it through instantDFM to verify that there are no errors.
+
+[http://instantdfm.bayareacircuits.com/](http://instantdfm.bayareacircuits.com/)
