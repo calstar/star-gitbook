@@ -111,8 +111,10 @@ There will also be an in person workshop on RPA! We encourage you to attend, but
   * [Pintle Injectors](http://pintleinjector.blogspot.com/2016/12/pintle-injector.html)
   * [Impinging Injectors Video](https://www.youtube.com/watch?v=watzSDCZeXM)
 * Valves
-  * [design fundamentals](https://youtu.be/W1QYuh9BXao)
+  * [design fundamentals](https://docs.google.com/presentation/d/1Dek6BX-vE9P9MvEJH2QCOxWSa5CCxSWgPQbhdJF9QiA/edit?usp=sharing)
+  * [Valve Design Textbook](https://drive.google.com/file/d/1YEWYdH01KBze4b2dqISZRZqBq3K\_Kxd9/view?usp=sharing)
   * [Example of a Liquid Oxygen Valve](https://youtu.be/W1QYuh9BXao)
+  * [Poppet Valves](https://docs.google.com/presentation/d/1GBpaer2EEa1K\_J-ZBrxBmeyDkpD7Bfh\_pAJ94yzFZcQ/edit?usp=sharing)
 * Thrust Chambers
   * [Cooling in Liquid Rockets](https://aeronotes.weebly.com/cooling-in-liquid-rocket.html)
     * [Ablative Cooling](https://ntrs.nasa.gov/api/citations/19960007443/downloads/19960007443.pdf)
