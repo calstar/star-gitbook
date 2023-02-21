@@ -28,7 +28,7 @@ We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our
 * Operations
 * Simulations
 * Systems
-* Finance
+* Business/Finance
 * Outreach
 * Media
 
@@ -47,6 +47,18 @@ We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our
 **Bear Force One:** 2020 launch vehicle, intended for IREC 2020 (competition cancelled due to COVID-19)
 
 **LE-175 "Hot Take":** our liquid engine LOX/Kersoene test article
+
+**ELLIE:** Our GOX/ethanol liquid engine test stand: successfully hotfired in May 2022
+
+**SSEP1:** UC Berkeley's first stage separation rocket. Successfully launched at the Friends of Amateur Rocketry site in September 2022.
+
+**MINDI:** UC Berkeley's First minimum diameter vehicle. Successfully launched at the Friends of Amateur rocketry site, smashing the current Cal altitude record at a whopping 14,325 feet!
+
+**ALULA:** STAR's first flyable liquid engine! Set to hotfire March 2023, and fly soon after!
+
+**DAVE:** STAR's first glider payload will deploy out of Bear Force One to carry payloads for longer periods of time.&#x20;
+
+**CalVistor:** STAR's entry into the IREC 2023 10K competition. Features a 6 inch diameter airframe, dual side dual deploy recovery system, and some epic payloads: muon detectors and a seismograph!&#x20;
 
 Check the website for more details, as well as our[ Launch History](history-of-the-team/launch-history/).
 
