@@ -92,7 +92,7 @@ You'll find all the practical info you need on the New Members page:
 
 #### How often do you meet?&#x20;
 
-Usually once or twice per week. General Meetings ("GMs") and subteam meetings are usually an hour every week. You might also meet outside of regular meetings for build days, design reviews, or other to hang out and gain subteam points!
+Twice per week. General Meetings ("GMs") and subteam meetings are usually two hours each every week. You might also meet outside of regular meetings for build days, design reviews, or other to hang out and gain subteam points! GM's this semester are Thursdays from 8-10 PM in Jacobs Hall and Subteam meetings are Mondays 7-9 PM in Etcherverry Hall!
 
 ## Subteams
 
