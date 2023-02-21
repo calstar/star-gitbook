@@ -1,8 +1,12 @@
 ---
-description: Compilation of Important links and resources on the team!
+description: >-
+  Compilation of important links and resources on the team! Also updated here:
+  https://docs.google.com/spreadsheets/d/1QvLCy1SLycjZrwfG2lQjOvpugUm144z0Te77fRIiMmY/edit#gid=0
 ---
 
 # Quick Links
+
+
 
 | **Website** (meant for the public/PR purposes)          | [https://stars.berkeley.edu/](https://stars.berkeley.edu/)                                                                                                                                                                                               |
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
