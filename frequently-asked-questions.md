@@ -112,10 +112,6 @@ Twice per week. General Meetings ("GMs") and subteam meetings are usually two ho
 
 We are designing and building the airframe for our 6-inch diameter IREC rocket with a target apogee of 10,000 feet; this includes tubes, fins, the motor mount, couplers, brackets, fasteners, and more.
 
-#### Want to learn more about Airframe?&#x20;
-
-Contact our Airframe lead, Christina Liveretou (ChristinaLiveretou#5880) on Discord!
-
 ### Avionics
 
 #### What does Avionics do?&#x20;
