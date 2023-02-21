@@ -7,9 +7,9 @@ description: >-
 
 # Payload
 
-<figure><img src="../.gitbook/assets/sample_rover.png" alt=""><figcaption><p>Example rover assembly</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sample_rover.png" alt=""><figcaption><p>Example rover assembly</p></figcaption></figure>
 
-![A complicated Payload rover for NASA SL 2018](../.gitbook/assets/picture2.png)
+![A complicated Payload rover for NASA SL 2018](../../.gitbook/assets/picture2.png)
 
 ## Introduction
 
@@ -123,8 +123,8 @@ There will also be example PDFs for each section located at the end of each stag
 
 The first challenge of this stage is installing SolidWorks. The GitBook has a very helpful “SolidWorks Installation” page to help you with this.
 
-{% content-ref url="../tutorials/software/solidworks.md" %}
-[solidworks.md](../tutorials/software/solidworks.md)
+{% content-ref url="../../tutorials/software/solidworks.md" %}
+[solidworks.md](../../tutorials/software/solidworks.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
@@ -141,19 +141,19 @@ Assume another team has already picked out the wheels and electronics necessary 
 
 Attached are 2D dimensioned engineering drawings of some of the electronics.
 
-{% file src="../.gitbook/assets/dimensions.zip" %}
+{% file src="../../.gitbook/assets/dimensions.zip" %}
 Component Dimensions
 {% endfile %}
 
 Below is a pdf with the dimensions for the LEGO wheels and axles (which depend on which tires you chose), along with some examples for how to design your rover to accomodate them.
 
-{% file src="../.gitbook/assets/Payload Intro Project Dimensions.pdf" %}
+{% file src="../../.gitbook/assets/Payload Intro Project Dimensions.pdf" %}
 Dimensions of LEGO Parts + Tips for Axle Mounting Design
 {% endfile %}
 
 3D models of major components are provided below for the SolidWorks assembly of your rovers.
 
-{% file src="../.gitbook/assets/models_2022_v3.zip" %}
+{% file src="../../.gitbook/assets/models_2022_v3.zip" %}
 
 {% hint style="info" %}
 You do not have to 3D model the payload section.
@@ -174,7 +174,7 @@ Any non-permanent mounting method is acceptable. If a part comes with screw hole
 {% endhint %}
 
 {% hint style="info" %}
-To design screw holes that fit, visit the [Tolerancing GitBook page](../tutorials/manufacturing/tolerancing.md)!
+To design screw holes that fit, visit the [Tolerancing GitBook page](../../tutorials/manufacturing/tolerancing.md)!
 {% endhint %}
 
 {% hint style="info" %}

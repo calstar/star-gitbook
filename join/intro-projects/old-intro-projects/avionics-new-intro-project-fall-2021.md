@@ -51,7 +51,7 @@ A typical Kicad project proceeds as follows:\
 \
 Here is a convenient cheatsheet that explains this process in full:
 
-![](../../.gitbook/assets/kicad\_flowchart.png)
+![](../../../.gitbook/assets/kicad\_flowchart.png)
 
 You can get started with Kicad by downloading and installing it here: [https://www.kicad.org/download/](https://www.kicad.org/download/)
 
@@ -74,7 +74,7 @@ CAS stands for Common Avionics Stack and it is one of our most recent avionics p
 
 The CAS board that already exist are: Core (main function: performing computations and gathering data), Pyro (main function: igniting fuses), Radio (main function: sending and recieving radio). The CAS boards that are currently in development are your two intro project boards, as well as the CAS-Prop board (main function: interfacing with the propulsion system). The files for the boards can be found on cadlab ([https://cadlab.io/star](https://cadlab.io/star)) and github ([https://github.com/calstar](https://github.com/calstar)).
 
-![CAS Radio (top), pyro (middle), and core (bottom)](../../.gitbook/assets/screen-shot-2021-09-09-at-6.50.53-pm.png)
+![CAS Radio (top), pyro (middle), and core (bottom)](../../../.gitbook/assets/screen-shot-2021-09-09-at-6.50.53-pm.png)
 
 The Cas-Stacking component (located in hardware-sch-blocks here: [https://cadlab.io/project/22829/master/circuit/Q0FTX2J1cy9DQVNfYnVzLnNjaA%3D%3D](https://cadlab.io/project/22829/master/circuit/Q0FTX2J1cy9DQVNfYnVzLnNjaA%3D%3D)) is the most important part of CAS because it is used to connect all the CAS modules together. Each CAS module contains one copy of the CAS-Stacking board. Each pin X on one CAS-Stacking board is shorted to its corresponding pin X on every other copy of the CAS-Stacking board. One Cas-Stacking board has 80 pins in total: 40 on the left (A1-A40) and 40 on the right (B1-B40). Pins B15-B40 are currently unused.
 
@@ -106,7 +106,7 @@ The following is a description of the pins used by Cas-Stacking. Except for the 
 
 Included below is the schematic footprint for a Cas-Stacking board. The pins A1-A40 are on the left, and the pins B1-B40 are on the right. The 4 circles on the corners are larger protrusions that are used to stabilize the board and keep it from falling out.
 
-![](../../.gitbook/assets/screen-shot-2021-09-11-at-2.39.42-pm.png)
+![](../../../.gitbook/assets/screen-shot-2021-09-11-at-2.39.42-pm.png)
 
 One thing to note about CAS is that, unlike most circuit boards, CAS boards have 4 layers instead of 2. This is not a significant change to the design process, but it is something to keep in mind. The plan for the 4 layers is to designate the outer two as front copper pour and back copper pour, while making the middle two boards a ground plane and a power plane. A 'plane' is basically a copper pour that fills the entire layer.
 
@@ -177,7 +177,7 @@ Be aware that if you are trying to pull or clone a github repository with submod
 * To get started with the project, open the schematic file **core.sch** which will pull up the kicad schematic editor. The project should be blank except for two symbols for the Cas-Stacking board, which is inherited from the star-common-lib library. (It's true that Cas-Stacking is just one part and not two, but sometimes we will split very large kicad components into multiple symbols so they are more convenient to work with in the schematic editor.)
 * Here is what you should see at the beginning.
 
-![your workspace in kicad](../../.gitbook/assets/screen-shot-2021-09-11-at-2.59.37-pm.png)
+![your workspace in kicad](../../../.gitbook/assets/screen-shot-2021-09-11-at-2.59.37-pm.png)
 
 Before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-rpi-hw](https://github.com/calstar/cas-rpi-hw). This tells you what the main projects specs are, and has some advice to help you plan the circuit schematic. You will probably want to refer to this readme frequently.
 
@@ -230,7 +230,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 * To get started with the project, open the schematic file **radio.sch** which will pull up the kicad schematic editor. The project should be blank except for two symbols for the Cas-Stacking board, which is inherited from the star-common-lib library. (It's true that Cas-Stacking is just one part and not two, but sometimes we will split very large kicad components into multiple symbols so they are more convenient to work with in the schematic editor.)
 * Here is what you should see at the beginning.
 
-![your workspace in kicad](../../.gitbook/assets/screen-shot-2021-09-11-at-2.59.17-pm.png)
+![your workspace in kicad](../../../.gitbook/assets/screen-shot-2021-09-11-at-2.59.17-pm.png)
 
 Before proceeding to the next steps, look at the readme on the intro project github page: [https://github.com/calstar/cas-radio-revised-hw](https://github.com/calstar/cas-radio-revised-hw). This tells you what the main projects specs are, and has some advice to help you plan the circuit schematic. You will probably want to refer to this readme frequently.
 
@@ -238,7 +238,7 @@ Before proceeding to the next steps, look at the readme on the intro project git
 
 * The AT86RF215 transciever is probably the most important part of this project, since it's the component that actually does the radio communication. It is an IC radio module with two separate radios included (a 0.9 GHz one, and a 2.4 GHz one). The two radios are independent of each other. They also have both transmission (data in) and recieving (data out) capabilities. The AT86RF215 has 48 pins on it, with the following functions. It's not necessary to understand what every single pin is used for, but it's provided here to help make the wiring diagram easier to comprehend.&#x20;
 
-![](../../.gitbook/assets/screen-shot-2021-08-23-at-3.16.40-am.png)
+![](../../../.gitbook/assets/screen-shot-2021-08-23-at-3.16.40-am.png)
 
 * 0.9 GHz Radio
   * RFP09: Differential RF Input (positive)

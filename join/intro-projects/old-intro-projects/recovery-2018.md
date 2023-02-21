@@ -94,7 +94,7 @@ Constraints:
 **Hint:** First calculate the **masses** of the upper, lower, and avionics bay sections using the given OpenRocket File for Arktos. In this case, the upper section is referring to all components above the avionics bay while lower section refers to all components below the avionics bay.
 {% endhint %}
 
-{% file src="../../.gitbook/assets/sl-full-scale-v6.ork" %}
+{% file src="../../../.gitbook/assets/sl-full-scale-v6.ork" %}
 OpenRocket File for Arktos
 {% endfile %}
 
@@ -121,15 +121,15 @@ Objective | Create a CAD assembly of a rocket bulkhead using Solidworks. Once co
 
 Drawings of the necessary parts are provided below:
 
-{% file src="../../.gitbook/assets/assembled-bulkhead.PDF" %}
+{% file src="../../../.gitbook/assets/assembled-bulkhead.PDF" %}
 Assembled Bulkhead
 {% endfile %}
 
-{% file src="../../.gitbook/assets/bulkhead-1.PDF" %}
+{% file src="../../../.gitbook/assets/bulkhead-1.PDF" %}
 Bulkhead #1 Drawing
 {% endfile %}
 
-{% file src="../../.gitbook/assets/bulkhead-2.PDF" %}
+{% file src="../../../.gitbook/assets/bulkhead-2.PDF" %}
 Bulkhead #2 Drawing
 {% endfile %}
 
@@ -189,7 +189,7 @@ Objective | Create a wiring diagram of all the electronics/wiring included in th
 
 Below is a snapshot of a diagram with the altimeter and batter to get you started.
 
-![](../../.gitbook/assets/wiring-diagram.JPG)
+![](../../../.gitbook/assets/wiring-diagram.JPG)
 
 Deliverable | Snapshot of wiring diagram in .ppt
 

@@ -77,7 +77,7 @@ If you are confused, read the Avionics guides under the "Tutorials" tab!
 * [Arduino I2C Reference](https://www.arduino.cc/en/Reference/Wire)
 * [ATMega328P-Arduino Pin Mapping](https://www.arduino.cc/en/Hacking/PinMapping168)
 
-{% file src="../../.gitbook/assets/freescale_mpl3115a2_i2c_reference.pdf" %}
+{% file src="../../../.gitbook/assets/freescale_mpl3115a2_i2c_reference.pdf" %}
 MPL3115A2 I2C Reference
 {% endfile %}
 
@@ -90,7 +90,7 @@ MPL3115A2 I2C Reference
    * R1= 10kΩ, and S1 is pressed 5% of the time.
    * R2 = 200Ω, D1's Vf = 2.1V, and D1 is on 50% of the time.
 
-![](../../.gitbook/assets/additional-question-1.png)
+![](../../../.gitbook/assets/additional-question-1.png)
 
 \
 
@@ -104,27 +104,27 @@ MPL3115A2 I2C Reference
 
 ## Files
 
-{% file src="../../.gitbook/assets/fc.h" %}
+{% file src="../../../.gitbook/assets/fc.h" %}
 Flight Computer HAL
 {% endfile %}
 
-{% file src="../../.gitbook/assets/fc_sim.win (5).o" %}
+{% file src="../../../.gitbook/assets/fc_sim.win (5).o" %}
 Compiled Flight Computer Simulator (Windows)
 {% endfile %}
 
-{% file src="../../.gitbook/assets/fc_sim.mac (7).o" %}
+{% file src="../../../.gitbook/assets/fc_sim.mac (7).o" %}
 Compiled Flight Computer Simulator (Mac)
 {% endfile %}
 
-{% file src="../../.gitbook/assets/fc_sim.linux (1).o" %}
+{% file src="../../../.gitbook/assets/fc_sim.linux (1).o" %}
 Compiled Flight Computer Simulator (Linux)
 {% endfile %}
 
-{% file src="../../.gitbook/assets/fc_sim.rv64.o" %}
+{% file src="../../../.gitbook/assets/fc_sim.rv64.o" %}
 Compiled Flight Computer Simulator (RISC-V 64)
 {% endfile %}
 
-{% file src="../../.gitbook/assets/fc_sim.rv32 (2).o" %}
+{% file src="../../../.gitbook/assets/fc_sim.rv32 (2).o" %}
 Compiled Flight Computer Simulator (RISC-V 32)
 {% endfile %}
 

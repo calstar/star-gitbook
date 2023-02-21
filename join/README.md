@@ -17,7 +17,7 @@ A suggested order of steps to follow. See sections below for details.
 4. Complete an Intro Project
 5. Join GitBook and get editing permissions
 6. Join Trello and Drive
-7. Follow [Membership Requirements](member-info/membership-requirements.md)
+7. Follow [Membership Requirements](../member-info/membership-requirements.md)
 
 ## Discord
 
@@ -38,21 +38,21 @@ To join a subteam (Airframe, Avionics, Operations, Payload, Propulsion, Marketin
 ### Computer-Aided Design (CAD) and Version Control Software
 
 * Most technical subteam members (at least Airframe, Payload, Propulsion, Recovery) must install SolidWorks **2019-2020** for mechanical CAD. Talk to subteam leads if you don't know whether you'll need it; Avionics does not.
-  * Instructions here: [SolidWorks](tutorials/software/solidworks.md)
+  * Instructions here: [SolidWorks](../tutorials/software/solidworks.md)
 * Avionics members must install KiCad and join GitHub.
-  * Instructions here: [KiCad](tutorials/avionics/kicad.md), [GitHub](tutorials/avionics/git-and-workflow.md)
+  * Instructions here: [KiCad](../tutorials/avionics/kicad.md), [GitHub](../tutorials/avionics/git-and-workflow.md)
     * The STAR GitHub is public at [https://github.com/calstar/](https://github.com/calstar/), but to contribute you'll need to be added by the Avionics or Operations lead. This can happen after completion of the intro project.
   * You should also familiarize yourself with our CADLAB, a way to view schematics and layout for electronics hardware: [https://cadlab.io/star](https://cadlab.io/star)
-  * While not required for the intro project, you will likely eventually want to install the [Mbed CLI tools](tutorials/avionics/mbed-command-line-interface-cli-tools.md). You may need to ask questions during the install process, so don't worry if you can't do it right now.
+  * While not required for the intro project, you will likely eventually want to install the [Mbed CLI tools](../tutorials/avionics/mbed-command-line-interface-cli-tools.md). You may need to ask questions during the install process, so don't worry if you can't do it right now.
 * All technical subteam members must join GrabCAD for CAD file sharing. Avionics members can skip the desktop client, but should register/join to view CAD through the web interface.
-  * Instructions here: [Getting Started With GrabCAD Workbench](tutorials/software/getting-started-with-grabcad.md)
+  * Instructions here: [Getting Started With GrabCAD Workbench](../tutorials/software/getting-started-with-grabcad.md)
 * Airframe and Systems members should download OpenRocket.
-  * Instructions here: [OpenRocket](tutorials/software/openrocket-installation.md)
+  * Instructions here: [OpenRocket](../tutorials/software/openrocket-installation.md)
 
 ## GitBook
 
 * All team members must join the GitBook to access project-specific documentation. Prospective members only really _need_ to do this after finishing an intro project, but are welcome to at any time.
-  * Instructions here: [How to use GitBook](how-to-use-gitbook.md)
+  * Instructions here: [How to use GitBook](../how-to-use-gitbook.md)
 
 ## Trello and Drive
 
@@ -72,6 +72,6 @@ To become a member, you should have done the following things:
 
 To remain a member, you must also keep up with the Membership Requirements:
 
-{% content-ref url="member-info/membership-requirements.md" %}
-[membership-requirements.md](member-info/membership-requirements.md)
+{% content-ref url="../member-info/membership-requirements.md" %}
+[membership-requirements.md](../member-info/membership-requirements.md)
 {% endcontent-ref %}

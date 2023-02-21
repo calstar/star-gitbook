@@ -16,8 +16,8 @@ This is a space for the general public, prospective members, and current members
 
 If you're interested in joining, we recommend starting with the FAQ and the Membership section, then moving on to the Intro Projects:
 
-{% content-ref url="join.md" %}
-[join.md](join.md)
+{% content-ref url="join/" %}
+[join](join/)
 {% endcontent-ref %}
 
 {% content-ref url="frequently-asked-questions.md" %}
@@ -28,8 +28,8 @@ If you're interested in joining, we recommend starting with the FAQ and the Memb
 [member-info](member-info/)
 {% endcontent-ref %}
 
-{% content-ref url="intro-projects/" %}
-[intro-projects](intro-projects/)
+{% content-ref url="join/intro-projects/" %}
+[intro-projects](join/intro-projects/)
 {% endcontent-ref %}
 
 For current members and the general public, here are the major sections of our documentation. Tutorials are for the most part widely applicable to the sort of work we do, but many do pertain specifically to software or processes for STAR members:

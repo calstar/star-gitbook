@@ -86,8 +86,8 @@ You can check out which of the subteams interest you and attend their meetings o
 
 You'll find all the practical info you need on the New Members page:
 
-{% content-ref url="join.md" %}
-[join.md](join.md)
+{% content-ref url="join/" %}
+[join](join/)
 {% endcontent-ref %}
 
 #### How often do you meet?&#x20;

@@ -6,7 +6,7 @@ description: Airframe intro projects for new and returning members.
 
 ## Intro Project - New Members
 
-![](../.gitbook/assets/img\_9630.jpg)
+![](../../.gitbook/assets/img\_9630.jpg)
 
 The new members will be tasked with designing an L1 rocket to show:
 
@@ -44,19 +44,19 @@ The Airframe meetings at the start of the year - along with the GitBook - will c
 
 ### Example Intro Project Resources:
 
-{% file src="../.gitbook/assets/example_intro_project_write_up.pdf" %}
+{% file src="../../.gitbook/assets/example_intro_project_write_up.pdf" %}
 Example Design Report
 {% endfile %}
 
-{% file src="../.gitbook/assets/l1-example-line-item-budget-sheet1.pdf" %}
+{% file src="../../.gitbook/assets/l1-example-line-item-budget-sheet1.pdf" %}
 Example Line-Item Budget
 {% endfile %}
 
-{% file src="../.gitbook/assets/l1example.ork" %}
+{% file src="../../.gitbook/assets/l1example.ork" %}
 Example OpenRocket Design
 {% endfile %}
 
-{% file src="../.gitbook/assets/l1_example_cad.zip" %}
+{% file src="../../.gitbook/assets/l1_example_cad.zip" %}
 Example SolidWorks Model
 {% endfile %}
 
@@ -70,7 +70,7 @@ Each new member will have a mentor (a returning member of airframe). It is requi
 
 ## Returning Members Intro Project
 
-![](../.gitbook/assets/img\_5739.jpg)
+![](../../.gitbook/assets/img\_5739.jpg)
 
 **L1 Program:**
 

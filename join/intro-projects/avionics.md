@@ -25,7 +25,7 @@ The project will have two major phases, below. A guideline time to complete each
 
 ## Phase 0: Hardware
 
-{% file src="../.gitbook/assets/intro_proj.zip" %}
+{% file src="../../.gitbook/assets/intro_proj.zip" %}
 Intro Project Zip
 {% endfile %}
 
@@ -43,9 +43,9 @@ By far the most common mistake that new members make is drawing messy schematics
 
 When creating schematics yourself, aim to emulate the style and clarity used in previous avionics projects such as CAS and Ground Station (pictured below). Note the use of net labels and global labels to keep wires short, as well as the organization of different sub-circuits into different areas of the page.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-12-26 at 6.28.32 PM (1).png" alt=""><figcaption><p>CAS-Core schematic</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-12-26 at 6.28.32 PM (1).png" alt=""><figcaption><p>CAS-Core schematic</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-12-26 at 6.14.54 PM.png" alt=""><figcaption><p>Ground Station schematic</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-12-26 at 6.14.54 PM.png" alt=""><figcaption><p>Ground Station schematic</p></figcaption></figure>
 
 #### Setting up libraries
 
@@ -53,15 +53,15 @@ In `intro_proj`, open up `intro_proj.pro`, the KiCad project. We will now make s
 
 Hit `Preferences > Manage Symbol Libraries` as below.
 
-![](<../.gitbook/assets/Screenshot 2022-08-02 213756.png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-02 213756.png>)
 
 Once the `Symbol Libraries` window opens, go to the `Project Libraries` tab and hit the `Add existing library to table` button in the bottom left row above `Path Subsitutions`.
 
-![Select Add existing library to table](<../.gitbook/assets/Screenshot 2022-08-03 115141.png>)
+![Select Add existing library to table](<../../.gitbook/assets/Screenshot 2022-08-03 115141.png>)
 
 Now navigate to `lib/` and select `calstar.lib`.  However, we want to replace the calstar library path with ${KIPRJMOD}/../calstar.lib.  Relative path is applicable on any machine, while your absolute path (i.e. C:/Users/Cedric/......./lib/calstar.lib) isn't.  The window should end up looking like this:
 
-![](<../.gitbook/assets/Screenshot 2022-08-02 215000.png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-02 215000.png>)
 
 Hit `Ok` and now go back to the KiCad project window.&#x20;
 
@@ -69,11 +69,11 @@ Hit `Ok` and now go back to the KiCad project window.&#x20;
 
 From the KiCad project window, hit the `Schematic Layout Editor` button.
 
-![Schematic Layout Editor button](<../.gitbook/assets/image (38) (1).png>)
+![Schematic Layout Editor button](<../../.gitbook/assets/image (38) (1).png>)
 
 This will open up the schematic editor which will have 4 items on it: a Conn\_01x02\_Male 2 pin connector for power input, an LM3940 (voltage regulator to convert input 5V to 3.3V for the microcontroller and altimeter), a BMP388 (the altimeter), and a box with many pins on it referencing a file `../lib/STM32F401RET6.sch`. If you double-click on this, it will open up that file showing the microcontroller schematic symbol along with many capacitors and resistors, and a 5 pin connector. This is a hierarchical schematic sheet, which we use to abstract away commonly used configurations of components. You can read more about them [here](http://docs.kicad-pcb.org/5.1.2/en/eeschema/eeschema.html#hierarchical-schematics).
 
-![The schematic sheet](<../.gitbook/assets/image (64).png>)
+![The schematic sheet](<../../.gitbook/assets/image (64).png>)
 
 {% hint style="info" %}
 An easy way to get to the datasheets of components is to double-click on a schematic symbol. This will open `Symbol Properties`, which has a `Datasheet` field which contains a link to a datasheet. When creating a new symbol for the calstar symbols library, make sure to do this!
@@ -85,15 +85,15 @@ The first step in completing this schematic is to connect the power input. Hit `
 See a full list of hotkeys under `Help > List Hotkeys`
 {% endhint %}
 
-![+5V and GND placed](<../.gitbook/assets/image (62).png>)
+![+5V and GND placed](<../../.gitbook/assets/image (62).png>)
 
 Now you will place wires to connect the power and ground to the connector. Hit `w` and then connect the circle at the end of `Pin 1` on the connector to the circle on the `+5V` symbol. Note that when in wire mode, the cursor will turn into a sort of pencil. Connect `Pin 2` to the `GND` symbol. You should end up with the following:
 
-![+5V and GND connected](<../.gitbook/assets/image (77).png>)
+![+5V and GND connected](<../../.gitbook/assets/image (77).png>)
 
 KiCad has error checking features which, if run currently, would warn that neither 5V nor GND are driven. This is because KiCad can't know an external source would be hooked up to the connector. To fix this you will put in power flags to indicate +5V and GND are powered. Hit `a` again and search for `PWR_FLAG`. Put 2 of these into the schematic. Now we want to connect one to `+5V` and the other to `GND`. To get more symbols for these, you can either go through the process of adding them using the libraries, or you can hover over the existing components, hit `c` for copy, and then place the copied symbols by the power flags. Hook up the power flags to the `+5V` and `GND` symbols as shown below. Note that rotation don't matter and are mostly style, although it is convention to try and make ground face down and power face up.  Altogether you should now have the following!
 
-![Connector and power flags](<../.gitbook/assets/image (50).png>)
+![Connector and power flags](<../../.gitbook/assets/image (50).png>)
 
 #### Voltage Regulator
 
@@ -107,11 +107,11 @@ First, hook up `+5V` to `VI` (input voltage) of the regulator by copying over a 
 
 &#x20;
 
-![Regulator without capacitors](<../.gitbook/assets/image (79).png>)
+![Regulator without capacitors](<../../.gitbook/assets/image (79).png>)
 
 Now you will add the capacitors: hit `a` and then search for `C`. Select the unpolarized capacitor symbol and place 2 of them in the configuration depicted in the datasheet. Hook them up as depicted. Now to set the values of the capacitors, hover over them and hit `e`. This will bring up the `Symbol Properties` window. Go to the `Value` field, and replace "C" with the respective value in the datasheet (such as "33uF"). You will end up with the following:
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67).png>)
 
 While I have not done so in the above picture, you can also select the text and hit `m` to move it around if it overlaps anything. We will resolve the question mark in the component name later.&#x20;
 
@@ -133,31 +133,31 @@ Now, search the datasheet to find a reference schematic for how the BMP388 shoul
 
 Now you must determine which pins of the microcontroller to connect these to (none of the pins on the microcontroller hierarchical block are named `SDA` or `SCL`!). For `SCL` and `SDA` it must be particular pins meant for I2C on the microcontroller. You can find these by looking in the microcontroller datasheet. For `CSB` and `INT`, it does not matter as long as they are general purpose input-output pins (there are some more details for `INT` but it does not mater for the microcontroller we are using). However, for consistency, connect `CSB` to `PB9` and `INT` to `PB8`. Note that you can use net labels to clean up the schematic and prevent wires from going all over the place. Connect a wire to a named net label (e.g. "SDA") and then use another net label elsewhere. Example below
 
-![Place a net label by hitting this button in the right toolbar](<../.gitbook/assets/Screenshot 2022-08-03 120351.png>)
+![Place a net label by hitting this button in the right toolbar](<../../.gitbook/assets/Screenshot 2022-08-03 120351.png>)
 
-![Using net lables](<../.gitbook/assets/Screenshot 2022-08-03 130538.png>)
+![Using net lables](<../../.gitbook/assets/Screenshot 2022-08-03 130538.png>)
 
 Annotating schematic symbols and electrical rule check
 
 Now that the schematic is 'complete', it is time to get rid of those question marks. To do this, hit the `Annotate schematic symbols` button in the top toolbar. When its window pops up, hit `Annotate` and then `Close`. Now all the question marks will be replaced with numbers. These are called reference designators, so components can be easily identified. An example, `R6`, for example, means "Resistor 6".&#x20;
 
-![Annotate schematic symbols button](<../.gitbook/assets/image (34).png>)
+![Annotate schematic symbols button](<../../.gitbook/assets/image (34).png>)
 
 Now hit the button next to `Annotate schematic symbols`, `Perform electrical rules check`. This will verify the schematic follows certain rules. Hit `run`. Many issues will likely show up. Most of them will be "Pin not connected" issues. However there likely is also a "Conflict problem between pins" as below.
 
-![Perform electrical rules check](<../.gitbook/assets/image (35).png>)
+![Perform electrical rules check](<../../.gitbook/assets/image (35).png>)
 
-![](<../.gitbook/assets/image (40).png>)
+![](<../../.gitbook/assets/image (40).png>)
 
 This is because the pin on the altimeter is not set as a power input pin, but is connected to power. To fix this, hit `a` and then search `Net`. Select and place `Net-Tie_2` as below. Annotate schematic symbols again and then run electrical rules check. This should get rid of that warning. In practice, net ties can be used like that, but are usually used to connect analog ground to digital ground.&#x20;
 
-![Net Tie](<../.gitbook/assets/image (12).png>)
+![Net Tie](<../../.gitbook/assets/image (12).png>)
 
 Now many of the pin unconnected warnings will be coming from unconnected pins of the microcontroller. It is good practice to mark which pins will not be used in the schematic. This will also get rid of the warning. To mark no connection, select the blue x on the right toolbar, and then click each little square at the end of unused pins on the microcontroller hierarchical block. The result should be as below.
 
-![Place no connection flag tool](<../.gitbook/assets/image (59).png>)
+![Place no connection flag tool](<../../.gitbook/assets/image (59).png>)
 
-![No-connect flag on unused pins](<../.gitbook/assets/image (46).png>)
+![No-connect flag on unused pins](<../../.gitbook/assets/image (46).png>)
 
 This should remove all warnings except for one last one related to `VCAP1` in the microcontroller sheet. We will ignore this one.
 
@@ -165,17 +165,17 @@ This should remove all warnings except for one last one related to `VCAP1` in th
 
 The last step in the schematic editor is to assign a footprint, the physical layout of solder pads, to each schematic symbol. Hit the `Assign PCB footprints to schematic symbols` button in the top toolbar.
 
-![Assign PCB footprints to schematic symbols](<../.gitbook/assets/image (27).png>)
+![Assign PCB footprints to schematic symbols](<../../.gitbook/assets/image (27).png>)
 
 This will open a window like below, but your middle column will not be as filled out yet.
 
-![Assign Footprints](<../.gitbook/assets/image (55).png>)
+![Assign Footprints](<../../.gitbook/assets/image (55).png>)
 
 The left column are footprint libraries, which contain available footprints you can choose from. The middle column contains symbols in your schematic. The right column shows filtered footprints, so footprints in the selected library that follow your particular `Footprint Filters` in the top of the window.
 
 You will have to assign the footprints as in the picture above. As our standard, we use 0603 imperial SMD resitors and capacitors. Imperial 0603 refers to the footprint being for components measuring 0.06 in × 0.03 in. SMD refers to surface-mount. In the picture below, the 3 black components soldered to board with numbers on them are surface-mount resistors. The 2 orange-brownish components on the left are surface-mount capacitors.
 
-![https://www.electronics-notes.com/images/smd-resistors-on-pcb-2599.jpg](<../.gitbook/assets/image (8).png>)
+![https://www.electronics-notes.com/images/smd-resistors-on-pcb-2599.jpg](<../../.gitbook/assets/image (8).png>)
 
 When you have found and assigned all the footprints, hit `Ok`.
 
@@ -206,29 +206,29 @@ Just as we set up KiCad to include a calstar schematic symbol library, we will n
 
 As in the previous setting up libraries step, open up the KiCad project (`.pro`) file, and select `Manage Footprint Libraries...`.
 
-![Manage Footprint Libraries](<../.gitbook/assets/Screenshot 2022-08-03 132006.png>)
+![Manage Footprint Libraries](<../../.gitbook/assets/Screenshot 2022-08-03 132006.png>)
 
 Navigate to the `Project Specific Libraries` tab and then hit `Add existing library to table`.&#x20;
 
-![Add existing library to table](<../.gitbook/assets/image (45).png>)
+![Add existing library to table](<../../.gitbook/assets/image (45).png>)
 
 Navigate to `lib` and select the `calstar.pretty` folder. Hit `Ok` and you should end up with the following.
 
-![](<../.gitbook/assets/Screenshot 2022-08-03 132905 (1).png>)
+![](<../../.gitbook/assets/Screenshot 2022-08-03 132905 (1).png>)
 
 #### Setting up the PCB
 
 First, fill the PCB with the components from the schematic by, after the schematic is annotated and ERC'd (electrical rule check), running `Tools > Update PCB from Schematic...`.&#x20;
 
-![Updating PCB from schematic](<../.gitbook/assets/Screenshot 2022-08-03 134552.png>)
+![Updating PCB from schematic](<../../.gitbook/assets/Screenshot 2022-08-03 134552.png>)
 
 Then hit `Update PCB`.
 
-![Updating PCB from schematic](<../.gitbook/assets/image (49).png>)
+![Updating PCB from schematic](<../../.gitbook/assets/image (49).png>)
 
 Then hit `Close` and you should see a clump of components in the layout window. Move these to the center of the sheet. You should end up with something like below:
 
-![Newly imported components](<../.gitbook/assets/image (73).png>)
+![Newly imported components](<../../.gitbook/assets/image (73).png>)
 
 At this point, to understand what is going on in the above picture, read the following section in our Board Design Reference tutorial: [https://calstar.gitbook.io/docs/tutorials/avionics/board-design#making-a-layout](https://calstar.gitbook.io/docs/tutorials/avionics/board-design#making-a-layout).
 
@@ -240,7 +240,7 @@ Hit the `Board setup` button to input these values.&#x20;
 The unit `mil` is one thousandth of an inch! **No** relation to millimeter. Depending on what unit system KiCad defaults to on your system, you may either have to change the unit system to mil or will have to suffix the numbers with 'mil' when inputting them.
 {% endhint %}
 
-![Board Setup](<../.gitbook/assets/image (87).png>)
+![Board Setup](<../../.gitbook/assets/image (87).png>)
 
 | Measurement         | Value   |
 | ------------------- | ------- |
@@ -255,31 +255,31 @@ Now, the goal is to place components and route traces so that all 'nets' are con
 
 First select the `Edge.Cuts` layer where you will draw the boundaries of the board.
 
-![Select Edge.Cuts from this menu](<../.gitbook/assets/image (15).png>)
+![Select Edge.Cuts from this menu](<../../.gitbook/assets/image (15).png>)
 
 Now select `Add lines` from the right toolbar and draw a roughly 1.5 inch by 1.5 inch square around the components. This will be more space than needed for this board, but you can later adjust the edges to different aspect ratios if you wish. Hold `Ctrl` to make the lines go straight, and look in the bottom left to see length of segment.
 
-![Add lines](<../.gitbook/assets/image (86).png>)
+![Add lines](<../../.gitbook/assets/image (86).png>)
 
 You should end up with something like the following.
 
-![Edge cuts](<../.gitbook/assets/image (47).png>)
+![Edge cuts](<../../.gitbook/assets/image (47).png>)
 
 Now to create the ground plane. Go back to the `F.Cu` layer, or 'front copper'. Now select `Add filled zones`.
 
-![Add filled zones](<../.gitbook/assets/image (16).png>)
+![Add filled zones](<../../.gitbook/assets/image (16).png>)
 
 Create the ground plane by tracing the edge of the board. You can zoom in to make sure you are selecting the right points. When you begin drawing and the `Copper Zone Properties` window pops up, set `Net` to `GND`, `Default pad connection` to `Thermal relief` and `Outline slope` to `H,V and 45 deg only` and click `Ok`.
 
-![Correct copper zone properties](<../.gitbook/assets/image (63).png>)
+![Correct copper zone properties](<../../.gitbook/assets/image (63).png>)
 
 Now continue tracing around the board. You will end up with below. You may notice some ratlines have disappeared, because those grounds have been connected by the ground pour.
 
-![Front copper pour](<../.gitbook/assets/image (65).png>)
+![Front copper pour](<../../.gitbook/assets/image (65).png>)
 
 Now go to `B.Cu` (Back Copper) and do the same to end up with below, but make sure `Layer` is set to `B.Cu` in `Copper Zone Properties`.
 
-![Both front and back copper ground pours](<../.gitbook/assets/image (41).png>)
+![Both front and back copper ground pours](<../../.gitbook/assets/image (41).png>)
 
 Hit `B` to update copper pours when you move around components.
 
@@ -291,13 +291,13 @@ Now for the fun part, to move all the components and route traces between them. 
 
 To route a trace, press `x` or hit the button below.  If a trace is red, it is on the front of the board, if it's bue, this means it is on the back.&#x20;
 
-![Route trace](<../.gitbook/assets/image (60).png>)
+![Route trace](<../../.gitbook/assets/image (60).png>)
 
 You'll notice that sometimes you will be unable to avoid traces that cross over each other, which KiCad doesn't let you do. To get around this, you canplace vias, which bring traces to the back of the board and let you cross under traces on the front. To do this, start drawing a trace, then press V or click the "via" button in the menu. Click on your board where you want the via to be placed. When you continue to route the trace, it will be on the other side of the board.&#x20;
 
-![Add vias](<../.gitbook/assets/image (89).png>)
+![Add vias](<../../.gitbook/assets/image (89).png>)
 
-<figure><img src="../.gitbook/assets/vias.PNG" alt=""><figcaption><p>An example of using vias. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vias.PNG" alt=""><figcaption><p>An example of using vias. </p></figcaption></figure>
 
 
 
@@ -309,15 +309,15 @@ Another important constraint is **trace thickness.** Power traces, like the ones
 
 To change the thickness of an individual trace, double click on it to see its properties, and edit the "Track Width" field. This is painstaking to do for a whole net, so instead we'll apply the change  for the whole net. To do this, first select the button in the top left corner labelled “Track: Use netclass widths”. You should see a drop-down menu. Click the last option, “Edit pre-defined sizes”. In the pop-up window that opens, add an option under the “Width” section for 0.02 inches (or, equivalently, 0.508 mm, or 20 mils). Click the “OK” button in the bottom right corner. You can use calculators like this one to find the appropriate trace width for different currents.
 
-<figure><img src="../.gitbook/assets/board_setup.PNG" alt=""><figcaption><p>Add a track width of 0.02 inches.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/board_setup.PNG" alt=""><figcaption><p>Add a track width of 0.02 inches.</p></figcaption></figure>
 
 Now, click the “Edit” button in the top left, and select “Set Track and Via Properties” from the drop-down menu. Under “Scope”, select Traces. Under “Filter Items”, select “Filter items by net”, and select +3V3 from the dropdown menu. Under “Actions”, select “Set to Specified Values”. Select the new 0.02 inch track width in the left-most drop-down menu, and do not edit the rest of settings. Click “OK”. You should see that the traces in the 3V3 net are now thicker! **Repeat this process for the +5V net as well.**
 
-<figure><img src="../.gitbook/assets/set_track_properties.PNG" alt=""><figcaption><p>Set track width for the +3V3 net. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/set_track_properties.PNG" alt=""><figcaption><p>Set track width for the +3V3 net. </p></figcaption></figure>
 
 The last step is to perform design rules check just as in schematic. Hit the following button to open up the menu to do so.
 
-<figure><img src="../.gitbook/assets/ERC.PNG" alt=""><figcaption><p>ERC button. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ERC.PNG" alt=""><figcaption><p>ERC button. </p></figcaption></figure>
 
 Hit `Run DRC` and fix any errors that occur. When both `Problems / Markers` and `Unconnected Items` show 0 errors, you're done with layout! Feel free to ask in #avionics for help.
 
@@ -327,7 +327,7 @@ Additionally you can run `View > 3D Viewer`. This will generate a 3d model of th
 Note the board image below is for example purposes only. It has all the components in the default places, with no traces between them. Your board should not look like this!
 {% endhint %}
 
-![3D View of board before layout](<../.gitbook/assets/image (51).png>)
+![3D View of board before layout](<../../.gitbook/assets/image (51).png>)
 
 You may notice that some components, `U1` in particular, do not have a model. This is because that component has a custom footprint and symbol, but we did not place a model.&#x20;
 
@@ -363,11 +363,11 @@ If you are using WSL:
 
 Download the files below. These are configuration files for SIL. The rocket configuration file defines parameters of the rocket such as weight, drag, parachutes, and then microcontrollers and pin connections for our avionics. The simulation config file defines environment parameters such as ground height and simulation parameters such as how to record data and what tests to run. These config files have been pre-made for the intro project, but you may have to define your own for future projects.
 
-{% file src="../.gitbook/assets/intro_proj_rocket.json" %}
+{% file src="../../.gitbook/assets/intro_proj_rocket.json" %}
 Rocket Config
 {% endfile %}
 
-{% file src="../.gitbook/assets/intro_proj_sim (1).json" %}
+{% file src="../../.gitbook/assets/intro_proj_sim (1).json" %}
 Simulation Config
 {% endfile %}
 
@@ -393,11 +393,11 @@ The interface to deploy parachutes for our firmware is through general purpose i
 
 Your code should deploy the drogue parachute at (or soon after) apogee, and deploy the main parachute at 600ft above the ground. For your convenience, Khai wrote a nice python script that compiles all the data from the flight into a PNG file:
 
-{% file src="../.gitbook/assets/grapher.py" %}
+{% file src="../../.gitbook/assets/grapher.py" %}
 Place into your /SIL directory and make necessary edits
 {% endfile %}
 
-![Your data should look like this](../.gitbook/assets/altitude.png)
+![Your data should look like this](../../.gitbook/assets/altitude.png)
 
 #### Specification List
 

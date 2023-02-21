@@ -7,9 +7,9 @@ description: >-
 
 # Payload 2020 Intro Project
 
-![A simple rover chassis](../../.gitbook/assets/simple\_chassis.png)
+![A simple rover chassis](../../../.gitbook/assets/simple\_chassis.png)
 
-![A more complicated Payload rover for NASA SL 2018](../../.gitbook/assets/picture2.png)
+![A more complicated Payload rover for NASA SL 2018](../../../.gitbook/assets/picture2.png)
 
 ## Introduction
 
@@ -108,8 +108,8 @@ There will also be example PDFs for each section located at the end of each stag
 
 The first challenge of this stage is installing SolidWorks. The GitBook has a very helpful “SolidWorks Installation” page to help you with this.
 
-{% content-ref url="../../tutorials/software/solidworks.md" %}
-[solidworks.md](../../tutorials/software/solidworks.md)
+{% content-ref url="../../../tutorials/software/solidworks.md" %}
+[solidworks.md](../../../tutorials/software/solidworks.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
@@ -126,7 +126,7 @@ Assume another team has already picked out the motors and electronics necessary 
 
 A good place to start is by looking at the physical dimensions of each component. Attached are 2D dimensioned engineering drawings of all the parts.
 
-{% file src="../../.gitbook/assets/dimensions.zip" %}
+{% file src="../../../.gitbook/assets/dimensions (1).zip" %}
 Component dimensions
 {% endfile %}
 
@@ -134,7 +134,7 @@ Component dimensions
 You do not have to 3D model the provided components. However, 3D models of major components are provided below should you want to make a SolidWorks assembly in the end (NOT REQUIRED).
 {% endhint %}
 
-{% file src="../../.gitbook/assets/models.zip" %}
+{% file src="../../../.gitbook/assets/models.zip" %}
 Component models
 {% endfile %}
 
@@ -144,7 +144,7 @@ The most challenging (and annoying) constraint placed on many payload projects i
 
 In this project, your tube space is limited to 4" in diameter and 8" in length, a common size for a medium-scale rocket. It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 4" diameter circle will not fit a 4x4" square.** Your usable space is limited to what you can fit (or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)) within a circle.
 
-![](../../.gitbook/assets/annotation-2019-07-08-185531.png)
+![](../../../.gitbook/assets/annotation-2019-07-08-185531.png)
 
 Keep this in mind when designing your chassis!
 
@@ -157,7 +157,7 @@ Any non-permanent mounting method is acceptable. If a part comes with screw hole
 {% endhint %}
 
 {% hint style="info" %}
-To design screw holes that fit, visit the [Tolerancing GitBook page](../../tutorials/manufacturing/tolerancing.md)!&#x20;
+To design screw holes that fit, visit the [Tolerancing GitBook page](../../../tutorials/manufacturing/tolerancing.md)!&#x20;
 {% endhint %}
 
 {% hint style="info" %}

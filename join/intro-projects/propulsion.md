@@ -2,7 +2,7 @@
 
 
 
-![Ignition Testing for LE-165](../.gitbook/assets/ignitiontesting.PNG)
+![Ignition Testing for LE-165](../../.gitbook/assets/ignitiontesting.PNG)
 
 ## Introduction
 
