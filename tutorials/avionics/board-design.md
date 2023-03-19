@@ -12,6 +12,10 @@ Some parts of this page may be out of date (in particular, the  section "Before 
 Please note that there is a board design DeCal that can give you a more detailed understanding of how to build PCBs: [https://decal.berkeley.edu/courses/4529](https://decal.berkeley.edu/courses/4529). Though this tutorial will follow the format of the decal's [website](https://ieee.berkeley.edu/hope/pcb.html),  this page is just an introduction. You can access the syllabus and material at this link: [https://ieee.berkeley.edu/hope/pcb.html](https://ieee.berkeley.edu/hope/pcb.html).  Here is another useful resource on PCB design: h[ttp://www.ti.com/lit/an/szza009/szza009.pdf](http://www.ti.com/lit/an/szza009/szza009.pdf)​
 {% endhint %}
 
+{% hint style="info" %}
+Board design "useful tips" document from the aforementioned board design decal: [https://docs.google.com/document/d/1sA1MmZkygvkN0kvH0\_EiXm4IRMi5ilCOcb7CaAVOmxY/edit](https://docs.google.com/document/d/1sA1MmZkygvkN0kvH0\_EiXm4IRMi5ilCOcb7CaAVOmxY/edit)
+{% endhint %}
+
 ## What is a PCB?
 
 A printed circuit board, or PCB, is the backbone of hardware design. These cheap, compact, reliable boards allow us to implement circuits into a greater system. They are better than alternatives in that they provide form (hold everything together) and function (make good electrical connections). They are built from conductive copper layers separated with non-conductive substrates and include things called vias, tracks, and pads which will be discussed later. While the process of making PCBs may seem long and frustrating, this tutorial will guide you through the most basic parts of making a good PCB.&#x20;
