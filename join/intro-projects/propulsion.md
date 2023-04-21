@@ -33,25 +33,52 @@ This project is intended to challenge you a little bit! You are not expected to 
 
 ## Week 1: Introduction to Propulsion
 
-Our first meeting with be at the STAR general meeting on Tursday, where we will give new memebrs a run down of what you can expect with prop as well as a runthorugh of our current projects! Recruits are also invited to our propulsion meetings on Monday night.&#x20;
+Our first meeting with be at the STAR general meeting on Tursday, where we will give new memebrs a run down of what you can expect with prop as well as a runthorugh of our current projects! Recruits can also come to our propulsion meetings on Monday night.&#x20;
 
 If you are not able to make it in person, please feel free to reach out to us so we can answer any question you may have, as well as set you up with an educational group mentor!&#x20;
 
 The way the propulsion intro project will be broken down is listed below:&#x20;
 
-1. Week 1 (current week): will help new recruits become familiar with propulsion as a team. You will also be assigned a project mentor and be divided into teams&#x20;
+1. Week 1 (now!):&#x20;
+   1. Become familiar with propulsion as a specialty. Education bullets below.
+   2. Select a project mentor and start the educational material.
 2. Week 2: will be where we introduce Solid Rockets, Liquid Rockets, and Feed Systems. You will:
-   1. Be assigned to a group and a mentor
-   2. Start readings for week 2&#x20;
-   3. Work with your group to complete the slides for week 2
-3. Week 3: will be focusing on Injectors and Thrust Chambers. You will:
-   1. Present slides for week 2 to mentor&#x20;
-   2. Start readings for week 3&#x20;
-   3. Work with your group to complete the slides for week 3
-4. Week 4 and 5: will be where you will get to work under a member of the prop team and be introduced to propulsion specialties of your choosing.&#x20;
+   1. Go through readings for week 2 in Education Bullets.
+   2. Work through the slides for week 2
+   3. Intro project work should begin. Work with your mentor to complete your project.
+3. Week 3: Propulsion components
+   1. Education Bullets: Tanks, Injectors, Valves, Thrust Chambers
+   2. Complete the slides for week 3. Integrate slides into broader intro project presentation.
+   3. Attend propulsion meeting and RFS workday. \*Mandatory at least one RFS trip in w3/w4\*
+4. Week 4:
+   1. Basic Avionics (Intrumentation and Control)
+   2. Work with mentor and team to finish intro project.
+   3. Attend propulsion meeting and RFS trip
+   4. Come to workshops for propulsion as well as other specialties
+5. Intro Project Presentations: End of Week 4
+   1. Deliverables Listed in Intro Project&#x20;
 
 \
 You can view our week 1 slides [here](https://docs.google.com/presentation/d/1ELVzyB-4RBtOOTk8soJIerAGa7zAK6LjjPjcKwEF6Lg/edit#slide=id.g147dd557f88\_0\_5). This week will focus on establishing a point of contact between you and your group, as well as establishing a meeting time. You are welcome to get started on the readings for week 2 and 3.&#x20;
+
+
+
+Initial Readings:
+
+* General Rocket Propulsion Understanding:&#x20;
+  * [How Rocket Engines Work](https://science.howstuffworks.com/rocket.htm#pt5)
+  * Section 1.2 on page 4: [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
+  * pg 12, section 1.5.1.2: [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+* Videos:
+  * [Video: Liquid Propellant Rocket Engine](https://www.youtube.com/watch?v=9Y3fG-YrIII)
+  *
+* BONUS:
+  * &#x20;[Liquid Propellant Feed Systems](https://aerospacenotes.com/liquid-propellant-feed-systems/)
+  * Scott Manley: [Rocket Fuels at Home](https://youtu.be/1Na3reZIYsw)
+
+
+
+
 
 Please fill out our form [here](https://forms.gle/agxxTCMhbVcqkshz5) so we can get your paired up with a mentor!&#x20;
 
@@ -63,37 +90,32 @@ You will discuss what you learn and fill out a copy of week 2 slides([template h
 
 There will be an **in person workshop on the LE2 feed system** during Prop Meeting on Monday, Sept 19th! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
 
-* Readings:
-  * Solid Rocket
-    * [Video of NASA’s solid rocket booster](https://www.youtube.com/watch?v=7ChDT4kj3oE)
-    * [How Rocket Engines Work](https://science.howstuffworks.com/rocket.htm#pt3)
-      * Read Solid-fuel Rockets: Fuel Mixture&#x20;
-      * Read Solid-fuel Rockets: Channel Configuration
-    * [Rocket and Space Technology: Solid Propellants](http://www.braeunig.us/space/propel.htm#solid)
-      * Read Solid Propellants
-    * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
-      * Read pg 9, section 1.5.1.1
-      * Pay special attention to the fig 1.5a. What are the six parts of a solid rocket listed? Excluding “payload,” can you say what each part does?
-    * BONUS: [Solid Rocket Grain Design](https://www.youtube.com/watch?v=xDl\_LO6nOnI\&t=58s)
-  * Liquid Rocket
-    * [Video: Liquid Propellant Rocket Engine](https://www.youtube.com/watch?v=9Y3fG-YrIII)
-    * [Rocket & Space Technology - Solid Propellants](http://www.braeunig.us/space/propel.htm#liquid)
-      * Read Liquid Propellants
-    * [How Rocket Engines Work](https://science.howstuffworks.com/rocket.htm#pt5)
-      * Read Liquid-Propellant Rocket
-    * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
-      * Read pg 12, section 1.5.1.2
-    * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
-      * Section 1.2 on page 4
-  * Feed Systems
-    * [Video: Propellant Feed Systems](https://www.youtube.com/watch?v=tOrELhwdMAg)
-    * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
-      * Read pg 357, 10.8.1 Liquid-Propellant Feed System&#x20;
-      * Reach pg 360, 10.8.1.1 Gas Pressure Feed System
-    * [How Does a Pressure Regulator Work](https://www.fluidcontrols.co.uk/how-pressure-regulators-work/)
-    * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
-      * Read section 6.3-6.4 (up to table 6-5) on page 203
-    * BONUS: [Liquid Propellant Feed Systems](https://aerospacenotes.com/liquid-propellant-feed-systems/)
+
+
+### Educational Material:
+
+* Solid Rocket
+  * [Video of NASA’s solid rocket booster](https://www.youtube.com/watch?v=7ChDT4kj3oE)
+  * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+    * Read pg 9, section 1.5.1.1
+    * Pay special attention to the fig 1.5a. What are the six parts of a solid rocket listed? Excluding “payload,” can you say what each part does?
+  * BONUS: [Solid Rocket Grain Design](https://www.youtube.com/watch?v=xDl\_LO6nOnI\&t=58s)
+* Liquid Rocket
+  * [Rocket & Space Technology - Solid Propellants](http://www.braeunig.us/space/propel.htm#liquid)
+    * Read Liquid Propellants
+  * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+    * Read pg 12, section 1.5.1.2
+* Feed Systems
+  * [Video: Propellant Feed Systems](https://www.youtube.com/watch?v=tOrELhwdMAg)
+  * [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
+    * Read pg 357, 10.8.1 Liquid-Propellant Feed System&#x20;
+    * Reach pg 360, 10.8.1.1 Gas Pressure Feed System
+  * [How Does a Pressure Regulator Work](https://www.fluidcontrols.co.uk/how-pressure-regulators-work/)
+  * [Rocket Propulsion Elements](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Rocket%20Propulsion%20Elements.pdf)
+    * Read section 6.3-6.4 (up to table 6-5) on page 203
+  * [Cryogenic Propulsion Systems](https://www.youtube.com/watch?v=3isXaIQ3Lkk\&ab\_channel=Lesics)
+* Bonus Material:
+  * [Rocket Propellants Detailed Survey](http://www.braeunig.us/space/propel.htm#solid)
 
 ## Week 3: Valves, Injectors, and Thrust Chambers
 
@@ -101,8 +123,14 @@ This week you will be expected to have completed the slides from week 2. You wil
 
 The information covered in this week's material is a very general overview on some advanced topics in propulsion. If you don't understand something or want to learn more, our **main resources folder** is located [here](https://drive.google.com/drive/folders/1bWF0c6GEQ5IlOdPJ3HJM\_Z-Yki8hGcOm?usp=sharing) in Propulsion(feel free to add resources you find online!)
 
-\
-There will also be an in person workshop on RPA! We encourage you to attend, but if that is not possible, it will be recorded.
+### &#x20;Workshops:
+
+* LE2 Feed Systems Workshop
+*
+
+
+
+### Educational Material
 
 * Injectors
   * [Bi-Liquid Injectors](https://youtu.be/pE0q4vrhkMU)
@@ -127,23 +155,48 @@ There will also be an in person workshop on RPA! We encourage you to attend, but
   * [STAR Gitbook RPA instructions](https://rocketry.gitbook.io/docs/tutorials/propulsion/rocket-propulsion-analysis-tutorial)
     * We will also have a workshop on this&#x20;
 * Bonus Material:
-  * [Propulsion Systems Lectures](https://ocw.mit.edu/courses/16-50-introduction-to-propulsion-systems-spring-2012/pages/lecture-notes/) (Heavy duty shit)
+  * Everyday Astronaut: [Rocket Engine Cooling](https://youtu.be/he\_BL6Q5u1Y)
   * Famous/Exciting Rocket Stuff!!
     * [RIP Robert Goddard](https://www.nasa.gov/missions/research/f\_goddard.html)
     * [RD-180: Absolute Legend](https://www.technologyreview.com/2019/06/26/134490/spacex-blue-origin-russian-rd180-rocket-engine-design/)
     * [Copenhagen Suborbitals Project](https://youtu.be/IkRE2ogHrdc)
+  * [Propulsion Systems Lectures](https://ocw.mit.edu/courses/16-50-introduction-to-propulsion-systems-spring-2012/pages/lecture-notes/) (Heavy duty shit)
   * [Workshop Recordings](https://drive.google.com/drive/u/0/folders/1kCIn9Z-NuIFim6WLNRcDuI9-HEB9zsh7), [Feed System Presentations](https://drive.google.com/drive/u/0/folders/1kCIn9Z-NuIFim6WLNRcDuI9-HEB9zsh7)
   * [STAR Gitbook Resources](https://rocketry.gitbook.io/public/tutorials/propulsion)
 
-## Week 4-5: Technical Project Starts&#x20;
+## Week 4: Instrumentation and Control, Technical Project&#x20;
 
-You finished your readings!! Now, you will select / be assigned a **technical mentor**. This is different from your previous one because your technical mentor will be the person who is in charge of a technical specialty on our LE2 rocket! Depending on what you would like to learn, you can choose who to work with.&#x20;
+### Education:
+
+* Instrumentation:
+  * Pressure Transducers
+  * Force Detectors
+  * Temperature Detectors
+  * Level Sensors
+* Control:&#x20;
+  * Basics of State Machines and Procedural Flow
+
+### Workshops:
+
+* Rocket Propulsion Analysis (RPA) Setup and Basic Execution
+* LE2 Control System: Procedural Flow, State Machine
+* Systems Workshop
+
+
+
+Presentation end of week 4 / beginning of week 5
+
+
+
+## **PROPULSION TECHNICAL INTRO PROJECT**
+
+You will select / be assigned a **technical mentor**(but can attend anyone's OH for help). Depending on what you would like to learn, you can choose who to work with, or jump across people's Office Hours to find the knowledge you might need to complete specific aspects of your project.
 
 **Weekly office hours and meetings will be provided** by your new mentor!. Also, never be afraid to reach out for help - ask anyone you feel comfortable with. It is better to ask for clarification on something that might seem obvious than to spend hours confused.&#x20;
 
-After week 5, **new members will host a design review** for their system and move forward with redesign/fabrication/testing.&#x20;
+After week 4, **new members will host a design review** for their education and technical project and then move forward integrated LE2 member work.&#x20;
 
-We will also be hosting several workshops! To complete your intro project and develop knowledge in propulsion specialties, please attend at least one workshop(really as many as you want) over these weeks.&#x20;
+We will also be hosting several workshops during weeks 3-5! To complete your intro project and develop knowledge in propulsion specialties, please attend at least one workshop(really as many as you can) over these weeks.&#x20;
 
 
 
