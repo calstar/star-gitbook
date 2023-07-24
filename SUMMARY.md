@@ -71,6 +71,7 @@
     * [Debugging Tips/Testing](tutorials/avionics/debugging-tips.md)
     * [Ham Radio Basics](tutorials/avionics/ham-radio-basics.md)
     * [Component Selection](tutorials/avionics/component-selection.md)
+    * [High Temperature Batteries](tutorials/avionics/high-temperature-batteries.md)
   * [Outreach Activities](tutorials/outreach-activities/README.md)
     * [Straw Rocketry](tutorials/outreach-activities/straw-rocketry.md)
     * [Spacecraft Structures](tutorials/outreach-activities/spacecraft-structures.md)
