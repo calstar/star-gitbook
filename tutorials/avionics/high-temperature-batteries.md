@@ -17,10 +17,10 @@ This has caused significant distress to our team, as we compete in New Mexico wh
 
 Batteries better suited to high temperatures will have different internal chemistries that have high thermal stability. This is not a new problem and more suitable batteries do exist. A few have been listed here. More information will be added if we find reliable suppliers for these batteries and can try to work with them ourselves.
 
-| Battery Type                       | Max Temperature                                                       | Potential Suppliers                          |
-| ---------------------------------- | --------------------------------------------------------------------- | -------------------------------------------- |
-| Lithium Iron Phosphate (LiFePO)    | 200C [\[1\], \[2\]](https://www.zotero.org/google-docs/?50ljPZ)       | batteriesinaflash.com                        |
-| Lithium Thionyl Chloride (LiSoCl2) | 95C - 125C [\[3\], \[4\]](https://www.zotero.org/google-docs/?lrNVMP) | <p>Tadiran<br>Eagle Picher</p><p>Amazon?</p> |
+| Battery Type                       | Max Temperature                                                       | Potential Suppliers                                      |
+| ---------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------- |
+| Lithium Iron Phosphate (LiFePO)    | 200C [\[1\], \[2\]](https://www.zotero.org/google-docs/?50ljPZ)       | batteriesinaflash.com                                    |
+| Lithium Thionyl Chloride (LiSoCl2) | 95C - 125C [\[3\], \[4\]](https://www.zotero.org/google-docs/?lrNVMP) | <p>Tadiran<br>Eagle Picher</p><p>Jauch</p><p>Amazon?</p> |
 
 References
 
