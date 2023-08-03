@@ -1,10 +1,10 @@
 # FEA Simulation Tutorial using ANSYS
 
 **FEA simulations involve the numerical solving of partial differential equations that rule our known world. The simulation software takes in a geometry and then creates a mesh out of it. A mesh is your geometry broken into a large, but finite number of elements. Each of these elements, whether they be cubes, tetrahedrons, pyramids, etc. can then have a PDE applied over it. The specific PDE applied depends on the type of simulation you are running. For instance, for an electric simulation Maxwell’s equations will be applied, and for thermal simulations the heat equation will be applied. Once your geometry is separated into a number of finite elements, you can then apply boundary conditions to the entire geometry. These boundary conditions include but are not limited to an applied force, an applied pressure, heat applied, and a voltage. The software then takes the boundary conditions coupled with your mesh and continuity equations in order to produce the results you are asking for. These results could be deformation, stress, strain, resultant force, etc. The main softwares you will use to complete simulations are FEA within Solidworks, ANSYS’ FEA simulations, COMSOL, and/or simscale. We highly recommend ANSYS as it is highly accurate and we have access to free licenses.**\
-****
+
 
 **To  begin using Ansys, open the Workbench application. Select the static structural icon on the left menu to begin working on a static structural project. The project window will contain several items that you must fulfill in order to run the simulation.**\
-****
+
 
 * **Engineering Data**
   * **The Engineering Data item is where you select the material that the component is made out of. You can choose from an extensive list of preloaded materials that Ansys offers, or you can create your own material with its own properties. This might be helpful for asymmetric materials or extremely unique materials, but we will generally be able to get good results from preloaded materials.**

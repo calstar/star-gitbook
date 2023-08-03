@@ -38,7 +38,7 @@ The Chenming Hu Innovation Lab (Supernode) contains a reflow oven. STAR as a tea
 6. Once alignment has been achieved--and be sure that it's as close to perfect as possible--**tape one edge only of the stencil** to the blanks and orient it so the taped side is away from you:
 7. <img src="../../.gitbook/assets/imag0938.jpg" alt="" data-size="original">&#x20;
 8. Squeeze solder paste from the syringe "above" (tape side) each section of pads&#x20;
-9. Use a scraper or card to press firmly down on the stencil and spread solder paste, drawing the scraper toward you. **At no point should you scrape away from yourself, lifting the stencil!**<img src="../../.gitbook/assets/imag0940.jpg" alt="" data-size="original">****
+9. Use a scraper or card to press firmly down on the stencil and spread solder paste, drawing the scraper toward you. **At no point should you scrape away from yourself, lifting the stencil!**<img src="../../.gitbook/assets/imag0940.jpg" alt="" data-size="original">
 10. You will likely have to add more solder paste after the first pass. It is OK to recover solder paste, move it around, etc., but be very careful not to scrape too much side-to-side or away from you. **The stencil must remain flat and in position**
 11. Continue spreading the solder paste around until each pad clearly has solder paste on it. We have found a steep angle allows for the collection of paste from the top of the stencil, while a low angle and higher amounts of downward force can help to get paste through the holes in the stencil
 12. <img src="../../.gitbook/assets/imag0941.jpg" alt="" data-size="original">&#x20;

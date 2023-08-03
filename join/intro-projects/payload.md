@@ -1,13 +1,13 @@
 ---
 description: >-
-  The 2022 payload intro project is designed to be a comprehensive and
+  The 2023 payload intro project is designed to be a comprehensive and
   interesting way of introducing new members to all of the common tasks done by
   the team.
 ---
 
 # Payload
 
-<figure><img src="../../.gitbook/assets/sample_rover.png" alt=""><figcaption><p>Example rover assembly</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unnamed.png" alt=""><figcaption><p>A past iteration of DAVE (2022)</p></figcaption></figure>
 
 ![A complicated Payload rover for NASA SL 2018](../../.gitbook/assets/picture2.png)
 
@@ -15,55 +15,51 @@ description: >-
 
 The intro project is designed with three main parts:
 
-1. A **general rocketry take-home quiz**, taken **alone** (due roughly _1 week_ after assigned)
-2. A **rover design project**, done with **mentor guidance** (due roughly _3 weeks_ after assigned)
+1. A series of **workshops** given at the beginning of the year to teach **basic rocketry and payload knowledge** as well as necessary skills (given the first few weeks of the school year)
+2. A **general rocketry/payload take-home quiz**, taken **alone** (due roughly _2 weeks_ after assigned)
+3. A **glider design project**, done with **mentor guidance** (due roughly _3 weeks_ after assigned)
 
 The intro project may seem daunting, but don’t worry!
 
-In addition to the existing resources on GitBook, all the returning payload members will available to help.
+In addition to the existing resources on GitBook, all the returning payload members will be available to help.
 
-We will assign a specific returning member as your mentor, but please reach out to any returning member for any questions. Also, feel free to DM Payload Lead Caytyn Abono on Discord (**caytyn#0890**).
+We will assign a specific returning member as your mentor, but please reach out to any returning member for any questions. Also, feel free to DM Payload Lead, Tristan Steen, on Discord (**chaddusmaximus**).
 
-We will also hold a series of intro project workshops throughout the next weeks, giving an opportunity for hands-on help. Details will be announced here and on the #payload channel.
+We will also hold a series of intro project work sessions throughout the next weeks, giving an opportunity for hands-on help. Details will be announced on the #payload channel.
 
-Above all, we hope that the intro project will be a fun and rewarding experience.
+Above all, we hope that the intro project will be a fun, educational and rewarding experience.
 
 Checkpoints Schedule:
 
-* By week of 2022-09-24 - Quiz Complete
-* By week of 2022-10-15 - Design Project Complete
+* By 2023-9-21 - Quiz Complete
+* By 2023-10-5 - Design Project Complete
 
 ### Part 1: General STAR & Rocketry Quiz Questions
 
-1. What are the specialties of STAR?
-2. What are the names of STAR's rockets?
+1. Name all of the Specialty Subteams on STAR.
+2. List all of STAR's previous rockets.
    1. What are their diameters?
-   2. What are they made out of?
-3. What is the maximum side length payload cube that could theoretically fit in a 20cm diameter rocket?
+   2. What Material(s) are they made out of?
+3. What is the maximum length of a payload cube that could theoretically fit in a 20cm diameter rocket?
 4. A G-class motor is roughly how many times more powerful than a D-class motor?
 5. With roughly what speed will a 10kg rocket hit the ground if in free fall from 1280m? (You may use g=10 m/s/s)
    1. Is this a realistic speed to assume? Why or why not?
 6. Give two pros and two cons of a dual-deployment (two parachute) recovery system.
-   1. How do altimeters measure altitude?
-7. Is it possible to directly measure the velocity of a rocket during flight? Why or why not?
-   1. Describe two ways you might calculate the velocity of a rocket with the following sensors: GPS tracker, altimeter, accelerometer, gyroscope.
-   2. What are the potential advantages and drawbacks of each method given?
-8. Explain what each number means in the following UTS designation: #6-32x1
-   1. What is the smallest screw gauge in the UTS system?
-   2. What are the standard and fine TPI of a #4 screw?
-9. Explain what each number means in the following Metric screw designation: M6-1.0x20
-   1. How is the designation of threading different in the UTS system than the Metric system? **Subtle but important.**
-   2. Why is the Metric system superior to the US Customary system?
+7. How do altimeters measure altitude?
+8. Is it possible to directly measure the velocity of a rocket during flight? Why or why not?
+   1. Describe two ways you might calculate the velocity of a rocket with the following sensors: GPS tracker, altimeter, accelerometer, gyroscope. What are the potential advantages and drawbacks of each method given?
+9. Explain what each number means in the following UTS designation: #6-32x1
+10. Explain what each number means in the following Metric screw designation: M6-1.0x20
 
 ### Quiz Submission
 
-Please fill out your quiz on the Google Form here: [https://docs.google.com/forms/d/e/1FAIpQLSfBBbWGSsRz67oonUvC7-hr3IUu-v4TSqGfmcmzg7yq0dAcPA/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSfBBbWGSsRz67oonUvC7-hr3IUu-v4TSqGfmcmzg7yq0dAcPA/viewform?usp=sf\_link)
+Please fill out your quiz on the Google Form here: \[INSERT LINK WHEN FINISHED]
 
 ### Part 2: Design
 
 #### Design Objective Outline
 
-Our goal is to build a mini robotic rover that fits inside a 6” inner diameter payload tube. Another team has already done the task of picking out the electronics, sensors, and wheels. Your task is to design and prototype the rover’s chassis—a structure to mount all of the sensors, battery and wheels. After that, you will build your design, but without the electronics.
+Our goal is to build a mini glider that fits inside a 4” inner diameter, 12" long payload tube. Your task is to design and prototype a glider that can be ejected from the rocket for an unpowered flight. Your glider does not have to fold like DAVE, but design the dimensions of your wing spars and stabilizers to fit in the payload tube as if it did. You will be responsible for designing your glider’s fuselage, wings, wing spars, and stabilizers, as well as choosing the material for your wings. After that, you will build your design.
 
 #### Requirements
 
@@ -71,35 +67,31 @@ Our goal is to build a mini robotic rover that fits inside a 6” inner diameter
 >
 >
 >
-> Tolerances are important, make sure to add AT LEAST a 1mm tolerance when designing to account for manufacturing differences.&#x20;
+> Tolerances are important, make sure to add AT LEAST a \[CHOSEN LENGTH] tolerance when designing to account for manufacturing differences.&#x20;
 >
 >
 >
-> Listed below are all the parts you will need to integrate into your design. For the tires and axles, you will have a choice of which style tire and which length of axles (and choice of colors as well). When we have our first intro project work session, you will be able to pick your LEGO parts and design from there!
+> Listed below are all the parts you will need to integrate into your design. It is easiest to make the vertical stabilizer a part of the fuselage
 
 _**Components to Integrate**_
 
-* 1x [Arduino Nano ](https://store-usa.arduino.cc/products/arduino-nano/?selectedStore=us)
-* 1x [motor driver board](https://www.pololu.com/product/2130) (optional)&#x20;
-* 1x [distance sensor ](https://www.pololu.com/product/2474)
-* 1x 3.7v Lipo Battery&#x20;
-* 4x LEGO Rims (56145)&#x20;
-* 2x LEGO Axles (3708 or 3737 or 13927)&#x20;
-* 4x LEGO Tires (15413 or 61481 or 55978)
+* Fuselage (Balsa Wood)
+* Wing Spars (Balsa Wood)
+* Wings (Choice of Tissue Paper or Mylar)
+* Horizontal Stabilizer (Balsa Wood)
+  * If you want to try a tissue paper or Mylar horizontal stabilizer, design balsa wood stabilizer spars
+* Vertical Stabilizer (Balsa Wood)
 
-Note on the axles:&#x20;
-
-One of the axle types (13927) is too long for the payload space requirement. You will have to cut these (both in CAD and in real life) to make them fit. We will teach you how to do this!
+\[STOPPING PLACE FOR NOW]
 
 _**Detailed Design Requirements:**_
 
-1. All components must fit within the space of a cylinder, 6" in inner diameter and 8" in length.
+1. All components when hypothetically folded must fit within the space of a cylinder, 4" in inner diameter and 12" in length.
 2. All components must be mounted by non-permanent means. For example, you may not glue the Arduino to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
-3. The distance sensor must be mounted to the front of the rover, facing forward.
-4. The wheels may be arranged in any reasonable format (keep in mind you will be manufacturing and building the rover, so the axles need to be able to spin freely, and since the chassis’ are being 3D printed you will need to account for any shrinkage; we will talk about this more in the 3D printing workshop).
-5. You do not have to worry about wiring the electronics or mounting the rover to the tube, but you should make sure the wires can be routed to each electrical component. For example, if designing covers to fasten the electronics to the chassis, make sure to put a hole for a wire to fit through (number inches).
+3. The wheels may be arranged in any reasonable format (keep in mind you will be manufacturing and building the rover, so the axles need to be able to spin freely, and since the chassis’ are being 3D printed you will need to account for any shrinkage; we will talk about this more in the 3D printing workshop).
+4. You do not have to worry about wiring the electronics or mounting the rover to the tube, but you should make sure the wires can be routed to each electrical component. For example, if designing covers to fasten the electronics to the chassis, make sure to put a hole for a wire to fit through (number inches).
 
-Your rover may be as elaborate or simple as you'd like, but it should adhere to the above requirements, and should be able to be manufactured given the resources and parts that Jacobs and STAR are providing.
+Your glider may be as elaborate or simple as you'd like, but it should adhere to the above requirements, and should be able to be manufactured given the resources and parts that Jacobs and STAR are providing.
 
 ### Designing in SolidWorks
 

@@ -8,7 +8,7 @@ As the feed system is composed of pipes, valves, fittings, and tanks, these comp
 
 
 
-****
+
 
 ![Figure 1: Possible feed system types (from RPE)](https://lh5.googleusercontent.com/xRLIaj5NOGDpz7xKlKoZuIWDYLMMrhdKlshXuIrdjh4ioyfHF0z-uCC04mYJo5Ctt6c8cMwBMGCsTjEq9s6MxHRupw\_DCyLkdtWatolhiS8LYKXY9GuYnXg\_cN1ts5x1-P6pLV7s)
 
@@ -34,7 +34,7 @@ A blowdown feed system works instead by storing the highly pressurized gas insid
 
 ## **Useful Links**
 
-****[Rocket Propulsion Elements Chapter 6: Liquid Propellant Rocket Engine Fundamentals ](https://wodeshu.gitee.io/roprop/text00009.html#c06)
+[Rocket Propulsion Elements Chapter 6: Liquid Propellant Rocket Engine Fundamentals ](https://wodeshu.gitee.io/roprop/text00009.html#c06)
 
 ## Related Pages
 

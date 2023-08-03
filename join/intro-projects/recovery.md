@@ -90,7 +90,7 @@ In understanding the recovery steps of Stage Separation, you will grasp the reco
 {% embed url="https://www.apogeerockets.com/Tech/Phases-of-a-Rockets-Flight" %}
 
 {% hint style="warning" %}
-**Stage Separation Openrocket File:** [**https://drive.google.com/file/d/1bbOjms46XsEmK8uuQKp6Asz5ojwOvLvK/view?usp=sharing**](https://drive.google.com/file/d/1bbOjms46XsEmK8uuQKp6Asz5ojwOvLvK/view?usp=sharing)****
+**Stage Separation Openrocket File:** [**https://drive.google.com/file/d/1bbOjms46XsEmK8uuQKp6Asz5ojwOvLvK/view?usp=sharing**](https://drive.google.com/file/d/1bbOjms46XsEmK8uuQKp6Asz5ojwOvLvK/view?usp=sharing)
 {% endhint %}
 
 {% embed url="https://www.apogeerockets.com/Tech/How_2-Stage_Rockets_Work" %}
@@ -128,7 +128,7 @@ Fill out the chart below with all of the calculations and relevant information o
 **Hint:** First calculate the masses of the upper, lower, and avionics bay sections using the given OpenRocket File for Arktos. In this case, the upper section is referring to all components above the avionics bay while lower section refers to all components below the avionics bay.&#x20;
 {% endhint %}
 
-{% file src="../.gitbook/assets/sl-full-scale-v6.ork" %}
+{% file src="../../.gitbook/assets/sl-full-scale-v6.ork" %}
 OpenRocket File for Arktos
 {% endfile %}
 
@@ -180,7 +180,7 @@ You are tasked to create a full CAD model of a usable avionics bay to house 2 al
   * **Outer Diameter:** 3.900" (9.91 cm)
 
 {% hint style="info" %}
-**CADs of a 9V battery and a Stratologger Altimeter:** [**https://drive.google.com/drive/folders/1mKPF4cOOXk0YaSNkeCsWYUEElXhLPK8q?usp=sharing**](https://drive.google.com/drive/folders/1mKPF4cOOXk0YaSNkeCsWYUEElXhLPK8q?usp=sharing)****
+**CADs of a 9V battery and a Stratologger Altimeter:** [**https://drive.google.com/drive/folders/1mKPF4cOOXk0YaSNkeCsWYUEElXhLPK8q?usp=sharing**](https://drive.google.com/drive/folders/1mKPF4cOOXk0YaSNkeCsWYUEElXhLPK8q?usp=sharing)
 {% endhint %}
 
 {% hint style="info" %}

@@ -11,7 +11,7 @@ description: >-
 
 ### Who are we?
 
-We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our mission is to enable students from all majors and backgrounds passionate in aerospace to gain hands-on experience through real-world projects. As part of STAR, members can expect to develop a set of valuable engineering skills, including experience with manufacturing, 3D CAD, simulation, project management and more. For more information, check out our website at [https://stars.berkeley.edu/](https://stars.berkeley.edu/)!
+We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our mission is to enable students from all majors and backgrounds passionate about aerospace to gain hands-on experience through real-world projects. As part of STAR, members can expect to develop a set of valuable engineering skills, including experience with manufacturing, 3D CAD, simulation, project management, and more. For more information, check out our website at [https://stars.berkeley.edu/](https://stars.berkeley.edu/)!
 
 ### What are the subteams?&#x20;
 
@@ -38,9 +38,9 @@ We are UC Berkeley's competitive high-power rocketry team. We build rockets! Our
 
 **Ursa:** our entry in NASA Student Launch 2017
 
-**Sub-Arktos:** subscale for our entry in **** NASA Student Launch 2018
+**Sub-Arktos:** subscale for our entry in NASA Student Launch 2018
 
-**Arktos:** our entry in **** NASA Student Launch 2018
+**Arktos:** our entry in NASA Student Launch 2018
 
 **AirBears:** our 4" diameter test rocket, launched in Fall 2019
 

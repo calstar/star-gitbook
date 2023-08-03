@@ -49,7 +49,7 @@ description: >-
 
 **Step 4.1:** Make a schedule loading diagram (a.k.a. Gantt chart), using each activity’s EST, as shown in the image below. Predecessor/successor chains should fall into the same row, though exceptions must obviously be made for activities with multiple predecessors/successors.&#x20;
 
-[**Click Here**](https://en.wikipedia.org/wiki/Gantt\_chart) **** for more information on Gantt charts.
+[**Click Here**](https://en.wikipedia.org/wiki/Gantt\_chart) for more information on Gantt charts.
 
 ![](.gitbook/assets/screen-shot-2019-02-21-at-7.44.39-pm.png)
 

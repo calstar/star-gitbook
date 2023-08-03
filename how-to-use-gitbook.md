@@ -36,7 +36,7 @@ One draft can contain edits to multiple pages. Remember, always enter a draft de
 ## Draft Descriptions
 
 {% hint style="danger" %}
-After making a change (new draft), **you must describe changes** with a short message **** by clicking on "Describe this draft" **in the Drafts section in the sidebar** and writing a brief description.
+After making a change (new draft), **you must describe changes** with a short message by clicking on "Describe this draft" **in the Drafts section in the sidebar** and writing a brief description.
 {% endhint %}
 
 ![See the section "Step 3" above if you don't have this sidebar visible](.gitbook/assets/drafts.PNG)

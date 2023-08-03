@@ -89,7 +89,7 @@ For small orders, 8020.net is fine. For larger orders, please email David at TEC
 
 Don't make the same mistakes we did.
 
-* _**PLEASE PLEASE PLEASE**_** ** if your budget permits order parts pre-cut and pre-machined. It saves a lot of headache on our side, and the whole point of 8020 is that it's **easy**.
+* _**PLEASE PLEASE PLEASE**_ if your budget permits order parts pre-cut and pre-machined. It saves a lot of headache on our side, and the whole point of 8020 is that it's **easy**.
   * If your budget does not permit, reconsider your budget. Machining and cutting 8020 for an average-sized project will take well over 10 hours in the machine shop for the average student.
     * If you've reconsidered your budget and still can't afford, buy extra length of 8020, since cutting and mistakes will eat up your length. Also order extra fasteners
 * Try to stick with flat plates and gussets. Anchor fasteners are difficult to access and expensive, and end fasteners require tapping into the aluminum, which isn't ideal for things that need to be disassembled frequently. 45 degree supports are also very nice for high-strength applications.

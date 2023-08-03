@@ -37,7 +37,7 @@ The new member project for the recovery subteam is intended to:
 3. Encourage **collaboration/asking for help** to accomplish these tasks
 
 The deliverables of the project should be presented at the recovery subteam meeting **(Sept. 27th)** in the form of a .ppt slide deck containing snapshots of the various projects. Remember! This project is meant to be challenging, but attainable, especially if you ask for help. So please ask questions, come to workshops, and come to office hours!\
-****
+
 
 ### **Task 1 | Knot Tying **_**(0.5 hrs)**_
 
@@ -104,7 +104,7 @@ Deliverable | Modified table with filled out fields in .ppt and correct option w
 **BONUS:** Play around with OpenRocket and select your own combination of sizes that would be even better than the best option listed above.
 {% endhint %}
 
-****
+
 
 ### **Task 4 | Bulkhead Design **_**(4 hrs)**_
 
@@ -140,7 +140,7 @@ For bonus points:
 
 Deliverable | Snapshots of the full assembly (two different views), and screenshot of assembly uploaded to the PDM
 
-****
+
 
 ### **Task 5 | Creative Section **_**(X hrs)**_
 
@@ -158,12 +158,12 @@ Objective | CAD and mockup a functional electronics sled for the avionics bay. T
 
 Deliverable | Manufactured sled and its assembly file uploaded to the PDM. Add photos to the .ppt and describe the design
 
-****
+
 
 ## **Returning Member Project **_**(10.5 hrs)**_
 
 Similar to the new member project, the returning member project is intended on refreshing everyone’s mind on performing the pertinent tasks for the recovery team, in addition to educating members on a deeper level focused on manufacturing and big-picture understanding. It is **due on 09/20.**\
-****
+
 
 ### **Task 0 | Intro Project  **_**(7.5 hrs)**_
 
@@ -193,7 +193,7 @@ Below is a snapshot of a diagram with the altimeter and batter to get you starte
 
 Deliverable | Snapshot of wiring diagram in .ppt
 
-****
+
 
 ### **Task 7 | Launch Day Checklist Quiz  **_**(0.5 hrs)**_
 
@@ -204,7 +204,7 @@ Objective | Complete the following quiz about the sequence of events that we, as
 Link: [https://goo.gl/forms/MhCX3EOcK8SDAHts1](https://goo.gl/forms/MhCX3EOcK8SDAHts1)
 
 Deliverable | Screenshot of perfect score\
-****
+
 
 ### **Task 8 | Technical Writing** _(1.5 hr)_
 

@@ -16,7 +16,7 @@ You must use Teflon tape on NPT Threads!
 
 Some other points about NPT threads:
 
-* NPTF is a variant of NPT with a slightly different major diameter. They are cross-compatible with NPT threads, but some care has to be taken and you should **always** use teflon tape! We generally don't use them, but be aware when buying components. NPTF does **NOT** mean NPT Female. ****&#x20;
+* NPTF is a variant of NPT with a slightly different major diameter. They are cross-compatible with NPT threads, but some care has to be taken and you should **always** use teflon tape! We generally don't use them, but be aware when buying components. NPTF does **NOT** mean NPT Female.&#x20;
 * NPT threads have a taper of 1 inch per 16 inches. Male threads are tapered in, and female threads are tapered out. This is to ensure a better seal.
 
 Where we use NPT threads:
