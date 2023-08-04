@@ -53,7 +53,7 @@ Checkpoints Schedule:
 
 ### Quiz Submission
 
-Please fill out your quiz on the Google Form here: \[INSERT LINK WHEN FINISHED]
+Please fill out your quiz on the Google Form here: \[INSERT LINK WHEN FINISHED] (**Due 9/21**)
 
 ### Part 2: Design
 
@@ -129,62 +129,26 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice (Fusion 360 is recommended as it has many online resources).
 {% endhint %}
 
-\[STOPPING PLACE FOR NOW]
-
-### Step 2: Working with the given hardware
-
-Assume another team has already picked out the wheels and electronics necessary for a rover. As a design engineer, your task is to cohesively incorporate all the given components into a (hopefully) functioning rover. A good place to start is by looking at the physical dimensions of each component.&#x20;
-
-Attached are 2D dimensioned engineering drawings of some of the electronics.
-
-{% file src="../../.gitbook/assets/dimensions.zip" %}
-Component Dimensions
-{% endfile %}
-
-Below is a pdf with the dimensions for the LEGO wheels and axles (which depend on which tires you chose), along with some examples for how to design your rover to accomodate them.
-
-{% file src="../../.gitbook/assets/Payload Intro Project Dimensions.pdf" %}
-Dimensions of LEGO Parts + Tips for Axle Mounting Design
-{% endfile %}
-
-3D models of major components are provided below for the SolidWorks assembly of your rovers.
-
-{% file src="../../.gitbook/assets/models_2022_v3.zip" %}
-
-{% hint style="info" %}
-You do not have to 3D model the payload section.
-{% endhint %}
-
-### Step 3: Working with the tube
+### Step 2: Working with the tube
 
 The most challenging (and annoying) constraint placed on many payload projects is the size of the payload tube (the part of the rocket that the payload is stored in). Learning to work with the size limits of a cylinder is essential.
 
 In this project, your tube space is limited to 4" inner diameter and 12" length, a common size for a smaller-scale rocket. It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 4" diameter circle will not fit a 4x4" square.** Your usable space is limited to what you can fit (or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)) within a circle.
 
-### Step 4: Start designing!
+### Step 3: Start designing!
 
-That's all the essentials to get you started on your design. Remember, you can come up with anything as long as it meets the detailed design requirements. The rest of this sub-section lists a few tips.
+That's all the essentials to get you started on your design. Remember, you can come up with anything as long as it meets the detailed design requirements. Be sure to have your wing and stabilizer materials decided on before starting your design as they can influence your glider's weight and stability. Remember, if you need help be sure to reach out to your mentor or other payload members.
 
-{% hint style="info" %}
-Any non-permanent mounting method is acceptable. If a part comes with screw holes, you are encouraged to design for screw fasteners. However, zip ties and Velcro are also acceptable (and are the only possible options for parts without mounting holes).
-{% endhint %}
+### Step 4: CAD Submission
 
-{% hint style="info" %}
-To design screw holes that fit, visit the [Tolerancing GitBook page](../../tutorials/manufacturing/tolerancing.md)!
-{% endhint %}
+When finished with your design, please upload your SolidWorks/other CAD files here: [https://forms.gle/h4Y89PrVZWnDM4Dr9](https://forms.gle/h4Y89PrVZWnDM4Dr9) (**Due 10/5**)
 
-{% hint style="info" %}
-Your mentor (and other Payload members) are here to help, and if you're ever stuck or confused, please ask!
-{% endhint %}
+## Manufacturing
 
-### Step 6: Manufacturing!
+Now you start actually building your glider!&#x20;
 
-Now you start actually building your rover!&#x20;
+Your fuselage, wing spars, and stabilizers will need to be laser cut out of balsa wood. To do this, your CAD files will need to be put into Adobe Illustrator in order to upload the files to the laser cutter. This will be done during the specialty meeting following the 10/5 GM. Your finished Illustrator files will be sent to a payload member with a Makerpass and they will get the parts laser cut for you.&#x20;
 
-The chassis can be 3D printed through Jacobs (if you don’t have a Makerpass, you can still print it and STAR will reimburse you). Click [here](https://jacobsinstitute.berkeley.edu/jacobs-self-service-printing/) for Jacobs self-service printing. We will also have a workshop during a GM on everything you’ll need to know about 3D printing.&#x20;
+The GM of 10/12 will be your manufacturing day! Tissue paper and mylar will be provided for your wings (and possibly stabilizers) and glues, tape, and sewing pins will be provided to attach your components. Quarters will also be provided to add ballast weigh if necessary. After assembling your gliders we will go to the ramp behind Etcheverry and test them!&#x20;
 
-The electronics will not be part of your final rover, so all you will need to do is cut your axles (if necessary) and integrate the wheels and axles with your chassis. On the last day of intro projects, we will provide you with the rest of your parts and you’ll be ready to build!
-
-## Project Submission
-
-Please upload your SolidWorks/other CAD files here: [https://forms.gle/fBveaPspNEGfzsas9](https://forms.gle/fBveaPspNEGfzsas9)
+Congratulations on completing your intro project!&#x20;
