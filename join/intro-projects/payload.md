@@ -59,7 +59,7 @@ Please fill out your quiz on the Google Form here: \[INSERT LINK WHEN FINISHED]
 
 #### Design Objective Outline
 
-Our goal is to build a mini glider that fits inside a 4” inner diameter, 12" long payload tube. Your task is to design and prototype a glider that can be ejected from the rocket for an unpowered flight. Your glider does not have to fold like DAVE, but design the dimensions of your wing spars and stabilizers to fit in the payload tube as if it did. You will be responsible for designing your glider’s fuselage, wings, wing spars, and stabilizers, as well as choosing the material for your wings. After that, you will build your design.
+Our goal is to build a mini glider that fits inside a 4” inner diameter, 12" long payload tube. Your task is to design and prototype a glider that can be ejected from the rocket for an unpowered flight to deliver a payload to the ground. Your glider does not have to fold like DAVE, but design the dimensions of your wing spars and stabilizers to fit in the payload tube as if it did. You will be responsible for designing your glider’s fuselage, wings, wing spars, and stabilizers. After that, you will build your design.
 
 #### Requirements
 
@@ -67,13 +67,13 @@ Our goal is to build a mini glider that fits inside a 4” inner diameter, 12" l
 >
 >
 >
-> Tolerances are important, make sure to add AT LEAST a \[CHOSEN LENGTH] tolerance when designing to account for manufacturing differences.&#x20;
+> Tolerances are important, so consult the [Tolerancing Page](../../tutorials/manufacturing/tolerancing.md) on the GitBook when designing to account for manufacturing differences.&#x20;
 >
 >
 >
 > Listed below are all the parts you will need to integrate into your design. It is easiest to make the vertical stabilizer a part of the fuselage
 
-_**Components to Integrate**_
+_**Components to Integrate:**_
 
 * Fuselage (Balsa Wood)
 * Wing Spars (Balsa Wood)
@@ -82,33 +82,35 @@ _**Components to Integrate**_
   * If you want to try a tissue paper or Mylar horizontal stabilizer, design balsa wood stabilizer spars
 * Vertical Stabilizer (Balsa Wood)
 
-\[STOPPING PLACE FOR NOW]
+_**Materials Available:**_
+
+* Balsa Wood
+* Tissue Paper
+* Mylar
+* Tape
+* Sewing Pins
+* Super Glue
+* Elmer's Glue
 
 _**Detailed Design Requirements:**_
 
 1. All components when hypothetically folded must fit within the space of a cylinder, 4" in inner diameter and 12" in length.
-2. All components must be mounted by non-permanent means. For example, you may not glue the Arduino to the frame. One method could be to use zip ties/Velcro; if you choose this option, be sure to include slots/holes for the ties/velcro. For parts with mounting holes, screws and nuts are preferred.
-3. The wheels may be arranged in any reasonable format (keep in mind you will be manufacturing and building the rover, so the axles need to be able to spin freely, and since the chassis’ are being 3D printed you will need to account for any shrinkage; we will talk about this more in the 3D printing workshop).
-4. You do not have to worry about wiring the electronics or mounting the rover to the tube, but you should make sure the wires can be routed to each electrical component. For example, if designing covers to fasten the electronics to the chassis, make sure to put a hole for a wire to fit through (number inches).
+2. All components must be mounted securely to your fuselage. Glue, tape, and sewing thread will be used to attach components to the fuselage, but it is required that indents or cutouts be designed into the fuselage to allow components to be securely placed.
+3. The wings and stabilizers may be arranged in any reasonable format (keep in mind the principles of aerodynamics when designing your glider and keep in mind the CG and the CoP).
+4. Your glider itself will not carry an official payload, but a place to hold a payload must be included in your design. This space must be able to fit two quarters side-by-side (a 1.91x0.955" rectangle). In your final build, quarters can be added or removed non-permanently depending on the stability of your finished glider to aid in its flight.
 
 Your glider may be as elaborate or simple as you'd like, but it should adhere to the above requirements, and should be able to be manufactured given the resources and parts that Jacobs and STAR are providing.
 
 ### Designing in SolidWorks
 
-{% hint style="info" %}
-**Checkpoint: Week of \[TBD] | Workshop 1: \[TBD] see #announcements on Discord for more information**
-
-**(Dates subject to modification according to scheduling)**
-{% endhint %}
-
-We will use CAD (computer aided design) software in order to model our 3D frame. STAR has standardized using [SolidWorks ](https://github.com/calstar/star-gitbook/tree/5d8cf7302474743570b93a399b946d08b76f99ff/intro-projects/www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up.
+We will use CAD (Computer-Aided Design) software in order to model our glider. STAR has standardized using [SolidWorks ](https://github.com/calstar/star-gitbook/tree/5d8cf7302474743570b93a399b946d08b76f99ff/intro-projects/www.solidworks.com)as our preferred CAD software. If you have used CAD software other than SolidWorks, such as Fusion 360, Inventor, or Creo, then SolidWorks should not be too difficult to pick up.
 
 If you have never used CAD software before, don’t worry! We will hold a CAD workshop during GM (date TBD)**.** If you are not able to attend, there are also great online resources:
 
 {% embed url="https://www.youtube.com/watch?v=qtgmGkEPXs8" %}
 
 {% hint style="info" %}
-There will also be example PDFs for each section located at the end of each stage. Use them if you are really stuck!
+Feel free to reach out to your mentors if you need help with any of the below steps!
 {% endhint %}
 
 ### Step 1: Installing SolidWorks
@@ -126,6 +128,8 @@ The first challenge of this stage is installing SolidWorks. The GitBook has a ve
 2. Install Windows and then install SolidWorks.
 3. **Only if the above is not feasible,** you may use a compatible CAD program of your choice (Fusion 360 is recommended as it has many online resources).
 {% endhint %}
+
+\[STOPPING PLACE FOR NOW]
 
 ### Step 2: Working with the given hardware
 
@@ -155,7 +159,7 @@ You do not have to 3D model the payload section.
 
 The most challenging (and annoying) constraint placed on many payload projects is the size of the payload tube (the part of the rocket that the payload is stored in). Learning to work with the size limits of a cylinder is essential.
 
-In this project, your tube space is limited to 6" in. inner diameter and **8**" in length, a common size for a medium-scale rocket (and the size our glider, DAVE, will have to fit into!). It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 6" diameter circle will not fit a 6x6" square.** Your usable space is limited to what you can fit (or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)) within a circle.
+In this project, your tube space is limited to 4" inner diameter and 12" length, a common size for a smaller-scale rocket. It is often convenient to work with space envelopes limited by a rectangle, so the foremost important fact to understand is that **a 4" diameter circle will not fit a 4x4" square.** Your usable space is limited to what you can fit (or [inscribe](http://www.moomoomath.com/inscribed-polygon.html)) within a circle.
 
 ### Step 4: Start designing!
 
