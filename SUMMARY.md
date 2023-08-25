@@ -137,7 +137,7 @@
 * [Onboarding](join/README.md)
   * [Intro Projects](join/intro-projects/README.md)
     * [Airframe](join/intro-projects/airframe.md)
-    * [Avionics](join/intro-projects/avionics.md)
+    * [Avionics (in-progress)](join/intro-projects/avionics.md)
     * [Operations](join/intro-projects/documentation.md)
     * [Payload](join/intro-projects/payload.md)
     * [Propulsion](join/intro-projects/propulsion.md)
