@@ -20,7 +20,7 @@ We will use a spreadsheet to give you the instructions for the intro project. A 
 
 > **Each prospective member should receive a copy of the Intro Project spreadsheet, and be able to edit it. If you did not receive a copy, message the Avionics lead ASAP!!**
 
-<figure><img src="../../../.gitbook/assets/Screen Shot 2023-08-25 at 11.20.11 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-08-25 at 11.20.11 AM.png" alt=""><figcaption></figcaption></figure>
 
 * **Task:** The intro project is made up of individual tasks you need to complete. You need to complete all tasks (except the ones marked \[OPTIONAL]) to complete the intro project.&#x20;
 * **Status:** There are 3 options for status: Complete, In-progress, and N/A (not applicable). Use 'N/A' if you decide not to complete an _optional_ task. Use 'In-progress' after you have begun working on a task. Use 'Complete' only once the task is fully completed.&#x20;
@@ -76,6 +76,12 @@ We will use a spreadsheet to give you the instructions for the intro project. A 
 | Choose which project you would like to join and inform the avionics lead.                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ## Section Seven: PCB Design
+
+
+
+{% content-ref url="avionics/pcb-design-mini-project.md" %}
+[pcb-design-mini-project.md](avionics/pcb-design-mini-project.md)
+{% endcontent-ref %}
 
 | Read the KiCad Tutorial                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
