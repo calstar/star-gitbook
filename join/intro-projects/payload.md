@@ -40,20 +40,25 @@ Checkpoints Schedule:
 2. List all of STAR's previous rockets.
    1. What are their diameters?
    2. What Material(s) are they made out of?
-3. What is the maximum length of a payload cube that could theoretically fit in a 20cm diameter rocket?
-4. A G-class motor is roughly how many times more powerful than a D-class motor?
-5. With roughly what speed will a 10kg rocket hit the ground if in free fall from 1280m? (You may use g=10 m/s/s)
+3. Explain the difference between the chord line and the camber line.
+4. Indicate which axes of rotation is controlled by each part of the aircraft:
+   1. Horizontal Stabilizer
+   2. Vertical Stabilizer
+   3. Ailerons
+5. What is the maximum length of a payload cube that could theoretically fit in a 20cm diameter rocket?
+6. A G-class motor is roughly how many times more powerful than a D-class motor?
+7. With roughly what speed will a 10kg rocket hit the ground if in free fall from 1280m? (You may use g=10 m/s/s)
    1. Is this a realistic speed to assume? Why or why not?
-6. Give two pros and two cons of a dual-deployment (two parachute) recovery system.
-7. How do altimeters measure altitude?
-8. Is it possible to directly measure the velocity of a rocket during flight? Why or why not?
-   1. Describe two ways you might calculate the velocity of a rocket with the following sensors: GPS tracker, altimeter, accelerometer, gyroscope. What are the potential advantages and drawbacks of each method given?
-9. Explain what each number means in the following UTS designation: #6-32x1
-10. Explain what each number means in the following Metric screw designation: M6-1.0x20
+8. Give two pros and two cons of a dual-deployment (two parachute) recovery system.
+9. How do altimeters measure altitude?
+10. Is it possible to directly measure the velocity of a rocket during flight? Why or why not?
+    1. Describe two ways you might calculate the velocity of a rocket with the following sensors: GPS tracker, altimeter, accelerometer, gyroscope. What are the potential advantages and drawbacks of each method given?
+11. Explain what each number means in the following UTS designation: #6-32x1
+12. Explain what each number means in the following Metric screw designation: M6-1.0x20
 
 ### Quiz Submission
 
-Please fill out your quiz on the Google Form here: \[INSERT LINK WHEN FINISHED] (**Due 9/21**)
+Please fill out your quiz on the Google Form here: [https://forms.gle/dgfJjoa6jdXKbwXN8](https://forms.gle/dgfJjoa6jdXKbwXN8) (**Due 9/21**)
 
 ### Part 2: Design
 
