@@ -16,7 +16,7 @@ description: >-
 The intro project is designed with three main parts:
 
 1. A series of **workshops** given at the beginning of the year to teach **basic rocketry and payload knowledge** as well as necessary skills (given the first few weeks of the school year)
-2. A **general rocketry/payload take-home quiz**, taken **alone** (due roughly _2 weeks_ after assigned)
+2. A **general rocketry/payload take-home quiz**, taken **alone** (due roughly _1 week_ after assigned)
 3. A **glider design project**, done with **mentor guidance** (due roughly _3 weeks_ after assigned)
 
 The intro project may seem daunting, but don’t worry!
@@ -31,7 +31,7 @@ Above all, we hope that the intro project will be a fun, educational and rewardi
 
 Checkpoints Schedule:
 
-* By 2023-9-21 - Quiz Complete
+* By 2023-9-14 - Quiz Complete
 * By 2023-10-5 - Design Project Complete
 
 ### Part 1: General STAR & Rocketry Quiz Questions
