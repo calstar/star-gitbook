@@ -58,7 +58,7 @@ Checkpoints Schedule:
 
 ### Quiz Submission
 
-Please fill out your quiz on the Google Form here: [https://forms.gle/dgfJjoa6jdXKbwXN8](https://forms.gle/dgfJjoa6jdXKbwXN8) (**Due 9/21**)
+Please fill out your quiz on the Google Form here: [https://forms.gle/dgfJjoa6jdXKbwXN8](https://forms.gle/dgfJjoa6jdXKbwXN8) (**Due 9/14**)
 
 ### Part 2: Design
 
