@@ -118,7 +118,9 @@ If you have never used CAD software before, don’t worry! We will hold a CAD wo
 Feel free to reach out to your mentors if you need help with any of the below steps!
 {% endhint %}
 
-### Step 1: Installing SolidWorks
+### Step 1: Installing SolidWorks - HOLD OFF ON THIS FOR NOW
+
+There are new licenses and codes that you have to use and the process of handing those out has not started yet for new members. There will either be a Discord announcement or presentation at GM that will explain what new members should do within the next week or so.
 
 The first challenge of this stage is installing SolidWorks. The GitBook has a very helpful “SolidWorks Installation” page to help you with this.
 
