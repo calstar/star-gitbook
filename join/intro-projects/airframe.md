@@ -41,6 +41,8 @@ OpenRocket is a critical tool STAR airframe members use to design the rocket fro
 
 Use this [link](https://openrocket.info/) to go to the download site for OpenRocket.
 
+[https://openrocket.info/](https://openrocket.info/)
+
 There have been some issues with downloading for Mac users. If you run into trouble, let your mentor know. There are some people on the team that know the workarounds for this.
 
 Once you have it installed, go ahead and open some of the preset rockets. A sample rocket is also provided to look at. Mess around with it to observe how changing different variables changes the performance of the rocket.&#x20;
@@ -56,6 +58,8 @@ If you're feeling a bit lost or scratching your head at what all the buttons do,
 Now that you have OpenRocket downloaded,  it is time to learn how to use the software.
 
 This [playlist](https://youtube.com/playlist?list=PLulIhjxR7aZQ4coWt7MRHb4xt9wz0Fz6h\&si=nksFGq7o\_BnIMT5s) is a good resource to get situated with the process of using OpenRocket. Some of the videos are redundant, however, they each have their own highlights.&#x20;
+
+[https://www.youtube.com/playlist?list=PLulIhjxR7aZQ4coWt7MRHb4xt9wz0Fz6h](https://www.youtube.com/playlist?list=PLulIhjxR7aZQ4coWt7MRHb4xt9wz0Fz6h)
 
 An excellent way to learn from these videos is to follow along and do everything on your own computer
 
