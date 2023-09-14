@@ -12,7 +12,7 @@ Your project should be completed with your intro project group.
 
 ### Returning Members
 
-Returning members have no special requirements for Fall 2022.
+Returning members have no special requirements for Fall 2023.
 
 ### Contact
 
