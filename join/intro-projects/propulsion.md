@@ -16,16 +16,16 @@ Returning members have no special requirements for Fall 2022.
 
 ### Contact
 
-If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Liam) or the propulsion deputy (Rachel). Discord is preferred, but if you are having difficulty getting started with Discord, email is fine.
+If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Eduardo) or the propulsion deputy (Sophya). Discord is preferred, but if you are having difficulty getting started with Discord, email is fine.
 
-* Liam
-  * Discord: Liam M.#4183
-  * email: liam.mchugh@berkeley.edu
-* Rachel
-  * Discord: rachel w.#5286
-  * email: reweber@berkeley.edu
+* Eduardo
+  * Discord: eduardawg
+  * email: eduardogodinez@berkeley.edu
+* Sophya
+  * Discord: OP2#8228
+  * email: sophyamirza@berkeley.edu
 * For access to the STAR general discord, please message us!&#x20;
-  * If you have access, find us in the #propulsion #ellie #LE2 tags!&#x20;
+  * If you have access, find us in the #propulsion #alula channels!&#x20;
 
 {% hint style="warning" %}
 This project is intended to challenge you a little bit! You are not expected to know everything you need for this project going in, and it will almost certainly be necessary for you to ask questions and interact with the team lead, propulsion members, and of course your mentor. This is by design, and is intended to get you familiar with our workflow and asking for help when needed. If you feel intimidated by the intro project, please please please reach out to others! Everybody wants you to succeed!
@@ -33,19 +33,19 @@ This project is intended to challenge you a little bit! You are not expected to 
 
 ## Week 1: Introduction to Propulsion
 
-Our first meeting with be at the STAR general meeting on Tursday, where we will give new memebrs a run down of what you can expect with prop as well as a runthorugh of our current projects! Recruits can also come to our propulsion meetings on Monday night.&#x20;
+Our first meeting with be at the STAR general meeting on Thursday, where we will give new memebrs a run down of what you can expect with prop as well as a run-thorugh of our current projects! Recruits can also come to our propulsion meetings on Monday night.&#x20;
 
 If you are not able to make it in person, please feel free to reach out to us so we can answer any question you may have, as well as set you up with an educational group mentor!&#x20;
 
 The way the propulsion intro project will be broken down is listed below:&#x20;
 
-1. Week 1 (now!):&#x20;
-   1. Become familiar with propulsion as a specialty. Education bullets below.
-   2. Select a project mentor and start the educational material.
-2. Week 2: will be where we introduce Solid Rockets, Liquid Rockets, and Feed Systems. You will:
-   1. Go through readings for week 2 in Education Bullets.
-   2. Work through the slides for week 2
-   3. Intro project work should begin. Work with your mentor to complete your project.
+1. Week 1
+   1. Spark Session 1 - Intro to propulsion, solids vs liquids, feed systems&#x20;
+   2. Assigned intro mentor
+2. Week 2
+   1. Spark Session 2 - Propulsion system components (valves, injectors, cooling methods, etc.)
+   2. More in depth readings for each component
+   3. Spark Session 3 - Overview of our propulsion system
 3. Week 3: Propulsion components
    1. Education Bullets: Tanks, Injectors, Valves, Thrust Chambers
    2. Complete the slides for week 3. Integrate slides into broader intro project presentation.
