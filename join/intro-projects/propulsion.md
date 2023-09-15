@@ -84,7 +84,7 @@ Initial Readings:
 
 ## Week 2: Propulsion System Components
 
-Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material(below) on your own time throughout the course of this week. If you have any questions, please feel free to attend [Office Hours](https://docs.google.com/spreadsheets/d/1RtN5emHDT4Ztby0sD5t8LjnltecEHg-VsS011yhLepI/edit?usp=sharing) with returning members, or to reach out on discord.&#x20;
+Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material(below) on your own time throughout the course of this week. If you have any questions, please feel free to attend [Office Hours](https://docs.google.com/spreadsheets/d/1IOHlbrda1dQdbJ0YMJkV406WAElRFkJrV6\_-7OKDM1g/edit#gid=99173985) with returning members, or to reach out on discord.&#x20;
 
 There will be an **in person workshop on the ALULA feed system** during Prop Meeting on Thursday, Sept 21st! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
 
