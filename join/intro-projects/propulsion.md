@@ -12,7 +12,7 @@ Your project should be completed with your intro project group.
 
 ### Returning Members
 
-Returning members have no special requirements for Fall 2023.
+All returning members are expected to act as mentors for Fall 2023.
 
 ### Contact
 
@@ -33,24 +33,26 @@ This project is intended to challenge you a little bit! You are not expected to 
 
 ## Week 1: Introduction to Propulsion
 
-Our first meeting with be at the STAR general meeting on Thursday, where we will give new memebrs a run down of what you can expect with prop as well as a run-thorugh of our current projects! Recruits can also come to our propulsion meetings on Monday night.&#x20;
+Our first meeting with be at the STAR general meeting on Thursday, where we will give new members a run down of what you can expect with prop as well as a run-through of our current projects! Recruits can also come to our propulsion meetings on Monday night.&#x20;
 
 If you are not able to make it in person, please feel free to reach out to us so we can answer any question you may have, as well as set you up with an educational group mentor!&#x20;
 
 The way the propulsion intro project will be broken down is listed below:&#x20;
 
-1. Week 1
+1. Week 1: Propulsion Intro (9/11 - 9/15)
    1. Spark Session 1 - Intro to propulsion, solids vs liquids, feed systems&#x20;
    2. Assigned intro mentor
-2. Week 2
+2. Week 2: Propulsion System Components + Prop System Overview (9/18 - 9/22)
    1. Spark Session 2 - Propulsion system components (valves, injectors, cooling methods, etc.)
    2. More in depth readings for each component
    3. Spark Session 3 - Overview of our propulsion system
-3. Week 3: Propulsion components
-   1. Education Bullets: Tanks, Injectors, Valves, Thrust Chambers
-   2. Complete the slides for week 3. Integrate slides into broader intro project presentation.
+   4. Select technical project by the end of Thursday meeting
+   5. Sunday trip to the Richmond Field Station (RFS)
+3. Week 3: Technical Projects Begin
+   1. Focus on&#x20;
+   2. Hold additional spark sessions based on your interest/feedback.
    3. Attend propulsion meeting and RFS workday. \*Mandatory at least one RFS trip in w3/w4\*
-4. Week 4:
+4. Week 4: Technical Projects + Hotfire
    1. Basic Avionics (Intrumentation and Control)
    2. Work with mentor and team to finish intro project.
    3. Attend propulsion meeting and RFS trip
@@ -71,18 +73,15 @@ Initial Readings:
   * pg 12, section 1.5.1.2: [Fundamentals of Rocket Propulsion](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/DESIGN%20SISTEM%20DAYA%20GERAK/Fundamentals%20of%20Rocket%20Propulsion.pdf)
 * Videos:
   * [Video: Liquid Propellant Rocket Engine](https://www.youtube.com/watch?v=9Y3fG-YrIII)
-  *
 * BONUS:
   * &#x20;[Liquid Propellant Feed Systems](https://aerospacenotes.com/liquid-propellant-feed-systems/)
   * Scott Manley: [Rocket Fuels at Home](https://youtu.be/1Na3reZIYsw)
 
 
 
+&#x20;
 
-
-Please fill out our form [here](https://forms.gle/agxxTCMhbVcqkshz5) so we can get your paired up with a mentor!&#x20;
-
-## Week 2: Solid Rockets, Liquid Rockets, and Feed Systems&#x20;
+## Week 2: Propulsion System Components
 
 Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material(below) on your own time throughout the course of this week. If you have any questions, please feel free to attend [Office Hours](https://docs.google.com/spreadsheets/d/1RtN5emHDT4Ztby0sD5t8LjnltecEHg-VsS011yhLepI/edit?usp=sharing) with returning members, or to reach out on discord.&#x20;
 
@@ -117,7 +116,7 @@ There will be an **in person workshop on the LE2 feed system** during Prop Meeti
 * Bonus Material:
   * [Rocket Propellants Detailed Survey](http://www.braeunig.us/space/propel.htm#solid)
 
-## Week 3: Valves, Injectors, and Thrust Chambers
+## Week 3: Propulsion System Components
 
 This week you will be expected to have completed the slides from week 2. You will also be assigned [new slides](https://docs.google.com/presentation/d/17iDc72jS9Sk0dWxmoAECnFFMK0PvQAFRmZPwsrFZzwk/edit?usp=sharing) for this week, due next week. The slides for this week serve mostly as discussion topics - try to come to your intro meetings with questions prepared!
 
