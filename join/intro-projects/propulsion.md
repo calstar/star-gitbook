@@ -202,24 +202,18 @@ Don't feel overwhelmed - You'll learn how to break down your goal into small, ma
 
 
 
-INTRO PROJECTS (More details coming soon!)
+INTRO PROJECTS (More details + more projects coming soon!)
 
 * Modular Test Stand for Feed System
-  * Goal: Ignite a liquid rocket with a reliable system. Understand startup transience in liquid propulsion systems.
-  * Research / Resources:&#x20;
-    * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
-  * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
+  * Goal: Design and construct test stand for feed system testing
 * Cryogenic Insulation
   * Goal: Improve current method for insulating flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
-  * Research / Resources:
-    * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
-    * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)
-
-
-
-
-
-
+* Ball Valve - Rotary Actuator Coupling Assembly
+  * Goal: Design system which effectively connects and constrains our main lox valve and actuator. Should allow easy access to surrounding fittings while minimizing weight
+* Pyro Valve Simulation
+  * Goal: Create simulation for fluid flow through ethanol main valve as well as perform FEA for pyro valve under pressure
+* Feed System Tank Mounting
+  * Goal: Improve system for mounting tanks onto feed system stand. Ideally easy to disassemble for prop system movement between flight and ground system while remaining sturdy.
 
 Additional Links:
 
@@ -239,10 +233,17 @@ Tanks
 * [Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
 * [https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials](https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials)
 * [https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing](https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing)&#x20;
+* [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
+* [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)
 
 QDs (Quick Disconnects)
 
 * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)
+
+Ignition
+
+* [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
+* [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
 
 Sims
 
