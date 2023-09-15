@@ -48,20 +48,21 @@ The way the propulsion intro project will be broken down is listed below:&#x20;
    3. Spark Session 3 - Overview of our propulsion system
    4. Select technical project by the end of Thursday meeting
    5. Sunday trip to the Richmond Field Station (RFS)
-3. Week 3: Technical Projects Begin
-   1. Focus on&#x20;
-   2. Hold additional spark sessions based on your interest/feedback.
-   3. Attend propulsion meeting and RFS workday. \*Mandatory at least one RFS trip in w3/w4\*
-4. Week 4: Technical Projects + Hotfire
-   1. Basic Avionics (Intrumentation and Control)
-   2. Work with mentor and team to finish intro project.
-   3. Attend propulsion meeting and RFS trip
-   4. Come to workshops for propulsion as well as other specialties
-5. Intro Project Presentations: End of Week 4
+3. Week 3: Technical Projects Begin (9/25 - 9/29)
+   1. Focus on work for intro project, meeting with technical mentor for support
+   2. Additional spark sessions based on your interest/feedback.
+   3. Attend propulsion meeting and RFS workday. \*Mandatory at least one RFS trip in w2-w5\*
+4. Week 4: Technical Projects + Hotfire (10/2 - 10/6)
+   1. Work with mentor and team to finish intro project (Most mentors will be extra busy working towards hotfire but will still attempt to hold meetings)
+   2. Attend propulsion meeting and RFS trip
+   3. Come to propulsion spark sessions as well as other specialty workshops
+5. Intro Project Presentations: End of Week 5
    1. Deliverables Listed in Intro Project&#x20;
+   2. Hotfire review
+   3. Write some slides to present final product or design for CDR style meeting
 
 \
-You can view our week 1 slides [here](https://docs.google.com/presentation/d/1ELVzyB-4RBtOOTk8soJIerAGa7zAK6LjjPjcKwEF6Lg/edit#slide=id.g147dd557f88\_0\_5). This week will focus on establishing a point of contact between you and your group, as well as establishing a meeting time. You are welcome to get started on the readings for week 2 and 3.&#x20;
+You can view our week 1 slides here. This week will focus on establishing a point of contact between you and your group, as well as establishing a meeting time. You are welcome to get started on the readings for week 2 and 3.&#x20;
 
 
 
@@ -116,7 +117,7 @@ There will be an **in person workshop on the LE2 feed system** during Prop Meeti
 * Bonus Material:
   * [Rocket Propellants Detailed Survey](http://www.braeunig.us/space/propel.htm#solid)
 
-## Week 3: Propulsion System Components
+## Week 2: Propulsion System Components
 
 This week you will be expected to have completed the slides from week 2. You will also be assigned [new slides](https://docs.google.com/presentation/d/17iDc72jS9Sk0dWxmoAECnFFMK0PvQAFRmZPwsrFZzwk/edit?usp=sharing) for this week, due next week. The slides for this week serve mostly as discussion topics - try to come to your intro meetings with questions prepared!
 
@@ -125,9 +126,6 @@ The information covered in this week's material is a very general overview on so
 ### &#x20;Workshops:
 
 * LE2 Feed Systems Workshop
-*
-
-
 
 ### Educational Material
 
@@ -152,7 +150,6 @@ The information covered in this week's material is a very general overview on so
     * Read intro to chapter 8 on page 271&#x20;
     * Read section 8.2 on page 285 up to “Film Cooling” on page 2
   * [STAR Gitbook RPA instructions](https://rocketry.gitbook.io/docs/tutorials/propulsion/rocket-propulsion-analysis-tutorial)
-    * We will also have a workshop on this&#x20;
 * Bonus Material:
   * Everyday Astronaut: [Rocket Engine Cooling](https://youtu.be/he\_BL6Q5u1Y)
   * Famous/Exciting Rocket Stuff!!
@@ -163,7 +160,7 @@ The information covered in this week's material is a very general overview on so
   * [Workshop Recordings](https://drive.google.com/drive/u/0/folders/1kCIn9Z-NuIFim6WLNRcDuI9-HEB9zsh7), [Feed System Presentations](https://drive.google.com/drive/u/0/folders/1kCIn9Z-NuIFim6WLNRcDuI9-HEB9zsh7)
   * [STAR Gitbook Resources](https://rocketry.gitbook.io/public/tutorials/propulsion)
 
-## Week 4: Instrumentation and Control, Technical Project&#x20;
+## Instrumentation and Control, Technical Project&#x20;
 
 ### Education:
 
@@ -193,7 +190,7 @@ You will select / be assigned a **technical mentor**(but can attend anyone's OH 
 
 **Weekly office hours and meetings will be provided** by your new mentor!. Also, never be afraid to reach out for help - ask anyone you feel comfortable with. It is better to ask for clarification on something that might seem obvious than to spend hours confused.&#x20;
 
-After week 4, **new members will host a design review** for their education and technical project and then move forward integrated LE2 member work.&#x20;
+After week 4, **new members will host a design review** for their education and technical project and then move forward integrated ALULA/LE3 member work.&#x20;
 
 We will also be hosting several workshops during weeks 3-5! To complete your intro project and develop knowledge in propulsion specialties, please attend at least one workshop(really as many as you can) over these weeks.&#x20;
 
