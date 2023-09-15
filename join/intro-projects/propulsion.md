@@ -198,19 +198,19 @@ New members will completely own a small project on Propulsion, working to integr
 
 We will cover each project idea in detail after the second week of introductory material.
 
-Don't feel overwhelmend - You'll learn how to break down your goal into small, manageable portions that will integrate smoothly into a full project.
+Don't feel overwhelmed - You'll learn how to break down your goal into small, manageable portions that will integrate smoothly into a full project.
 
 
 
 
 
-* Flight Vehicle Igniter - Jeremy, Tyler
+* Modular Test Stand for Feed System
   * Goal: Ignite a liquid rocket with a reliable system. Understand startup transience in liquid propulsion systems.
   * Research / Resources:&#x20;
     * [https://www.liquisearch.com/liquid-propellant\_rocket/ignition](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)[ ](https://www.liquisearch.com/liquid-propellant\_rocket/ignition)
     * [How the F1 Engine Starts](https://youtu.be/2cldgl9IIyY)
-* Cryogenic Insulation - Aarchan
-  * Goal: Create a reliable method for insulating flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
+* Cryogenic Insulation
+  * Goal: Improve current method for insulating flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
   * Research / Resources:
     * [Cryogenic Insulation Basics](https://polyguardproducts.com/2021/12/what-is-cryogenic-insulation/)
     * [https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/](https://dura-foam.com/resources/foam-roofing/nasa-shuttle-fuel-tank/)
@@ -219,22 +219,14 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Research / Resources:
     * [https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials](https://www.hi-tempfab.com/news/evaluating-structural-insulation-materials)
     * [https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing](https://drive.google.com/drive/folders/1\_mXhe1RK5ao4N8UiF0Dvd5v7Afx3xgfC?usp=sharing)&#x20;
-*
 * Rocket engine cooling system: Ablatives - Jeremy, Liam
   * Goal: Experiment with combustion chamber cooling methods on ELLIE testbed. Develop an understanding of cooling analysis and design.&#x20;
   * Research / Resources:
     * [Combustion Chamber Resource](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)s
-* Combustion Chamber: Graphite Nozzle Insert
-  * Goal: Design and source a graphite insert for our phenolic nozzle throat. Develop an understanding of heat flux / material analysis
-  * Research / Resources:
-    * [Combustion Chamber Resources](https://drive.google.com/drive/folders/1kkrnJm72aCkNJDlvlvJBez-JXPKkwrA2?usp=sharing)
-    * [Rocket Propulsion Analysis](https://rocketry.gitbook.io/docs/tutorials/propulsion/rocket-propulsion-analysis-tutorial): Chamber Contour Spec Design
-    * [Commercial Nozzle](https://www.rocketmotorparts.com/98mm\_Nozzle\_1000\_\_Throat/p1577809\_14654165.aspx) we'll post-machine to match our design specs
 * Propellant Storage; Design and Testing - Aarchan, Tyler
   * Goal: Design a lightweight propellant tank using rocket airframe
   * Complications: Structure, Chemical Reactivity, Sealing, Wire Routing
   * Research/Resources:
-    * [ Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
     * Create Airframe-Integrated Tank
     * Plan Pressure, Cycle, and Temperature Test
 * Valve Design and Testing: - Justin, Pranit
@@ -243,11 +235,7 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Research Links
     * Pyro Valves: Main Actuators for LE2!
     * Flow-Control Valves: Precisely Control Flow Rates/Pressure Drops with physical actuation
-    * [Needle Valve](https://youtu.be/CzBB1CEAAS4)
-    * [Bang-Bang Valve](https://youtu.be/eX7fBt0pJwk)
     * Servo-Actuated [Ball Valves](https://theengineeringmindset.com/the-basics-of-ball-valves-explained/): ELLIE Main Valves!
-    * [https://en.wikipedia.org/wiki/Pyrotechnic\_valves](https://en.wikipedia.org/wiki/Pyrotechnic\_valves)&#x20;
-    * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
     * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
 * Remote Hose Disconnect System- Scout, Rachel
   * Goal: Remotely yank pressurization lines off rocket before launch. Develop understanding of actuated system design and control logic.
@@ -257,11 +245,18 @@ Don't feel overwhelmend - You'll learn how to break down your goal into small, m
   * Resources:
     * [Quick Disconnect Coupling Mechanism](https://youtu.be/-DRf\_8OWHjM)&#x20;
     * [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c): Propulsion Ground System Equipment: Pressurization and Pneumatic Actuation
-    * [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
 * Propulsion System Simulation- Liam, Dylan
   * Goal: Model a simplified liquid rocket in Simulink. Optimize a thrust curve for exactly 10,000 ft apogee target. Develop understanding of modeling and control.
   * Resources:
     * [Simulink Modeling - Feed Systems](https://drive.google.com/file/d/13sZ0Y6N4bCdf\_QgLgTDrhz9q7u7sj6Qm/view?usp=sharing)
     * [Intro to Optimization](https://docs.google.com/presentation/d/1WN75i01ckPoMVYoqD23YH-e8cbf3BI9Y8Y-eZ1Xmk2k/edit?usp=sharing)
-*
+
+Additional Links:
+
+* [Bang-Bang Valve](https://youtu.be/eX7fBt0pJwk)
+* [Needle Valve](https://youtu.be/CzBB1CEAAS4)
+* [Solenoid Valves](https://youtu.be/-MLGr1\_Fw0c)
+* [https://en.wikipedia.org/wiki/Pyrotechnic\_valves](https://en.wikipedia.org/wiki/Pyrotechnic\_valves)&#x20;
+* [Pneumatic Actuator](https://youtu.be/hmz1h5fk2bI): Pressure-operated actuation, most commonly linear piston.
+* [ Airframe Tank Design Considerations](https://www.halfcatrocketry.com/pv-design)
 
