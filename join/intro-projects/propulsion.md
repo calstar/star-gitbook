@@ -86,11 +86,7 @@ Initial Readings:
 
 Now that you have met the team and been assigned a mentor, it's time to get learning! You will be expected to go through the assigned material(below) on your own time throughout the course of this week. If you have any questions, please feel free to attend [Office Hours](https://docs.google.com/spreadsheets/d/1RtN5emHDT4Ztby0sD5t8LjnltecEHg-VsS011yhLepI/edit?usp=sharing) with returning members, or to reach out on discord.&#x20;
 
-You will discuss what you learn and fill out a copy of week 2 slides([template here](https://docs.google.com/presentation/d/1EgcO5VNzixLT9-WuIbFNSjDEiqlWCZGGrWfWe6zRw2Y/edit?usp=sharing)) with your education group. Feel free to begin adding notes before your meeting(esp make use of presentation notes below each slide)... Don’t worry about correctness - your mentor will go over the correct answers with you at your scheduled meetings, and promote discussion of some of the difficult concepts.
-
-There will be an **in person workshop on the LE2 feed system** during Prop Meeting on Monday, Sept 19th! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
-
-
+There will be an **in person workshop on the ALULA feed system** during Prop Meeting on Thursday, Sept 15th! We encourage you to attend, but if that is not possible, it will be recorded.&#x20;
 
 ### Educational Material:
 
@@ -119,13 +115,11 @@ There will be an **in person workshop on the LE2 feed system** during Prop Meeti
 
 ## Week 2: Propulsion System Components
 
-This week you will be expected to have completed the slides from week 2. You will also be assigned [new slides](https://docs.google.com/presentation/d/17iDc72jS9Sk0dWxmoAECnFFMK0PvQAFRmZPwsrFZzwk/edit?usp=sharing) for this week, due next week. The slides for this week serve mostly as discussion topics - try to come to your intro meetings with questions prepared!
-
 The information covered in this week's material is a very general overview on some advanced topics in propulsion. If you don't understand something or want to learn more, our **main resources folder** is located [here](https://drive.google.com/drive/folders/1bWF0c6GEQ5IlOdPJ3HJM\_Z-Yki8hGcOm?usp=sharing) in Propulsion(feel free to add resources you find online!)
 
 ### &#x20;Workshops:
 
-* LE2 Feed Systems Workshop
+* ALULA Feed Systems Workshop
 
 ### Educational Material
 
@@ -198,11 +192,11 @@ We will also be hosting several workshops during weeks 3-5! To complete your int
 
 **Technical Project Options / Further Research Launching Points:**&#x20;
 
-New members will completely own a small project on Propulsion, working to integrate your research/design/testing into the full-scale ELLIE and LE2/Flight propulsion projects.
+New members will completely own a small project on Propulsion, working to integrate your research/design/testing into the full-scale ALULA and LE3/Flight propulsion projects.
 
 (referenced are specific technical mentors that will provide direct project guidance)
 
-We will cover each project idea in detial after the third week of introductory material.
+We will cover each project idea in detail after the second week of introductory material.
 
 Don't feel overwhelmend - You'll learn how to break down your goal into small, manageable portions that will integrate smoothly into a full project.
 
