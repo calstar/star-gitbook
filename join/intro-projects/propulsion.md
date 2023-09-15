@@ -202,7 +202,7 @@ Don't feel overwhelmed - You'll learn how to break down your goal into small, ma
 
 
 
-INTRO PROJECTS (More details + more projects coming soon!)
+INTRO PROJECTS (More details coming soon!)
 
 * Modular Test Stand for Feed System
   * Goal: Design and construct test stand for feed system testing
