@@ -36,7 +36,7 @@ STAR is migrating to the SolidWorks 2023 Student Edition.
   * The serial number is listed in the discord server under #info
 
 {% hint style="warning" %}
-Contact the operations lead for the serial number.
+Check the #info channel in the club discord for the serial number.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/solidworks_installation_23.png" alt=""><figcaption></figcaption></figure>

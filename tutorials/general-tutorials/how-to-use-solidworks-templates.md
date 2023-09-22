@@ -11,12 +11,12 @@ You only have to do this once! Follow these instructions carefully and everythin
 {% hint style="warning" %}
 Before moving forward, make sure you have GrabCAD set up in SolidWorks:&#x20;
 
-[Getting Started With GrabCAD Workbench](../software/deprecated-software/getting-started-with-grabcad.md)
+[Getting Started With GrabCAD Workbench](../software/getting-started-with-grabcad.md)
 {% endhint %}
 
 1. Open up SolidWorks
 2. Make sure that your local GrabCAD folders are up to date
-   1. If you don't know how to do this, check out: [Using GrabCAD Workbench in SolidWorks](../software/deprecated-software/using-grabcad-workbench-in-solidworks.md)
+   1. If you don't know how to do this, check out: [Using GrabCAD Workbench in SolidWorks](../software/using-grabcad-workbench-in-solidworks.md)
 3. Navigate to _Tools>Options_
 
 ![](../../.gitbook/assets/toolsoptions.PNG)

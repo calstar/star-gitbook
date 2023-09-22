@@ -26,7 +26,7 @@ In the company details section, choose job level as "Student" first before filli
 
 Proceed through the signup process.
 
-![Completed signup page](../../../.gitbook/assets/grabcad-account-creation.PNG)
+![Completed signup page](../../.gitbook/assets/grabcad-account-creation.PNG)
 
 Be sure to go to your email to confirm the account.
 
@@ -64,6 +64,6 @@ You may want to unsubscribe from Workbench emails here (there are a lot!): [http
 [using-grabcad-workbench-in-solidworks.md](using-grabcad-workbench-in-solidworks.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../general-tutorials/how-to-use-solidworks-templates.md" %}
-[how-to-use-solidworks-templates.md](../../general-tutorials/how-to-use-solidworks-templates.md)
+{% content-ref url="../general-tutorials/how-to-use-solidworks-templates.md" %}
+[how-to-use-solidworks-templates.md](../general-tutorials/how-to-use-solidworks-templates.md)
 {% endcontent-ref %}
