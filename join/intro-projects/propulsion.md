@@ -204,15 +204,15 @@ Don't feel overwhelmed - You'll learn how to break down your goal into small, ma
 
 INTRO PROJECTS (More details coming soon!)
 
-* Modular Test Stand for Feed System - Sophya
+* Modular Test Stand for Feed System - Eduardo, Sophya
   * Goal: Design and construct test stand for feed system testing
-* Cryogenic Insulation - Ricardo
+* Cryogenic Insulation - Ricardo, Liam
   * Goal: Improve current method for insulating flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
 * Ball Valve - Rotary Actuator Coupling Assembly - Andrew
   * Goal: Design system which effectively connects and constrains our main lox valve and actuator. Should allow easy access to surrounding fittings while minimizing weight
 * Pyro Valve Simulation - Sara
   * Goal: Create simulation for fluid flow through ethanol main valve as well as perform FEA for pyro valve under pressure
-* Feed System Tank Mounting - Brian
+* Feed System Tank Mounting - Brian, Austin
   * Goal: Improve system for mounting tanks onto feed system stand. Ideally easy to disassemble for prop system movement between flight and ground system while remaining sturdy.
 
 Additional Links:
