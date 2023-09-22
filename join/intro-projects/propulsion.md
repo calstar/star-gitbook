@@ -217,7 +217,7 @@ INTRO PROJECTS (More details coming soon!)
 * Ablative Thermal Conductivity Approximation - Eduardo, Liam
   * Goal: Approximate a thermal conductivity for our ablative sleeve based on data from hotfire on October 7th. Will be used to improve simulations
 * Needle Valve Calibration - Liam
-  * Goal:&#x20;
+  * Goal: Calibrate needle valve for eventual integration with motor. Work towards flow control.
 
 Additional Links:
 
