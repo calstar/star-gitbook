@@ -73,7 +73,7 @@ Now that you have a basic understanding on how to use OpenRocket, it is time to 
 
 This document contains details for each component. If you follow all of it, your resulting rocket should have similar characteristics&#x20;
 
-{% file src="../../.gitbook/assets/Airfame Project Components.pdf" %}
+{% file src="../../.gitbook/assets/Airfame Project Components (1).pdf" %}
 
 (Its okay if they are not exact, sometimes OpenRocket values can be slightly different from simulation to simulation)&#x20;
 
@@ -85,7 +85,17 @@ Once you are finished, show your mentor your rocket and the simulation.  You wil
 
 ### Part 3: Technical Project&#x20;
 
-Coming soon
+Now that with a fundamental understanding of the rocket, it is time to move on to meaningful tasks that help us build our rocket. For the 3rd part of the intro project, you will stard getting hands on with designing and manufacturing.
+
+**Download Solidworks:**
+
+
+
+**The Projects:**
+
+You should have been assigned a specific project. Look at this document to for more information for your specific project:
+
+[https://docs.google.com/document/d/1tFv5k92e25U\_jdvIXnPqtUpclqbPpx5Qt29PmQItk-0/edit?usp=sharing](https://docs.google.com/document/d/1tFv5k92e25U\_jdvIXnPqtUpclqbPpx5Qt29PmQItk-0/edit?usp=sharing)
 
 ### Part 4: Technical Project Manufacturing
 
