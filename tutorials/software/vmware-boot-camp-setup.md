@@ -9,10 +9,14 @@ Do this BEFORE any part of the solidworks tutorial if you do not have a windows 
 {% endhint %}
 
 {% hint style="warning" %}
+This will only work for Intel-based Macs, not for M1 and M2 Macs. For those, you will have to download Parallels. [This video](https://www.youtube.com/watch?v=HxFEnc5SNQE) will help show the process.
+{% endhint %}
+
+{% hint style="warning" %}
 If you've already downloaded SolidWorks onto your mac, just delete it until after you have completed this tutorial.
 {% endhint %}
 
-VMware is a software that is free for Berkeley students that allows you to run windows on a non-windows computer which will allow you to install and run SolidWorks. Bootcamp is a program native \(already downloaded\) on macs that also allows you to run windows on a mac. Both options have some pros and cons which will briefly be detailed below. If you already know what you want to use, skip to the directions. If you have any questions/problems with the directions feel free to contact Ananya Subramani on the STAR Discord.
+VMware is a software that is free for Berkeley students that allows you to run windows on a non-windows computer which will allow you to install and run SolidWorks. Bootcamp is a program native (already downloaded) on macs that also allows you to run windows on a mac. Both options have some pros and cons which will briefly be detailed below. If you already know what you want to use, skip to the directions. If you have any questions/problems with the directions feel free to contact Ananya Subramani on the STAR Discord.
 
 ## VMware and Boot Camp Similarities
 
@@ -21,7 +25,7 @@ VMware is a software that is free for Berkeley students that allows you to run w
 
 ## VMware and Boot Camp Differences
 
-* VMware is easier to start up \(like starting up a browser or generally opening up an app\)
+* VMware is easier to start up (like starting up a browser or generally opening up an app)
 * Boot Camp requires you to restart your computer whenever you want to run in a windows environment
 * Boot Camp requires you to permanently partition your hard drive which cannot easily be changed after it is done.
   * Partitioning your hard drive here means that some amount of your drive will only be accesible to the windows boot and the rest will be accesible normally
@@ -42,7 +46,7 @@ You will need the following things, or the download will probably fail at some p
   * exception: 2012 Mac Pro “Quad Core” using the Intel® Xeon® W3565 Processor
 * OS X 10.11 El Capitan minimum required
   * You can check this using the "About your Mac" tab in the top left corner apple drop down menu
-* &gt;50 GB free storage
+* \>50 GB free storage
 
 #### Step 2- Get a Windows License
 
@@ -54,7 +58,7 @@ Click on Windows 10 and add it to your cart. If you want to use VMware, go to st
 
 #### Step 2.5- Get VMware
 
-From the same place you should be in step 2, go to the VMware tab and download VMware Fusion 11.x \(for Intel-based Macs\). You should get to this screen:
+From the same place you should be in step 2, go to the VMware tab and download VMware Fusion 11.x (for Intel-based Macs). You should get to this screen:
 
 ![](../../.gitbook/assets/screen-shot-2021-03-22-at-4.06.09-pm.png)
 
@@ -68,7 +72,7 @@ In the details of your purchase that you made in step 2, there should be a windo
 
 My screenshot doesn't have a Windows license number because it's been more than one month since I "bought" it but yours should.
 
-Once you have access to that license, navigate to this site: [https://www.microsoft.com/en-us/software-download/vlacademicwindows10iso](https://www.microsoft.com/en-us/software-download/vlacademicwindows10iso) 
+Once you have access to that license, navigate to this site: [https://www.microsoft.com/en-us/software-download/vlacademicwindows10iso](https://www.microsoft.com/en-us/software-download/vlacademicwindows10iso)&#x20;
 
 Select the proper language, and download the 64-bit version
 
@@ -80,7 +84,7 @@ Download VMware fusion from the cart and open and install the application. When 
 
 ![](../../.gitbook/assets/screen-shot-2021-03-22-at-4.23.29-pm.png)
 
-Once you see this screen, drag the windows 10 iso file into the place where it says install from disc/image \(the default name for the downloaded file is shown below\)
+Once you see this screen, drag the windows 10 iso file into the place where it says install from disc/image (the default name for the downloaded file is shown below)
 
 
 
@@ -99,4 +103,3 @@ From here, hit continue and you should be able to choose your partition size, wi
 Once you've completed the installation process, you can boot into your windows partition by restarting your mac while pressing the "option" key.
 
 Once you are in your Windows partition, you can go back to the SolidWorks installation guide and download SolidWorks.
-

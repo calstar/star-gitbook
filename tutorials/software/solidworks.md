@@ -13,7 +13,7 @@ SolidWorks is only available for Windows 7, 8, and 10.&#x20;
 
 * If you have a UNIX-based operating system on an Intel/AMD chip, consider dual-booting Windows (see [Boot Camp](https://support.apple.com/en-us/HT201468) for macOS) or running a virtual machine (the campus provides VMware and a Windows license for free).
   * You can also use Parallels for macOS or VirtualBox for Linux. Refer to the VMware/Boot Camp setup page for more detailed instructions.
-* If you have a [Mac with an M1 Silicon processor](https://support.apple.com/en-us/HT211814), you must use Parallels for macOS as Boot Camp is unsupported on these Macs.
+* If you have a [Mac with an M1 or M2 Silicon processor](https://support.apple.com/en-us/HT211814), you must use Parallels for macOS as Boot Camp is unsupported on these Macs.
   * You can also attempt to use other means to access a Windows installation like Chrome Remote Desktop.
 {% endhint %}
 
@@ -33,6 +33,7 @@ STAR is migrating to the SolidWorks 2023 Student Edition.
 * Under product information
   * Select Yes (I already have a serial number)
   * Choose **2022-2023** version
+  * The serial number is listed in the discord server under #info
 
 {% hint style="warning" %}
 Contact the operations lead for the serial number.
@@ -56,6 +57,12 @@ On the summary page of the installer, you can select which products you wish to 
 
 Instructions on downloading and installing SolidWorks Student Edition 2023 can also be found [**here**](https://files.solidworks.com/education/EDU\_SW\_SEK\_Installation\_Guide\_ENG\_2021.pdf).
 
+If you need more help, [this video](https://www.youtube.com/watch?v=Zy\_xQWdjD\_E) can help walk you through the process!
+
+{% hint style="info" %}
+For those of you with M1 and M2 Macs, [this video](https://www.youtube.com/watch?v=HxFEnc5SNQE) can help you with the process. [This website](https://machow2.com/run-solidworks-mac/) may also help. You will need to download [Parallels](https://www.parallels.com/) to run Solidworks in a Virtual Machine on your Mac.&#x20;
+{% endhint %}
+
 {% hint style="success" %}
-You should now have successfully installed SolidWorks! If you encounter issues, please contact a lead before moving on. Uninstalling, rebooting, and trying again can resolve many issues.
+You should now have successfully installed SolidWorks! If you encounter issues, please contact a lead before moving on. Uninstalling, rebooting, and trying again can resolve many issues. Now that you've downloaded SolidWorks, head on over to [Our SolidWorks Training Tutorials](../general-tutorials/solidworks-training-tutorials.md) and some of our previous [Training Sessions](../general-tutorials/solidworks.md) to learn how to use it! You can also learn more about our file-sharing platform [here](in-progress-solidworks-pdm-setup.md)!
 {% endhint %}

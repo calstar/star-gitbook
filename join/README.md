@@ -45,7 +45,7 @@ To join a subteam (Airframe, Avionics, Operations, Payload, Propulsion, Marketin
   * You should also familiarize yourself with our CADLAB, a way to view schematics and layout for electronics hardware: [https://cadlab.io/star](https://cadlab.io/star)
   * While not required for the intro project, you will likely eventually want to install the [Mbed CLI tools](../tutorials/avionics/mbed-command-line-interface-cli-tools.md). You may need to ask questions during the install process, so don't worry if you can't do it right now.
 * All technical subteam members must join GrabCAD for CAD file sharing. Avionics members can skip the desktop client, but should register/join to view CAD through the web interface.
-  * Instructions here: [Getting Started With GrabCAD Workbench](../tutorials/software/getting-started-with-grabcad.md)
+  * Instructions here: [Getting Started With GrabCAD Workbench](../tutorials/software/deprecated-software/getting-started-with-grabcad.md)
 * Airframe and Systems members should download OpenRocket.
   * Instructions here: [OpenRocket](../tutorials/software/openrocket-installation.md)
 

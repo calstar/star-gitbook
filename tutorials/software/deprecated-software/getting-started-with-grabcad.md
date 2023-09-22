@@ -2,7 +2,7 @@
 description: Straightforward version control for CAD
 ---
 
-# Getting Started With GrabCAD Workbench
+# \[deprecated] Getting Started With GrabCAD Workbench
 
 ## 0. What is GrabCAD Workbench?
 
@@ -26,7 +26,7 @@ In the company details section, choose job level as "Student" first before filli
 
 Proceed through the signup process.
 
-![Completed signup page](../../.gitbook/assets/grabcad-account-creation.PNG)
+![Completed signup page](../../../.gitbook/assets/grabcad-account-creation.PNG)
 
 Be sure to go to your email to confirm the account.
 
@@ -58,12 +58,12 @@ You've now successfully installed the GrabCAD Workbench desktop application!
 
 ## 4. Next steps
 
-You may want to unsubscribe from Workbench emails here (there are a lot!): [https://workbench.grabcad.com/account/workbench_notifications](https://workbench.grabcad.com/account/workbench_notifications)
+You may want to unsubscribe from Workbench emails here (there are a lot!): [https://workbench.grabcad.com/account/workbench\_notifications](https://workbench.grabcad.com/account/workbench\_notifications)
 
 {% content-ref url="using-grabcad-workbench-in-solidworks.md" %}
 [using-grabcad-workbench-in-solidworks.md](using-grabcad-workbench-in-solidworks.md)
 {% endcontent-ref %}
 
-{% content-ref url="../general-tutorials/how-to-use-solidworks-templates.md" %}
-[how-to-use-solidworks-templates.md](../general-tutorials/how-to-use-solidworks-templates.md)
+{% content-ref url="../../general-tutorials/how-to-use-solidworks-templates.md" %}
+[how-to-use-solidworks-templates.md](../../general-tutorials/how-to-use-solidworks-templates.md)
 {% endcontent-ref %}
