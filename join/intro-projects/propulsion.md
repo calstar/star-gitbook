@@ -210,6 +210,8 @@ INTRO PROJECTS (More details coming soon!)
   * Goal: Improve current method for insulating flight components exposed to cryogenic environments. Gain familiarity with extreme-condition mechanical systems.
 * Ball Valve - Rotary Actuator Coupling Assembly - Andrew
   * Goal: Design system which effectively connects and constrains our main lox valve and actuator. Should allow easy access to surrounding fittings while minimizing weight
+* LOX and Ethanol Fill and Vent valve key - Andrew
+  * Goal: Design and machine a slotted tool/key that couples the manual valve shaft and can effectively actuates manual valves through airframe utility ports.  Should minimize port size required and easy to use.
 * Pyro Valve Simulation - Sara
   * Goal: Create simulation for fluid flow through ethanol main valve as well as perform FEA for pyro valve under pressure
 * Feed System Tank Mounting - Brian, Austin
@@ -218,6 +220,7 @@ INTRO PROJECTS (More details coming soon!)
   * Goal: Approximate a thermal conductivity for our ablative sleeve based on data from hotfire on October 7th. Will be used to improve simulations
 * Needle Valve Calibration - Liam
   * Goal: Calibrate needle valve for eventual integration with motor. Work towards flow control.
+*
 
 Additional Links:
 
