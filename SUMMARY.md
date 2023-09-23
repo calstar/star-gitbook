@@ -169,4 +169,5 @@
     * [2017-03-12 FRR Re-Flight, NASA SL 2017](history-of-the-team/launch-history/2017-03-12-frr-re-flight-nasa-sl-2017.md)
     * [2017-03-04 FRR Flight, NASA SL 2017](history-of-the-team/launch-history/2017-03-04-frr-flight-nasa-sl-2017.md)
     * [2016-12-04 CDR Subscale Flight, NASA SL 2017](history-of-the-team/launch-history/2016-12-04-cdr-subscale-flight-nasa-sl-2017.md)
+  * [Fleet](history-of-the-team/fleet.md)
 * [How to use GitBook](how-to-use-gitbook.md)
