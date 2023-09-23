@@ -80,7 +80,7 @@ Our goal is to build a mini glider that fits inside a 4” inner diameter, 12" l
 
 _**Components to Integrate:**_
 
-* Fuselage (Balsa Wood)
+* Fuselage (Balsa Wood 1/8 inch thick)
 * Wing Spars (Balsa Wood)
 * Wings (Choice of Tissue Paper or Mylar)
 * Horizontal Stabilizer (Balsa Wood)
@@ -112,15 +112,17 @@ We will use CAD (Computer-Aided Design) software in order to model our glider. S
 
 If you have never used CAD software before, don’t worry! We will hold a CAD workshop during GM (date TBD)**.** If you are not able to attend, there are also great online resources:
 
-{% embed url="https://www.youtube.com/watch?v=qtgmGkEPXs8" %}
+{% embed url="https://www.youtube.com/watch?ab_channel=SolidWorksWithAryanFallahi&v=qtgmGkEPXs8" %}
+
+{% embed url="https://www.youtube.com/watch?ab_channel=SolidWorksWithAryanFallahi&t=9s&v=E69EqFY2qMc" %}
 
 {% hint style="info" %}
 Feel free to reach out to your mentors if you need help with any of the below steps!
 {% endhint %}
 
-### Step 1: Installing SolidWorks - HOLD OFF ON THIS FOR NOW
+### Step 1: Installing SolidWorks
 
-There are new licenses and codes that you have to use and the process of handing those out has not started yet for new members. There will either be a Discord announcement or presentation at GM that will explain what new members should do within the next week or so.
+You all already did this, so don't download it again, but all of the information for downloading SolidWorks 2023 is in the #info channel on the Discord.
 
 The first challenge of this stage is installing SolidWorks. The GitBook has a very helpful “SolidWorks Installation” page to help you with this.
 
