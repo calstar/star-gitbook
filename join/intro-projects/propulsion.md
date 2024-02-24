@@ -16,14 +16,14 @@ All returning members are expected to act as mentors for Fall 2023.
 
 ### Contact
 
-If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Eduardo) or the propulsion deputy (Sophya). Discord is preferred, but if you are having difficulty getting started with Discord, email is fine.
+If you have any questions about any part of the question at any time, do not hesitate to reach out to the propulsion lead (Eduardo) or the propulsion deputy (Brian). Discord is preferred, but if you are having difficulty getting started with Discord, email is fine.
 
 * Eduardo
   * Discord: eduardawg
   * email: eduardogodinez@berkeley.edu
-* Sophya
-  * Discord: OP2#8228
-  * email: sophyamirza@berkeley.edu
+* Brian
+  * Discord: slavgeeko776
+  * email: brian\_mechgeeko@berkeley.edu
 * For access to the STAR general discord, please message us!&#x20;
   * If you have access, find us in the #propulsion #alula channels!&#x20;
 
