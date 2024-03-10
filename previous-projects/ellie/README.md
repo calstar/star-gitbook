@@ -8,4 +8,24 @@ coverY: 4
 
 STAR's first generation liquid rocket engine
 
-{% embed url="https://app.gitbook.com/o/-LB423_q9GJvIxYX38XS/s/-LB423_rlWTQK_KuQzK5/~/changes/926/previous-projects/ellie/ellie-overview" %}
+
+
+{% content-ref url="ellie-overview.md" %}
+[ellie-overview.md](ellie-overview.md)
+{% endcontent-ref %}
+
+{% content-ref url="timeline.md" %}
+[timeline.md](timeline.md)
+{% endcontent-ref %}
+
+{% content-ref url="physical-system.md" %}
+[physical-system.md](physical-system.md)
+{% endcontent-ref %}
+
+{% content-ref url="electrical-and-software.md" %}
+[electrical-and-software.md](electrical-and-software.md)
+{% endcontent-ref %}
+
+{% content-ref url="ongoing-research.md" %}
+[ongoing-research.md](ongoing-research.md)
+{% endcontent-ref %}
