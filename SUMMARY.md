@@ -12,6 +12,7 @@
     * [Airframe (CalVistor)](projects/calvistor-irec-2023/airframe-calvistor.md)
     * [Airbrakes (CalVistor)](projects/calvistor-irec-2023/airbrakes-calvistor.md)
     * [Payload (CalVistor)](projects/calvistor-irec-2023/payload-calvistor.md)
+  * [Previous Projects](projects/previous-projects.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 * [Tutorials](tutorials/README.md)
   * [Media](tutorials/media/README.md)
