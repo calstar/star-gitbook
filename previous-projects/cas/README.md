@@ -1,5 +1,7 @@
 ---
-description: Common Avionics System bringup and flight validation
+description: >-
+  Common Avionics System bringup and flight validation. This project was
+  cancelled in 2022.
 ---
 
 # CAS

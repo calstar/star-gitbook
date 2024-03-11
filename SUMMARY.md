@@ -36,7 +36,7 @@
     * [Prop Module](previous-projects/cas/prop-module.md)
     * [CAS Core Revised](previous-projects/cas/cas-core-revised.md)
     * [CAS Radio Revised](previous-projects/cas/cas-radio-revised.md)
-  * [DAVE](previous-projects/dave/README.md)
+  * [DAVE](previous-projects/dave.md)
     * [Summary of DAVE](previous-projects/dave/summary-of-dave.md)
     * [FAQ's](previous-projects/dave/faqs.md)
     * [DAVE Blog](previous-projects/dave/dave-blog.md)

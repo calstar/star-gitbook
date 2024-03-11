@@ -1,7 +1,7 @@
 ---
 description: >-
   DAVE: Deployable Aerial Vehicle Experiment or DAVE Aerial Vehicle Experiment.
-  Project initiated Spring 2020.
+  Project initiated Spring 2020. The project was cancelled in August 2023.
 ---
 
 # DAVE
