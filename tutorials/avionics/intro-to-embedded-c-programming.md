@@ -12,14 +12,14 @@ description: >-
 A useful reference linked [**here**](https://docs.microsoft.com/en-us/cpp/c-language/c-language-reference).
 {% endhint %}
 
-**Primitive Data Types:** 
+**Primitive Data Types:**&#x20;
 
 * `int`: integer
 * `float`: floating-point number, used to store decimals.
 * `double`: double-precision floating-point
 * `char`:  ASCII character
 
-In the `<stdint.h>` header, additional types are included for defining integers by size \(in bits\) and sign. A useful one is `uint8_t` \(an unsigned 8-bit integer type\) to represent a byte.
+In the `<stdint.h>` header, additional types are included for defining integers by size (in bits) and sign. A useful one is `uint8_t` (an unsigned 8-bit integer type) to represent a byte.
 
 #### Example:
 
@@ -92,15 +92,15 @@ These don't seem super useful on the surface, but they will be once we start dea
 The microcontroller datasheet is your best friend!
 {% endhint %}
 
-I/O devices in a microcontroller \(such as sensors or actuators\) are mapped to memory addresses - that is, you can get a sensor value by reading from a location in memory, or modify an actuator output by writing to another location. What does this mean for you? Embedded C handles this through the use of **registers**. A register is a storage element in the processor, often used to hold intermediate values during computations. However, certain specialized registers are used to perform hardware functions, and we can access these registers by using their names.
+I/O devices in a microcontroller (such as sensors or actuators) are mapped to memory addresses - that is, you can get a sensor value by reading from a location in memory, or modify an actuator output by writing to another location. What does this mean for you? Embedded C handles this through the use of **registers**. A register is a storage element in the processor, often used to hold intermediate values during computations. However, certain specialized registers are used to perform hardware functions, and we can access these registers by using their names.
 
-For an example, let's look at the I2C interface on the **Atmel ATMega328**, a common microcontroller that is famously used on Arduinos. I2C designates a master and a slave device, and the master can individually address a slave device by sending its address on the common bus line before sending or receiving data. There is also a common clock line. Taking a look at page 292 of the [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf), we find descriptions for each register used in I2C operation.
+For an example, let's look at the I2C interface on the **Atmel ATMega328**, a common microcontroller that is famously used on Arduinos. I2C designates a master and a slave device, and the master can individually address a slave device by sending its address on the common bus line before sending or receiving data. There is also a common clock line. Taking a look at page 292 of the [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P\_Datasheet.pdf), we find descriptions for each register used in I2C operation.
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](<../../.gitbook/assets/image (31).png>)
 
-This register holds an 8-bit value that can be read from or written to \(as we see from R/W in the access line\), that determines the speed of the SCL line, which is the common I2C clock. The conversion of this value is as follows: SCL frequency = CPU clock frequency / \(16 + \(2 \* TWBR \* Prescaler\)\), where the prescaler is set in a different register.
+This register holds an 8-bit value that can be read from or written to (as we see from R/W in the access line), that determines the speed of the SCL line, which is the common I2C clock. The conversion of this value is as follows: SCL frequency = CPU clock frequency / (16 + (2 \* TWBR \* Prescaler)), where the prescaler is set in a different register.
 
-Let's say I want an SCL frequency of 100 kHz from a CPU clock frequency of 16 MHz. I can achieve this with a prescaler of 1 and a TWBR of 72: 16 / \(16 + 2 \* 72 \* 1\) = 16 / 160 = 0.1 MHz. I can assign this TWBR rate simply like this:
+Let's say I want an SCL frequency of 100 kHz from a CPU clock frequency of 16 MHz. I can achieve this with a prescaler of 1 and a TWBR of 72: 16 / (16 + 2 \* 72 \* 1) = 16 / 160 = 0.1 MHz. I can assign this TWBR rate simply like this:
 
 ```c
 TWBR = 72; // simple, right?
@@ -110,11 +110,11 @@ TWBR = 0x48; // that looks nicer!
 
 So far, so good. Let's move on.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 Whoa, okay. This one's a little trickier - we have two different values here. What should we do?
 
-Let's go back to our bit operators from earlier. If I want to get only the TWI Status Bits \(that is, TWSR\[7:3\]\), I can simply right-shift the TWSR value to eliminate the three lowest-order bits.
+Let's go back to our bit operators from earlier. If I want to get only the TWI Status Bits (that is, TWSR\[7:3]), I can simply right-shift the TWSR value to eliminate the three lowest-order bits.
 
 ```c
 uint8_t twi_status = TWSR >> 3;
@@ -148,7 +148,7 @@ This is a similar trick. ANDing the top six bits with ones passes them unchanged
 TWSR &= 0xFC;
 ```
 
-Let's say now I want to make the prescaler 16, so I want to flip the single bit TWSR\[1\] to 1. Rather than typing out the binary mask I want to use, we can shortcut:
+Let's say now I want to make the prescaler 16, so I want to flip the single bit TWSR\[1] to 1. Rather than typing out the binary mask I want to use, we can shortcut:
 
 ```c
 TWSR |= 1 << 1;
@@ -164,11 +164,11 @@ This produces the mask 0b11111101.
 
 Often, each bit in a register can signify different settings for the microcontroller, and is given a name.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](<../../.gitbook/assets/image (48).png>)
 
-In the I2C control register \(TWCR\), each bit \(excluding bit 1\) defines a setting of I2C. The datasheet defines the purpose of each bit. Below is the definition of bit 2, TWEN.
+In the I2C control register (TWCR), each bit (excluding bit 1) defines a setting of I2C. The datasheet defines the purpose of each bit. Below is the definition of bit 2, TWEN.
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](<../../.gitbook/assets/image (88).png>)
 
 TWEN defines whether I2C is enabled or not. I can set this bit using the bit shifting, ANDing, ORing, and NOTing operations.
 
@@ -183,5 +183,4 @@ And there you have it! You can use combinations of these tricks to do a lot of p
 
 For a more complete reference on the C language, see the text below:
 
-[http://www.dipmat.univpm.it/~demeio/public/the\_c\_programming\_language\_2.pdf](http://www.dipmat.univpm.it/~demeio/public/the_c_programming_language_2.pdf)
-
+[http://www.dipmat.univpm.it/\~demeio/public/the\_c\_programming\_language\_2.pdf](http://www.dipmat.univpm.it/\~demeio/public/the\_c\_programming\_language\_2.pdf)

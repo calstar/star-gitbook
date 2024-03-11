@@ -91,7 +91,7 @@ A pressure regulator is a device that reduces the inlet pressure down to a speci
 Regulators have a high pressure (HP) and low pressure (LP) side. Make sure these are aligned properly.
 {% endhint %}
 
-![Generic P\&ID symbol for a regulator](<../../.gitbook/assets/image (1).png>)
+![Generic P\&ID symbol for a regulator](<../../.gitbook/assets/image (1) (1).png>)
 
 ### Universal Fill Adapter
 

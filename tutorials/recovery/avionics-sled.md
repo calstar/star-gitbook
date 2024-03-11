@@ -27,7 +27,7 @@ The new chosen design was an I-beam model, in which the batteries were placed in
 
 ![Avionics Sled as viewed from back. Batteries are placed in middle centrals and the second altimeter is in the corresponding position on the other side of the sled.](<../../.gitbook/assets/image (57).png>)
 
-![CAD demonstrating how sled slides into avionics bay](<../../.gitbook/assets/image (4).png>)
+![CAD demonstrating how sled slides into avionics bay](<../../.gitbook/assets/image (4) (1).png>)
 
 ## SSEP 2022
 
