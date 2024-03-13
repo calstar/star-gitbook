@@ -1,10 +1,15 @@
 ---
-description: Archive of all projects active & archived
+description: >-
+  Compilation of all current projects that STAR is working on this academic
+  year!
 ---
 
 # Current Projects
 
-## Active Projects
+{% content-ref url="alula-first-leap/" %}
+[alula-first-leap](alula-first-leap/)
+{% endcontent-ref %}
 
-[calvistor-irec-2023](../previous-projects/calvistor-irec-2023/ "mention")&#x20;
-
+{% content-ref url="caldera-irec-2024/" %}
+[caldera-irec-2024](caldera-irec-2024/)
+{% endcontent-ref %}
