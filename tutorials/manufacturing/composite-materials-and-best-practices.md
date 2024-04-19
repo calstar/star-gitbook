@@ -4,6 +4,8 @@ description: CalSTAR Composites Best Practices
 
 # Composite Materials and Best Practices
 
+## Composites (Fin Specific)[ Workshop](https://docs.google.com/presentation/d/1MVxfzM6RmAzewIjTfIOdqC595F9lwkIvmobC50-AKb8/edit?usp=sharing)
+
 ## Overview
 
 This technical note condenses practical knowledge about producing composite parts from the CalSTAR team and alumni. Focus is on materials and best practices: what to use, where to get it, and how to use it. This document is not a replacement for hands-on practice and self-driven learning, but it should give newer team members a good head start.
