@@ -33,7 +33,15 @@ description: 'Instrumentation, Control, and Communications: On the Ground and In
 
 </div>
 
-### Flight Avionics Module
+### Flight Avionics: Stackable Sub-Module Array
 
-<figure><img src="../../.gitbook/assets/avcad.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../../.gitbook/assets/avcad.png" alt=""><figcaption><p>Flight Module Assembly</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/pcb.png" alt=""><figcaption><p>Core Board PCB Design</p></figcaption></figure>
+
+</div>
 
