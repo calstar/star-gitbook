@@ -14,16 +14,19 @@ description: Bi-Liquid LOX/Ethanol for Precise, Reliable Thrust
 
 ## System Modules
 
-#### Fluid System (Engine "Feed System")
+## Thruster + Injector
 
-<figure><img src="../../.gitbook/assets/spaces_-LLqYAHeatwHaWtM6wVi_uploads_qxo5FLRPtWvzlc7G59Ba_image.webp" alt=""><figcaption><p>Fluid System Piping and Instrumentation Diagram (P&#x26;ID)</p></figcaption></figure>
-
-#### Thruster + Injector
-
-Priorities: Stable, Conservative Perfomance and Efficient Manufacturing/Assembly
+Priorities: Stable, Conservative Performance and Efficient Manufacturing/Assembly
 
 * Injector: Unlike-Doublet Impinging, LOX-centered
 * Chamber: Ablative + Fuel Jetted Wall-Film. 6061 Aluminum Jacket.
 * Nozzle: Graphite Throat, 316L Stainless Steel Expansion
 
-<figure><img src="../../.gitbook/assets/spaces_-LLqYAHeatwHaWtM6wVi_uploads_C3IX0A11vGG6jZEgmJbO_image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces_-LLqYAHeatwHaWtM6wVi_uploads_C3IX0A11vGG6jZEgmJbO_image.webp" alt="" width="375"><figcaption><p>Image of Thruster &#x26; Injector Parts</p></figcaption></figure>
+
+#### Fluid System (Engine "Feed System")
+
+<figure><img src="../../.gitbook/assets/spaces_-LLqYAHeatwHaWtM6wVi_uploads_qxo5FLRPtWvzlc7G59Ba_image.webp" alt="" width="375"><figcaption><p>Fluid System Piping and Instrumentation Diagram (P&#x26;ID)</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/PropulsionSystemCAD.jpg" alt="" width="375"><figcaption><p>Feed System CAD</p></figcaption></figure>
+
