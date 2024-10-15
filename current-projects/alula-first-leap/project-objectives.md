@@ -9,3 +9,5 @@ description: Team Development/Technology Capabilities
 * Efficient Cross-Specialty Collaboration
 * Development for Reliability, Robustness
 * Expand team technicality, individual learning capability
+
+<figure><img src="../../.gitbook/assets/fullsystemcad.png" alt=""><figcaption></figcaption></figure>
