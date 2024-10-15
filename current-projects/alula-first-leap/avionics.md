@@ -4,6 +4,18 @@ description: 'Instrumentation, Control, and Communications: On the Ground and In
 
 # Avionics
 
+### Flight Avionics: Stackable Sub-Module Array
+
+<div>
+
+<figure><img src="../../.gitbook/assets/avcad.png" alt=""><figcaption><p>Flight Module Assembly</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/pcb.png" alt=""><figcaption><p>Core Board PCB Design</p></figcaption></figure>
+
+</div>
+
 ### Instrumentation Requirements:
 
 | Name                | Purpose          | Base Quantity | <p>Total </p><p>(w/ Redundancy)</p> |
@@ -30,18 +42,6 @@ description: 'Instrumentation, Control, and Communications: On the Ground and In
 <div data-full-width="true">
 
 <figure><img src="../../.gitbook/assets/ALULA_STATE_MACHINE (1).png" alt=""><figcaption><p>ALULA Control State Diagram</p></figcaption></figure>
-
-</div>
-
-### Flight Avionics: Stackable Sub-Module Array
-
-<div>
-
-<figure><img src="../../.gitbook/assets/avcad.png" alt=""><figcaption><p>Flight Module Assembly</p></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/pcb.png" alt=""><figcaption><p>Core Board PCB Design</p></figcaption></figure>
 
 </div>
 
